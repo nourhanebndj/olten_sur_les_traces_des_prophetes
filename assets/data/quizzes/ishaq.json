@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "ishaq_01",
+    "question_ar": "من هُمْ والدا النبي إسحاق عليه السلام؟",
+    "options_ar": [
+      "إبراهيم الخليل عليه السلام و هاجر عليها السلام",
+      "إبراهيم الخليل عليه السلام و سارة عليها السلام",
+      "نوح عليه السلام وزوجته الصالحة",
+      "يعقوب عليه السلام وراحيل العابدة"
+    ],
+    "correct": 1,
+    "explanation_ar": "إسحاق هو ابن إبراهيم عليه السلام من زوجته الحرة العقيم (سارة)، وجاءت البشارة معجزة وهي عجوز.",
+    "question_fr": "Qui sont les parents du prophète Ishaq (Isaac, paix sur lui) ?",
+    "options_fr": [
+      "Ibrahim l'Ami intime d'Allah et Hajar (paix sur eux)",
+      "Ibrahim l'Ami intime d'Allah et Sarah (paix sur eux)",
+      "Nouh et son épouse vertueuse",
+      "Ya'qub et Rachel la dévote"
+    ],
+    "explanation_fr": "Ishaq est le fils d'Ibrahim, né de son épouse libre et stérile (Sarah) ; l'annonce de sa naissance fut un miracle survenu alors qu'elle était âgée."
+  },
+  {
+    "id": "ishaq_02",
+    "question_ar": "كيف بشرت الملائكة (ضيوف إبراهيم) سارة بإسحاق ومَنْ مع إسحاق؟",
+    "options_ar": [
+      "فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِن وَرَاءِ إِسْحَاقَ يَعْقُوبَ",
+      "فَبَشَّرْنَاهَا بِإِسْحَاقَ وَإِسْمَاعِيلَ التَّوْأَمِ",
+      "فَبَشَّرْنَاهَا بِإِسْحَاقَ الْحَلِيمِ زَعِيمِ الْقَوْمِ",
+      "فَبَشَّرْنَاهَا بِأَسْبَاطٍ غِلَاظِ الْأَبْدَانِ أَقْوِيَاءَ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(فَبَشَّرْنَاهَا بِإِسْحَاقَ وَمِن وَرَاءِ إِسْحَاقَ يَعْقُوبَ) بشارة بالابن والحفيد (يعقوب) معاً في نفس اللحظة من شدة الإكرام.",
+    "question_fr": "Comment les anges (hôtes d'Ibrahim) ont-ils annoncé Ishaq à Sarah, et qui d'autre lui fut annoncé avec Ishaq ?",
+    "options_fr": [
+      "« Nous lui annonçâmes Ishaq, et après Ishaq, Ya'qub »",
+      "« Nous lui annonçâmes Ishaq et Isma'il, jumeaux »",
+      "« Nous lui annonçâmes Ishaq le Clément, chef du peuple »",
+      "« Nous lui annonçâmes des tribus d'hommes robustes et puissants »"
+    ],
+    "explanation_fr": "« Nous lui annonçâmes Ishaq, et après Ishaq, Ya'qub » — une annonce double, du fils et du petit-fils (Ya'qub) en même temps, tant l'honneur était grand."
+  },
+  {
+    "id": "ishaq_03",
+    "question_ar": "بماذا وُصف إسحاق في بشارة الملائكة في قوله (وَبَشَّرُوهُ بِغُلَامٍ ...)؟",
+    "options_ar": [
+      "حَلِيمٍ",
+      "عَلِيمٍ",
+      "شُكُورٍ",
+      "صَبُورٍ طَوِيلِ الْبَالِ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ). بينما إسماعيل وصف بغلام حليم.",
+    "question_fr": "Par quel qualificatif Ishaq est-il décrit dans l'annonce des anges, dans « Ils lui annoncèrent un garçon... » ?",
+    "options_fr": [
+      "Clément",
+      "Savant",
+      "Reconnaissant",
+      "D'une grande patience"
+    ],
+    "explanation_fr": "« Ils lui annoncèrent un garçon savant. » Tandis qu'Isma'il fut décrit comme un garçon clément."
+  },
+  {
+    "id": "ishaq_04",
+    "question_ar": "في دعاء يوسف عليه السلام يعتز بنسبه الممتد كبرهان على صدقه: (وَاتَّبَعْتُ مِلَّةَ آبَائِي ...)",
+    "options_ar": [
+      "إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ",
+      "إِبْرَاهِيمَ وَإِسْمَاعِيلَ مُبَاشَرَةً",
+      "نُوحٍ وَإِبْرَاهِيمَ وَهُودَ",
+      "يَعْقُوبَ وَمُوسَىٰ الرَّحِيمَ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَن نُّشْرِكَ بِاللَّهِ مِن شَيْءٍ) سلسلة النسب النبوي الكريم والمتصل.",
+    "question_fr": "Dans l'invocation de Youssouf, il tire fierté de sa lignée étendue comme preuve de sa sincérité : « Et j'ai suivi la religion de mes pères... »",
+    "options_fr": [
+      "Ibrahim, Ishaq et Ya'qub",
+      "Ibrahim et Isma'il directement",
+      "Nouh, Ibrahim et Houd",
+      "Ya'qub et Moussa le Miséricordieux"
+    ],
+    "explanation_fr": "« Et j'ai suivi la religion de mes pères, Ibrahim, Ishaq et Ya'qub ; il ne nous convient pas d'associer quoi que ce soit à Allah » — une chaîne généalogique prophétique noble et ininterrompue."
+  },
+  {
+    "id": "ishaq_05",
+    "question_ar": "كيف ذكر القرآن بركة الله على إسحاق وإبراهيم (وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِن ذُرِّيَّتِهِمَا ...)؟",
+    "options_ar": [
+      "مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ",
+      "مَلُوكٌ جَبَّارُونَ فِي الْأَرْضِ يَأْكُلُونَ الرِّبَا",
+      "أَنْبِيَاءُ عِظَامٌ يُؤْتَوْنَ الْكِتَابَ",
+      "صَالِحُونَ لَا يُعَذَّبُونَ فِي النَّارِ قَطُّ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِ مُبِينٌ) إبطال لعنصرية النسب، فالصلاح بالعمل وليس بمجرد الانتساب للأنبياء.",
+    "question_fr": "Comment le Coran mentionne-t-il la bénédiction d'Allah sur Ishaq et Ibrahim, dans « Nous l'avons béni, ainsi qu'Ishaq ; et parmi leur descendance... » ?",
+    "options_fr": [
+      "« Il y a un bienfaisant et un injuste envers lui-même, manifestement »",
+      "« Des rois tyranniques sur terre, se nourrissant de l'usure »",
+      "« De grands prophètes recevant l'Écriture »",
+      "« Des vertueux qui ne seront jamais châtiés par le Feu »"
+    ],
+    "explanation_fr": "« Et parmi leur descendance, il y a un bienfaisant et un injuste envers lui-même, manifestement » — cela réfute tout élitisme de lignage : la vertu se mesure par l'action, non par la simple filiation aux prophètes."
+  },
+  {
+    "id": "ishaq_06",
+    "question_ar": "أين أقام إسحاق عليه السلام وعاش طيلة حياته بعد والده إبراهيم خليل الرحمن؟",
+    "options_ar": [
+      "في المدينة المنورة وتزوج من الأوس والخزرج",
+      "في فلسطين والشام المباركة ولم يغادرها",
+      "في مصر هرباً من القحط مع قبيلته الصغيرة",
+      "في مكة بجوار أخيه إسماعيل حتى وفاته"
+    ],
+    "correct": 1,
+    "explanation_ar": "استقر إسحاق في أرض الشام (فلسطين/الخليل) التي بارك الله فيها، ودُفن هناك كما يُعتقد (لذلك تسمى الخليل).",
+    "question_fr": "Où Ishaq a-t-il résidé et vécu toute sa vie après son père Ibrahim, l'Ami intime du Tout-Miséricordieux ?",
+    "options_fr": [
+      "À Médine, où il épousa des femmes des Aws et des Khazraj",
+      "En Palestine et au Levant béni, qu'il ne quitta jamais",
+      "En Égypte, fuyant la sécheresse avec sa petite tribu",
+      "À La Mecque, aux côtés de son frère Isma'il jusqu'à sa mort"
+    ],
+    "explanation_fr": "Ishaq s'établit sur la terre du Levant (Palestine/Hébron) qu'Allah a bénie, et y fut enterré, croit-on (d'où le nom d'Hébron, « al-Khalil »)."
+  },
+  {
+    "id": "ishaq_07",
+    "question_ar": "كيف سُمّي يعقوب بهذا الاسم (ابن إسحاق)؟",
+    "options_ar": [
+      "لأنه كان يُعقب إسحاق في الغنم دائمًا (يمشي خلفه لحمايته)",
+      "لأنه وُلد عقب إسحاق، أو كان توأماً فأعقب أخاه عيصو سريعاً (بحسب الروايات التاريخية لا يحلُّ القرآن إلا بشارة)",
+      "لأنه عاقب الكفار بقوة شديدة في شبابه",
+      "لأنه عقيل وصاحب عقل راجح (مشتقة من العقل والهدوء)"
+    ],
+    "correct": 1,
+    "explanation_ar": "يُروى أنه كان توأماً وخرج عَقِبَ (خلف) أخيه. والبشارة بـ (ومن وراء إسحاق يعقوب) أي يأتي عقبه في الذرية والنبوة تباعاً.",
+    "question_fr": "Pourquoi Ya'qub, fils d'Ishaq, a-t-il reçu ce nom ?",
+    "options_fr": [
+      "Parce qu'il suivait toujours Ishaq dans la garde des moutons (marchant derrière lui pour le protéger)",
+      "Parce qu'il naquit après Ishaq, ou parce qu'il était jumeau et suivit rapidement son frère Esaü (selon les récits historiques ; le Coran ne relate que l'annonce)",
+      "Parce qu'il châtia les mécréants avec grande force dans sa jeunesse",
+      "Parce qu'il était sage et raisonnable (dérivé de la raison et du calme)"
+    ],
+    "explanation_fr": "On raconte qu'il était jumeau et naquit juste après (« 'aqiba ») son frère. L'annonce « et après Ishaq, Ya'qub » signifie qu'il vint à sa suite dans la descendance et la prophétie."
+  },
+  {
+    "id": "ishaq_08",
+    "question_ar": "ما هو مدفن إسحاق عليه السلام حسب المشهور تاريخياً (ومزار يُسمى باسم والده)؟",
+    "options_ar": [
+      "المسجد الأقصى في القدس الشريف كأول مدفون هناك",
+      "المسجد الإبراهيمي في مدينة الخليل بفلسطين",
+      "الحرم المكي بجوار إبراهيم وإسماعيل في مكة",
+      "جبل الطور في سيناء"
+    ],
+    "correct": 1,
+    "explanation_ar": "تذكر التراجم أن إبراهيم وإسحاق ويعقوب وزوجاتهم سارة ورفقة مدفونون في المغارة بالمسجد الإبراهيمي بالخليل حفظه الله.",
+    "question_fr": "Où se trouve, selon la tradition historique, le lieu de sépulture d'Ishaq (un sanctuaire nommé d'après son père) ?",
+    "options_fr": [
+      "La Mosquée al-Aqsa à Jérusalem, comme premier enterré là-bas",
+      "La Mosquée d'Ibrahim (al-Haram al-Ibrahimi) à Hébron, en Palestine",
+      "Le sanctuaire de La Mecque, aux côtés d'Ibrahim et Isma'il",
+      "Le mont Tour, au Sinaï"
+    ],
+    "explanation_fr": "Les biographies rapportent qu'Ibrahim, Ishaq et Ya'qub, ainsi que leurs épouses Sarah et Rébecca, sont enterrés dans la grotte de la Mosquée d'Ibrahim à Hébron."
+  },
+  {
+    "id": "ishaq_09",
+    "question_ar": "من هو أخو يعقوب التوأم (من أبناء إسحاق) الذي اختصه التاريخ ولا يُذكر بكونه نبياً بل أباً لقوم آخرين (الروم) في الإسرائيليات؟",
+    "options_ar": [
+      "العيص (عيصو)",
+      "يوسف",
+      "لاوي",
+      "بنيامين الأصغر"
+    ],
+    "correct": 0,
+    "explanation_ar": "وُلد لإسحاق توأم: يعقوب (إسرائيل) والعيص (أبو الروم)، والقرآن ركز على يعقوب الموصول بالنبوة والسلسلة المختارة.",
+    "question_fr": "Qui est le frère jumeau de Ya'qub (parmi les fils d'Ishaq), que l'histoire distingue et ne considère pas comme prophète, mais plutôt comme l'ancêtre d'un autre peuple (les Romains) dans les récits israélites ?",
+    "options_fr": [
+      "Al-'Is (Esaü)",
+      "Youssouf",
+      "Lévi",
+      "Benjamin le cadet"
+    ],
+    "explanation_fr": "Ishaq eut des jumeaux : Ya'qub (Israël) et al-'Is (l'ancêtre des Romains) ; le Coran s'est concentré sur Ya'qub, rattaché à la prophétie et à la lignée élue."
+  },
+  {
+    "id": "ishaq_10",
+    "question_ar": "ما الذي عناه الله تعالى في قوله عن إبراهيم (وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَالِحِينَ) بشأن إسحاق؟",
+    "options_ar": [
+      "نافلة تعني: رزقه إياهما في غير وقت مناسب ففرح بهما كثيراً",
+      "نافلة تعني: زيادة وإكراماً وعطية منةً من الله فوق الطلب (طلب الولد فوهبه الحفيد يعقوب معه زيادة وزينة)",
+      "نافلة تعني: أنه كان ينفل (يصلي بخشوع النوافل دائماً)",
+      "نافلة : أنهم أول من صلوا النوافل"
+    ],
+    "correct": 1,
+    "explanation_ar": "(نَافِلَةً) الزيادة في العطاء؛ إبراهيم طلب الولد، فأُعطي ابناً، زيد عليه بحفيد نبي مقرون به في البشارة (وَمِن وَرَاءِ إِسْحَاقَ يَعْقُوبَ).",
+    "question_fr": "Que signifie la parole d'Allah au sujet d'Ibrahim, « Et Nous lui avons donné Ishaq et Ya'qub en surcroît ; et de chacun Nous avons fait un vertueux », concernant Ishaq ?",
+    "options_fr": [
+      "« Surcroît » signifie qu'ils lui furent accordés à un moment inopportun, dont il se réjouit néanmoins beaucoup",
+      "« Surcroît » signifie un ajout, un honneur et un don généreux d'Allah au-delà de la demande (il demanda un fils, et il lui fut donné le petit-fils Ya'qub en plus, comme un surplus et un ornement)",
+      "« Surcroît » signifie qu'il priait toujours les prières surérogatoires avec humilité",
+      "« Surcroît » signifie qu'ils furent les premiers à prier les prières surérogatoires"
+    ],
+    "explanation_fr": "« Nafila » signifie un surplus dans le don ; Ibrahim demanda un fils, et il lui fut accordé un fils, avec en surplus un petit-fils prophète, mentionné avec lui dans l'annonce (« et après Ishaq, Ya'qub »)."
+  },
+  {
+    "id": "ishaq_11",
+    "question_ar": "بماذا وُصف الأنبياء (إبراهيم وإسحاق ويعقوب) في سورة ص بثناء عظيم؟",
+    "options_ar": [
+      "أُولِي الأَيْدِي (القوة في طاعة الله) وَالْأَبْصَارِ (البصيرة والفقه في الدين)",
+      "أُولِي الْمَالِ الْوَفِيرِ وَالْخَيْلِ الْمُسَوَّمَةِ",
+      "أُولِي الْأَلْبَابِ الصَّامِتِينَ عَنِ الْكَلَامِ",
+      "أُولِي الْأَبْصَارِ الَّتِي تَرَى الْغَيْبَ طَوَالَ الْوَقْتِ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ) الأيدي في الأعمال، والأبصار في العقائد والفقه، قمة المدح العملي والعلمي.",
+    "question_fr": "Par quel grand éloge les prophètes (Ibrahim, Ishaq et Ya'qub) sont-ils décrits dans la sourate Sad ?",
+    "options_fr": [
+      "« Possesseurs de force (dans l'obéissance à Allah) et de clairvoyance (perspicacité et compréhension de la religion) »",
+      "« Possesseurs d'abondantes richesses et de chevaux marqués »",
+      "« Possesseurs d'intelligence, silencieux et ne parlant jamais »",
+      "« Possesseurs de vues capables de voir l'invisible en permanence »"
+    ],
+    "explanation_fr": "« Et rappelle-toi Nos serviteurs Ibrahim, Ishaq et Ya'qub, possesseurs de force et de clairvoyance » — la force dans les œuvres, et la clairvoyance dans les croyances et la compréhension religieuse : le sommet de l'éloge pratique et intellectuel."
+  },
+  {
+    "id": "ishaq_12",
+    "question_ar": "كيف كان موقف إبراهيم عليه السلام عندما بشروه بإسحاق وهو شيخ كبير يائس من الولد من امرأته العقيم؟",
+    "options_ar": [
+      "قال: أَبَشَّرْتُمُونِي عَلَىٰ أَن مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ (تعجب من قدرة الله في سن الكبر، لا شكاً بل استغراباً من خرق العادة البهراء)",
+      "لم يصدق وطردهم من بيته فوراً",
+      "طلب منهم دليلاً مادياً على الوعد",
+      "حزن لأنه كان يريد بنتاً لا ولداً"
+    ],
+    "correct": 0,
+    "explanation_ar": "(قَالَ أَبَشَّرْتُمُونِي عَلَىٰ أَن مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ) سؤال تعجب وتعظيم واستبشار بخرق نواميس الطبيعة لمثله في هذا العمر.",
+    "question_fr": "Quelle fut l'attitude d'Ibrahim lorsqu'il reçut l'annonce d'Ishaq, alors qu'il était âgé et avait perdu tout espoir d'avoir un fils de son épouse stérile ?",
+    "options_fr": [
+      "Il dit : « M'annoncez-vous cela alors que la vieillesse m'a atteint ? Que m'annoncez-vous donc ? » — un étonnement devant le pouvoir d'Allah en cet âge avancé, non un doute mais une surprise face à cette rupture des lois naturelles",
+      "Il ne les crut pas et les chassa immédiatement de sa maison",
+      "Il leur demanda une preuve matérielle de la promesse",
+      "Il fut attristé car il voulait une fille, non un fils"
+    ],
+    "explanation_fr": "« Il dit : M'annoncez-vous cela alors que la vieillesse m'a atteint ? Que m'annoncez-vous donc ? » — une question d'étonnement, de vénération et de joie devant cette rupture des lois de la nature pour quelqu'un de son âge."
+  },
+  {
+    "id": "ishaq_13",
+    "question_ar": "ما هو الاسم المعروف لأم إسحاق عليه السلام في القرآن والتاريخ الإسلامي؟",
+    "options_ar": [
+      "هاجر",
+      "سارة (تلك التي صكت وجهها وتعجبت من قول مبشريها)",
+      "آسيا",
+      "مريم"
+    ],
+    "correct": 1,
+    "explanation_ar": "أمه هي سارة المؤمنة الصابرة المهاجرة مع إبراهيم من بداية دعوته، رُزقت في الكبر بالبكر إسحاق جزاء لإيمانها.",
+    "question_fr": "Quel est le nom connu de la mère d'Ishaq dans le Coran et l'histoire islamique ?",
+    "options_fr": [
+      "Hajar",
+      "Sarah (celle qui se frappa le visage et fut étonnée par la parole de ceux qui lui annonçaient la nouvelle)",
+      "Assia",
+      "Maryam"
+    ],
+    "explanation_fr": "Sa mère est Sarah, la croyante patiente qui émigra avec Ibrahim dès le début de sa prédication ; elle fut comblée dans sa vieillesse de son premier enfant, Ishaq, en récompense de sa foi."
+  },
+  {
+    "id": "ishaq_14",
+    "question_ar": "هل إسحاق كان أكبر أم إسماعيل عليهما السلام؟",
+    "options_ar": [
+      "إسحاق أكبر بوضوح لكون أمه الزوجة الأولى",
+      "وُلد إسماعيل (من هاجر) أولاً عندما كان إبراهيم شيخاً ولكن لم يصل لسن اليأس المطلق (حوالي 86 عاماً)، ثم وُلد إسحاق من سارة لاحقاً (وقد بلغ أو تجاوز المائة عام، وسارة 90 عاماً تقريباً)",
+      "وُلدا توأمين في نفس اليوم بكرامة إلهية",
+      "أخفيا ميلادهما فلم يعلم أحد من الأكبر"
+    ],
+    "correct": 1,
+    "explanation_ar": "إسماعيل هو الابن البكر الخليل من الجارية هاجر، وإسحاق هو الثاني من سارة، وهما أصل العرب واليهود تاريخياً.",
+    "question_fr": "Ishaq était-il plus âgé qu'Isma'il, ou l'inverse ?",
+    "options_fr": [
+      "Ishaq était clairement l'aîné, sa mère étant la première épouse",
+      "Isma'il (de Hajar) naquit en premier, lorsqu'Ibrahim était âgé mais n'avait pas atteint l'âge du désespoir absolu (environ 86 ans) ; puis Ishaq naquit de Sarah plus tard (Ibrahim ayant atteint ou dépassé les cent ans, et Sarah environ 90 ans)",
+      "Ils naquirent jumeaux, le même jour, par un miracle divin",
+      "Leurs naissances furent tenues secrètes, si bien que personne ne sait lequel était l'aîné"
+    ],
+    "explanation_fr": "Isma'il est le fils aîné, né de la servante Hajar, et Ishaq est le second, né de Sarah ; ils sont, historiquement, à l'origine des Arabes et des Juifs."
+  },
+  {
+    "id": "ishaq_15",
+    "question_ar": "ما كان اسم الأمة العظيمة التي انبثقت من نسل نبي الله إسحاق عبر ابنه يعقوب؟",
+    "options_ar": [
+      "العرب (العدنانيون والقحطانيون)",
+      "بنو إسرائيل (أبناء يعقوب الإثنا عشر، والتي أرسل إليهم آلاف الأنبياء والرسل كموسى وعيسى)",
+      "القوم الروم البيزنطيون",
+      "الأقباط في مصر"
+    ],
+    "correct": 1,
+    "explanation_ar": "يعقوب لُقب بـ(إسرائيل)، فكان أبناؤه أسباطاً وأمة (بني إسرائيل)، ومن نسلهم كَثُرَ الأنبياء حتى خُتمت النبوة بمحمد ﷺ من نسل فرع إسماعيل.",
+    "question_fr": "Quel est le nom de la grande nation issue de la descendance du prophète Ishaq, à travers son fils Ya'qub ?",
+    "options_fr": [
+      "Les Arabes (Adnanites et Qahtanites)",
+      "Les Fils d'Israël (les douze fils de Ya'qub, à qui furent envoyés des milliers de prophètes et messagers, tels que Moussa et Issa)",
+      "Les Romains byzantins",
+      "Les Coptes d'Égypte"
+    ],
+    "explanation_fr": "Ya'qub fut surnommé « Israël » ; ses fils formèrent des tribus et une nation (les Fils d'Israël), dont la descendance vit se multiplier les prophètes, jusqu'à ce que la prophétie soit close par Muhammad ﷺ, issu de la branche d'Isma'il."
+  },
+  {
+    "id": "ishaq_16",
+    "question_ar": "ماذا فعلت سارة عليها السلام حين سمعت بشارة الملائكة بإسحاق كما وصفها القرآن في سورة الذاريات؟",
+    "options_ar": [
+      "سجدت لله شكرا فورا دون اي تعجب",
+      "اقبلت في صرة فصكت وجهها وقالت عجوز عقيم",
+      "بكت من الفرح بكاء شديدا واغمي عليها",
+      "هربت من المجلس خوفا من الملائكة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَاَقْبَلَتِ امْرَاَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ) اي جاءت بصيحة تعجب وضربت وجهها من شدة الدهشة.",
+    "question_fr": "Qu'a fait Sarah en entendant l'annonce des anges concernant Ishaq, comme le décrit le Coran dans la sourate adh-Dhariyat ?",
+    "options_fr": [
+      "Elle se prosterna immédiatement en signe de gratitude, sans aucun étonnement",
+      "Elle s'avança en criant, se frappa le visage et dit : « Une vieille femme stérile ! »",
+      "Elle pleura de joie très fort et s'évanouit",
+      "Elle s'enfuit de l'assemblée, effrayée par les anges"
+    ],
+    "explanation_fr": "Allah dit : « Alors sa femme s'avança en criant, se frappa le visage et dit : Une vieille femme stérile ! » — c'est-à-dire qu'elle poussa un cri de surprise et se frappa le visage tant elle était étonnée."
+  },
+  {
+    "id": "ishaq_17",
+    "question_ar": "ما هو الطعام الذي قدمه ابراهيم عليه السلام لضيوفه من الملائكة قبل البشارة بإسحاق؟",
+    "options_ar": [
+      "خبز وتمر ولبن طازج",
+      "عجل سمين حنيذ اي مشوي",
+      "فاكهة وعسل وماء بارد",
+      "خروف مسلوق مع خضروات"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَرَاغَ اِلَى اَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ) وفي اية اخرى (فَمَا لَبِثَ اَنْ جَاءَ بِعِجْلٍ حَنِيذٍ) اي مشوي على الحجارة المحماة.",
+    "question_fr": "Quel repas Ibrahim a-t-il servi à ses hôtes, les anges, avant l'annonce d'Ishaq ?",
+    "options_fr": [
+      "Du pain, des dattes et du lait frais",
+      "Un veau gras rôti",
+      "Des fruits, du miel et de l'eau fraîche",
+      "Un mouton bouilli avec des légumes"
+    ],
+    "explanation_fr": "Allah dit : « Il alla discrètement vers sa famille et apporta un veau gras » et dans un autre verset : « Il ne tarda pas à apporter un veau rôti », c'est-à-dire grillé sur des pierres chauffées."
+  },
+  {
+    "id": "ishaq_18",
+    "question_ar": "لماذا اوجس ابراهيم عليه السلام خيفة من ضيوفه الملائكة قبل ان يبشروه بإسحاق؟",
+    "options_ar": [
+      "لانهم كانوا يحملون اسلحة ظاهرة",
+      "لان ايديهم لم تصل الى الطعام فلم ياكلوا منه",
+      "لانهم تكلموا بلغة غريبة لا يفهمها",
+      "لانهم دخلوا بيته دون استئذان"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَلَمَّا رَاَى اَيْدِيَهُمْ لَا تَصِلُ اِلَيْهِ نَكِرَهُمْ وَاَوْجَسَ مِنْهُمْ خِيفَةً) فعدم اكل الضيف للطعام كان يثير الريبة في تلك العادات.",
+    "question_fr": "Pourquoi Ibrahim a-t-il ressenti de la crainte envers ses hôtes, les anges, avant qu'ils ne lui annoncent Ishaq ?",
+    "options_fr": [
+      "Parce qu'ils portaient des armes visibles",
+      "Parce que leurs mains ne touchaient pas à la nourriture, qu'ils ne mangeaient pas",
+      "Parce qu'ils parlaient une langue étrange qu'il ne comprenait pas",
+      "Parce qu'ils étaient entrés chez lui sans permission"
+    ],
+    "explanation_fr": "Allah dit : « Lorsqu'il vit que leurs mains n'y touchaient pas, il fut méfiant à leur égard et ressentit de la crainte » — le fait qu'un hôte ne mange pas de la nourriture offerte suscitait la suspicion selon les coutumes de l'époque."
+  },
+  {
+    "id": "ishaq_19",
+    "question_ar": "بماذا ردت الملائكة على تعجب سارة من البشارة بإسحاق في سورة هود؟",
+    "options_ar": [
+      "قالوا: اصبري فان موعد الله قريب وسيتحقق",
+      "قالوا: اتعجبين من امر الله رحمت الله وبركاته عليكم اهل البيت",
+      "قالوا: ان الله على كل شيء قدير فلا تحزني ابدا",
+      "قالوا: سيكون لك ولد بعد عام واحد فانتظري بصبر"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (قَالُوا اَتَعْجَبِينَ مِنْ اَمْرِ اللَّهِ رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ اَهْلَ الْبَيْتِ اِنَّهُ حَمِيدٌ مَجِيدٌ) تذكير بان قدرة الله فوق العادة.",
+    "question_fr": "Comment les anges ont-ils répondu à l'étonnement de Sarah face à l'annonce d'Ishaq, dans la sourate Houd ?",
+    "options_fr": [
+      "Ils dirent : « Sois patiente, car la promesse d'Allah est proche et se réalisera »",
+      "Ils dirent : « T'étonnes-tu de l'ordre d'Allah ? Que la miséricorde d'Allah et Ses bénédictions soient sur vous, gens de cette maison »",
+      "Ils dirent : « Allah est capable de toute chose, alors ne t'attriste jamais »",
+      "Ils dirent : « Tu auras un fils dans un an, patiente donc »"
+    ],
+    "explanation_fr": "Allah dit : « Ils dirent : T'étonnes-tu de l'ordre d'Allah ? Que la miséricorde d'Allah et Ses bénédictions soient sur vous, gens de cette maison ; Il est certes digne de louange et de gloire » — un rappel que le pouvoir d'Allah dépasse l'ordinaire."
+  },
+  {
+    "id": "ishaq_20",
+    "question_ar": "ما معنى اشتقاق اسم اسحاق كما ذُكر في كتب التفسير والتاريخ؟",
+    "options_ar": [
+      "مشتق من القوة والباس الشديد",
+      "مشتق من الضحك لان سارة ضحكت تعجبا حين بُشرت به",
+      "مشتق من السحق بمعنى البعد لانه ولد بعيدا عن اخيه",
+      "مشتق من الاشراق لانه ولد وقت شروق الشمس"
+    ],
+    "correct": 1,
+    "explanation_ar": "اسم اسحاق مشتق من الضحك، اذ ضحكت سارة تعجبا لما بُشرت بولادته وهي عجوز عقيم، فسُمي بذلك تخليدا لتلك اللحظة العجيبة.",
+    "question_fr": "Quelle est l'étymologie du nom Ishaq, selon les livres d'exégèse et d'histoire ?",
+    "options_fr": [
+      "Dérivé de la force et de la grande puissance",
+      "Dérivé du rire, car Sarah rit d'étonnement lorsque sa naissance lui fut annoncée",
+      "Dérivé de l'éloignement, car il naquit loin de son frère",
+      "Dérivé du lever du soleil, car il naquit à cette heure"
+    ],
+    "explanation_fr": "Le nom Ishaq est dérivé du rire, puisque Sarah rit d'étonnement lorsqu'on lui annonça sa naissance alors qu'elle était vieille et stérile — il fut ainsi nommé en mémoire de ce moment extraordinaire."
+  },
+  {
+    "id": "ishaq_21",
+    "question_ar": "في اي سورة ورد دعاء ابراهيم: (الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ اِسْمَاعِيلَ وَاِسْحَاقَ)؟",
+    "options_ar": [
+      "سورة البقرة",
+      "سورة ابراهيم",
+      "سورة الانعام",
+      "سورة مريم"
+    ],
+    "correct": 1,
+    "explanation_ar": "ورد هذا الدعاء في سورة ابراهيم الاية 39، وفيه حمد الله على نعمة الولد بعد طول انتظار وكبر سن عظيم.",
+    "question_fr": "Dans quelle sourate figure l'invocation d'Ibrahim : « Louange à Allah qui m'a accordé, malgré ma vieillesse, Isma'il et Ishaq » ?",
+    "options_fr": [
+      "Sourate al-Baqara",
+      "Sourate Ibrahim",
+      "Sourate al-An'am",
+      "Sourate Maryam"
+    ],
+    "explanation_fr": "Cette invocation figure dans la sourate Ibrahim, verset 39 ; elle exprime la louange envers Allah pour le don d'un enfant après une longue attente et un âge très avancé."
+  },
+  {
+    "id": "ishaq_22",
+    "question_ar": "ما الفرق بين وصف اسماعيل ووصف اسحاق في بشارة الملائكة لابراهيم في القران؟",
+    "options_ar": [
+      "اسماعيل وُصف بغلام عليم واسحاق بغلام حليم",
+      "اسماعيل وُصف بغلام حليم واسحاق بغلام عليم",
+      "كلاهما وُصف بغلام حليم عليم معا في نفس الاية",
+      "لم يوصف اي منهما بوصف خاص في البشارة"
+    ],
+    "correct": 1,
+    "explanation_ar": "بُشر ابراهيم باسماعيل بقوله تعالى (فَبَشَّرْنَاهُ بِغُلَامٍ حَلِيمٍ) في الصافات، وبُشر باسحاق بقوله (وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ) في الذاريات.",
+    "question_fr": "Quelle est la différence entre la description d'Isma'il et celle d'Ishaq dans l'annonce des anges à Ibrahim, dans le Coran ?",
+    "options_fr": [
+      "Isma'il fut décrit comme un garçon savant, et Ishaq comme un garçon clément",
+      "Isma'il fut décrit comme un garçon clément, et Ishaq comme un garçon savant",
+      "Les deux furent décrits ensemble comme un garçon clément et savant dans le même verset",
+      "Aucun des deux ne reçut de qualificatif particulier dans l'annonce"
+    ],
+    "explanation_fr": "Ibrahim reçut l'annonce d'Isma'il par la parole « Nous lui annonçâmes un garçon clément » (sourate as-Saffat), et l'annonce d'Ishaq par la parole « Ils lui annoncèrent un garçon savant » (sourate adh-Dhariyat)."
+  },
+  {
+    "id": "ishaq_23",
+    "question_ar": "في سورة الانعام ذكر الله سلسلة من الانبياء المهديين، ما الاية التي تضم اسحاق فيها؟",
+    "options_ar": [
+      "(وَوَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا)",
+      "(وَتِلْكَ حُجَّتُنَا اتَيْنَاهَا اِبْرَاهِيمَ عَلَى قَوْمِهِ)",
+      "(وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَاَيُّوبَ)",
+      "(فَبِهُدَاهُمُ اقْتَدِهْ قُلْ لَا اَسْاَلُكُمْ عَلَيْهِ اَجْرًا)"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى في سورة الانعام الاية 84: (وَوَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا) اي ان الله هدى اسحاق ويعقوب كما هدى ابراهيم قبلهما.",
+    "question_fr": "Dans la sourate al-An'am, Allah mentionne une chaîne de prophètes guidés ; quel verset y inclut Ishaq ?",
+    "options_fr": [
+      "« Et Nous lui avons donné Ishaq et Ya'qub ; Nous les avons tous deux guidés »",
+      "« Voilà Notre argument que Nous avons donné à Ibrahim contre son peuple »",
+      "« Et parmi sa descendance : Dawud, Souleyman et Ayyoub »",
+      "« Suis donc leur direction ; dis : Je ne vous demande aucun salaire pour cela »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate al-An'am, verset 84 : « Et Nous lui avons donné Ishaq et Ya'qub ; Nous les avons tous deux guidés » — c'est-à-dire qu'Allah guida Ishaq et Ya'qub tout comme Il avait guidé Ibrahim avant eux."
+  },
+  {
+    "id": "ishaq_24",
+    "question_ar": "ماذا قال ابناء يعقوب لابيهم عند احتضاره حين سالهم: ما تعبدون من بعدي؟",
+    "options_ar": [
+      "قالوا: نعبد ما وجدنا عليه اباءنا من الاصنام والاوثان",
+      "قالوا: نعبد الهك واله ابائك ابراهيم واسماعيل واسحاق الها واحدا ونحن له مسلمون",
+      "قالوا: سنعبد الله حينا والاصنام حينا اخر حسب الحاجة",
+      "قالوا: لا ندري ما نعبد حتى ياتينا نبي جديد يرشدنا"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (قَالُوا نَعْبُدُ اِلَهَكَ وَاِلَهَ ابَائِكَ اِبْرَاهِيمَ وَاِسْمَاعِيلَ وَاِسْحَاقَ اِلَهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ) البقرة 133.",
+    "question_fr": "Qu'ont répondu les fils de Ya'qub à leur père mourant, lorsqu'il leur demanda : « Qu'adorerez-vous après moi ? »",
+    "options_fr": [
+      "Ils dirent : « Nous adorerons les idoles et les statues que nous avons trouvées adorées par nos pères »",
+      "Ils dirent : « Nous adorons ton Dieu et le Dieu de tes pères, Ibrahim, Isma'il et Ishaq, un Dieu unique, et nous Lui sommes soumis »",
+      "Ils dirent : « Nous adorerons Allah parfois et les idoles à d'autres moments, selon le besoin »",
+      "Ils dirent : « Nous ne savons pas ce que nous adorerons, jusqu'à ce qu'un nouveau prophète vienne nous guider »"
+    ],
+    "explanation_fr": "Allah dit : « Ils dirent : Nous adorons ton Dieu et le Dieu de tes pères, Ibrahim, Isma'il et Ishaq, un Dieu unique, et nous Lui sommes soumis » — sourate al-Baqara, verset 133."
+  },
+  {
+    "id": "ishaq_25",
+    "question_ar": "ما وصية ابراهيم ويعقوب لابنائهما كما وردت في سورة البقرة؟",
+    "options_ar": [
+      "ان يجمعوا المال ويبنوا الحصون القوية في الشام",
+      "يا بني ان الله اصطفى لكم الدين فلا تموتن الا وانتم مسلمون",
+      "ان يهاجروا جميعا الى مكة ولا يبقوا في فلسطين",
+      "ان يقاتلوا الكفار ويحكموا الارض كلها بالقوة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَوَصَّى بِهَا اِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ اِنَّ اللَّهَ اصْطَفَى لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ اِلَّا وَاَنْتُمْ مُسْلِمُونَ) البقرة 132.",
+    "question_fr": "Quelle recommandation Ibrahim et Ya'qub ont-ils laissée à leurs fils, selon la sourate al-Baqara ?",
+    "options_fr": [
+      "D'amasser des richesses et de construire de puissantes forteresses au Levant",
+      "« Ô mes fils, Allah a choisi pour vous cette religion ; ne mourez donc point autrement qu'en pleine soumission »",
+      "D'émigrer tous vers La Mecque et de ne pas rester en Palestine",
+      "De combattre les mécréants et de dominer toute la terre par la force"
+    ],
+    "explanation_fr": "Allah dit : « Et Ibrahim en fit la recommandation à ses fils, ainsi que Ya'qub : Ô mes fils, Allah a choisi pour vous cette religion ; ne mourez donc point autrement qu'en pleine soumission » — sourate al-Baqara, verset 132."
+  },
+  {
+    "id": "ishaq_26",
+    "question_ar": "امر الله المسلمين بالايمان بما اُنزل على سلسلة الانبياء في سورة البقرة 136، فما هو نص الامر؟",
+    "options_ar": [
+      "(قُولُوا امَنَّا بِاللَّهِ وَمَا اُنْزِلَ اِلَيْنَا وَمَا اُنْزِلَ اِلَى اِبْرَاهِيمَ وَاِسْمَاعِيلَ وَاِسْحَاقَ وَيَعْقُوبَ)",
+      "(قُولُوا امَنَّا بِاللَّهِ وَمَا اُنْزِلَ اِلَيْنَا فَقَطْ لا غير)",
+      "(قُولُوا امَنَّا بِمُحَمَّدٍ وَمَا اُنْزِلَ اِلَيْهِ وحده)",
+      "(قُولُوا امَنَّا بِالتَّوْرَاةِ وَالْاِنْجِيلِ فَحَسْبُ دون غيرهما)"
+    ],
+    "correct": 0,
+    "explanation_ar": "امر الله المسلمين بالايمان بجميع الانبياء وما اُنزل اليهم دون تفريق، وذكر اسحاق ضمن هذه السلسلة النبوية المباركة في سورة البقرة 136.",
+    "question_fr": "Allah a ordonné aux musulmans de croire en ce qui fut révélé à la chaîne des prophètes, dans la sourate al-Baqara, verset 136 ; quel est le texte de cet ordre ?",
+    "options_fr": [
+      "« Dites : Nous croyons en Allah, en ce qui nous a été révélé, et en ce qui a été révélé à Ibrahim, Isma'il, Ishaq et Ya'qub »",
+      "« Dites : Nous croyons en Allah et en ce qui nous a été révélé, uniquement, et rien d'autre »",
+      "« Dites : Nous croyons en Muhammad et en ce qui lui a été révélé, seul »",
+      "« Dites : Nous croyons uniquement en la Torah et l'Évangile, et rien d'autre »"
+    ],
+    "explanation_fr": "Allah a ordonné aux musulmans de croire en tous les prophètes et en ce qui leur fut révélé, sans distinction, et Ishaq est mentionné dans cette chaîne prophétique bénie, dans la sourate al-Baqara, verset 136."
+  },
+  {
+    "id": "ishaq_27",
+    "question_ar": "كم ولدا انجب يعقوب بن اسحاق عليهما السلام والذين صاروا اباء الاسباط؟",
+    "options_ar": [
+      "سبعة ابناء",
+      "عشرة ابناء",
+      "اثنا عشر ابنا",
+      "خمسة عشر ابنا"
+    ],
+    "correct": 2,
+    "explanation_ar": "انجب يعقوب اثني عشر ولدا صاروا اباء الاسباط الاثني عشر، ومنهم يوسف وبنيامين عليهما السلام.",
+    "question_fr": "Combien de fils Ya'qub, fils d'Ishaq, a-t-il eus, ceux-ci devenant les pères des douze tribus ?",
+    "options_fr": [
+      "Sept fils",
+      "Dix fils",
+      "Douze fils",
+      "Quinze fils"
+    ],
+    "explanation_fr": "Ya'qub eut douze fils qui devinrent les pères des douze tribus, parmi lesquels Youssouf et Benjamin (paix sur eux)."
+  },
+  {
+    "id": "ishaq_28",
+    "question_ar": "في اي سورتين من القران وردت قصة ضيوف ابراهيم والبشارة بإسحاق بالتفصيل؟",
+    "options_ar": [
+      "سورة البقرة وسورة ال عمران",
+      "سورة هود وسورة الذاريات",
+      "سورة يوسف وسورة الانبياء",
+      "سورة النمل وسورة القصص"
+    ],
+    "correct": 1,
+    "explanation_ar": "وردت قصة ضيوف ابراهيم والبشارة بإسحاق بالتفصيل في سورة هود الايات 69-73 وسورة الذاريات الايات 24-30.",
+    "question_fr": "Dans quelles deux sourates du Coran l'histoire des hôtes d'Ibrahim et l'annonce d'Ishaq sont-elles relatées en détail ?",
+    "options_fr": [
+      "Sourate al-Baqara et sourate Al 'Imran",
+      "Sourate Houd et sourate adh-Dhariyat",
+      "Sourate Youssouf et sourate al-Anbiya'",
+      "Sourate an-Naml et sourate al-Qasas"
+    ],
+    "explanation_fr": "L'histoire des hôtes d'Ibrahim et l'annonce d'Ishaq sont relatées en détail dans la sourate Houd, versets 69 à 73, et la sourate adh-Dhariyat, versets 24 à 30."
+  },
+  {
+    "id": "ishaq_29",
+    "question_ar": "ماذا قالت سارة عليها السلام حين بُشرت بإسحاق كما نقل القران كلامها في سورة هود؟",
+    "options_ar": [
+      "قالت: الحمد لله رب العالمين على هذه النعمة العظيمة",
+      "قالت: يا ويلتى اَاَلِدُ وانا عجوز وهذا بعلي شيخا ان هذا لشيء عجيب",
+      "قالت: متى يكون هذا ان كنتم صادقين فاخبروني",
+      "قالت: انا مؤمنة بقدرة الله ولا اتعجب من شيء ابدا"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (قَالَتْ يَا وَيْلَتَى اَاَلِدُ وَاَنَا عَجُوزٌ وَهَذَا بَعْلِي شَيْخًا اِنَّ هَذَا لَشَيْءٌ عَجِيبٌ) هود 72، وتعجبها كان من خرق العادة لا من شك في قدرة الله.",
+    "question_fr": "Qu'a dit Sarah lorsqu'on lui annonça Ishaq, selon les paroles rapportées par le Coran dans la sourate Houd ?",
+    "options_fr": [
+      "Elle dit : « Louange à Allah, Seigneur des mondes, pour cet immense bienfait »",
+      "Elle dit : « Malheur à moi ! Vais-je enfanter alors que je suis vieille, et que voici mon mari, un vieillard ? Voilà bien une chose étonnante ! »",
+      "Elle dit : « Quand cela se produira-t-il, si vous êtes véridiques ? Dites-le-moi »",
+      "Elle dit : « Je crois au pouvoir d'Allah et ne m'étonne jamais de rien »"
+    ],
+    "explanation_fr": "Allah dit : « Elle dit : Malheur à moi ! Vais-je enfanter alors que je suis vieille, et que voici mon mari, un vieillard ? Voilà bien une chose étonnante ! » (sourate Houd, verset 72) — son étonnement venait de la rupture des lois naturelles, non d'un doute envers le pouvoir d'Allah."
+  },
+  {
+    "id": "ishaq_30",
+    "question_ar": "ما الدرس المستفاد من قوله تعالى عن ذرية ابراهيم واسحاق: (وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ)؟",
+    "options_ar": [
+      "ان جميع ذريتهما كانوا ظالمين لانفسهم بلا استثناء",
+      "ان النسب الشريف لا يكفي للنجاة بل الصلاح بالعمل والتقوى لا بمجرد الانتساب",
+      "ان الله ظلم بعض ذريتهما عقابا لهم على ذنوب ابائهم",
+      "ان الاحسان والظلم لا يجتمعان في ذرية واحدة ابدا"
+    ],
+    "correct": 1,
+    "explanation_ar": "الاية تبطل عنصرية النسب، فكون الانسان من ذرية الانبياء لا يعني انه صالح تلقائيا، بل الصلاح بالعمل والتقوى لا بالحسب والنسب.",
+    "question_fr": "Quelle leçon tirer de la parole d'Allah au sujet de la descendance d'Ibrahim et Ishaq : « Et parmi leur descendance, il y a un bienfaisant et un injuste envers lui-même, manifestement » ?",
+    "options_fr": [
+      "Que toute leur descendance fut injuste envers elle-même, sans exception",
+      "Que la noble lignée ne suffit pas au salut ; la vertu se mesure par l'action et la piété, non par la simple appartenance",
+      "Qu'Allah a été injuste envers une partie de leur descendance, en punition des péchés de leurs ancêtres",
+      "Que la bienfaisance et l'injustice ne peuvent jamais coexister dans une même descendance"
+    ],
+    "explanation_fr": "Ce verset réfute tout élitisme de lignage : être issu de la descendance des prophètes ne signifie pas automatiquement être vertueux ; la vertu se mesure par l'action et la piété, non par la naissance ou l'ascendance."
+  },
+  {
+    "id": "ishaq_31",
+    "question_ar": "من هم بعض الانبياء العظام الذين جاءوا من نسل اسحاق عبر ابنه يعقوب كما ذكر القران؟",
+    "options_ar": [
+      "محمد واسماعيل وشعيب وهود",
+      "يوسف وموسى وداود وسليمان وعيسى عليهم السلام",
+      "هود وصالح ولوط ونوح فقط",
+      "نوح وادريس وادم عليهم السلام"
+    ],
+    "correct": 1,
+    "explanation_ar": "من نسل اسحاق عبر يعقوب جاء انبياء عظام منهم يوسف وموسى وهارون وداود وسليمان وزكريا ويحيى وعيسى عليهم السلام كما ذكر القران في سورة الانعام.",
+    "question_fr": "Quels sont quelques-uns des grands prophètes issus de la descendance d'Ishaq, à travers son fils Ya'qub, comme le mentionne le Coran ?",
+    "options_fr": [
+      "Muhammad, Isma'il, Chou'ayb et Houd",
+      "Youssouf, Moussa, Dawud, Souleyman et Issa (paix sur eux)",
+      "Houd, Salih, Lout et Nouh uniquement",
+      "Nouh, Idris et Adam (paix sur eux)"
+    ],
+    "explanation_fr": "De la descendance d'Ishaq, à travers Ya'qub, vinrent de grands prophètes, parmi lesquels Youssouf, Moussa, Haroun, Dawud, Souleyman, Zakariya, Yahya et Issa, comme le mentionne le Coran dans la sourate al-An'am."
+  },
+  {
+    "id": "ishaq_32",
+    "question_ar": "ما هو اللقب الذي اُطلق على يعقوب بن اسحاق والذي سُميت به امة باكملها؟",
+    "options_ar": [
+      "خليل الرحمن",
+      "اسرائيل",
+      "كليم الله",
+      "روح الله"
+    ],
+    "correct": 1,
+    "explanation_ar": "لُقب يعقوب باسرائيل، ومنه جاء اسم بني اسرائيل اي ابناء يعقوب بن اسحاق بن ابراهيم عليهم السلام.",
+    "question_fr": "Quel surnom fut donné à Ya'qub, fils d'Ishaq, dont une nation entière porte aujourd'hui le nom ?",
+    "options_fr": [
+      "L'Ami intime du Tout-Miséricordieux",
+      "Israël",
+      "Celui à qui Allah a parlé",
+      "L'Esprit d'Allah"
+    ],
+    "explanation_fr": "Ya'qub fut surnommé « Israël », d'où vient le nom « Fils d'Israël », c'est-à-dire les fils de Ya'qub, fils d'Ishaq, fils d'Ibrahim (paix sur eux)."
+  },
+  {
+    "id": "ishaq_33",
+    "question_ar": "في سورة العنكبوت ذُكرت هبة اسحاق ويعقوب لابراهيم، فما الذي جعله الله في ذريته؟",
+    "options_ar": [
+      "الملك والسلطان في الارض فقط دون غيرهما",
+      "النبوة والكتاب",
+      "المال والتجارة الواسعة والثروة",
+      "القوة الحربية والسيطرة على جميع الامم"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَوَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ) العنكبوت 27، فالنبوة والكتاب في ذرية ابراهيم عبر اسحاق ويعقوب.",
+    "question_fr": "Dans la sourate al-'Ankabout, le don d'Ishaq et Ya'qub à Ibrahim est mentionné ; qu'Allah a-t-Il placé dans sa descendance ?",
+    "options_fr": [
+      "Le royaume et le pouvoir sur terre uniquement, rien d'autre",
+      "La prophétie et l'Écriture",
+      "La richesse, le vaste commerce et la fortune",
+      "La puissance militaire et la domination sur toutes les nations"
+    ],
+    "explanation_fr": "Allah dit : « Et Nous lui avons donné Ishaq et Ya'qub, et Nous avons placé dans sa descendance la prophétie et l'Écriture » (sourate al-'Ankabout, verset 27) — la prophétie et l'Écriture dans la descendance d'Ibrahim, à travers Ishaq et Ya'qub."
+  },
+  {
+    "id": "ishaq_34",
+    "question_ar": "ما هي السورة التي ذُكر فيها: (وَوَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ)؟",
+    "options_ar": [
+      "سورة البقرة",
+      "سورة العنكبوت",
+      "سورة الاحزاب",
+      "سورة يس"
+    ],
+    "correct": 1,
+    "explanation_ar": "وردت هذه الاية في سورة العنكبوت الاية 27، وفيها بيان لنعمة الله على ابراهيم بجعل النبوة والكتاب في ذريته عبر اسحاق ويعقوب.",
+    "question_fr": "Dans quelle sourate figure la mention « Et Nous lui avons donné Ishaq et Ya'qub, et Nous avons placé dans sa descendance la prophétie et l'Écriture » ?",
+    "options_fr": [
+      "Sourate al-Baqara",
+      "Sourate al-'Ankabout",
+      "Sourate al-Ahzab",
+      "Sourate Ya-Sin"
+    ],
+    "explanation_fr": "Ce verset figure dans la sourate al-'Ankabout, verset 27, où est exposé le bienfait d'Allah envers Ibrahim, en plaçant la prophétie et l'Écriture dans sa descendance à travers Ishaq et Ya'qub."
+  },
+  {
+    "id": "ishaq_35",
+    "question_ar": "ذكر القران اسحاق في سورة مريم في سياق نعم الله على ابراهيم حين اعتزل قومه، فما الاية؟",
+    "options_ar": [
+      "(فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا)",
+      "(وَاذْكُرْ فِي الْكِتَابِ اِبْرَاهِيمَ اِنَّهُ كَانَ صِدِّيقًا نَبِيًّا) فقط",
+      "(رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ اَهْلَ الْبَيْتِ)",
+      "(وَاتَّبَعْتُ مِلَّةَ ابَائِي اِبْرَاهِيمَ وَاِسْحَاقَ)"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى في سورة مريم 49: (فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللَّهِ وَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ وَكُلًّا جَعَلْنَا نَبِيًّا) ففي اعتزال الشرك جاءت المكافاة بالذرية النبوية.",
+    "question_fr": "Le Coran mentionne Ishaq dans la sourate Maryam, dans le contexte des bienfaits d'Allah envers Ibrahim lorsqu'il se sépara de son peuple ; quel est ce verset ?",
+    "options_fr": [
+      "« Lorsqu'il se fut séparé d'eux et de ce qu'ils adoraient en dehors d'Allah, Nous lui donnâmes Ishaq et Ya'qub, et fîmes de chacun un prophète »",
+      "« Et mentionne dans le Livre Ibrahim ; il était un véridique, un prophète » — uniquement",
+      "« Que la miséricorde d'Allah et Ses bénédictions soient sur vous, gens de cette maison »",
+      "« Et j'ai suivi la religion de mes pères, Ibrahim et Ishaq »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate Maryam, verset 49 : « Lorsqu'il se fut séparé d'eux et de ce qu'ils adoraient en dehors d'Allah, Nous lui donnâmes Ishaq et Ya'qub, et fîmes de chacun un prophète » — la séparation du polytheisme fut récompensée par une descendance prophétique."
+  },
+  {
+    "id": "ishaq_36",
+    "question_ar": "ما العلاقة بين اعتزال ابراهيم لقومه المشركين وهبة اسحاق له كما في سورة مريم؟",
+    "options_ar": [
+      "لا علاقة بينهما فهما حدثان منفصلان تماما",
+      "اعتزاله للشرك كان سببا لمكافاة الله له باسحاق ويعقوب انبياء",
+      "اعتزل قومه بعد ولادة اسحاق وليس قبلها",
+      "اعتزل قومه لان اسحاق طلب منه ذلك حين كبر"
+    ],
+    "correct": 1,
+    "explanation_ar": "في سورة مريم 49 ربط الله بين اعتزال ابراهيم للشرك وبين هبة اسحاق ويعقوب له، فمن ترك شيئا لله عوضه الله خيرا منه.",
+    "question_fr": "Quel lien existe-t-il entre la séparation d'Ibrahim de son peuple polythéiste et le don d'Ishaq, tel que rapporté dans la sourate Maryam ?",
+    "options_fr": [
+      "Aucun lien, ce sont deux événements totalement séparés",
+      "Sa séparation du polythéisme fut la cause de la récompense d'Allah, en lui accordant Ishaq et Ya'qub comme prophètes",
+      "Il se sépara de son peuple après la naissance d'Ishaq, et non avant",
+      "Il se sépara de son peuple parce qu'Ishaq le lui demanda en vieillissant"
+    ],
+    "explanation_fr": "Dans la sourate Maryam, verset 49, Allah relie la séparation d'Ibrahim du polythéisme au don d'Ishaq et Ya'qub — quiconque abandonne quelque chose pour Allah, Allah le compense par mieux."
+  },
+  {
+    "id": "ishaq_37",
+    "question_ar": "كيف وصف القران الكريم تصرف ابراهيم عند تقديم الطعام لضيوفه في سورة الذاريات؟",
+    "options_ar": [
+      "انه ذهب الى السوق واشترى طعاما جاهزا",
+      "انه راغ الى اهله فجاء بعجل سمين فقربه اليهم",
+      "انه طلب من خدمه اعداد الطعام له",
+      "انه اعتذر لضيوفه لعدم وجود طعام كاف"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَرَاغَ اِلَى اَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ فَقَرَّبَهُ اِلَيْهِمْ) الذاريات 26-27، وراغ اي ذهب بسرعة وخفية ليكرم ضيوفه دون تكلف ظاهر.",
+    "question_fr": "Comment le Coran décrit-il le comportement d'Ibrahim lorsqu'il servit le repas à ses hôtes, dans la sourate adh-Dhariyat ?",
+    "options_fr": [
+      "Il alla au marché acheter un repas déjà préparé",
+      "Il alla discrètement vers sa famille, apporta un veau gras et le leur présenta",
+      "Il demanda à ses serviteurs de lui préparer un repas",
+      "Il s'excusa auprès de ses hôtes de ne pas avoir assez de nourriture"
+    ],
+    "explanation_fr": "Allah dit : « Il alla discrètement vers sa famille et apporta un veau gras qu'il leur présenta » (sourate adh-Dhariyat, versets 26-27) — il partit rapidement et discrètement pour honorer ses hôtes sans effort apparent."
+  },
+  {
+    "id": "ishaq_38",
+    "question_ar": "ما معنى قوله تعالى: (فَقَرَّبَهُ اِلَيْهِمْ قَالَ اَلَا تَاْكُلُونَ) في سورة الذاريات؟",
+    "options_ar": [
+      "ان ابراهيم اجبرهم على الاكل بالقوة والالحاح",
+      "ان ابراهيم قرب الطعام اليهم ثم عرض عليهم الاكل بلطف حين لم ياكلوا",
+      "ان ابراهيم غضب لانهم رفضوا طعامه واساءوا اليه",
+      "ان ابراهيم اكل وحده ولم يشاركهم في الطعام"
+    ],
+    "correct": 1,
+    "explanation_ar": "قدم ابراهيم الطعام لضيوفه باجمل اداب الضيافة، ولما لم تمتد ايديهم اليه عرض عليهم بلطف: (اَلَا تَاْكُلُونَ) دون الحاح او احراج.",
+    "question_fr": "Que signifie la parole d'Allah « Il le leur présenta et dit : Ne mangez-vous pas ? » dans la sourate adh-Dhariyat ?",
+    "options_fr": [
+      "Qu'Ibrahim les força à manger avec insistance",
+      "Qu'Ibrahim leur présenta le repas puis, voyant qu'ils ne mangeaient pas, leur proposa gentiment de manger",
+      "Qu'Ibrahim se mit en colère parce qu'ils avaient refusé sa nourriture et l'avaient offensé",
+      "Qu'Ibrahim mangea seul, sans partager le repas avec eux"
+    ],
+    "explanation_fr": "Ibrahim présenta le repas à ses hôtes selon les plus belles règles de l'hospitalité, et comme leurs mains n'y touchaient pas, il leur proposa avec douceur : « Ne mangez-vous pas ? », sans insistance ni gêne."
+  },
+  {
+    "id": "ishaq_39",
+    "question_ar": "كيف اختلف ترتيب ذكر البشارة بإسحاق ومهمة اهلاك قوم لوط بين سورتي هود والذاريات؟",
+    "options_ar": [
+      "ذُكرت البشارة اولا في كلتا السورتين دون اختلاف",
+      "في هود ذُكرت مهمة لوط قبل البشارة بإسحاق وفي الذاريات البشارة قبل مهمة لوط",
+      "لم تُذكر مهمة قوم لوط مع قصة البشارة في اي سورة",
+      "في كلتا السورتين ذُكرت مهمة لوط اولا"
+    ],
+    "correct": 1,
+    "explanation_ar": "في سورة هود اخبرت الملائكة ابراهيم بمهمتهم تجاه قوم لوط اولا ثم بشروه باسحاق، بينما في الذاريات بدات بالبشارة ثم ذكرت مهمة لوط، وهذا من بلاغة التنويع القراني.",
+    "question_fr": "Comment l'ordre de mention de l'annonce d'Ishaq et de la mission de destruction du peuple de Lout diffère-t-il entre les sourates Houd et adh-Dhariyat ?",
+    "options_fr": [
+      "L'annonce fut mentionnée en premier dans les deux sourates, sans différence",
+      "Dans Houd, la mission de Lout fut mentionnée avant l'annonce d'Ishaq, tandis que dans adh-Dhariyat, l'annonce précéda la mission de Lout",
+      "La mission du peuple de Lout ne fut mentionnée avec l'histoire de l'annonce dans aucune sourate",
+      "Dans les deux sourates, la mission de Lout fut mentionnée en premier"
+    ],
+    "explanation_fr": "Dans la sourate Houd, les anges informèrent d'abord Ibrahim de leur mission concernant le peuple de Lout, puis lui annoncèrent Ishaq ; tandis que dans adh-Dhariyat, l'annonce vint en premier, suivie de la mission de Lout — un exemple de la richesse stylistique du Coran dans sa variation."
+  },
+  {
+    "id": "ishaq_40",
+    "question_ar": "ما هو الدرس الرئيسي من ولادة اسحاق لام عجوز عقيم واب شيخ كبير تجاوز المئة؟",
+    "options_ar": [
+      "ان الانجاب مقتصر على الشباب فقط ولا يحدث للكبار",
+      "ان قدرة الله فوق القوانين الطبيعية ولا يُياس من رحمته ابدا",
+      "ان على الانسان الا يدعو الله بالولد بعد سن معينة",
+      "ان المعجزات انتهت بعد زمن ابراهيم ولن تتكرر"
+    ],
+    "correct": 1,
+    "explanation_ar": "ولادة اسحاق من ام تسعينية عقيم واب تجاوز المئة دليل على ان قدرة الله لا تحدها اسباب مادية، ومن ظن ان الابواب اُغلقت فليتذكر قصة سارة.",
+    "question_fr": "Quelle est la leçon principale de la naissance d'Ishaq d'une mère âgée et stérile et d'un père très âgé, ayant dépassé les cent ans ?",
+    "options_fr": [
+      "Que la procréation est réservée aux jeunes et n'arrive jamais aux personnes âgées",
+      "Que le pouvoir d'Allah dépasse les lois naturelles et qu'il ne faut jamais désespérer de Sa miséricorde",
+      "Que l'homme ne doit pas demander un enfant à Allah après un certain âge",
+      "Que les miracles ont cessé après l'époque d'Ibrahim et ne se reproduiront plus"
+    ],
+    "explanation_fr": "La naissance d'Ishaq d'une mère nonagénaire et stérile et d'un père ayant dépassé les cent ans prouve que le pouvoir d'Allah n'est pas limité par les moyens matériels ; que celui qui pense que les portes sont closes se souvienne de l'histoire de Sarah."
+  },
+  {
+    "id": "ishaq_41",
+    "question_ar": "ما معنى كلمة (الايدي) في قوله تعالى عن ابراهيم واسحاق ويعقوب: (اُولِي الْاَيْدِي وَالْاَبْصَارِ)؟",
+    "options_ar": [
+      "القوة الجسدية في القتال والحرب فقط",
+      "القوة في طاعة الله والعمل الصالح والعبادة",
+      "كثرة العطاء المادي للفقراء دون غيره",
+      "المهارة في الصناعة والبناء والحرف اليدوية"
+    ],
+    "correct": 1,
+    "explanation_ar": "(اُولِي الْاَيْدِي) اي اصحاب القوة في الدين والعمل الصالح والطاعة، فالايدي هنا كناية عن القوة في العبادة والعمل باوامر الله تعالى.",
+    "question_fr": "Que signifie le mot « al-aydi » (les mains/la force) dans la parole d'Allah au sujet d'Ibrahim, Ishaq et Ya'qub : « possesseurs de force et de clairvoyance » ?",
+    "options_fr": [
+      "La force physique au combat et à la guerre uniquement",
+      "La force dans l'obéissance à Allah, les bonnes œuvres et l'adoration",
+      "L'abondance des dons matériels aux pauvres, rien d'autre",
+      "L'habileté dans l'artisanat, la construction et les métiers manuels"
+    ],
+    "explanation_fr": "« Possesseurs de force » signifie possesseurs de force dans la religion, les bonnes œuvres et l'obéissance ; « les mains » ici est une métaphore de la force dans l'adoration et l'accomplissement des ordres d'Allah."
+  },
+  {
+    "id": "ishaq_42",
+    "question_ar": "ما معنى كلمة (الابصار) في قوله تعالى: (اُولِي الْاَيْدِي وَالْاَبْصَارِ) عن ابراهيم واسحاق ويعقوب؟",
+    "options_ar": [
+      "حدة البصر الجسدي وقوة النظر المادية",
+      "البصيرة في الحق والفقه في الدين ومعرفة الحلال من الحرام",
+      "القدرة على رؤية الغيب والملائكة بالعين المجردة",
+      "القدرة على القراءة والكتابة دون معلم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(الْاَبْصَارِ) اي البصيرة والفقه في الدين ومعرفة الحق من الباطل، فهم اصحاب عبادة قوية وبصيرة نافذة في امور الدين والشريعة.",
+    "question_fr": "Que signifie le mot « al-absar » (la vue/la clairvoyance) dans la parole d'Allah « possesseurs de force et de clairvoyance » au sujet d'Ibrahim, Ishaq et Ya'qub ?",
+    "options_fr": [
+      "L'acuité de la vue physique et la force du regard matériel",
+      "La clairvoyance dans la vérité, la compréhension religieuse et la connaissance du licite et de l'illicite",
+      "La capacité de voir l'invisible et les anges à l'œil nu",
+      "La capacité de lire et d'écrire sans instituteur"
+    ],
+    "explanation_fr": "« Al-absar » signifie la clairvoyance, la compréhension religieuse et la connaissance du vrai et du faux ; ils étaient possesseurs d'une adoration solide et d'une perspicacité pénétrante en matière de religion et de loi."
+  },
+  {
+    "id": "ishaq_43",
+    "question_ar": "في اي سورة ورد قوله تعالى: (وَاذْكُرْ عِبَادَنَا اِبْرَاهِيمَ وَاِسْحَاقَ وَيَعْقُوبَ اُولِي الْاَيْدِي وَالْاَبْصَارِ)؟",
+    "options_ar": [
+      "سورة البقرة",
+      "سورة الانعام",
+      "سورة ص",
+      "سورة الانبياء"
+    ],
+    "correct": 2,
+    "explanation_ar": "وردت هذه الاية في سورة ص الايات 45-47، حيث اثنى الله على هؤلاء الانبياء الثلاثة بأعظم الاوصاف في القوة العملية والبصيرة الايمانية.",
+    "question_fr": "Dans quelle sourate figure la parole d'Allah « Et rappelle-toi Nos serviteurs Ibrahim, Ishaq et Ya'qub, possesseurs de force et de clairvoyance » ?",
+    "options_fr": [
+      "Sourate al-Baqara",
+      "Sourate al-An'am",
+      "Sourate Sad",
+      "Sourate al-Anbiya'"
+    ],
+    "explanation_fr": "Ce verset figure dans la sourate Sad, versets 45 à 47, où Allah loue ces trois prophètes par les plus grandes qualités, tant sur le plan de la force pratique que de la clairvoyance spirituelle."
+  },
+  {
+    "id": "ishaq_44",
+    "question_ar": "ما الحكمة من ذكر اسحاق واسماعيل معا في القران دون تفريق او تفضيل عرقي بينهما؟",
+    "options_ar": [
+      "لانهما كانا يعيشان معا في مكان واحد دائما",
+      "لقطع اي محاولة للتفريق بين انبياء الله على اساس عرقي وتاكيد وحدة الرسالة",
+      "لان القران لا يهتم بذكر التفاصيل عن الانبياء اصلا",
+      "لانهما كانا متشابهين في الشكل والصفات الجسدية تماما"
+    ],
+    "correct": 1,
+    "explanation_ar": "القران يذكر اسحاق مع اسماعيل دائما دون تفرقة، وكلاهما ابنا ابراهيم ونبيان كريمان، مما يقطع اي عنصرية نسبية ويؤكد ان الانبياء اخوة في الرسالة الواحدة.",
+    "question_fr": "Quelle est la sagesse de mentionner Ishaq et Isma'il ensemble dans le Coran, sans distinction ni préférence ethnique entre eux ?",
+    "options_fr": [
+      "Parce qu'ils vivaient toujours ensemble au même endroit",
+      "Pour couper court à toute tentative de distinction entre les prophètes d'Allah sur une base ethnique, et affirmer l'unité du message",
+      "Parce que le Coran ne s'intéresse pas du tout à donner des détails sur les prophètes",
+      "Parce qu'ils se ressemblaient parfaitement en apparence et en caractéristiques physiques"
+    ],
+    "explanation_fr": "Le Coran mentionne toujours Ishaq avec Isma'il, sans distinction ; tous deux étaient fils d'Ibrahim et nobles prophètes, ce qui coupe court à tout élitisme de lignage et affirme que les prophètes sont frères dans un même message."
+  },
+  {
+    "id": "ishaq_45",
+    "question_ar": "ما الدرس المستفاد من ان ابراهيم كان يدعو الله دائما لذريته بالصلاح فرُزق باسحاق النبي؟",
+    "options_ar": [
+      "ان الدعاء لا فائدة منه والامور مقدرة سلفا لا تتغير",
+      "ان الله يستجيب الدعاء ولو بعد حين وان التربية الايمانية تثمر ذرية صالحة",
+      "ان النبوة تُورث بالدم دون حاجة للدعاء والعمل الصالح",
+      "ان ابراهيم لم يكن يدعو لذريته بل لنفسه فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "دعاء ابراهيم (رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ) استُجيب باسحاق ويعقوب والذرية النبوية، مما يدل على اهمية الدعاء للذرية والتربية الايمانية.",
+    "question_fr": "Quelle leçon tirer du fait qu'Ibrahim invoquait toujours Allah pour la vertu de sa descendance, et fut alors comblé du prophète Ishaq ?",
+    "options_fr": [
+      "Que l'invocation ne sert à rien, et que les choses sont prédéterminées et ne changent pas",
+      "Qu'Allah répond à l'invocation, même après un délai, et qu'une éducation basée sur la foi porte des fruits dans une descendance vertueuse",
+      "Que la prophétie s'hérite par le sang, sans besoin d'invocation ni de bonnes œuvres",
+      "Qu'Ibrahim n'invoquait pas pour sa descendance mais uniquement pour lui-même"
+    ],
+    "explanation_fr": "L'invocation d'Ibrahim « Seigneur, accorde-moi un [enfant] du nombre des vertueux » fut exaucée par Ishaq, Ya'qub et une descendance prophétique — cela montre l'importance de l'invocation pour sa descendance et de l'éducation basée sur la foi."
+  },
+  {
+    "id": "ishaq_46",
+    "question_ar": "كيف وصف الله اسحاق ويعقوب في سورة الانبياء الاية 72؟",
+    "options_ar": [
+      "وصفهما بالانبياء الصادقين فقط",
+      "وصفهما مع ابراهيم بقوله: (وَكُلًّا جَعَلْنَا صَالِحِينَ)",
+      "وصفهما بالملوك الاقوياء في الارض",
+      "وصفهما بالعلماء الحكماء دون ذكر الصلاح"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَوَهَبْنَا لَهُ اِسْحَاقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا صَالِحِينَ) الانبياء 72، فوصفهم جميعا بالصلاح الكامل.",
+    "question_fr": "Comment Allah a-t-Il décrit Ishaq et Ya'qub dans la sourate al-Anbiya', verset 72 ?",
+    "options_fr": [
+      "Il les décrivit uniquement comme des prophètes véridiques",
+      "Il les décrivit, avec Ibrahim, par la parole : « Et de chacun Nous avons fait un vertueux »",
+      "Il les décrivit comme de puissants rois sur terre",
+      "Il les décrivit comme des savants sages, sans mentionner la vertu"
+    ],
+    "explanation_fr": "Allah dit : « Et Nous lui avons donné Ishaq et Ya'qub en surcroît ; et de chacun Nous avons fait un vertueux » (sourate al-Anbiya', verset 72) — Il les décrivit tous par une vertu complète."
+  },
+  {
+    "id": "ishaq_47",
+    "question_ar": "من هو النبي الذي خُتمت به النبوة وجاء من نسل اسماعيل اخي اسحاق عليهما السلام؟",
+    "options_ar": [
+      "موسى عليه السلام",
+      "عيسى عليه السلام",
+      "محمد صلى الله عليه وسلم",
+      "داود عليه السلام"
+    ],
+    "correct": 2,
+    "explanation_ar": "خُتمت النبوة بمحمد صلى الله عليه وسلم من نسل اسماعيل بن ابراهيم، بينما جاء معظم الانبياء السابقين من نسل اسحاق بن ابراهيم عليهم السلام.",
+    "question_fr": "Quel est le prophète par lequel la prophétie fut close, issu de la descendance d'Isma'il, frère d'Ishaq ?",
+    "options_fr": [
+      "Moussa (paix sur lui)",
+      "Issa (paix sur lui)",
+      "Muhammad (paix et bénédictions d'Allah sur lui)",
+      "Dawud (paix sur lui)"
+    ],
+    "explanation_fr": "La prophétie fut close par Muhammad ﷺ, issu de la descendance d'Isma'il, fils d'Ibrahim, tandis que la plupart des prophètes précédents vinrent de la descendance d'Ishaq, fils d'Ibrahim."
+  },
+  {
+    "id": "ishaq_48",
+    "question_ar": "ما المقصود بان اسحاق كان حلقة ذهبية في سلسلة النبوة الممتدة؟",
+    "options_ar": [
+      "انه كان يملك ذهبا كثيرا يوزعه على الناس",
+      "انه كان الجسر الذي عبرت من خلاله النبوة من ابراهيم الى بني اسرائيل عبر يعقوب",
+      "انه كان يصنع الحلي الذهبية للمعابد والبيوت",
+      "انه كان اغنى الانبياء على الاطلاق في زمانه"
+    ],
+    "correct": 1,
+    "explanation_ar": "اسحاق كان الرابط بين ابراهيم ابي الانبياء وبين بني اسرائيل عبر ابنه يعقوب، فمن نسله انبثقت سلسلة طويلة من الانبياء والرسل.",
+    "question_fr": "Que signifie l'affirmation selon laquelle Ishaq fut un maillon d'or dans la longue chaîne de la prophétie ?",
+    "options_fr": [
+      "Qu'il possédait beaucoup d'or qu'il distribuait aux gens",
+      "Qu'il fut le pont par lequel la prophétie passa d'Ibrahim aux Fils d'Israël, à travers Ya'qub",
+      "Qu'il fabriquait des bijoux en or pour les temples et les maisons",
+      "Qu'il fut le prophète le plus riche de son époque, absolument"
+    ],
+    "explanation_fr": "Ishaq fut le lien entre Ibrahim, père des prophètes, et les Fils d'Israël, à travers son fils Ya'qub ; de sa descendance jaillit une longue chaîne de prophètes et de messagers."
+  },
+  {
+    "id": "ishaq_49",
+    "question_ar": "ما الذي يميز البشارة بإسحاق عن غيرها من البشارات النبوية في القران؟",
+    "options_ar": [
+      "انها جاءت في المنام فقط دون واسطة ملائكة",
+      "انها كانت مزدوجة: بشارة بإسحاق ومن ورائه يعقوب في نفس اللحظة",
+      "انها جاءت عبر وحي مباشر دون وسيط من الملائكة",
+      "انها لم تكن مفاجئة لابراهيم وسارة ابدا"
+    ],
+    "correct": 1,
+    "explanation_ar": "تميزت البشارة بانها مزدوجة: (فَبَشَّرْنَاهَا بِاِسْحَاقَ وَمِنْ وَرَاءِ اِسْحَاقَ يَعْقُوبَ) فجمعت البشارة بالابن والحفيد معا في لحظة واحدة من شدة الاكرام الالهي.",
+    "question_fr": "Qu'est-ce qui distingue l'annonce d'Ishaq des autres annonces prophétiques dans le Coran ?",
+    "options_fr": [
+      "Elle vint uniquement en rêve, sans intermédiaire angélique",
+      "Elle fut double : l'annonce d'Ishaq et, après lui, de Ya'qub, au même instant",
+      "Elle vint par révélation directe, sans intermédiaire des anges",
+      "Elle ne fut jamais une surprise pour Ibrahim et Sarah"
+    ],
+    "explanation_fr": "L'annonce se distingua par sa double nature : « Nous lui annonçâmes Ishaq, et après Ishaq, Ya'qub » — réunissant l'annonce du fils et du petit-fils en un seul instant, tant l'honneur divin était grand."
+  },
+  {
+    "id": "ishaq_50",
+    "question_ar": "في سورة الصافات بعد ذكر قصة الذبح، قال تعالى: (وَبَشَّرْنَاهُ بِاِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ)، ما دلالة هذه الاية؟",
+    "options_ar": [
+      "ان اسحاق هو الذبيح المقصود في القصة",
+      "ان البشارة بإسحاق جاءت مكافاة لابراهيم بعد نجاحه في اختبار الذبح العظيم",
+      "ان اسحاق وُلد بعد حادثة الذبح بسنوات طويلة جدا",
+      "ان اسحاق رفض ان يكون نبيا في البداية ثم قبل"
+    ],
+    "correct": 1,
+    "explanation_ar": "في سورة الصافات 112 جاءت البشارة بإسحاق نبيا من الصالحين بعد ذكر قصة الذبح مباشرة، مما يدل على انها مكافاة الهية لابراهيم على صبره ونجاحه في ذلك الاختبار العظيم.",
+    "question_fr": "Dans la sourate as-Saffat, après le récit du sacrifice, Allah dit : « Et Nous lui annonçâmes Ishaq, prophète du nombre des vertueux » — que signifie ce verset ?",
+    "options_fr": [
+      "Qu'Ishaq est celui qui devait être sacrifié dans le récit",
+      "Que l'annonce d'Ishaq vint en récompense à Ibrahim après sa réussite dans la grande épreuve du sacrifice",
+      "Qu'Ishaq naquit de très nombreuses années après l'événement du sacrifice",
+      "Qu'Ishaq refusa d'abord d'être prophète puis accepta"
+    ],
+    "explanation_fr": "Dans la sourate as-Saffat, verset 112, l'annonce d'Ishaq comme prophète du nombre des vertueux vient immédiatement après le récit du sacrifice, ce qui montre qu'elle fut une récompense divine à Ibrahim pour sa patience et sa réussite dans cette grande épreuve."
+  }
+]

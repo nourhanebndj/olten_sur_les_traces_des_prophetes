@@ -1,0 +1,502 @@
+[
+  {
+    "id": "idris_01",
+    "question_ar": "كيف وصف القرآن الكريم النبي إدريس عليه السلام في سورة مريم (وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ...)؟",
+    "options_ar": ["إِنَّهُ كَانَ مَلِكاً رَسُولاً", "إِنَّهُ كَانَ صِدِّيقًا نَّبِيًّا", "إِنَّهُ كَانَ حَلِيمًا أَوَّاهًا مُّنِيبًا", "إِنَّهُ كَانَ مِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ"],
+    "correct": 1,
+    "explanation_ar": "(وَاذْكُرْ فِي الْكِتَابِ إِدْرِيسَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَّبِيًّا). جمع بين النبوة وكمال الصدق المستمر (الصديقية).",
+    "question_fr": "Comment le Coran décrit-il le prophète Idris (paix sur lui) dans la sourate Maryam (« Et mentionne dans le Livre, Idris... ») ?",
+    "options_fr": ["« Il était un roi messager »", "« Il était un grand véridique, un prophète »", "« Il était plein de mansuétude, de piété et de repentir »", "« Il était du nombre des élus, les meilleurs »"],
+    "explanation_fr": "« Et mentionne dans le Livre, Idris. Il était un grand véridique, un prophète. » Il réunissait la prophétie et la perfection de la véracité constante (la « siddiqiyya »)."
+  },
+  {
+    "id": "idris_02",
+    "question_ar": "ما هو التكريم والمكانة العظيمة التي رفع الله بها إدريس كما ورد في القرآن (وَرَفَعْنَاهُ ...)؟",
+    "options_ar": ["مَكَانًا عَلِيًّا", "دَرَجَةً رَفِيعَةً", "فَوْقَ النَّاسِ دَرَجَاتٍ", "إِلَى السَّمَاءِ السَّابِعَةِ"],
+    "correct": 0,
+    "explanation_ar": "(وَرَفَعْنَاهُ مَكَانًا عَلِيًّا) وهو رفعة قدر ومِكان ومكانة، وقيل رُفع حياً إلى السماء كعيسى، وقيل روحه.",
+    "question_fr": "Quel honneur et quelle immense élévation Allah a-t-Il accordés à Idris, selon le Coran (« Et Nous l'élevâmes... ») ?",
+    "options_fr": ["« À un rang élevé »", "« À un degré élevé »", "« Au-dessus des hommes de plusieurs degrés »", "« Jusqu'au septième ciel »"],
+    "explanation_fr": "« Et Nous l'élevâmes à un rang élevé » — élévation de mérite, de lieu et de rang ; certains disent qu'il fut élevé vivant au ciel comme Aïssa, d'autres que ce fut son âme."
+  },
+  {
+    "id": "idris_03",
+    "question_ar": "إدريس عليه السلام كان من أنبياء الله الأوائل، بين أي نبيين يُعتقد أنه بُعث زمناً؟",
+    "options_ar": ["بين إبراهيم وموسى", "بين آدم ونوح", "بين نوح وهود", "بين موسى وعيسى"],
+    "correct": 1,
+    "explanation_ar": "يُذكر في كتب التراجم وتواريخ الأنبياء أنه جاء بعد آدم وشيث وقبل نوح عليهم السلام.",
+    "question_fr": "Idris (paix sur lui) fut l'un des tout premiers prophètes d'Allah. Entre quels prophètes est-il situé chronologiquement, selon la tradition ?",
+    "options_fr": ["Entre Ibrahim et Moussa", "Entre Adam et Nuh", "Entre Nuh et Hud", "Entre Moussa et Aïssa"],
+    "explanation_fr": "Les ouvrages biographiques et historiques rapportent qu'il vint après Adam et Chith, et avant Nuh (paix sur eux)."
+  },
+  {
+    "id": "idris_04",
+    "question_ar": "في سورة الأنبياء، ذُكر إدريس مع نبيين آخرين بوصف مشترك عظيم (وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِّنَ ...)؟",
+    "options_ar": ["الْمُؤْمِنِينَ", "الصَابِرِينَ", "الشَّاكِرِينَ", "الْمُنِيبِينَ"],
+    "correct": 1,
+    "explanation_ar": "(وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِّنَ الصَّابِرِينَ) حيث واجهوا مشقات ومتاعب بدعوة أقوامهم بصبر.",
+    "question_fr": "Dans la sourate al-Anbiya, Idris est mentionné avec deux autres prophètes sous une même et grande qualité (« Et Isma'il, Idris et Dhul-Kifl, tous étaient... ») ?",
+    "options_fr": ["« Du nombre des croyants »", "« Du nombre des endurants »", "« Du nombre des reconnaissants »", "« Du nombre des repentants »"],
+    "explanation_fr": "« Et Isma'il, Idris et Dhul-Kifl, tous étaient du nombre des endurants », ayant affronté avec patience les difficultés de leur prédication."
+  },
+  {
+    "id": "idris_05",
+    "question_ar": "أي من المهارات أو الحرف التالية نُسبت إلى إدريس عليه السلام في الأحاديث والأثر كأول من خطّ بها؟",
+    "options_ar": ["أول من خاط الثياب بالقلم (الإبرة) ولبس المُخيط", "أول من خط بالقلم (كتب)", "أول من صنع السفن وركب البحر", "الخيار الأول والثاني معاً"],
+    "correct": 3,
+    "explanation_ar": "يُروى أنه أول من خط بالقلم، وأول من خاط الثياب ولبسها، بينما كان قبله يلبسون جلود الحيوانات.",
+    "question_fr": "Laquelle de ces compétences est attribuée à Idris dans les traditions, comme étant le premier à l'avoir exercée ?",
+    "options_fr": ["Le premier à coudre des vêtements à l'aiguille et à porter du cousu", "Le premier à écrire avec un calame (la plume)", "Le premier à construire des navires et à naviguer", "Les deux premières réponses à la fois"],
+    "explanation_fr": "Il est rapporté qu'il fut le premier à écrire au calame et le premier à coudre des vêtements et à les porter, alors qu'avant lui les gens portaient des peaux d'animaux."
+  },
+  {
+    "id": "idris_06",
+    "question_ar": "كيف تميز إدريس بالذكر والتسبيح أثناء عمله في الخياطة كما جاء في الأثر؟",
+    "options_ar": ["كان لا يعمل إلا يوم جمعة ويسبح بقية الأيام", "كان لا يغرز إبرة ولا يرفعها إلا وسبح الله", "كان يسبح فقط في الليل ويخيط النهار صامتاً", "لم يذكر عنه تسبيح محدد أثناء عمله"],
+    "correct": 1,
+    "explanation_ar": "يقال إنه كان لا يغرز إبرة إلا بذكر وتسبيح، فكان من أكثر أهل الأرض عملاً صالحاً يرفع له في زمانه.",
+    "question_fr": "Comment Idris se distinguait-il par l'invocation et la glorification d'Allah pendant son travail de couture, selon la tradition ?",
+    "options_fr": ["Il ne travaillait que le vendredi et glorifiait Allah le reste des jours", "Il ne plantait ni ne retirait une aiguille sans glorifier Allah", "Il ne glorifiait Allah que la nuit et cousait en silence le jour", "Aucune glorification particulière ne lui est rapportée durant son travail"],
+    "explanation_fr": "On rapporte qu'il ne plantait pas une aiguille sans invocation et glorification, si bien qu'il était, en son temps, parmi les hommes dont les bonnes œuvres montaient le plus vers Allah."
+  },
+  {
+    "id": "idris_07",
+    "question_ar": "أين التقى النبي محمد ﷺ بالنبي إدريس عليه السلام في رحلة الإسراء والمعراج؟",
+    "options_ar": ["في السماء السماء الأولى", "في السماء الرابعة", "في السماء السادسة مع موسى", "في السماء السابعة عند سدرة المنتهى"],
+    "correct": 1,
+    "explanation_ar": "ثبت في الصحيحين أنه لقيه في السماء الرابعة، وقال له: (مرحباً بالأخ الصالح والنبي الصالح).",
+    "question_fr": "Où le Prophète Muhammad ﷺ a-t-il rencontré le prophète Idris lors du voyage nocturne et de l'ascension céleste (al-Isra wal-Mi'raj) ?",
+    "options_fr": ["Au premier ciel", "Au quatrième ciel", "Au sixième ciel, avec Moussa", "Au septième ciel, près du Sidrat al-Muntaha"],
+    "explanation_fr": "Il est établi dans les deux recueils authentiques (Boukhari et Muslim) qu'il le rencontra au quatrième ciel, et Idris lui dit : « Bienvenue au frère vertueux et au prophète vertueux »."
+  },
+  {
+    "id": "idris_08",
+    "question_ar": "لماذا سمي إدريس بهذا الاسم وفقاً لبعض المفسرين واللغويين التاريخيين؟",
+    "options_ar": ["لأنه كان أول من دَرَسَ (قرأ ودَرّسَ) الصحف والعلوم التي أنزلت قبله", "لشدة سواده من حر الشمس (الدرَس)", "لأنه كان يدري لغات الحيوانات", "نسبة لبلدة تُدعى إدريسا في العراق"],
+    "correct": 0,
+    "explanation_ar": "قيل سمي إدريس لكثرة دِراسته لصحف الله المنزلة، وهو علم من أعلام العلم والحكمة في البدايات، والاسم فيه دلالة على ذلك.",
+    "question_fr": "Pourquoi Idris fut-il ainsi nommé, selon certains exégètes et historiens linguistes ?",
+    "options_fr": ["Parce qu'il fut le premier à étudier (lire et enseigner) les feuillets et sciences révélés avant lui", "En raison de son teint très foncé, dû à l'ardeur du soleil", "Parce qu'il comprenait le langage des animaux", "En référence à une ville nommée Idrisa en Irak"],
+    "explanation_fr": "On dit qu'il fut nommé Idris en raison de son étude assidue des feuillets révélés par Allah ; c'était l'un des grands symboles du savoir et de la sagesse des origines, ce que le nom lui-même évoque."
+  },
+  {
+    "id": "idris_09",
+    "question_ar": "من الأنبياء الذين ذكروا كأبناء أو أحفاد (ذرية) لخط الأنبياء بعد إدريس؟",
+    "options_ar": ["يعقوب ويوسف", "نوح (فهو الجد الأكبر لنوح عليهما السلام)", "إبراهيم (هو جد إبراهيم المباشر)", "لوط (هو عمه المباشر)"],
+    "correct": 1,
+    "explanation_ar": "إدريس في سلسلة النسب المشهورة يأتي قبل نوح، وهو من الأجداد، مما يزيد من شرف اصطفاء الرسل من نسله.",
+    "question_fr": "Quel prophète est mentionné comme descendant (dans la lignée) après Idris ?",
+    "options_fr": ["Ya'qub et Yusuf", "Nuh (Idris étant son lointain ancêtre)", "Ibrahim (son grand-père direct)", "Lut (son oncle direct)"],
+    "explanation_fr": "Dans la généalogie connue, Idris précède Nuh ; il compte parmi les ancêtres, ce qui accroît l'honneur de l'élection des messagers issus de sa lignée."
+  },
+  {
+    "id": "idris_10",
+    "question_ar": "ما الذي دخل فيه إدريس عليه السلام برحمة الله بنص سورة الأنبياء (وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا ۖ ...)؟",
+    "options_ar": ["إِنَّهُم مِّنَ الصَّالِحِينَ", "إِنَّهُم مِّنَ الْمُتَّقِينَ", "إِنَّهُم مِّنَ الْفَائِزِينَ", "إِنَّهُم مِّنَ الْمُهْتَدِينَ"],
+    "correct": 0,
+    "explanation_ar": "(وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا ۖ إِنَّهُم مِّنَ الصَّالِحِينَ) إشارة إلى شمولهم بوعد الله الحق وكرامته الواسعة للأنبياء الصابرين.",
+    "question_fr": "Dans quoi Idris fut-il admis par la miséricorde d'Allah, selon le texte de la sourate al-Anbiya (« Et Nous les fîmes entrer dans Notre miséricorde... ») ?",
+    "options_fr": ["« Ils étaient certes du nombre des vertueux »", "« Ils étaient certes du nombre des pieux »", "« Ils étaient certes du nombre des triomphants »", "« Ils étaient certes du nombre des bien-guidés »"],
+    "explanation_fr": "« Et Nous les fîmes entrer dans Notre miséricorde ; ils étaient certes du nombre des vertueux » — signe qu'ils bénéficient de la promesse véridique d'Allah et de Son immense faveur envers les prophètes endurants."
+  },
+  {
+    "id": "idris_11",
+    "question_ar": "ما هو أشهر وصف لإدريس عليه السلام في كتب التفسير والقصص الإسلامي، والذي يربط مهنته بالصبر؟",
+    "options_ar": ["أنه كان أول من خاط الثياب بالقلم (الخياط)، وكان يسبح الله مع كل غرزة إبرة", "أنه كان أول من بنى السفن الخشبية الكبيرة", "أنه كان أول من استخرج النحاس من الأرض", "أنه أول من روض الخيل في الصحراء"],
+    "correct": 0,
+    "explanation_ar": "ورد في المأثور أنه كان خياطاً، وكان لا يغرز إبرة ولا يرفعها إلا ولسانه يلهج بذكر الله وتسبيحه.",
+    "question_fr": "Quelle est la description la plus célèbre d'Idris dans les exégèses et récits islamiques, associant son métier à l'endurance ?",
+    "options_fr": ["Il fut le premier tailleur, cousant les vêtements, et glorifiait Allah à chaque point d'aiguille", "Il fut le premier à construire de grands navires en bois", "Il fut le premier à extraire le cuivre de la terre", "Il fut le premier à dresser les chevaux dans le désert"],
+    "explanation_fr": "Il est rapporté dans la tradition qu'il était tailleur, et qu'il ne plantait ni ne retirait une aiguille sans que sa langue ne soit occupée à l'invocation et à la glorification d'Allah."
+  },
+  {
+    "id": "idris_12",
+    "question_ar": "كيف كافأ الله إدريس على كثرة تسبيحه وصبره وعمله الصالح (وَرَفَعْنَاهُ ...)؟",
+    "options_ar": ["بكسرة خبز تكفيه كل يوم", "مَكَانًا عَلِيًّا (أي رفع ذكره وقدره ومنزلته في الدنيا، وقيل رُفع حياً إلى السماء السادسة أو الرابعة كما في الإسراء)", "لَم يرفعْه بَل قُتِل شَهیداً", "أسكنه في وادٍ مخفي في الجبال"],
+    "correct": 1,
+    "explanation_ar": "(وَرَفَعْنَاهُ مَكَانًا عَلِيًّا) وهو رفعة القدر والمكانة، ولما عُرج بالنبي ﷺ مر به في السماء الرابعة فرحب به إدريس قائلاً: (مرحباً بالأخ الصالح والنبي الصالح).",
+    "question_fr": "Comment Allah a-t-Il récompensé Idris pour son abondante glorification, sa patience et ses bonnes œuvres (« Et Nous l'élevâmes... ») ?",
+    "options_fr": ["Par une croûte de pain qui lui suffisait chaque jour", "« À un rang élevé » (élévation de son renom, de son mérite et de son rang ici-bas ; certains disent qu'il fut élevé vivant au sixième ou quatrième ciel, comme lors du Isra)", "Il ne l'éleva pas, mais il fut tué en martyr", "Il l'installa dans une vallée cachée dans les montagnes"],
+    "explanation_fr": "« Et Nous l'élevâmes à un rang élevé » — élévation de mérite et de rang ; lorsque le Prophète ﷺ fut élevé au ciel, il passa par le quatrième ciel où Idris l'accueillit en disant : « Bienvenue au frère vertueux et au prophète vertueux »."
+  },
+  {
+    "id": "idris_13",
+    "question_ar": "ما هي الحكمة من وصف إدريس بأنه (صِدِّيقٌ) (إِنَّهُ كَانَ صِدِّيقًا نَّبِيًّا) قبل ذكر رفعته؟",
+    "options_ar": ["أنه لم يتكلم بكلمة خِلال حياته", "لأنه كان يصدق الناس في تجارتهم بصورة مطلقة", "أن درجة (الصديقية) هي أعلى درجات الإيمان وكمال التصديق بوعد الله ورسالاته، وهي الدرجة التي تسبق النبوة أو ترافقها", "مجرد لقب لكونه لطيف المعشر"],
+    "correct": 2,
+    "explanation_ar": "الصديق هو المبالغ في الصدق، الذي يصدقه عمله، وهو مقام رفيع جداً، ولهذا استحق الرفعة (ورفعناه مكاناً علياً).",
+    "question_fr": "Quelle est la sagesse de décrire Idris comme « siddiq » (« il était un grand véridique, un prophète ») avant de mentionner son élévation ?",
+    "options_fr": ["Qu'il n'a jamais prononcé un mot de toute sa vie", "Parce qu'il était absolument honnête dans ses transactions commerciales", "Que le degré de « siddiqiyya » est le plus haut degré de la foi et de la parfaite adhésion à la promesse d'Allah et à Ses messages, un degré qui précède ou accompagne la prophétie", "Un simple titre honorifique pour sa courtoisie"],
+    "explanation_fr": "Le « siddiq » est celui dont la véracité est extrême, confirmée par ses actes ; c'est un rang très élevé, ce qui explique qu'il ait mérité l'élévation (« et Nous l'élevâmes à un rang élevé »)."
+  },
+  {
+    "id": "idris_14",
+    "question_ar": "يُذكر في بعض السير أن إدريس كان أول من علم البشرية الكتابة بـ ...؟",
+    "options_ar": ["بأظافره على الطين", "بالقلم (يُقال أنه أول من خط بالقلم وكتب به الصحف)", "بالأصباغ الملونة في الكهوف", "بنحت الحروف على الخشب العريض"],
+    "correct": 1,
+    "explanation_ar": "يُنسب إليه في أخبار الأوائل أنه أول من خط بالقلم، وأول من خاط الثياب، وفي هذا إشارة إلى الجمع بين علم الدين والدنيا.",
+    "question_fr": "Selon certains récits, Idris fut le premier à enseigner l'écriture à l'humanité, avec quel instrument ?",
+    "options_fr": ["Avec ses ongles sur l'argile", "Avec le calame (on dit qu'il fut le premier à écrire au calame et à transcrire des feuillets)", "Avec des pigments colorés dans les grottes", "En gravant des lettres sur du bois large"],
+    "explanation_fr": "Il lui est attribué, dans les récits des origines, d'être le premier à avoir écrit au calame et le premier à coudre des vêtements, réunissant ainsi le savoir religieux et le savoir-faire terrestre."
+  },
+  {
+    "id": "idris_15",
+    "question_ar": "أين التقى النبي محمد ﷺ بإدريس في رحلة الإسراء والمعراج؟",
+    "options_ar": ["في جنة المأوى", "في السماء الرابعة (وقال له جبريل: هذا إدريس، فسلّم عليه. فرد السلام وقال: مرحبا بالأخ الصالح والنبي الصالح)", "عند سدرة المنتهى", "في المسجد الأقصى فقط"],
+    "correct": 1,
+    "explanation_ar": "في حديث المعراج نص النبي ﷺ على لقائه بإدريس في السماء الرابعة، وهو ما يعزز تفسير الرفعة المكانية الحقيقية أيضاً إضافة لرفعة القدر.",
+    "question_fr": "Où le Prophète Muhammad ﷺ a-t-il rencontré Idris lors du voyage nocturne et de l'ascension céleste ?",
+    "options_fr": ["Au Jardin du Refuge", "Au quatrième ciel (Jibril lui dit : Voici Idris, salue-le. Il rendit le salut et dit : Bienvenue au frère vertueux et au prophète vertueux)", "Près du Sidrat al-Muntaha", "Uniquement à la mosquée al-Aqsa"],
+    "explanation_fr": "Dans le hadith du Mi'raj, le Prophète ﷺ précise sa rencontre avec Idris au quatrième ciel, ce qui renforce l'interprétation d'une élévation à la fois réelle et de rang."
+  },
+  {
+    "id": "idris_16",
+    "question_ar": "لماذا تم تسميته (إدريس) في الاصطلاح العربي الإسلامي كما رجح بعض المفسرين؟",
+    "options_ar": ["لكثرة دِراسته (قراءته) للصحف التي أُنزلت عليه أو على شيث بن آدم", "نسبة لمدينة قديمة عاش فيها", "لأنه درَس (هدم) الأصنام بشدة", "لأنه أول من زرع بذور النبات في الأرض"],
+    "correct": 0,
+    "explanation_ar": "يُقال سُمي إدريس لكثرة دِراسته لصحف الله تعالى ولعلمه الغزير، وإن كان اسمه الآرامي الأصلي (أخنوخ).",
+    "question_fr": "Pourquoi fut-il nommé « Idris » en arabe islamique, selon l'avis privilégié par certains exégètes ?",
+    "options_fr": ["En raison de son étude (lecture) assidue des feuillets qui lui furent révélés ou révélés à Chith fils d'Adam", "En référence à une ancienne cité où il vécut", "Parce qu'il détruisit violemment les idoles", "Parce qu'il fut le premier à semer des graines dans la terre"],
+    "explanation_fr": "On dit qu'il fut nommé Idris pour son étude assidue des feuillets d'Allah et son vaste savoir, bien que son nom araméen d'origine soit « Hénoch »."
+  },
+  {
+    "id": "idris_17",
+    "question_ar": "بماذا امتاز إدريس عليه السلام في قوله تعالى (وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِّنَ...)؟",
+    "options_ar": ["الْمُحْسِنِينَ", "الصَّابِرِينَ (انخرط في سلك الصابرين في دعوتهم ومواجهتهم لأعباء النبوة، فالصبر مفتاح الرسل)", "الْمُؤْمِنِينَ", "الْغَالِبِينَ"],
+    "correct": 1,
+    "explanation_ar": "(كُلٌّ مِّنَ الصَّابِرِينَ) الصبر على طاعة الله، والصبر عن معاتبته، والصبر على أذى أقوامهم أثناء الدعوة الطويلة.",
+    "question_fr": "Par quoi Idris se distingue-t-il dans la parole d'Allah (« Et Isma'il, Idris et Dhul-Kifl, tous étaient... ») ?",
+    "options_fr": ["« Du nombre des bienfaisants »", "« Du nombre des endurants » (il fit partie de ceux dont l'endurance marqua la prédication et le fardeau de la prophétie, la patience étant la clé des messagers)", "« Du nombre des croyants »", "« Du nombre des vainqueurs »"],
+    "explanation_fr": "« Tous étaient du nombre des endurants » — endurance dans l'obéissance à Allah, dans l'absence de reproche envers Lui, et dans les épreuves subies de la part de leurs peuples pendant leur longue prédication."
+  },
+  {
+    "id": "idris_18",
+    "question_ar": "أين عاش إدريس عليه السلام وفقاً لبعض الروايات التاريخية القديمة؟",
+    "options_ar": ["في بابل، وقيل في مصر القديمة وعلم الناس التخطيط والسياسة", "في الشام فقط ولم يخرج منها أبداً", "في جنوب الجزيرة العربية بين الجبال العالية", "على شواطئ البحر الميت طوال حياته"],
+    "correct": 0,
+    "explanation_ar": "تذكر أخبار التاريخ والمؤرخين (كابن جرير) أنه وُلد وعاش ببابل ثم انتقل إلى مصر وعلّم أهلها، والله أعلم بصحة التفاصيل إذ لم تثبت بحديث صحيح.",
+    "question_fr": "Où Idris a-t-il vécu, selon certains anciens récits historiques ?",
+    "options_fr": ["À Babylone, et selon d'autres, en Égypte antique, où il enseigna l'urbanisme et la gouvernance", "Uniquement au Cham, dont il ne sortit jamais", "Dans le sud de la péninsule Arabique, parmi de hautes montagnes", "Sur les rivages de la mer Morte toute sa vie"],
+    "explanation_fr": "Les récits historiques (comme ceux d'Ibn Jarir) rapportent qu'il naquit et vécut à Babylone, puis se rendit en Égypte où il instruisit ses habitants — Allah sait mieux, ces détails n'étant pas confirmés par un hadith authentique."
+  },
+  {
+    "id": "idris_19",
+    "question_ar": "كيف ذكر النبي محمد ﷺ يوسف معتزاً بنسبه كأكرم الناس وأعظمهم تسلسلاً للنبوة؟",
+    "options_ar": ["يُوسُفُ بْنُ يَعْقُوبَ بْنِ إِسْحَاقَ بْنِ إِبْرَاهِيمَ عَلَيْهِمُ السَّلاَمُ، فهو نبي بن نبي بن نبي بن نبي (الخليل)"],
+    "correct": 0,
+    "explanation_ar": "سلسلة الذهب النبوية لم تتحقق بهذا التتابع الطاهر لأي عائلة أخرى في تاريخ البشرية سوى لهم.",
+    "question_fr": "Comment le Prophète Muhammad ﷺ a-t-il évoqué Yusuf, fier de sa lignée, comme l'homme le plus noble par sa chaîne de prophétie ?",
+    "options_fr": ["« Yusuf fils de Ya'qub, fils d'Ishaq, fils d'Ibrahim » (paix sur eux) — un prophète fils de prophète, fils de prophète, fils de prophète (l'Ami intime d'Allah)"],
+    "explanation_fr": "Cette chaîne d'or prophétique, dans une telle succession pure, ne s'est réalisée pour aucune autre famille dans l'histoire de l'humanité."
+  },
+  {
+    "id": "idris_20",
+    "question_ar": "ما هو الاسم المعروف لأم إسحاق عليه السلام في القرآن والتاريخ الإسلامي؟",
+    "options_ar": ["سارة (المرأة الكريمة التي استضافت الملائكة وضاحكتهم وبشرت بغلام عليم)"],
+    "correct": 0,
+    "explanation_ar": "سارة رضي الله عنها هي زوجة الخليل وأم الأنبياء من فرع بني إسرائيل.",
+    "question_fr": "Quel est le nom connu de la mère d'Ishaq (paix sur lui) dans le Coran et l'histoire islamique ?",
+    "options_fr": ["Sarah (la noble femme qui accueillit les anges, échangea avec eux avec bonne humeur, et reçut l'annonce d'un garçon savant)"],
+    "explanation_fr": "Sarah, qu'Allah l'agrée, est l'épouse de l'Ami intime d'Allah et la mère des prophètes de la branche des Fils d'Israël."
+  },
+  {
+    "id": "idris_21",
+    "question_ar": "هل آمن قوم إبراهيم له بعد ولادة الغلامين وبلوغه دعوة التوحيد أوجها؟",
+    "options_ar": ["لم يؤمن له إلا سارة وابن أخيه لوط: (فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ)، فهاجر إبراهيم وعائلته الصغيرة وأبدله الله هذه الذرية العظيمة (إسحاق ويعقوب) في الهجرة كجزاء له"],
+    "correct": 0,
+    "explanation_ar": "أمة الكفر لا تنقاد بسهولة، ولكن الله يعوض المهاجرين في سبيله بخير في ذرياتهم وفي الدنيا والآخرة.",
+    "question_fr": "Le peuple d'Ibrahim a-t-il fini par croire en lui après la naissance de ses deux fils, à l'apogée de sa prédication monothéiste ?",
+    "options_fr": ["Seuls Sarah et son neveu Lut crurent en lui : « Lut crut en lui et dit : Je m'exile vers mon Seigneur » ; Ibrahim émigra donc avec sa petite famille, et Allah lui accorda en récompense, lors de cette émigration, cette illustre descendance (Ishaq et Ya'qub)"],
+    "explanation_fr": "Un peuple mécréant ne se soumet pas facilement, mais Allah compense les émigrants pour Sa cause par un bien qui se prolonge dans leur descendance, ici-bas comme dans l'au-delà."
+  },
+  {
+    "id": "idris_22",
+    "question_ar": "ما معنى قوله تعالى (كَذَلِكِ قَالَ رَبُّكِ) في تعقيب الملائكة على استغراب سارة من الحمل؟",
+    "options_ar": ["هو أمر الله النافذ وقدره الذي لا يعجزه شيء، ولا يقاس الطبيعي البشري بالعطاء الإلهي المطلق، وهذا قمة التسليم والتوحيد."],
+    "correct": 0,
+    "explanation_ar": "متى ما نطق (قال ربك) انتهى النقاش البشري والحساب العقلي والبيولوجي، فالإرادة الإلهية هي الفيصل الشافي.",
+    "question_fr": "Que signifie la parole d'Allah « Ainsi a dit ton Seigneur », en réponse des anges à l'étonnement de Sarah devant cette grossesse ?",
+    "options_fr": ["C'est l'ordre exécutoire d'Allah et Son décret auquel rien ne résiste ; le naturel humain ne saurait être comparé au don divin absolu — sommet de la soumission et de l'unicité."],
+    "explanation_fr": "Dès que fut prononcé « ton Seigneur l'a dit », tout débat humain, tout calcul rationnel ou biologique, prit fin : la volonté divine est le critère décisif et apaisant."
+  },
+  {
+    "id": "idris_23",
+    "question_ar": "كيف أوجز القرآن رسالة إسحاق ويعقوب المركزية لمن بعدهم؟ (وَوَصَّى بِهَا إِبْرَاهِيمُ بَنِيهِ وَيَعْقُوبُ يَا بَنِيَّ ... )",
+    "options_ar": ["إِنَّ اللَّهَ اصْطَفَىٰ لَكُمُ الدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ (الاستمرار والثبات على الإسلام والتوحيد الخالص حتى سكرات الموت)."],
+    "correct": 0,
+    "explanation_ar": "الوصية الأعظم ليست بالمال والممالك، بل بالحاضرة الأبدية وهي (الإسلام لله وحده لا شريك له).",
+    "question_fr": "Comment le Coran résume-t-il le message central transmis par Ibrahim et Ya'qub à leurs descendants (« Et Ibrahim recommanda cela à ses fils, ainsi que Ya'qub : Ô mes fils... ») ?",
+    "options_fr": ["« Allah vous a choisi cette religion ; ne mourez donc qu'en pleine soumission à Lui » (persévérance et constance dans l'islam et le pur monothéisme, jusqu'aux affres de la mort)."],
+    "explanation_fr": "Le plus grand testament n'est pas de biens ni de royaumes, mais de la réalité éternelle : « la soumission à Allah seul, sans associé »."
+  },
+  {
+    "id": "idris_24",
+    "question_ar": "كيف كان موقف إدريس عليه السلام من الظلم والشرك الذي بدأ يتفشى في عصره؟",
+    "options_ar": ["كان صارماً وجاداً في محاربة الشرك والدفاع عن التوحيد بقوة، وهو أول من جاهد في سبيل الله وقاتل المفسدين ليحفظ نقاء التوحيد."],
+    "correct": 0,
+    "explanation_ar": "تشير المرويات التاريخية والإسلامية أنه كان شجاعاً مجاهداً ردع أهل الفساد عن باطلهم بقوة وجسارة بجانب علمه العزير.",
+    "question_fr": "Quelle fut l'attitude d'Idris face à l'injustice et au polythéisme qui commençaient à se répandre à son époque ?",
+    "options_fr": ["Il fut ferme et déterminé dans la lutte contre le polythéisme et la défense vigoureuse du monothéisme ; il fut le premier à combattre pour la cause d'Allah et à s'opposer aux corrupteurs pour préserver la pureté de l'unicité divine."],
+    "explanation_fr": "Les récits historiques et islamiques indiquent qu'il fut un combattant courageux, repoussant avec force et audace les gens de la corruption, en plus de son savoir précieux."
+  },
+  {
+    "id": "idris_25",
+    "question_ar": "بماذا امتازت لغة إدريس عليه السلام كما يرى المؤرخون لغات البشر؟",
+    "options_ar": ["يقال إنه تكلم بسبعين لغة، ليتمكن من دعوة وتوجيه مختلف القبائل والأقوام التي عاشت في عصره، وهو إلهام إلهي عظيم لمقامات النبوة."],
+    "correct": 0,
+    "explanation_ar": "كما عُلم الكتابة بالقلم وعُلم الخياطة، ألهمه الله معارف وعلوم شتى ولغات ليوصل النور الرباني في تلك المرحلة التأسيسية للبشرية.",
+    "question_fr": "Qu'avait de particulier la langue d'Idris, selon les historiens des langues humaines ?",
+    "options_fr": ["On dit qu'il parlait soixante-dix langues, afin de pouvoir prêcher et guider les diverses tribus et peuples de son époque — une inspiration divine majeure propre au rang de la prophétie."],
+    "explanation_fr": "Tout comme il fut enseigné l'écriture et la couture, Allah lui inspira des connaissances, des sciences et des langues variées, afin de porter la lumière divine à cette étape fondatrice de l'humanité."
+  },
+  {
+    "id": "idris_26",
+    "question_ar": "من هو النبي الذي أشاد به إدريس في السماء؟",
+    "options_ar": ["أشاد بالنبي محمد ﷺ في رحلة المعراج وقال له: مرحباً بالنبي الصالح والأخ الصالح."],
+    "correct": 0,
+    "explanation_ar": "تبادل الأنبياء السلام في المعراج هو دليل على وحدة الأمة النبوية وتآخيها تحت مظلة الخالق والإيمان الواحد.",
+    "question_fr": "Quel prophète Idris a-t-il honoré lors de sa rencontre au ciel ?",
+    "options_fr": ["Il honora le Prophète Muhammad ﷺ lors du Mi'raj et lui dit : Bienvenue au prophète vertueux et au frère vertueux."],
+    "explanation_fr": "L'échange de salutations entre prophètes lors du Mi'raj témoigne de l'unité de la communauté prophétique et de leur fraternité sous l'égide du Créateur et d'une foi unique."
+  },
+  {
+    "id": "idris_27",
+    "question_ar": "ما الدرس المستفاد من خفوت تفاصيل قصص بعض الأنبياء كإدريس مقارنة بغيرهم في القرآن؟",
+    "options_ar": ["أن القدوة القرآنية قد تكون في (صفة واحدة عظيمة) كالصبر والصدق، فتصبح هذه الصفة هي محور حياة النبي كلها وأيقونته البارزة في التاريخ البشري، فتكفي للعظة أكثر من ألف قصة."],
+    "correct": 0,
+    "explanation_ar": "الإيجاز القرآني هنا هو قمة البلاغة، وضع (الصبر) و(الصدق) كعنوانين عريضين لنجاح الإنسان ورفعته إلى أعلى المقامات الدرجات الممكنة.",
+    "question_fr": "Quelle leçon tirer de la discrétion des détails de l'histoire de certains prophètes comme Idris, comparée à d'autres dans le Coran ?",
+    "options_fr": ["Le modèle coranique peut se résumer à une seule vertu majeure, comme l'endurance ou la véracité, laquelle devient alors l'axe de toute la vie du prophète et son symbole marquant dans l'histoire humaine, suffisant en enseignement à mille récits."],
+    "explanation_fr": "La concision coranique ici est le sommet de l'éloquence : « l'endurance » et « la véracité » deviennent de grands titres pour la réussite de l'homme et son élévation au plus haut degré possible."
+  },
+  {
+    "id": "idris_28",
+    "question_ar": "كيف واجه إدريس تحديات قومه في زمن مبكر جدًا من الحضارة؟",
+    "options_ar": ["باللجوء إلى الله والاعتصام بالعبادة (كانوا لنا عابدين) وتوظيف المعارف الأولية (كالكتابة والحياكة) لخدمة الرسالة الإنسانية وإثبات الرشد العقلي للأنبياء."],
+    "correct": 0,
+    "explanation_ar": "الأنبياء كانوا رواد الحضارة بجانب القدوة الروحية، فالجمع بين الروحانية الفائقة (مكانا عليا) وبين العمل المتقن المباشر في الأرض هو سمة المخلصين.",
+    "question_fr": "Comment Idris a-t-il fait face aux défis de son peuple à une époque très précoce de la civilisation ?",
+    "options_fr": ["En se réfugiant en Allah et en s'attachant à l'adoration, tout en mettant les savoirs naissants (comme l'écriture et le tissage) au service du message humain, démontrant ainsi la sagesse des prophètes."],
+    "explanation_fr": "Les prophètes furent aussi des pionniers de la civilisation en plus de leur exemple spirituel ; allier une spiritualité élevée (« un rang élevé ») à un travail terrestre accompli est le trait des sincères."
+  },
+  {
+    "id": "idris_29",
+    "question_ar": "ماذا تعني (مكانا عليا) في سياق رفع إدريس في القرآن والسنة معًا؟",
+    "options_ar": ["هي رفعة المعاني (المنزلة الرفيعة والشأن العالي في المجالس والسمعة والأثر)، ورفعة الحِس (السموات العلا كما شاهده النبي في الإسراء)."],
+    "correct": 0,
+    "explanation_ar": "أفاض الله عليه من أنواع الرفعة كلها تكريما لصديقيته وصبره العميق المستمر المكلل بالجهد.",
+    "question_fr": "Que signifie « un rang élevé » dans le contexte de l'élévation d'Idris, à la fois dans le Coran et la Sunna ?",
+    "options_fr": ["C'est une élévation de sens (rang éminent, réputation et influence dans les assemblées) et une élévation sensible (les cieux élevés, comme le Prophète l'a lui-même constaté lors du Isra)."],
+    "explanation_fr": "Allah lui accorda toutes les formes d'élévation, en reconnaissance de sa véracité exemplaire et de sa patience profonde et constante, couronnée par l'effort."
+  },
+  {
+    "id": "idris_30",
+    "question_ar": "هل إدريس حي في السماء الرابعة أم متوفى كغيره من الأنبياء المارين؟",
+    "options_ar": ["الراجح عند محققي العلماء أنه تُوفي كغيره (لأن الله قال لمحمد: وما جعلنا لبشر من قبلك الخلد)، وأرواح الأنبياء في السماء في منازلهم بحسب درجاتهم، وعيسى هو الوحيد المستثنى الذي رُفع حياً وسينزل."],
+    "correct": 0,
+    "explanation_ar": "الأرواح النبوية تعيش حياة برزخية رفيعة جدًا، ورفعة إدريس لا تنافي موته في الأرض أو السماء.",
+    "question_fr": "Idris est-il vivant au quatrième ciel, ou décédé comme les autres prophètes rencontrés lors du Mi'raj ?",
+    "options_fr": ["L'avis privilégié par les savants les plus rigoureux est qu'il mourut comme les autres (car Allah dit à Muhammad : « Nous n'avons donné l'immortalité à nul homme avant toi »), les âmes des prophètes résidant au ciel selon leur rang ; seul Aïssa fait exception, ayant été élevé vivant et devant redescendre."],
+    "explanation_fr": "Les âmes prophétiques vivent une vie du monde intermédiaire (barzakh) très élevée, et l'élévation d'Idris n'exclut pas sa mort sur terre ou au ciel."
+  },
+  {
+    "id": "idris_31",
+    "question_ar": "ما أثر الصديقية في الأقوال والأفعال كما يتضح من سيرة إدريس؟",
+    "options_ar": ["التصديق التام الداخلي يتبعه صدق خارجي في السلوك، فلا ينطق بباطل، ولا يتصرف بخلاف ما يعتقد، وهذا ما يعصم المجتمع من النفاق ويقوده للتنزه الأخلاقي العظيم."],
+    "correct": 0,
+    "explanation_ar": "الصدق دواء لكل الآفات، وهو يورث الطمأنينة والرفعة، وهو السلاح الأول للمصلحين وأنبياء العهد الأول.",
+    "question_fr": "Quel est l'effet de la « siddiqiyya » sur les paroles et les actes, comme le montre la biographie d'Idris ?",
+    "options_fr": ["La totale sincérité intérieure entraîne une véracité extérieure dans le comportement : il ne dit rien de faux et n'agit jamais contrairement à ses convictions — cela préserve la société de l'hypocrisie et la conduit à une grande élévation morale."],
+    "explanation_fr": "La véracité est un remède à tous les maux ; elle engendre la sérénité et l'élévation, et fut la première arme des réformateurs et des prophètes des premiers temps."
+  },
+  {
+    "id": "idris_32",
+    "question_ar": "ما هي أول رسالة واجهت الطغيان والانحراف الفكري في الأرض بعد آدم؟",
+    "options_ar": ["رسالة شيث ثم إدريس (أخنوخ) كانت لضبط وإصلاح ما طرأ من تجاوزات وفوضى بعد قتل قابيل لهابيل واختلاف الطباع قبل الطوفان الكبير."],
+    "correct": 0,
+    "explanation_ar": "كانوا كحراس للتوحيد والفطرة، يمهدون الأرض ويسعون لمنع الجاهلية من التفشي بصبر وحزم كبيرين.",
+    "question_fr": "Quel fut le premier message à s'opposer à la tyrannie et à la déviation intellectuelle sur terre après Adam ?",
+    "options_fr": ["Le message de Chith, puis d'Idris (Hénoch), visant à corriger les dérives et le désordre survenus après le meurtre d'Habil par Qabil et la divergence des caractères, avant le grand Déluge."],
+    "explanation_fr": "Ils étaient comme des gardiens du monothéisme et de la nature innée, préparant la terre et s'efforçant, avec une grande patience et fermeté, d'empêcher la propagation de l'ignorance."
+  },
+  {
+    "id": "idris_33",
+    "question_ar": "كيف يُمثل إدريس القدوة الحسنة للعمال والمهنيين في عصرنا؟",
+    "options_ar": ["لأنه كان خياطاً متقناً لعمله اليدوي، وفي نفس الوقت ذاكراً لله، فحول الورشة إلى محراب عبادة، وأثبت أن الدين ليس كسلاً، وأن إتقان العمل الدنيوي يقود لرفعة الآخرة."],
+    "correct": 0,
+    "explanation_ar": "ربط تسبيح الله بكل خيط وغرزة هو أعظم نموذج للتكامل بين خدمة الدنيا وبناء الآخرة الموازية.",
+    "question_fr": "En quoi Idris représente-t-il un modèle exemplaire pour les travailleurs et professionnels d'aujourd'hui ?",
+    "options_fr": ["Parce qu'il était un tailleur accompli dans son travail manuel, tout en se souvenant sans cesse d'Allah, transformant son atelier en lieu d'adoration, prouvant que la religion n'est pas paresse et que l'excellence dans le travail terrestre conduit à l'élévation dans l'au-delà."],
+    "explanation_fr": "Associer la glorification d'Allah à chaque fil et chaque point d'aiguille est le plus grand modèle d'intégration entre le service de ce bas monde et la construction parallèle de l'au-delà."
+  },
+  {
+    "id": "idris_34",
+    "question_ar": "ما هو اسم والد إدريس عليه السلام في سلسلة نسبه المشهورة؟",
+    "options_ar": ["قينان", "يارد", "أنوش", "مهلائيل"],
+    "correct": 1,
+    "explanation_ar": "هو إدريس بن يارد بن مهلائيل بن قينان بن أنوش بن شيث بن آدم عليه السلام، فوالده المباشر هو يارد.",
+    "question_fr": "Quel est le nom du père d'Idris dans sa généalogie connue ?",
+    "options_fr": ["Qaynan", "Yared", "Anoush", "Mahalalel"],
+    "explanation_fr": "Il s'agit d'Idris fils de Yared, fils de Mahalalel, fils de Qaynan, fils d'Anoush, fils de Chith, fils d'Adam (paix sur lui) ; son père direct est donc Yared."
+  },
+  {
+    "id": "idris_35",
+    "question_ar": "ما هو اسم إدريس عليه السلام في التوراة؟",
+    "options_ar": ["إلياس", "أخنوخ", "متوشالح", "دانيال"],
+    "correct": 1,
+    "explanation_ar": "اسمه في التوراة (أخنوخ) وبالإنجليزية (Enoch)، أما (إدريس) فهو الاسم العربي الذي اشتُهر به في التراث الإسلامي.",
+    "question_fr": "Quel est le nom d'Idris dans la Torah ?",
+    "options_fr": ["Elias", "Hénoch", "Metouchélah", "Daniel"],
+    "explanation_fr": "Son nom dans la Torah est « Hénoch » (Enoch en anglais), tandis que « Idris » est le nom arabe sous lequel il est connu dans la tradition islamique."
+  },
+  {
+    "id": "idris_36",
+    "question_ar": "كم سنة أدرك إدريس عليه السلام من حياة جده آدم عليه السلام وفقاً لبعض أهل العلم؟",
+    "options_ar": ["مئة وعشرين سنة", "ثلاثمائة وثمانياً وستين سنة", "خمسمائة سنة", "مئتين وخمسين سنة"],
+    "correct": 1,
+    "explanation_ar": "ذكر بعض أهل العلم أن إدريس أدرك من حياة آدم عليه السلام ثلاثمائة وثمانياً وستين سنة، وهذا يدل على طول أعمار الأولين.",
+    "question_fr": "Combien d'années Idris a-t-il connu de la vie de son ancêtre Adam, selon certains savants ?",
+    "options_fr": ["Cent vingt ans", "Trois cent soixante-huit ans", "Cinq cents ans", "Deux cent cinquante ans"],
+    "explanation_fr": "Certains savants rapportent qu'Idris a connu trois cent soixante-huit ans de la vie d'Adam, ce qui témoigne de la longévité des premiers hommes."
+  },
+  {
+    "id": "idris_37",
+    "question_ar": "بماذا أقسم الله تعالى في سورة القلم تعظيماً لشأن الكتابة التي يُنسب فضلها إلى إدريس عليه السلام؟",
+    "options_ar": ["وَالْفَجْرِ وَلَيَالٍ عَشْرٍ", "وَالشَّمْسِ وَضُحَاهَا", "ن وَالْقَلَمِ وَمَا يَسْطُرُونَ", "وَالنَّجْمِ إِذَا هَوَى"],
+    "correct": 2,
+    "explanation_ar": "أقسم الله تعالى بالقلم في قوله: (ن وَالْقَلَمِ وَمَا يَسْطُرُونَ) تعظيماً لشأن الكتابة وأدواتها، وإدريس هو أول من خط بالقلم.",
+    "question_fr": "Par quoi Allah jure-t-Il dans la sourate al-Qalam, en glorification de l'écriture, dont le mérite est attribué à Idris ?",
+    "options_fr": ["« Par l'aube et par dix nuits »", "« Par le soleil et sa clarté »", "« Noun. Par le calame et ce qu'ils écrivent »", "« Par l'étoile quand elle décline »"],
+    "explanation_fr": "Allah jure par le calame dans Sa parole : « Noun. Par le calame et ce qu'ils écrivent », en glorification de l'écriture et de ses instruments ; Idris fut le premier à écrire au calame."
+  },
+  {
+    "id": "idris_38",
+    "question_ar": "كيف كان الناس ينقلون العلم قبل أن يُعلّم إدريس عليه السلام الكتابة؟",
+    "options_ar": ["بالنقش على الحجارة والصخور", "شفاهةً من جيل إلى جيل", "بالرسم على جدران الكهوف", "بالإشارات والرموز المكتوبة"],
+    "correct": 1,
+    "explanation_ar": "قبل إدريس كان العلم يُنقل شفاهةً من جيل لجيل، فكان معرضاً للضياع والتحريف والنسيان، حتى علّمه الله الكتابة فصار بالإمكان تدوين الوحي والعلوم.",
+    "question_fr": "Comment le savoir se transmettait-il avant qu'Idris n'enseigne l'écriture ?",
+    "options_fr": ["Par gravure sur pierres et rochers", "Oralement, de génération en génération", "Par dessins sur les parois des grottes", "Par signes et symboles écrits"],
+    "explanation_fr": "Avant Idris, le savoir se transmettait oralement de génération en génération, exposé à la perte, à l'altération et à l'oubli, jusqu'à ce qu'Allah lui enseigne l'écriture, rendant possible la consignation de la révélation et des sciences."
+  },
+  {
+    "id": "idris_39",
+    "question_ar": "من هو العالِم الذي ذكر أن إدريس كان يعلّم قومه الكتابة ويأمرهم بتدوين الحكمة؟",
+    "options_ar": ["ابن عباس", "وهب بن منبه", "مجاهد بن جبر", "كعب الأحبار"],
+    "correct": 1,
+    "explanation_ar": "ذكر وهب بن منبه وغيره أن إدريس كان يعلّم قومه الكتابة ويأمرهم بتدوين الحكمة، فانتشر العلم في عهده انتشاراً لم يعهده البشر من قبل.",
+    "question_fr": "Quel savant a rapporté qu'Idris enseignait l'écriture à son peuple et leur ordonnait de consigner la sagesse ?",
+    "options_fr": ["Ibn Abbas", "Wahb ibn Munabbih", "Mujahid ibn Jabr", "Ka'b al-Ahbar"],
+    "explanation_fr": "Wahb ibn Munabbih et d'autres rapportent qu'Idris enseignait l'écriture à son peuple et leur ordonnait de consigner la sagesse, si bien que le savoir se répandit à son époque comme jamais auparavant."
+  },
+  {
+    "id": "idris_40",
+    "question_ar": "ماذا كان الناس يلبسون قبل أن يُعلّمهم إدريس عليه السلام فن الخياطة؟",
+    "options_ar": ["أقمشة منسوجة بدائية", "أوراق الأشجار والنباتات", "جلود الحيوانات والأصواف غير المحاكة", "لم يكونوا يلبسون شيئاً"],
+    "correct": 2,
+    "explanation_ar": "ذكر أهل التاريخ والسير أنه قبل إدريس كان الناس يلبسون جلود الحيوانات والأصواف غير المحاكة، فعلّمه الله فن الخياطة فصنع الملابس من الأقمشة المنسوجة.",
+    "question_fr": "Que portaient les gens avant qu'Idris ne leur enseigne l'art de la couture ?",
+    "options_fr": ["Des tissus tissés rudimentaires", "Des feuilles d'arbres et de plantes", "Des peaux d'animaux et de la laine non cousue", "Ils ne portaient rien du tout"],
+    "explanation_fr": "Les historiens rapportent qu'avant Idris, les gens portaient des peaux d'animaux et de la laine non cousue ; Allah lui enseigna l'art de la couture, et il confectionna des vêtements à partir de tissus tissés."
+  },
+  {
+    "id": "idris_41",
+    "question_ar": "ما الآية التي ربط فيها الله بين اللباس المادي ولباس التقوى، وهي مرتبطة بما علّمه إدريس للبشرية؟",
+    "options_ar": ["وَجَعَلْنَا اللَّيْلَ لِبَاسًا", "يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَى ذَلِكَ خَيْرٌ", "هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ", "وَاللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَالًا"],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة الأعراف: (يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا وَلِبَاسُ التَّقْوَى ذَلِكَ خَيْرٌ)، فجمع بين اللباس المادي ولباس التقوى.",
+    "question_fr": "Quel verset lie le vêtement matériel au vêtement de la piété, en lien avec ce qu'Idris enseigna à l'humanité ?",
+    "options_fr": ["« Et Nous avons fait de la nuit un vêtement »", "« Ô fils d'Adam ! Nous avons fait descendre sur vous un vêtement pour couvrir vos nudités, ainsi que des parures. Mais le vêtement de la piété, voilà qui est meilleur »", "« Elles sont un vêtement pour vous, et vous êtes un vêtement pour elles »", "« Et Allah vous a donné, de ce qu'Il a créé, des ombres »"],
+    "explanation_fr": "Allah dit dans la sourate al-A'raf : « Ô fils d'Adam ! Nous avons fait descendre sur vous un vêtement pour couvrir vos nudités, ainsi que des parures. Mais le vêtement de la piété, voilà qui est meilleur » — reliant ainsi le vêtement matériel au vêtement spirituel de la piété."
+  },
+  {
+    "id": "idris_42",
+    "question_ar": "ما هو العلم الذي درسه إدريس عليه السلام من باب التفكر في خلق الله لا من باب التنجيم المذموم؟",
+    "options_ar": ["علم الطب والأعشاب", "علم النجوم والحساب وسير الكواكب", "علم البحار والملاحة", "علم المعادن والتعدين"],
+    "correct": 1,
+    "explanation_ar": "كان إدريس أول من نظر في علم النجوم والحساب وسير الكواكب من باب التفكر في خلق الله وتسخير هذه العلوم لنفع البشر، لا من باب التنجيم المذموم.",
+    "question_fr": "Quelle science Idris a-t-il étudiée, dans une démarche de méditation sur la création d'Allah, et non d'astrologie condamnable ?",
+    "options_fr": ["La médecine et les plantes", "L'astronomie, le calcul et le mouvement des astres", "La navigation maritime", "La minéralogie et la métallurgie"],
+    "explanation_fr": "Idris fut le premier à observer l'astronomie, le calcul et le mouvement des astres dans une démarche de méditation sur la création d'Allah, mettant ces sciences au service de l'humanité, et non par astrologie condamnable."
+  },
+  {
+    "id": "idris_43",
+    "question_ar": "ماذا استخرج إدريس عليه السلام من دراسة حركة الشمس والقمر والنجوم؟",
+    "options_ar": ["طرق الزراعة والري فقط", "مواقيت الصلاة والعبادة والفصول والمواسم وحساب الأيام والشهور والسنين", "أماكن الكنوز المدفونة تحت الأرض", "أسرار صناعة المعادن"],
+    "correct": 1,
+    "explanation_ar": "علّمه الله كيف يتأمل في حركة الشمس والقمر والنجوم، فاستخرج منها مواقيت الصلاة والعبادة، وعرف بها الفصول والمواسم، وحسب بها الأيام والشهور والسنين.",
+    "question_fr": "Qu'a tiré Idris de l'étude du mouvement du soleil, de la lune et des étoiles ?",
+    "options_fr": ["Uniquement des méthodes d'agriculture et d'irrigation", "Les heures de prière et d'adoration, les saisons, et le calcul des jours, des mois et des années", "L'emplacement de trésors enfouis", "Les secrets de la métallurgie"],
+    "explanation_fr": "Allah lui enseigna à méditer sur le mouvement du soleil, de la lune et des étoiles, d'où il tira les heures de prière et d'adoration, connut les saisons, et calcula les jours, les mois et les années."
+  },
+  {
+    "id": "idris_44",
+    "question_ar": "ما الآية القرآنية التي ذكرت أن الله جعل النجوم هداية في ظلمات البر والبحر، وهي مرتبطة بعلم إدريس؟",
+    "options_ar": ["وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ", "وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ", "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ", "وَعَلَامَاتٍ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ"],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة الأنعام: (وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ)، وهذا من العلوم التي سبق إليها إدريس عليه السلام.",
+    "question_fr": "Quel verset mentionne qu'Allah a fait des étoiles un guide dans les ténèbres de la terre et de la mer, en lien avec le savoir d'Idris ?",
+    "options_fr": ["« Et Nous avons décoré le ciel le plus proche de luminaires »", "« C'est Lui qui vous a assigné les étoiles, pour que vous vous guidiez par elles dans les ténèbres de la terre et de la mer »", "« Et l'étoile ainsi que l'arbre se prosternent »", "« Et des repères ; et au moyen des étoiles ils se guident »"],
+    "explanation_fr": "Allah dit dans la sourate al-An'am : « C'est Lui qui vous a assigné les étoiles, pour que vous vous guidiez par elles dans les ténèbres de la terre et de la mer » — un savoir dont Idris fut le précurseur."
+  },
+  {
+    "id": "idris_45",
+    "question_ar": "أين استقر إدريس عليه السلام بعد أن هاجر بمن آمن معه فراراً من أهل الشر؟",
+    "options_ar": ["في الشام على ساحل البحر", "في أرض مصر على ضفاف النيل", "في اليمن بين الجبال", "في بابل حيث وُلد"],
+    "correct": 1,
+    "explanation_ar": "قيل إنه خرج بمن آمن معه فراراً من أهل الشر، فنزلوا بأرض مصر على ضفاف النيل، حيث أقام دعوته وعبادته.",
+    "question_fr": "Où Idris s'est-il établi après avoir émigré avec ceux qui avaient cru en lui, fuyant les gens du mal ?",
+    "options_fr": ["Au Cham, sur la côte", "En terre d'Égypte, sur les rives du Nil", "Au Yémen, entre les montagnes", "À Babylone, où il naquit"],
+    "explanation_fr": "On dit qu'il partit avec ceux qui avaient cru en lui, fuyant les gens du mal, et qu'ils s'installèrent en terre d'Égypte, sur les rives du Nil, où il poursuivit sa prédication et son adoration."
+  },
+  {
+    "id": "idris_46",
+    "question_ar": "كيف كانت عبادة إدريس عليه السلام اليومية كما ذُكر في السير؟",
+    "options_ar": ["كان يصلي الفجر فقط ثم ينشغل بالعمل", "كان يصوم النهار ويقوم الليل", "كان يعتكف في الكهوف طوال العام", "كان يتعبد يوماً ويستريح يوماً"],
+    "correct": 1,
+    "explanation_ar": "ذُكر أنه كان يصوم النهار ويقوم الليل، ويجاهد في سبيل الله بالعلم والدعوة حتى رفعه الله إلى مقامه العلي.",
+    "question_fr": "Comment était l'adoration quotidienne d'Idris, selon les récits biographiques ?",
+    "options_fr": ["Il priait uniquement à l'aube puis se consacrait au travail", "Il jeûnait le jour et priait la nuit", "Il se retirait dans les grottes toute l'année", "Il adorait un jour et se reposait le lendemain"],
+    "explanation_fr": "Il est rapporté qu'il jeûnait le jour et priait la nuit, luttant pour la cause d'Allah par le savoir et la prédication, jusqu'à ce qu'Allah l'élève à son rang sublime."
+  },
+  {
+    "id": "idris_47",
+    "question_ar": "ماذا أوحى الله لإدريس عليه السلام بحسب رواية كعب الأحبار عن عمله الصالح؟",
+    "options_ar": ["أن له ملكاً عظيماً في الأرض", "أنه يرفع له كل يوم من العمل مثل أعمال جميع أهل الأرض في زمانه", "أنه سيعيش ألف سنة", "أن ذريته ستكون أكثر الناس عدداً"],
+    "correct": 1,
+    "explanation_ar": "ذكر كعب الأحبار أن الله أوحى لإدريس أنه يرفع له كل يوم من العمل مثل أعمال جميع أهل الأرض في زمانه، فطمع في المزيد من القربة إلى الله.",
+    "question_fr": "Que révéla Allah à Idris concernant ses bonnes œuvres, selon le récit de Ka'b al-Ahbar ?",
+    "options_fr": ["Qu'il possède un immense royaume sur terre", "Que chaque jour, ses œuvres égalent en valeur celles de tous les habitants de la terre de son époque réunis", "Qu'il vivra mille ans", "Que sa descendance sera la plus nombreuse"],
+    "explanation_fr": "Ka'b al-Ahbar rapporte qu'Allah révéla à Idris que chaque jour, ses œuvres valaient autant que celles de tous les habitants de la terre de son époque, ce qui accrut son désir de se rapprocher davantage d'Allah."
+  },
+  {
+    "id": "idris_48",
+    "question_ar": "كيف قُبضت روح إدريس عليه السلام وفقاً لرواية كعب الأحبار؟",
+    "options_ar": ["توفي في الأرض كسائر البشر", "قبضها ملك الموت في السماء الرابعة بعد أن صعد به ملك", "لم تُقبض روحه وهو حي إلى اليوم", "توفي في أرض مصر على ضفاف النيل"],
+    "correct": 1,
+    "explanation_ar": "ذكر كعب الأحبار أن ملكاً من الملائكة صعد به حتى بلغ السماء الرابعة، وهناك لقيه ملك الموت نازلاً، فقُبضت روحه في السماء بأمر الله.",
+    "question_fr": "Comment l'âme d'Idris fut-elle reprise, selon le récit de Ka'b al-Ahbar ?",
+    "options_fr": ["Il mourut sur terre comme le reste des hommes", "L'ange de la mort la reprit au quatrième ciel, après qu'un ange l'y eut fait monter", "Son âme n'a jamais été reprise, il est encore vivant aujourd'hui", "Il mourut en terre d'Égypte, sur les rives du Nil"],
+    "explanation_fr": "Ka'b al-Ahbar rapporte qu'un ange le fit monter jusqu'au quatrième ciel, où il rencontra l'ange de la mort qui descendait ; son âme fut alors reprise au ciel, sur ordre d'Allah."
+  },
+  {
+    "id": "idris_49",
+    "question_ar": "في أي ذرية بدأ الفساد والمعاصي ينتشر في زمن إدريس عليه السلام مما استوجب دعوته؟",
+    "options_ar": ["ذرية هابيل", "ذرية شيث", "ذرية قابيل", "ذرية إدريس نفسه"],
+    "correct": 2,
+    "explanation_ar": "كان إدريس يدعو قومه إلى توحيد الله والابتعاد عن المعاصي التي بدأت تنتشر في ذرية قابيل، فآمن به بعضهم وأعرض آخرون.",
+    "question_fr": "Dans quelle descendance la corruption et les péchés ont-ils commencé à se répandre à l'époque d'Idris, rendant sa prédication nécessaire ?",
+    "options_fr": ["La descendance de Habil", "La descendance de Chith", "La descendance de Qabil", "La descendance d'Idris lui-même"],
+    "explanation_fr": "Idris appelait son peuple à l'unicité d'Allah et à s'éloigner des péchés qui commençaient à se répandre dans la descendance de Qabil ; certains crurent en lui, d'autres se détournèrent."
+  },
+  {
+    "id": "idris_50",
+    "question_ar": "ما الآية التي ربط فيها الله بين كرمه وتعليم الكتابة بالقلم، وهي مرتبطة بريادة إدريس في هذا المجال؟",
+    "options_ar": ["عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ", "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ", "وَقُل رَّبِّ زِدْنِي عِلْمًا", "يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ"],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة العلق: (اقْرَأْ وَرَبُّكَ الْأَكْرَمُ الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ)، ربطاً بين كرم الله وتعليم الكتابة التي كان إدريس رائدها.",
+    "question_fr": "Quel verset lie la générosité d'Allah à l'enseignement de l'écriture par le calame, en lien avec le rôle précurseur d'Idris dans ce domaine ?",
+    "options_fr": ["« Il a enseigné à l'homme ce qu'il ne savait pas »", "« Lis ! Ton Seigneur est le Très Généreux, qui a enseigné par le calame, a enseigné à l'homme ce qu'il ne savait pas »", "« Et dis : Seigneur, accrois mon savoir »", "« Allah élève en degrés ceux d'entre vous qui croient et ceux à qui le savoir a été donné »"],
+    "explanation_fr": "Allah dit dans la sourate al-'Alaq : « Lis ! Ton Seigneur est le Très Généreux, qui a enseigné par le calame, a enseigné à l'homme ce qu'il ne savait pas » — reliant la générosité d'Allah à l'enseignement de l'écriture, dont Idris fut le pionnier."
+  }
+]

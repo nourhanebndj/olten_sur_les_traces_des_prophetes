@@ -1,0 +1,502 @@
+[
+  {
+    "id": "isa_01",
+    "question_ar": "من هي المرأة الوحيدة التي سُميت سورة كاملة باسمها في القرآن الكريم؟",
+    "options_ar": ["آسيا امرأة فرعون", "مريم بنت عمران", "خديجة بنت خويلد", "فاطمة الزهراء"],
+    "correct": 1,
+    "explanation_ar": "مريم بنت عمران هي المرأة الوحيدة التي خُصت بسورة تحمل اسمها تكريماً لها ولتعظيم شأنها واصطفائها.",
+    "question_fr": "Quelle est la seule femme dont une sourate entière du Coran porte le nom ?",
+    "options_fr": ["Asiya, l'épouse de Pharaon", "Maryam fille d'Imran", "Khadija bint Khuwaylid", "Fatima az-Zahra"],
+    "explanation_fr": "Maryam fille d'Imran est la seule femme à qui une sourate entière fut consacrée, en son honneur et en reconnaissance de son élection."
+  },
+  {
+    "id": "isa_02",
+    "question_ar": "بماذا كان الله يرزق مريم عليها السلام وهي في المحراب (بيت المقدس)؟",
+    "options_ar": ["المن والسلوى كبني إسرائيل", "بمائدة تنزل من السماء كل يوم", "بفاكهة الصيف في الشتاء وفاكهة الشتاء في الصيف", "بالذهب والفضة لتعمير المكان"],
+    "correct": 2,
+    "explanation_ar": "كان زكريا عليه السلام يجد عندها رزقاً إعجازياً، وهو ثمار في غير أوانها كإشارة لرعاية الله الخاصة لها.",
+    "question_fr": "Par quoi Allah pourvoyait-Il Maryam dans le sanctuaire (à Jérusalem) ?",
+    "options_fr": ["La manne et les cailles, comme les Fils d'Israël", "Une table servie descendant du ciel chaque jour", "Des fruits d'été en hiver et des fruits d'hiver en été", "De l'or et de l'argent pour entretenir le lieu"],
+    "explanation_fr": "Zakariyya trouvait auprès d'elle une subsistance miraculeuse, des fruits hors saison, signe de la sollicitude particulière d'Allah envers elle."
+  },
+  {
+    "id": "isa_03",
+    "question_ar": "ما هي العبارة التي طمأن بها جبريل عليه السلام مريم عندما تعجبت من كيفية إنجاب ولد بغير أب؟",
+    "options_ar": ["إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ", "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ", "سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا", "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ"],
+    "correct": 1,
+    "explanation_ar": "أخبرها أن خلق إنسان بغير أب أمر يسير على الله سبحانه، ليكون آية للناس ورحمة.",
+    "question_fr": "Par quelle parole Jibril a-t-il rassuré Maryam, étonnée de pouvoir enfanter sans père ?",
+    "options_fr": ["« Allah est certes Omnipotent »", "« Il dit : Ainsi a dit ton Seigneur : Cela M'est facile »", "« Allah fera succéder l'aisance à la difficulté »", "« Son commandement, quand Il veut une chose, est de lui dire : Sois ! Et elle est »"],
+    "explanation_fr": "Il lui annonça que créer un être sans père est aisé pour Allah, afin d'en faire un signe pour les hommes et une miséricorde."
+  },
+  {
+    "id": "isa_04",
+    "question_ar": "بماذا شبه القرآن الكريم خلق عيسى عليه السلام في سورة آل عمران؟",
+    "options_ar": ["بخلق السموات والأرض", "بخلق يحيى بن زكريا", "بخلق آدم عليه السلام", "بخلق الملائكة من نور"],
+    "correct": 2,
+    "explanation_ar": "﴿إِنَّ مَثَلَ عِيسَىٰ عِندَ اللَّهِ كَمَثَلِ آدَمَ خَلَقَهُ مِن تُرَابٍ﴾؛ فآدم خُلق بلا أب ولا أم، وهو أعجب من خلق عيسى.",
+    "question_fr": "À quoi le Coran compare-t-il la création d'Aïssa dans la sourate al-Imran ?",
+    "options_fr": ["À la création des cieux et de la terre", "À la création de Yahya fils de Zakariyya", "À la création d'Adam", "À la création des anges de lumière"],
+    "explanation_fr": "« Pour Allah, Aïssa est comparable à Adam, qu'Il créa de terre » ; Adam fut créé sans père ni mère, ce qui est plus étonnant encore que la création d'Aïssa."
+  },
+  {
+    "id": "isa_05",
+    "question_ar": "ماذا طلبت الملائكة من مريم لتسهيل ولادتها وهي عند جذع النخلة؟",
+    "options_ar": ["أن تدعو الله بالفرج القريب", "أن تهز جذع النخلة لتساقط عليها رطباً جنياً", "أن تذهب إلى نبع ماء قريب", "أن تستعين بأهلها في المدينة"],
+    "correct": 1,
+    "explanation_ar": "أمرها الله بهز الجذع رغم ضعفها بعد الولادة، للأخذ بالأسباب، ورزقها بالرطب لتتقوى به.",
+    "question_fr": "Que fut-il demandé à Maryam, près du tronc du palmier, pour faciliter son accouchement ?",
+    "options_fr": ["D'implorer Allah pour un soulagement prochain", "De secouer le tronc du palmier pour en faire tomber des dattes fraîches", "De se rendre à une source d'eau proche", "De faire appel à sa famille dans la ville"],
+    "explanation_fr": "Allah lui ordonna de secouer le tronc malgré sa faiblesse après l'accouchement, pour s'appuyer sur les moyens naturels, et la pourvut de dattes pour se fortifier."
+  },
+  {
+    "id": "isa_06",
+    "question_ar": "ما هي أول جملة نطق بها عيسى عليه السلام وهو في المهد صبياً؟",
+    "options_ar": ["أنا رسول الله إليكم", "اعبدوا الله ربي وربكم", "إني عبد الله آتاني الكتاب", "برأت أمي مما تقولون"],
+    "correct": 2,
+    "explanation_ar": "بدأ بكلمة ﴿إِنِّي عَبْدُ اللَّهِ﴾ ليؤكد عبوديته لله قبل أي شيء، ويقطع الطريق على من غلوا فيه وادعوا ألوهيته.",
+    "question_fr": "Quelle fut la première parole prononcée par Aïssa, encore nourrisson, dans son berceau ?",
+    "options_fr": ["« Je suis le messager d'Allah pour vous »", "« Adorez Allah, mon Seigneur et le vôtre »", "« Je suis le serviteur d'Allah ; Il m'a donné le Livre »", "« J'ai innocenté ma mère de ce que vous dites »"],
+    "explanation_fr": "Il commença par « Je suis le serviteur d'Allah », affirmant d'emblée sa servitude envers Allah, coupant court à toute exagération future prétendant sa divinité."
+  },
+  {
+    "id": "isa_07",
+    "question_ar": "بماذا نعت قوم مريم أباها وأمها عندما جاءتهم تحمل عيسى؟",
+    "options_ar": ["بأنهم كانوا ملوكاً عظماء", "بأن أباها لم يكن امرأ سوء وأمها لم تكن بغياً", "بأنهم كانوا من بيت نبوة قديم", "بأنهم كانوا من أغنياء بني إسرائيل"],
+    "correct": 1,
+    "explanation_ar": "﴿مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا﴾؛ أي أنك من بيت طاهر ومعروف بالصلاح، فكيف فعلتِ هذا؟",
+    "question_fr": "Comment le peuple de Maryam décrivit-il son père et sa mère, lorsqu'elle leur apparut portant Aïssa ?",
+    "options_fr": ["Qu'ils étaient de grands rois", "Que son père n'était pas un homme mauvais et que sa mère n'était pas une femme de mauvaise vie", "Qu'ils venaient d'une ancienne famille de prophétie", "Qu'ils étaient parmi les riches des Fils d'Israël"],
+    "explanation_fr": "« Ton père n'était pas un homme mauvais, et ta mère n'était pas une femme de mauvaise vie » — c'est-à-dire : tu es issue d'une famille pure et réputée vertueuse, comment as-tu donc fait cela ?"
+  },
+  {
+    "id": "isa_08",
+    "question_ar": "ما المقصود بلقب 'أخت هارون' الذي نودي به مريم في القرآن؟",
+    "options_ar": ["أنها الأخت الحقيقية للنبي هارون أخي موسى", "نسبة إلى رجل صالح في قومها كان يشبهها في العبادة", "لقب تشريفي لكل امرأة صالحة في ذلك الوقت", "أنها كانت ترعى طفلاً اسمه هارون"],
+    "correct": 1,
+    "explanation_ar": "المقصود به المشابهة في الصلاح والعبادة لرجل صالح كان معروفاً بينهم، أو نسبة لذرية هارون أخي موسى.",
+    "question_fr": "Que signifie l'appellation « sœur de Haroun » utilisée pour Maryam dans le Coran ?",
+    "options_fr": ["Qu'elle était la véritable sœur du prophète Haroun, frère de Moussa", "Une référence à un homme vertueux de son peuple, auquel elle ressemblait par sa piété", "Un titre honorifique donné à toute femme vertueuse à cette époque", "Qu'elle s'occupait d'un enfant nommé Haroun"],
+    "explanation_fr": "Il s'agit d'une comparaison de piété et de dévotion avec un homme vertueux connu parmi eux, ou d'un rattachement à la descendance de Haroun, frère de Moussa."
+  },
+  {
+    "id": "isa_09",
+    "question_ar": "أي من المعجزات التالية ذُكرت لعيسى عليه السلام في القرآن الكريم؟",
+    "options_ar": ["تحويل العصا إلى حية تسعى", "شق البحر لبني إسرائيل", "إبراء الأكمه والأبرص بإذن الله", "تحدثه مع الهدهد والنمل"],
+    "correct": 2,
+    "explanation_ar": "كان عيسى يشفي من وُلد أعمى (الأكمه) والمصاب بمرض الجلد (الأبرص) كآية من الله.",
+    "question_fr": "Lequel de ces miracles est mentionné pour Aïssa dans le Coran ?",
+    "options_fr": ["Transformer le bâton en serpent rampant", "Fendre la mer pour les Fils d'Israël", "Guérir l'aveugle-né et le lépreux, par la permission d'Allah", "S'entretenir avec la huppe et les fourmis"],
+    "explanation_fr": "Aïssa guérissait l'aveugle-né et celui atteint de la lèpre, en signe de la puissance d'Allah."
+  },
+  {
+    "id": "isa_10",
+    "question_ar": "كيف كان عيسى عليه السلام يخلق من الطين طيراً؟",
+    "options_ar": ["بمسحه بيده المباركة فقط", "بالنفخ فيه فيكون طيراً بإذن الله", "بوضعه في الماء فيتحرك", "بدعاء طويل يستمر لعدة أيام"],
+    "correct": 1,
+    "explanation_ar": "﴿فَتنفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي﴾؛ النفخ كان الوسيلة لتحويل الطين إلى روح وحياة بإرادة الله.",
+    "question_fr": "Comment Aïssa façonnait-il un oiseau à partir de l'argile ?",
+    "options_fr": ["En le caressant simplement de sa main bénie", "En soufflant dessus, ce qui en faisait un oiseau, par la permission d'Allah", "En le plaçant dans l'eau, ce qui le faisait bouger", "Par une longue invocation de plusieurs jours"],
+    "explanation_fr": "« Tu souffleras dedans, et ce sera un oiseau par Ma permission » — le souffle était le moyen de transformer l'argile en un être vivant, par la volonté d'Allah."
+  },
+  {
+    "id": "isa_11",
+    "question_ar": "ما هي المعجزة الغيبية التي كان عيسى يخبر بها الناس في بيوتهم؟",
+    "options_ar": ["بما يضمرونه في قلوبهم من نيات", "بأسماء أبنائهم الذين لم يولدوا بعد", "بما يأكلون وما يدخرون في بيوتهم", "بموعد موت كل واحد منهم"],
+    "correct": 2,
+    "explanation_ar": "كان يخبرهم بأمور من خلف الجدران (ماذا أكلوا وماذا خبأوا) ليثبت صدق نبوته.",
+    "question_fr": "Quel miracle occulte Aïssa accomplissait-il en informant les gens de ce qui se passait chez eux ?",
+    "options_fr": ["Ce qu'ils dissimulaient dans leur cœur comme intentions", "Le nom de leurs enfants pas encore nés", "Ce qu'ils mangeaient et ce qu'ils conservaient chez eux", "La date de la mort de chacun d'eux"],
+    "explanation_fr": "Il leur révélait des choses cachées derrière les murs (ce qu'ils avaient mangé, ce qu'ils avaient gardé), pour prouver la véracité de sa prophétie."
+  },
+  {
+    "id": "isa_12",
+    "question_ar": "ما هو الكتاب السماوي الذي أنزله الله على عيسى عليه السلام؟",
+    "options_ar": ["التوراة", "الزبور", "الإنجيل", "الصحف"],
+    "correct": 2,
+    "explanation_ar": "﴿وَآتَيْنَاهُ الْإِنجِيلَ فِيهِ هُدًى وَنُورٌ﴾؛ وهو الكتاب المكمل للتوراة والمبشر بالقرآن.",
+    "question_fr": "Quel Livre saint Allah a-t-Il révélé à Aïssa ?",
+    "options_fr": ["La Torah", "Les Psaumes (Zabur)", "L'Évangile (Injil)", "Les Feuillets"],
+    "explanation_fr": "« Et Nous lui avons donné l'Évangile, dans lequel il y a guidée et lumière » — un Livre venant compléter la Torah et annonçant le Coran à venir."
+  },
+  {
+    "id": "isa_13",
+    "question_ar": "من هم الأنصار المخلصون الذين آمنوا بعيسى عليه السلام؟",
+    "options_ar": ["المهاجرون", "الحواريون", "الأسباط", "النقباء"],
+    "correct": 1,
+    "explanation_ar": "الحواريون هم الذين قالوا: ﴿نَحْنُ أَنصَارُ اللَّهِ آمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ﴾.",
+    "question_fr": "Qui étaient les fidèles disciples qui crurent en Aïssa ?",
+    "options_fr": ["Les émigrants (Muhajirun)", "Les apôtres (al-Hawariyyun)", "Les tribus (al-Asbat)", "Les délégués (an-Nuqaba)"],
+    "explanation_fr": "Les apôtres sont ceux qui dirent : « Nous sommes les alliés d'Allah, nous croyons en Allah, et sois témoin que nous sommes soumis. »"
+  },
+  {
+    "id": "isa_14",
+    "question_ar": "ما الاسم الذي استعمله عيسى عليه السلام ليبشر بالنبي محمد ﷺ؟",
+    "options_ar": ["محمد", "أحمد", "الماحي", "العاقب"],
+    "correct": 1,
+    "explanation_ar": "﴿وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِن بَعْدِي اسْمُهُ أَحْمَدُ﴾؛ وهو اسم من أسماء نبينا ﷺ.",
+    "question_fr": "Quel nom Aïssa a-t-il employé pour annoncer la venue du prophète Muhammad ﷺ ?",
+    "options_fr": ["Muhammad", "Ahmad", "Al-Mahi (celui qui efface)", "Al-'Aqib (celui qui vient en dernier)"],
+    "explanation_fr": "« Et annonçant un messager qui viendra après moi, du nom d'Ahmad » — l'un des noms de notre Prophète ﷺ."
+  },
+  {
+    "id": "isa_15",
+    "question_ar": "ما هي عقيدة المسلمين في نهاية حياة عيسى عليه السلام على الأرض؟",
+    "options_ar": ["أنه قُتل بسيوف الرومان", "أنه صُلب ومات ثم دُفن", "أنه لم يُقتل ولم يُصلب بل رفعه الله إليه", "أنه توفي وفاة طبيعية في فلسطين"],
+    "correct": 2,
+    "explanation_ar": "القرآن صريح في نفي القتل والصلب: ﴿وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ﴾.",
+    "question_fr": "Quelle est la croyance des musulmans concernant la fin de la vie terrestre d'Aïssa ?",
+    "options_fr": ["Qu'il fut tué par les épées romaines", "Qu'il fut crucifié, mourut, puis fut enterré", "Qu'il ne fut ni tué ni crucifié, mais qu'Allah l'éleva vers Lui", "Qu'il mourut de mort naturelle en Palestine"],
+    "explanation_fr": "Le Coran nie explicitement le meurtre et la crucifixion : « Ils ne l'ont ni tué ni crucifié, mais ce n'était qu'un faux semblant. »"
+  },
+  {
+    "id": "isa_16",
+    "question_ar": "ماذا حدث للشخص الذي أراد بنو إسرائيل قتله بدلاً من عيسى؟",
+    "options_ar": ["اختفى فجأة من المكان", "أُلقي عليه شبه عيسى فظنوه هو وصلبوه", "اعترف بالحقيقة وأطلقوا سراحه", "آمن بعيسى فنجاه الله مع النبي"],
+    "correct": 1,
+    "explanation_ar": "﴿وَلَٰكِن شُبِّهَ لَهُمْ﴾؛ أي أن الله جعل ملامح عيسى على شخص آخر عقاباً له أو فداءً للنبي.",
+    "question_fr": "Qu'est-il arrivé à la personne que les Fils d'Israël voulurent tuer à la place d'Aïssa ?",
+    "options_fr": ["Elle disparut soudainement de l'endroit", "Les traits d'Aïssa lui furent donnés en apparence, si bien qu'ils la crurent lui et la crucifièrent", "Elle avoua la vérité et fut libérée", "Elle crut en Aïssa et Allah la sauva avec le prophète"],
+    "explanation_fr": "« Mais ce n'était qu'un faux semblant » — Allah donna à une autre personne l'apparence d'Aïssa, en punition ou en rançon pour le prophète."
+  },
+  {
+    "id": "isa_17",
+    "question_ar": "بماذا وصف الله عيسى عليه السلام في سورة النساء رداً على الغلو؟",
+    "options_ar": ["إنه ملك من الملائكة", "إنه روح الله وابنه الوحيد", "إنه عبد الله ورسوله وكلمته ألقاها إلى مريم وروح منه", "إنه إله مع الله"],
+    "correct": 2,
+    "explanation_ar": "وصفه بأنه كلمة الله (خلق بكلمة كن) وروح منه (بث فيه الروح) وعبد مخلص.",
+    "question_fr": "Comment Allah décrit-Il Aïssa dans la sourate an-Nisa, en réponse à toute exagération ?",
+    "options_fr": ["Qu'il est un ange", "Qu'il est l'esprit d'Allah et Son fils unique", "Qu'il est le serviteur d'Allah, Son messager, Sa parole qu'Il envoya à Maryam et un esprit émanant de Lui", "Qu'il est une divinité au même titre qu'Allah"],
+    "explanation_fr": "Il le décrit comme la Parole d'Allah (créé par le mot « Sois »), un esprit émanant de Lui (insufflé en lui), et un serviteur sincère."
+  },
+  {
+    "id": "isa_18",
+    "question_ar": "ما هو السؤال الذي سيوجه الله لعيسى يوم القيامة أمام الناس؟",
+    "options_ar": ["لماذا لم يتبعك كل بني إسرائيل؟", "أأنت قلت للناس اتخذوني وأمي إلهين من دون الله؟", "أين وضعت الإنجيل الذي أنزلته عليك؟", "متى ستعود إلى الأرض مرة أخرى؟"],
+    "correct": 1,
+    "explanation_ar": "﴿أَأَنتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ مِن دُونِ اللَّهِ﴾؛ وهو سؤال توبيخ لمن عبده لا للنبي نفسه.",
+    "question_fr": "Quelle question Allah adressera-t-Il à Aïssa au Jour de la Résurrection, devant les hommes ?",
+    "options_fr": ["Pourquoi tous les Fils d'Israël ne t'ont-ils pas suivi ?", "« Est-ce toi qui as dit aux hommes : Prenez-moi, ainsi que ma mère, comme deux divinités en dehors d'Allah ? »", "Où as-tu déposé l'Évangile qui t'a été révélé ?", "Quand reviendras-tu de nouveau sur terre ?"],
+    "explanation_fr": "« Est-ce toi qui as dit aux hommes : Prenez-moi, ainsi que ma mère, comme deux divinités en dehors d'Allah ? » — une question de blâme adressée à ceux qui l'ont adoré, non au prophète lui-même."
+  },
+  {
+    "id": "isa_19",
+    "question_ar": "بماذا سيجيب عيسى عليه السلام ربه يوم القيامة عن دعوى ألوهيته؟",
+    "options_ar": ["سيقول: نسيت ما قلت لهم", "سيقول: سبحانك ما يكون لي أن أقول ما ليس لي بحق", "سيقول: هم الذين فهموا خطأ ولم أتدخل", "سيقول: كنت أريد الخير لهم فقط"],
+    "correct": 1,
+    "explanation_ar": "﴿سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ﴾؛ اعتراف تام بالعبودية وتنزيه لله.",
+    "question_fr": "Que répondra Aïssa à son Seigneur, au Jour de la Résurrection, concernant sa prétendue divinité ?",
+    "options_fr": ["Il dira : J'ai oublié ce que je leur ai dit", "Il dira : « Gloire à Toi ! Il ne m'appartient pas de dire ce que je n'ai pas le droit de dire »", "Il dira : Ce sont eux qui ont mal compris, je n'y suis pour rien", "Il dira : Je voulais seulement leur bien"],
+    "explanation_fr": "« Gloire à Toi ! Il ne m'appartient pas de dire ce que je n'ai pas le droit de dire » — reconnaissance totale de sa servitude et proclamation de la transcendance d'Allah."
+  },
+  {
+    "id": "isa_20",
+    "question_ar": "ما هو دور عيسى عليه السلام في آخر الزمان حسب العقيدة الإسلامية؟",
+    "options_ar": ["ينزل ليحكم بين الناس بالعدل ويتبع شريعة محمد ﷺ", "ينزل ليعيد بناء الهيكل في القدس", "ينزل ليبشر بدين جديد تماماً", "لا ينزل أبداً بل يظل في السماء"],
+    "correct": 0,
+    "explanation_ar": "ينزل عيسى في آخر الزمان كحاكم عادل وعلامة كبرى، يكسر الصليب ويقتل الخنزير ويحكم بالإسلام.",
+    "question_fr": "Quel rôle Aïssa jouera-t-il à la fin des temps, selon la croyance islamique ?",
+    "options_fr": ["Il redescendra pour gouverner les hommes avec justice, en suivant la loi de Muhammad ﷺ", "Il redescendra pour reconstruire le Temple à Jérusalem", "Il redescendra pour annoncer une toute nouvelle religion", "Il ne redescendra jamais, restant au ciel"],
+    "explanation_fr": "Aïssa redescendra à la fin des temps comme juge équitable et grand signe, brisant la croix, tuant le porc, et gouvernant selon l'islam."
+  },
+  {
+    "id": "isa_21",
+    "question_ar": "من هو النبي الذي تولى كفالة مريم ورعايتها في صغرها؟",
+    "options_ar": ["يحيى عليه السلام", "زكريا عليه السلام", "إبراهيم عليه السلام", "موسى عليه السلام"],
+    "correct": 1,
+    "explanation_ar": "﴿وَكَفَّلَهَا زَكَرِيَّا﴾؛ فقد كان زوج خالتها ونبياً في ذلك الوقت.",
+    "question_fr": "Quel prophète prit en charge Maryam et l'éleva durant son enfance ?",
+    "options_fr": ["Yahya", "Zakariyya", "Ibrahim", "Moussa"],
+    "explanation_fr": "« Et Zakariyya se chargea d'elle » — il était l'époux de sa tante et prophète à cette époque."
+  },
+  {
+    "id": "isa_22",
+    "question_ar": "لماذا تمنت مريم الموت عند المخاض بقولها: (يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا)؟",
+    "options_ar": ["من شدة آلام الولادة الجسدية فقط", "خوفاً من كلام الناس واتهامهم لها في عرضها وهي العابدة", "لأنها كانت وحيدة في الصحراء", "لأنها كرهت الدنيا وزينتها"],
+    "correct": 1,
+    "explanation_ar": "خافت من الفتنة في الدين ومن سوء ظن الناس بها وهي المعروفة بالطهارة والتقى.",
+    "question_fr": "Pourquoi Maryam a-t-elle souhaité la mort au moment des douleurs de l'accouchement, en disant : « Que je fusse morte avant cela ! » ?",
+    "options_fr": ["Uniquement en raison de la douleur physique de l'accouchement", "Par crainte des propos et des accusations des gens contre son honneur, elle qui était pieuse", "Parce qu'elle était seule dans le désert", "Parce qu'elle détestait ce bas monde et ses parures"],
+    "explanation_fr": "Elle craignait une épreuve pour la foi et le mauvais soupçon des gens à son égard, elle qui était réputée pour sa pureté et sa piété."
+  },
+  {
+    "id": "isa_23",
+    "question_ar": "بماذا وصف عيسى نفسه في المهد بخصوص تعامله مع أمه؟",
+    "options_ar": ["قال: وجعلني جباراً قوياً", "قال: وبراً بوالدتي ولم يجعلني جباراً شقياً", "قال: وناصراً لأمي في كل حين", "قال: ومشفياً لأمي من كل مرض"],
+    "correct": 1,
+    "explanation_ar": "أكد على قيمة البر بالوالدة والتواضع، ونفى عن نفسه صفة الجبروت والشقاء.",
+    "question_fr": "Comment Aïssa se décrivit-il, encore au berceau, concernant sa relation avec sa mère ?",
+    "options_fr": ["Il dit : Il a fait de moi un tyran puissant", "Il dit : « et pieux envers ma mère ; Il ne m'a pas fait tyran et malheureux »", "Il dit : et le soutien constant de ma mère", "Il dit : et le guérisseur de ma mère de toute maladie"],
+    "explanation_fr": "Il souligna la valeur de la piété filiale et de l'humilité, se dégageant de tout orgueil et de toute méchanceté."
+  },
+  {
+    "id": "isa_24",
+    "question_ar": "ما هي الحقيقة التي يكررها القرآن عند ذكر كل معجزة لعيسى عليه السلام؟",
+    "options_ar": ["أنها بقوته الخاصة كابن لله", "أنها حدثت 'بإذن الله'", "أنها لم تحدث أصلاً بل هي خيال", "أنها كانت تحدث بمساعدة الحواريين"],
+    "correct": 1,
+    "explanation_ar": "يؤكد القرآن دائماً عبارة ﴿بِإِذْنِ اللَّهِ﴾ أو ﴿بِإِذْنِي﴾ لرد الأمر لله ومنع الغلو في عيسى.",
+    "question_fr": "Quelle vérité le Coran répète-t-il à chaque mention d'un miracle d'Aïssa ?",
+    "options_fr": ["Qu'il agissait par sa propre puissance de fils de Dieu", "Que cela se produisait « par la permission d'Allah »", "Que cela ne s'est jamais produit, ce n'est qu'une fiction", "Que cela se produisait avec l'aide des apôtres"],
+    "explanation_fr": "Le Coran insiste toujours sur l'expression « par la permission d'Allah » ou « par Ma permission », pour rapporter l'action à Allah et prévenir toute exagération à l'égard d'Aïssa."
+  },
+  {
+    "id": "isa_25",
+    "question_ar": "أي من هؤلاء الأنبياء كانت رسالته موجهة لبني إسرائيل خاصة؟",
+    "options_ar": ["محمد ﷺ", "نوح عليه السلام", "عيسى عليه السلام", "هود عليه السلام"],
+    "correct": 2,
+    "explanation_ar": "رسالة عيسى كانت لبني إسرائيل ﴿وَرَسُولًا إِلَىٰ بَنِي إِسْرَائِيلَ﴾، بخلاف رسالة محمد ﷺ العامة.",
+    "question_fr": "Lequel de ces prophètes avait une mission spécifiquement destinée aux Fils d'Israël ?",
+    "options_fr": ["Muhammad ﷺ", "Nuh", "Aïssa", "Hud"],
+    "explanation_fr": "La mission d'Aïssa était destinée aux Fils d'Israël : « et [comme] messager auprès des Fils d'Israël », contrairement à la mission universelle de Muhammad ﷺ."
+  },
+  {
+    "id": "isa_26",
+    "question_ar": "ما هو الاسم الذي أطلقه الملك جبريل على عيسى وهو يبشر مريم؟",
+    "options_ar": ["غلاماً زكياً", "ولداً قوياً", "ملكاً عظيماً", "رجلاً حكيماً"],
+    "correct": 0,
+    "explanation_ar": "﴿إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا﴾؛ أي طاهراً ومباركاً.",
+    "question_fr": "Comment l'ange Jibril a-t-il désigné Aïssa en annonçant sa naissance à Maryam ?",
+    "options_fr": ["« Un garçon pur »", "« Un fils fort »", "« Un roi puissant »", "« Un homme sage »"],
+    "explanation_fr": "« Je suis seulement le messager de ton Seigneur, pour te faire don d'un garçon pur » — c'est-à-dire pur et béni."
+  },
+  {
+    "id": "isa_27",
+    "question_ar": "في سورة مريم، ماذا فعلت مريم عندما واجهها قومها بالاتهامات؟",
+    "options_ar": ["دافعت عن نفسها بقوة وشتمتهم", "بكت بحرقة ولم تستطع الكلام", "فأشارت إليه (إلى عيسى الرضيع)", "هربت منهم إلى مكان بعيد"],
+    "correct": 2,
+    "explanation_ar": "كانت قد نذرت للرحمن صوماً عن الكلام، فأشارت للرضيع لينطق هو بالحقيقة.",
+    "question_fr": "Dans la sourate Maryam, comment réagit-elle face aux accusations de son peuple ?",
+    "options_fr": ["Elle se défendit vigoureusement et les injuria", "Elle pleura amèrement, incapable de parler", "Elle pointa vers lui (le nourrisson Aïssa)", "Elle s'enfuit loin d'eux"],
+    "explanation_fr": "Elle avait fait vœu au Tout Miséricordieux de s'abstenir de parler, elle indiqua donc le nourrisson afin qu'il prononce lui-même la vérité."
+  },
+  {
+    "id": "isa_28",
+    "question_ar": "بماذا أوصى الله عيسى عليه السلام في المهد؟",
+    "options_ar": ["بالجهاد وقتال الروم", "بالصلاة والزكاة ما دام حياً", "بالسفر والتنقل في الأرض", "ببناء الكنائس والمعابد"],
+    "correct": 1,
+    "explanation_ar": "﴿وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا﴾؛ وهي أركان العبادة في كل الشرائع.",
+    "question_fr": "Que prescrivit Allah à Aïssa, dans son berceau ?",
+    "options_fr": ["La lutte armée contre les Romains", "La prière et l'aumône, tant qu'il vivrait", "Les voyages et déplacements à travers la terre", "La construction d'églises et de sanctuaires"],
+    "explanation_fr": "« Et Il m'a prescrit la prière et l'aumône, tant que je vivrai » — piliers d'adoration communs à toutes les lois révélées."
+  },
+  {
+    "id": "isa_29",
+    "question_ar": "ماذا قال عيسى عن التوراة التي كانت قبل رسالته؟",
+    "options_ar": ["قال إنها محرفة ولا أؤمن بها", "قال إنه جاء مصدقاً لما بين يديه منها", "قال إنها صعبة ويجب تركها", "لم يذكر التوراة أبداً في دعوته"],
+    "correct": 1,
+    "explanation_ar": "رسالة عيسى جاءت مكملة ومصدقة لشريعة موسى ﴿مُصَدِّقًا لِّمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ﴾.",
+    "question_fr": "Que dit Aïssa au sujet de la Torah qui précédait sa mission ?",
+    "options_fr": ["Il dit qu'elle était falsifiée et qu'il n'y croyait pas", "Il dit qu'il venait confirmer ce qui existait déjà d'elle", "Il dit qu'elle était trop difficile et devait être abandonnée", "Il ne mentionna jamais la Torah dans sa prédication"],
+    "explanation_fr": "La mission d'Aïssa vint compléter et confirmer la loi de Moussa : « confirmant ce qui, de la Torah, existait avant moi »."
+  },
+  {
+    "id": "isa_30",
+    "question_ar": "ما معنى وصف عيسى عليه السلام بأنه 'كلمة الله'؟",
+    "options_ar": ["لأنه أول من تكلم في العالم", "لأنه خُلق بكلمة (كن) مباشرة من غير أب", "لأنه كان كثير الكلام والخطابة", "لأنه كان يكتب كلمات الله على الورق"],
+    "correct": 1,
+    "explanation_ar": "سُمي كلمة لأنه لم يُخلق من نطفة بل بأمر الله المباشر 'كن' فكان.",
+    "question_fr": "Que signifie la description d'Aïssa comme « Parole d'Allah » ?",
+    "options_fr": ["Parce qu'il fut le premier à parler dans le monde", "Parce qu'il fut créé directement par le mot « Sois », sans père", "Parce qu'il parlait et prêchait beaucoup", "Parce qu'il écrivait les paroles d'Allah sur du papier"],
+    "explanation_fr": "Il fut appelé « Parole » car il ne fut pas créé d'un embryon, mais par l'ordre direct d'Allah, « Sois », et il fut."
+  },
+  {
+    "id": "isa_31",
+    "question_ar": "ما هو اللقب الذي يُعرف به عيسى عليه السلام ويُذكر به في القرآن غالباً؟",
+    "options_ar": ["الكليم", "المسيح", "الذبيح", "الخليل"],
+    "correct": 1,
+    "explanation_ar": "﴿إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ﴾؛ وسُمي مسيحاً لأنه كان يمسح على المريض فيبرأ بإذن الله.",
+    "question_fr": "Sous quel titre Aïssa est-il le plus souvent mentionné dans le Coran ?",
+    "options_fr": ["Al-Kalim (Celui à qui Allah a parlé)", "Al-Massih (le Messie)", "Adh-Dhabih (le Sacrifié)", "Al-Khalil (l'Ami intime)"],
+    "explanation_fr": "« Le Messie, Aïssa fils de Maryam, n'est que le messager d'Allah » ; il fut nommé « Messie » car il touchait le malade, qui guérissait par la permission d'Allah."
+  },
+  {
+    "id": "isa_32",
+    "question_ar": "ما هي الآية التي تدل على أن مريم كانت طاهرة مصطفاة؟",
+    "options_ar": ["﴿إِنَّ اللَّهَ اصْطَفَاكِ وَطَهَّرَكِ﴾", "﴿إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ﴾", "﴿فَاتَّخَذَتْ مِن دُونِهِمْ حِجَابًا﴾", "﴿قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٌ﴾"],
+    "correct": 0,
+    "explanation_ar": "خاطبتها الملائكة مؤكدة اختيار الله لها وتطهيرها من كل سوء.",
+    "question_fr": "Quel verset atteste que Maryam était pure et élue ?",
+    "options_fr": ["« Allah t'a élue et t'a purifiée »", "« Allah t'annonce une parole émanant de Lui »", "« Elle prit un voile la séparant d'eux »", "« Elle dit : Seigneur, comment aurais-je un enfant ? »"],
+    "explanation_fr": "Les anges s'adressèrent à elle en affirmant son élection par Allah et sa purification de tout mal."
+  },
+  {
+    "id": "isa_33",
+    "question_ar": "كيف استقبلت مريم الملك جبريل أول مرة؟",
+    "options_ar": ["فرحت بلقائه ورحبت به", "استعاذت بالرحمن منه خوفاً على نفسها", "عرفت فوراً أنه ملك", "سألته عن اسمه وعمله"],
+    "correct": 1,
+    "explanation_ar": "﴿قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَٰنِ مِنكَ﴾؛ لأنها رأته في صورة رجل غريب في مكان خلوتها.",
+    "question_fr": "Comment Maryam a-t-elle accueilli l'ange Jibril lors de leur première rencontre ?",
+    "options_fr": ["Elle se réjouit de le rencontrer et l'accueillit", "Elle chercha protection auprès du Tout Miséricordieux, craignant pour elle-même", "Elle sut immédiatement que c'était un ange", "Elle lui demanda son nom et son rôle"],
+    "explanation_fr": "« Elle dit : Je cherche refuge contre toi auprès du Tout Miséricordieux » — car elle le vit sous l'apparence d'un homme étranger, dans son lieu de retraite."
+  },
+  {
+    "id": "isa_34",
+    "question_ar": "بماذا نادى 'من تحتها' مريم وهي حزينة عند النخلة؟",
+    "options_ar": ["أن لا تحزني قد جعل ربك تحتك سرياً (جدول ماء)", "أن تذهبي إلى قومك فوراً", "أن تتركي الطفل هنا وترحلي", "أن لا تأكلي ولا تشربي"],
+    "correct": 0,
+    "explanation_ar": "واساها الله بوجود الماء (السري) والطعام (الرطب) لتسكن نفسها.",
+    "question_fr": "Qui l'appela « d'en dessous d'elle », alors qu'elle était affligée près du palmier ?",
+    "options_fr": ["« Ne t'afflige pas ; ton Seigneur a placé à tes pieds un ruisseau »", "« Rends-toi immédiatement auprès de ton peuple »", "« Laisse l'enfant ici et pars »", "« Ne mange ni ne bois »"],
+    "explanation_fr": "Allah la réconforta par la présence d'eau (le ruisseau) et de nourriture (les dattes) pour apaiser son âme."
+  },
+  {
+    "id": "isa_35",
+    "question_ar": "ما هو 'روح القدس' الذي أيد الله به عيسى عليه السلام؟",
+    "options_ar": ["هو الإنجيل", "هو جبريل عليه السلام", "هو نور في قلبه", "هو قوة بدنية خارقة"],
+    "correct": 1,
+    "explanation_ar": "﴿إِذْ أَيَّدتُّكَ بِرُوحِ الْقُدُسِ﴾؛ والمقصود بروح القدس هنا هو الملك جبريل عليه السلام.",
+    "question_fr": "Qu'est « l'Esprit Saint » par lequel Allah a soutenu Aïssa ?",
+    "options_fr": ["L'Évangile", "L'ange Jibril", "Une lumière dans son cœur", "Une force physique surnaturelle"],
+    "explanation_fr": "« Quand Je te fortifiai de l'Esprit Saint » — l'Esprit Saint désigne ici l'ange Jibril."
+  },
+  {
+    "id": "isa_36",
+    "question_ar": "ما الذي سيشهده عيسى عليه السلام يوم القيامة بخصوص 'أهل الكتاب'؟",
+    "options_ar": ["سيدعو لهم جميعاً بالرحمة", "سيكون عليهم شهيداً (يشهد على صدق الرسالة وبطلان الغلو)", "سيطلب من الله أن يدخلهم الجنة بلا حساب", "لن يتحدث عنهم أبداً"],
+    "correct": 1,
+    "explanation_ar": "﴿وَيَوْمَ الْقِيَامةِ يَكُونُ عَلَيْهِمْ شَهِيدًا﴾؛ يشهد بتبليغه التوحيد وبراءته من شركهم.",
+    "question_fr": "Que témoignera Aïssa au Jour de la Résurrection au sujet des « Gens du Livre » ?",
+    "options_fr": ["Il implorera la miséricorde pour eux tous", "Il sera témoin contre eux (attestant la véracité du message et l'invalidité de leur exagération)", "Il demandera à Allah de les faire entrer au Paradis sans jugement", "Il ne parlera jamais d'eux"],
+    "explanation_fr": "« Et au Jour de la Résurrection, il sera témoin contre eux » — il témoignera avoir transmis l'unicité et se désolidarisera de leur association."
+  },
+  {
+    "id": "isa_37",
+    "question_ar": "لماذا سمّى الله عيسى 'آية للناس'؟",
+    "options_ar": ["لأنه كان جميلاً جداً", "لأن ولادته ومعجزاته دليل باهر على قدرة الخالق", "لأنه كان يكتب الآيات على جدران المعابد", "لأنه عاش طويلاً جداً"],
+    "correct": 1,
+    "explanation_ar": "قصة عيسى من بدايتها لنهايتها خرق للقوانين المادية لتذكير الناس بقدرة الله المطلقة.",
+    "question_fr": "Pourquoi Allah a-t-Il désigné Aïssa comme « un signe pour les hommes » ?",
+    "options_fr": ["Parce qu'il était d'une grande beauté", "Parce que sa naissance et ses miracles sont une preuve éclatante de la puissance du Créateur", "Parce qu'il écrivait des versets sur les murs des sanctuaires", "Parce qu'il vécut très longtemps"],
+    "explanation_fr": "L'histoire d'Aïssa, du début à la fin, dépasse les lois matérielles ordinaires, rappelant aux hommes la puissance absolue d'Allah."
+  },
+  {
+    "id": "isa_38",
+    "question_ar": "ماذا كان شعار الحواريين في طلبهم للإيمان؟",
+    "options_ar": ["اشهد بأنا يهود", "اشهد بأنا نصارى", "اشهد بأنا مسلمون", "اشهد بأنا حكماء"],
+    "correct": 2,
+    "explanation_ar": "﴿وَاشْهَدْ بِأَنَّا مُسْلِمُونَ﴾؛ وهذا يؤكد أن الإسلام هو دين الأنبياء جميعاً.",
+    "question_fr": "Quelle fut la devise des apôtres en proclamant leur foi ?",
+    "options_fr": ["« Sois témoin que nous sommes juifs »", "« Sois témoin que nous sommes chrétiens »", "« Sois témoin que nous sommes soumis (musulmans) »", "« Sois témoin que nous sommes sages »"],
+    "explanation_fr": "« Et sois témoin que nous sommes soumis » — confirmant que l'islam (la soumission à Allah) est la religion de tous les prophètes."
+  },
+  {
+    "id": "isa_39",
+    "question_ar": "ما هي الحقيقة التي ذكرها القرآن عن عقيدة الصلب؟",
+    "options_ar": ["صلبوه ولكنه لم يمت", "مات على الصليب ثم عاش ثانية", "وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ", "قُتل بالسم قبل الصلب"],
+    "correct": 2,
+    "explanation_ar": "القرآن ينفي وقوع الصلب تماماً عن عيسى عليه السلام.",
+    "question_fr": "Quelle vérité le Coran énonce-t-il concernant la crucifixion ?",
+    "options_fr": ["Ils le crucifièrent, mais il ne mourut pas", "Il mourut sur la croix puis revint à la vie", "« Ils ne l'ont ni tué ni crucifié, mais ce n'était qu'un faux semblant »", "Il fut empoisonné avant la crucifixion"],
+    "explanation_fr": "Le Coran nie totalement que la crucifixion ait eu lieu pour Aïssa."
+  },
+  {
+    "id": "isa_40",
+    "question_ar": "إلى ماذا كانت دعوة عيسى عليه السلام الأساسية؟",
+    "options_ar": ["عبادة المسيح وأمه", "عبادة الله وحده لا شريك له", "التمسك بالتقاليد الرومانية", "ترك الدنيا والعيش في الغابات"],
+    "correct": 1,
+    "explanation_ar": "﴿أَنِ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ﴾؛ هذه هي جوهر دعوة عيسى وكل الرسل.",
+    "question_fr": "Quel était le message fondamental d'Aïssa ?",
+    "options_fr": ["Adorer le Messie et sa mère", "Adorer Allah seul, sans associé", "S'attacher aux traditions romaines", "Renoncer au monde et vivre dans les forêts"],
+    "explanation_fr": "« Adorez Allah, mon Seigneur et le vôtre » — c'est l'essence de la prédication d'Aïssa comme de tous les messagers."
+  },
+  {
+    "id": "isa_41",
+    "question_ar": "بماذا وصف الله قلوب بني إسرائيل الذين عارضوا عيسى؟",
+    "options_ar": ["بأنها قلوب لينة", "بأنها قاسية كالجارحة", "بأنها كفرت بالحق وبغت", "بأنها تحب المال أكثر من الله"],
+    "correct": 2,
+    "explanation_ar": "واجه عيسى جحوداً كبيراً ومحاولات قتل، برغم كثرة المعجزات الباهرة.",
+    "question_fr": "Comment Allah décrit-Il les cœurs des Fils d'Israël qui s'opposèrent à Aïssa ?",
+    "options_fr": ["Comme des cœurs tendres", "Comme durs, tel un oiseau de proie", "Comme mécréants envers la vérité et injustes", "Comme aimant l'argent plus qu'Allah"],
+    "explanation_fr": "Aïssa fit face à un grand rejet et à des tentatives de meurtre, malgré la multitude de ses éclatants miracles."
+  },
+  {
+    "id": "isa_42",
+    "question_ar": "ما هي العلاقة بين رسالة عيسى ورسالة محمد ﷺ؟",
+    "options_ar": ["علاقة تضاد واختلاف", "علاقة تبشير وتكميل لسلسلة النبوة", "لا توجد أي علاقة بينهما", "رسالة محمد ﷺ ألغت كل ما قاله عيسى"],
+    "correct": 1,
+    "explanation_ar": "عيسى كان ممهداً ومبشراً بالنبي الخاتم محمد ﷺ.",
+    "question_fr": "Quel est le rapport entre la mission d'Aïssa et celle de Muhammad ﷺ ?",
+    "options_fr": ["Une relation d'opposition et de divergence", "Une relation d'annonce et de complément dans la chaîne de la prophétie", "Aucun rapport entre elles", "La mission de Muhammad ﷺ a annulé tout ce qu'Aïssa a dit"],
+    "explanation_fr": "Aïssa fut un précurseur, annonçant la venue du sceau des prophètes, Muhammad ﷺ."
+  },
+  {
+    "id": "isa_43",
+    "question_ar": "ما معنى وصف عيسى بـ 'كلمة منه ألقاها إلى مريم'؟",
+    "options_ar": ["أن مريم سمعت الكلمة بأذنها فقط", "أن عيسى خُلق بأمر (كن) الرباني في رحمها بلا تلقيح", "أن عيسى كان يحفظ كلمات الإنجيل", "أن مريم تكلمت بكلام كثير"],
+    "correct": 1,
+    "explanation_ar": "تأكيد على الخلق الإعجازي المباشر بقدرة الله.",
+    "question_fr": "Que signifie la description d'Aïssa comme « une parole émanant de Lui, envoyée à Maryam » ?",
+    "options_fr": ["Que Maryam a seulement entendu cette parole de ses oreilles", "Qu'Aïssa fut créé par l'ordre divin « Sois » dans son sein, sans fécondation", "Qu'Aïssa mémorisait les paroles de l'Évangile", "Que Maryam parlait beaucoup"],
+    "explanation_fr": "C'est une affirmation de la création miraculeuse directe, par la seule puissance d'Allah."
+  },
+  {
+    "id": "isa_44",
+    "question_ar": "كيف كان موقف مريم من نذر أمها لها لخدمة بيت المقدس؟",
+    "options_ar": ["رفضت ذلك وأرادت الخروج", "قبلت وأخلصت في العبادة حتى صارت المصطفاة", "كانت تخدم وتلعب في نفس الوقت", "لم تكن تعلم بهذا النذر"],
+    "correct": 1,
+    "explanation_ar": "أخلصت مريم في عبوديتها لله حتى استحقت تلك الكرامات العظيمة.",
+    "question_fr": "Quelle fut l'attitude de Maryam envers le vœu de sa mère la consacrant au service du sanctuaire de Jérusalem ?",
+    "options_fr": ["Elle le refusa et voulut le quitter", "Elle l'accepta et se dévoua sincèrement à l'adoration jusqu'à devenir l'élue", "Elle servait et jouait en même temps", "Elle ne connaissait pas ce vœu"],
+    "explanation_fr": "Maryam se dévoua sincèrement à sa servitude envers Allah, jusqu'à mériter ces immenses faveurs."
+  },
+  {
+    "id": "isa_45",
+    "question_ar": "بماذا رد الله على من قال 'إن الله هو المسيح ابن مريم'؟",
+    "options_ar": ["وصفهم بالمؤمنين المخلصين", "قال ﴿لَّقَدْ كَفَرَ الَّذِينَ قَالُوا﴾", "قال إنهم مجتهدون ولهم أجر", "لم يرد عليهم في القرآن"],
+    "correct": 1,
+    "explanation_ar": "حكم القرآن بالكفر على من اعتقد بألوهية المسيح لأنها شرك بالله.",
+    "question_fr": "Comment Allah a-t-Il répondu à ceux qui affirment « Allah, c'est le Messie fils de Maryam » ?",
+    "options_fr": ["Il les décrivit comme des croyants sincères", "Il dit : « Ont certes mécru ceux qui ont dit... »", "Il dit qu'ils étaient de bonne foi et méritaient récompense", "Il ne leur répondit pas dans le Coran"],
+    "explanation_fr": "Le Coran juge mécréant quiconque croit en la divinité du Messie, car cela constitue une association à Allah."
+  },
+  {
+    "id": "isa_46",
+    "question_ar": "ما هي المعجزة التي طلبها الحواريون من عيسى عليه السلام؟",
+    "options_ar": ["أن ينزل عليهم مائدة من السماء", "أن يطير بهم في الهواء", "أن يحول لهم التراب ذهباً", "أن يجعلهم أنبياء مثله"],
+    "correct": 0,
+    "explanation_ar": "طلبوا نزول مائدة لتطمئن قلوبهم ويعلموا أن قد صدقهم.",
+    "question_fr": "Quel miracle les apôtres ont-ils demandé à Aïssa ?",
+    "options_fr": ["Qu'il fasse descendre sur eux une table servie du ciel", "Qu'il les fasse voler dans les airs", "Qu'il transforme la terre en or pour eux", "Qu'il fasse d'eux des prophètes comme lui"],
+    "explanation_fr": "Ils demandèrent la descente d'une table servie, pour apaiser leur cœur et savoir qu'il leur avait dit vrai."
+  },
+  {
+    "id": "isa_47",
+    "question_ar": "لماذا سُمي عيسى 'ابن مريم' دائماً في القرآن؟",
+    "options_ar": ["لأنه لم يكن له أب فيُنسب إليه", "لأن أمه كانت مشهورة أكثر منه", "لأن هذا كان اسمها المفضل", "لتمييزه عن أنبياء آخرين"],
+    "correct": 0,
+    "explanation_ar": "النسب للأم هنا تأكيد شرعي وتاريخي على معجزة ولادته بلا أب.",
+    "question_fr": "Pourquoi Aïssa est-il toujours désigné comme « fils de Maryam » dans le Coran ?",
+    "options_fr": ["Parce qu'il n'avait pas de père auquel se rattacher", "Parce que sa mère était plus célèbre que lui", "Parce que c'était son nom préféré", "Pour le distinguer des autres prophètes"],
+    "explanation_fr": "Le rattachement à la mère ici confirme légalement et historiquement le miracle de sa naissance sans père."
+  },
+  {
+    "id": "isa_48",
+    "question_ar": "ماذا قال الله لعيسى عند رفعه إلى السماء؟",
+    "options_ar": ["إني متوفيك ورافعك إليّ ومطهرك من الذين كفروا", "اذهب وقاتل أعداءك", "ستعود غداً لتنتقم", "وداعاً يا عيسى"],
+    "correct": 0,
+    "explanation_ar": "طمأنه الله بالرفع والتطهير من كيد الكافرين الذين أرادوا قتله.",
+    "question_fr": "Que dit Allah à Aïssa lors de son élévation au ciel ?",
+    "options_fr": ["« Je vais mettre fin à ta vie [terrestre], t'élever vers Moi et te purifier de ceux qui ont mécru »", "« Va combattre tes ennemis »", "« Tu reviendras demain pour te venger »", "« Adieu, Aïssa »"],
+    "explanation_fr": "Allah le rassura de son élévation et de sa purification du complot des mécréants qui voulaient le tuer."
+  },
+  {
+    "id": "isa_49",
+    "question_ar": "أي من الصفات التالية نفاه عيسى عن نفسه في المهد؟",
+    "options_ar": ["صفة النبوة", "صفة البر بالوالدة", "صفة الجبار الشقي", "صفة العبودية لله"],
+    "correct": 2,
+    "explanation_ar": "﴿وَلَمْ يَجْعَلْنِي جَبَّارًا شَقِيًّا﴾؛ فالنبوة رحمة وتواضع وليست تجبراً.",
+    "question_fr": "Laquelle de ces qualités Aïssa a-t-il niée pour lui-même, dans son berceau ?",
+    "options_fr": ["La qualité de prophète", "La qualité de piété filiale", "La qualité de tyran malheureux", "La qualité de serviteur d'Allah"],
+    "explanation_fr": "« Il ne m'a pas fait tyran et malheureux » — la prophétie est miséricorde et humilité, non tyrannie."
+  },
+  {
+    "id": "isa_50",
+    "question_ar": "ما هو الدرس المستفاد من قصة عيسى ومريم عليهما السلام؟",
+    "options_ar": ["أن الأسباب المادية هي كل شيء", "أن قدرة الله فوق كل القوانين والتوكل عليه هو النجاة", "أن الناس دائماً على حق في أحكامهم", "أن الصمت دائماً أفضل من الكلام"],
+    "correct": 1,
+    "explanation_ar": "القصة تعلمنا أن الله قادر على كل شيء بكلمة 'كن'، وأن الإيمان والتقوى يرفعان شأن الإنسان.",
+    "question_fr": "Quelle leçon tirer de l'histoire d'Aïssa et de Maryam ?",
+    "options_fr": ["Que les causes matérielles sont tout", "Que la puissance d'Allah dépasse toutes les lois, et que Lui faire confiance est le salut", "Que les gens ont toujours raison dans leurs jugements", "Que le silence est toujours préférable à la parole"],
+    "explanation_fr": "Cette histoire nous enseigne qu'Allah est capable de toute chose par le mot « Sois », et que la foi et la piété élèvent le rang de l'homme."
+  }
+]

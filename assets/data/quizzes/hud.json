@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "hud_01",
+    "question_ar": "إلى أي قوم أُرسل نبي الله هود عليه السلام؟",
+    "options_ar": [
+      "قوم ثمود أصحاب الصخر",
+      "قوم عاد الأولى",
+      "أصحاب الأيكة",
+      "بني إسرائيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ).",
+    "question_fr": "À quel peuple le prophète Hud (paix sur lui) fut-il envoyé ?",
+    "options_fr": [
+      "Le peuple de Thamoud, les gens du rocher",
+      "Le premier peuple de 'Ad",
+      "Les gens d'al-Aykah",
+      "Les Fils d'Israël"
+    ],
+    "explanation_fr": "« Et [Nous avons envoyé] au peuple de 'Ad leur frère Hud. Il dit : Ô mon peuple, adorez Allah »."
+  },
+  {
+    "id": "hud_02",
+    "question_ar": "بماذا امتاز قوم عاد (قوم هود) جسمانياً وبنائياً كما وصفهم القرآن؟",
+    "options_ar": [
+      "كانوا أقزاماً يبنون بيوتاً صغيرة تحت الأرض",
+      "كانوا عمالقة شداداً (زادكم في الخلق بَسطة) يبنون ذات العماد",
+      "كانوا أمهر الناس بالزراعة وصيد الأسماك لا يهتمون بالبناء",
+      "كانوا يعيشون في خيام من وبر الإبل ففط"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً) و(إِرَمَ ذَاتِ الْعِمَادِ * الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ).",
+    "question_fr": "Par quoi le peuple de 'Ad (le peuple de Hud) se distinguait-il physiquement et dans ses constructions, selon la description du Coran ?",
+    "options_fr": [
+      "C'étaient des nains qui construisaient de petites maisons souterraines",
+      "C'étaient des géants puissants (« Il vous a donné une stature imposante ») qui construisaient la cité aux colonnes",
+      "C'étaient les gens les plus habiles en agriculture et en pêche, sans intérêt pour la construction",
+      "Ils vivaient uniquement sous des tentes de poil de chameau"
+    ],
+    "explanation_fr": "« Et Il vous a donné une stature imposante » et « Iram aux colonnes, dont pareille ne fut jamais créée dans les contrées »."
+  },
+  {
+    "id": "hud_03",
+    "question_ar": "أين كان يسكن قوم عاد (الأحقاف)؟",
+    "options_ar": [
+      "في شمال الشام",
+      "في الأحقاف (وهي جبال الرمل باليمن والجزيرة العربية)",
+      "في وادي النيل بمصر",
+      "في بابل بالعراق"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَاذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُ بِالْأَحْقَافِ).",
+    "question_fr": "Où habitait le peuple de 'Ad (al-Ahqaf) ?",
+    "options_fr": [
+      "Dans le nord du Levant",
+      "Dans al-Ahqaf (les montagnes de sable au Yémen et dans la péninsule Arabique)",
+      "Dans la vallée du Nil, en Égypte",
+      "À Babylone, en Irak"
+    ],
+    "explanation_fr": "« Et rappelle-toi le frère de 'Ad, quand il avertit son peuple à al-Ahqaf »."
+  },
+  {
+    "id": "hud_04",
+    "question_ar": "كيف واجه قوم عاد دعوة نبيهم هود؟",
+    "options_ar": [
+      "آمنوا به سريعاً لمكانته العالية",
+      "اعتبروه سفيهاً وكاذباً واتهموه بأن آلهتهم أصابته بالجنون",
+      "وافقوا على عبادة الله بشرط عبادة أصنامهم معه",
+      "تجاهلوه ولم يتكلموا معه أبداً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(إِنْ نَقُولُ إِلاَّ اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ) وقالوا له (إِنَّا لَنَرَاكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ).",
+    "question_fr": "Comment le peuple de 'Ad a-t-il accueilli l'appel de son prophète Hud ?",
+    "options_fr": [
+      "Ils crurent en lui rapidement en raison de son rang élevé",
+      "Ils le considérèrent comme insensé et menteur, l'accusant d'avoir été frappé de folie par leurs divinités",
+      "Ils acceptèrent d'adorer Allah à condition d'adorer aussi leurs idoles avec Lui",
+      "Ils l'ignorèrent et ne lui parlèrent jamais"
+    ],
+    "explanation_fr": "« Nous dirons seulement que l'une de nos divinités t'a frappé d'un mal » et ils lui dirent : « Nous te voyons certes dans un égarement et nous te pensons du nombre des menteurs »."
+  },
+  {
+    "id": "hud_05",
+    "question_ar": "ماذا قال هود عليه السلام متحدياً قومه عندما خوفوه بآلهتهم؟",
+    "options_ar": [
+      "قال سأطلب من الله أن يهدم أصنامكم اليوم",
+      "قال فكيدوني جميعاً ثم لا تُنظرون (أتحدى آلهتكم وجميعكم أن تضروني)",
+      "هرب واختبأ منهم في الجبال",
+      "اعترف بخوفه من أصنامهم وتنازل قليلاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَكِيدُونِي جَمِيعًا ثُمَّ لا تُنْظِرُونِ * إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ)، وهذا تحدٍّ شجاع عجيب من رجل أعزل وحيد لقوم عتاة عمالقة.",
+    "question_fr": "Que dit Hud (paix sur lui) en défiant son peuple lorsqu'ils l'ont menacé de leurs divinités ?",
+    "options_fr": [
+      "Il dit qu'il demanderait à Allah de détruire leurs idoles ce jour même",
+      "Il dit : « Complotez donc tous contre moi, puis ne me donnez aucun répit » (il défia leurs divinités et eux tous de lui nuire)",
+      "Il s'enfuit et se cacha d'eux dans les montagnes",
+      "Il avoua sa peur de leurs idoles et céda un peu"
+    ],
+    "explanation_fr": "« Complotez donc tous contre moi, puis ne me donnez aucun répit * Je place ma confiance en Allah » — un défi étonnant et courageux de la part d'un homme seul et désarmé face à un peuple de géants tyranniques."
+  },
+  {
+    "id": "hud_06",
+    "question_ar": "بماذا اغتر واستكبر قوم عاد كما ذكر القرآن عنهم ظناً منهم أنهم لا يُقهرون؟",
+    "options_ar": [
+      "بكثرة أموالهم وذهبهم",
+      "بقوتهم البدنية المهولة قائلين (مَنْ أَشَدُّ مِنَّا قُوَّةً)",
+      "بسحرهم العظيم وقدراتهم الخفية",
+      "بعلاقتهم القوية مع ملوك العالم القديم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً).",
+    "question_fr": "Par quoi le peuple de 'Ad s'est-il enorgueilli et laissé emporter par l'arrogance, comme le rapporte le Coran, pensant être invincible ?",
+    "options_fr": [
+      "Par l'abondance de leurs richesses et de leur or",
+      "Par leur force physique redoutable, disant : « Qui est plus fort que nous ? »",
+      "Par leur immense magie et leurs pouvoirs cachés",
+      "Par leur relation étroite avec les rois du monde antique"
+    ],
+    "explanation_fr": "« Quant aux 'Ad, ils s'enflèrent d'orgueil sur terre sans droit et dirent : Qui est plus fort que nous en puissance ? »"
+  },
+  {
+    "id": "hud_07",
+    "question_ar": "كيف كان عقاب قوم هود (عاد) الأول الذي خدعهم قبل العذاب الأكبر؟",
+    "options_ar": [
+      "رأوا سحابة صفراء تمطر ناراً فتجاهلوها",
+      "رأوا سحابة عارضا مستقبل أوديتهم فظنوه غيثا (مطر الرحمة)",
+      "انشقت الأرض تحتهم قليلاً ظنوها زلزالاً خفيفاً",
+      "انقطعت عنهم الشمس فظنوه كسوفاً عادياً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا هَٰذَا عَارِضٌ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا اسْتَعْجَلْتُم بِهِ ۖ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ).",
+    "question_fr": "Quel fut le premier châtiment, trompeur, du peuple de Hud ('Ad), avant le grand châtiment ?",
+    "options_fr": [
+      "Ils virent un nuage jaune faisant pleuvoir du feu, mais l'ignorèrent",
+      "Ils virent un nuage s'avancer vers leurs vallées et le prirent pour de la pluie (la pluie de miséricorde)",
+      "La terre s'est légèrement fendue sous eux et ils pensèrent à un léger séisme",
+      "Le soleil s'éclipsa et ils pensèrent à une éclipse ordinaire"
+    ],
+    "explanation_fr": "« Lorsqu'ils le virent comme un nuage s'avançant vers leurs vallées, ils dirent : Voici un nuage qui va nous donner de la pluie. — Non ! c'est plutôt ce que vous cherchiez à hâter : un vent qui contient un châtiment douloureux »."
+  },
+  {
+    "id": "hud_08",
+    "question_ar": "ما طبيعة العذاب الذي سُلط على قوم عاد ودمرهم تماماً؟",
+    "options_ar": [
+      "صيحة من جبريل قطعت قلوبهم",
+      "ريح صرصر عاتية مستمرة",
+      "غَرَق مشابه لطوفان نوح بل أشد",
+      "حجارة من سجيل منضود"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ).",
+    "question_fr": "Quelle fut la nature du châtiment infligé au peuple de 'Ad, qui les anéantit complètement ?",
+    "options_fr": [
+      "Un cri de Gabriel qui déchira leurs cœurs",
+      "Un vent glacial, violent et continu",
+      "Une noyade semblable au déluge de Noé, voire pire",
+      "Des pierres de glaise en séries"
+    ],
+    "explanation_fr": "« Quant aux 'Ad, ils furent détruits par un vent glacial et violent »."
+  },
+  {
+    "id": "hud_09",
+    "question_ar": "كم ليلة ويوماً استمرت الرياح العاتية تُهلك قوم عاد؟",
+    "options_ar": [
+      "ثلاثة أيام بلياليها",
+      "سبع ليال وثمانية أيام حسوماً",
+      "يوماً واحداً من طلوع الشمس لمغربها",
+      "شهراً كاملاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُومًا).",
+    "question_fr": "Combien de nuits et de jours les vents violents ont-ils duré pour anéantir le peuple de 'Ad ?",
+    "options_fr": [
+      "Trois jours et leurs nuits",
+      "Sept nuits et huit jours consécutifs",
+      "Un seul jour, du lever au coucher du soleil",
+      "Un mois entier"
+    ],
+    "explanation_fr": "« Il le déchaîna contre eux pendant sept nuits et huit jours consécutifs »."
+  },
+  {
+    "id": "hud_10",
+    "question_ar": "كيف وصف الله شكل قوم عاد وهم أموات مصروعون بعد توقف الرياح؟",
+    "options_ar": [
+      "كأنهم تماثيل مكسورة",
+      "كأنهم أعجاز نخل خاوية (جذوع نخل مقلوعة ومجوفة من الداخل)",
+      "كانوا رماداً تذروه الرياح",
+      "كالجراد المنتشر في كل مكان"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَتَرَى الْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ).",
+    "question_fr": "Comment Allah a-t-Il décrit l'apparence du peuple de 'Ad, morts et gisant au sol, après l'arrêt des vents ?",
+    "options_fr": [
+      "Comme des statues brisées",
+      "Comme des troncs de palmiers évidés et déracinés (des troncs de palmiers arrachés, creux à l'intérieur)",
+      "Ils étaient devenus des cendres dispersées par le vent",
+      "Comme des sauterelles répandues partout"
+    ],
+    "explanation_fr": "« Tu aurais vu le peuple étendu là, comme des troncs de palmiers évidés »."
+  },
+  {
+    "id": "hud_11",
+    "question_ar": "ماذا كان دور هود عليه السلام عندما واجهه قومه باتهامات السفاهة والكذب؟",
+    "options_ar": [
+      "سبهم وشتمهم بالمثل",
+      "قال (يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَٰكِنِّي رَسُولٌ مِّن رَّبِّ الْعَالَمِينَ)",
+      "أمر أتباعه بمهاجمتهم",
+      "توقف عن دعوتهم وانعزل"
+    ],
+    "correct": 1,
+    "explanation_ar": "أدب الأنبياء دائماً في الرد والنفي المجرد عن الإساءة وإثبات الرسالة.",
+    "question_fr": "Quel fut le rôle de Hud (paix sur lui) lorsque son peuple l'accusa d'insensé et de menteur ?",
+    "options_fr": [
+      "Il les insulta en retour",
+      "Il dit : « Ô mon peuple, il n'y a en moi nulle insensé, mais je suis un messager du Seigneur des mondes »",
+      "Il ordonna à ses adeptes de les attaquer",
+      "Il cessa de les inviter et s'isola"
+    ],
+    "explanation_fr": "C'est là toujours le comportement des prophètes en réponse : nier calmement l'accusation et affirmer la mission."
+  },
+  {
+    "id": "hud_12",
+    "question_ar": "في سورة الشعراء، على ماذا عاتب هود عليه السلام قومه (أَتَبْنُونَ بِكُلِّ رِيعٍ ...)؟",
+    "options_ar": [
+      "مساجِدَ يُذكر فيها غير الله",
+      "آيَةً تَعْبَثُونَ (قصورا وأبنية شاهقة للعبث واستعراض القوة دون حاجة ملحة)",
+      "بيوتاً لجمع الأموال والمكوس",
+      "قلاعاً لظلم المارة والسلب"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ * وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ).",
+    "question_fr": "Dans la sourate ash-Shu'ara, sur quoi Hud (paix sur lui) a-t-il reproché à son peuple (« Bâtissez-vous sur chaque hauteur… ») ?",
+    "options_fr": [
+      "Des mosquées où l'on invoque un autre qu'Allah",
+      "Un monument par vanité (des palais et bâtiments imposants pour l'ostentation et l'étalage de la puissance sans nécessité réelle)",
+      "Des maisons pour amasser les biens et les taxes",
+      "Des forteresses pour opprimer les passants et les dépouiller"
+    ],
+    "explanation_fr": "« Bâtissez-vous sur chaque hauteur un monument pour vous divertir, et édifiez-vous des forteresses dans l'espoir d'être éternels ? »"
+  },
+  {
+    "id": "hud_13",
+    "question_ar": "كيف وصف هود عليه السلام أسلوب قومه في البطش والقوة؟",
+    "options_ar": [
+      "إذا غضبتم سامحتم",
+      "وإذا بطشتم بطشتم جبارين (قساة لا ترحمون الضعيف)",
+      "وإذا عاهدتم نكثتم العهود والمواثيق",
+      "وإذا دخلتم قرية أفسدتموها"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ) فكانوا يستخدمون قوتهم البدنية في البغي والظلم المفرط.",
+    "question_fr": "Comment Hud (paix sur lui) a-t-il décrit la manière dont son peuple usait de sa violence et de sa force ?",
+    "options_fr": [
+      "Quand vous vous mettez en colère, vous pardonnez",
+      "Et quand vous sévissez, vous sévissez en tyrans (durs, sans pitié pour les faibles)",
+      "Et quand vous concluez un pacte, vous le trahissez",
+      "Et quand vous entrez dans une cité, vous la corrompez"
+    ],
+    "explanation_fr": "« Et quand vous sévissez, vous sévissez en tyrans » — ils usaient de leur force physique dans l'oppression et l'injustice excessive."
+  },
+  {
+    "id": "hud_14",
+    "question_ar": "هل ذكر القرآن الكريم أن هناك من بقي من قوم عاد بعد العذاب؟",
+    "options_ar": [
+      "نعم، عاش نصف القوم وتابوا",
+      "لا، (فَهَلْ تَرَى لَهُم مِّن بَاقِيَةٍ) لم يبق منهم إلا أطلال كفرهم",
+      "نعم، هربوا للجبال وأسسوا مدينة أخرى",
+      "بقي فقط أغنياؤهم وأُهلك الفقراء"
+    ],
+    "correct": 1,
+    "explanation_ar": "استؤصلوا تماماً بسب كفرهم الجحود (فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ).",
+    "question_fr": "Le Coran mentionne-t-il qu'il resta des survivants du peuple de 'Ad après le châtiment ?",
+    "options_fr": [
+      "Oui, la moitié du peuple survécut et se repentit",
+      "Non, « En vois-tu le moindre vestige ? » — il ne resta d'eux que les ruines de leur mécréance",
+      "Oui, ils s'enfuirent dans les montagnes et fondèrent une autre cité",
+      "Seuls les riches survécurent, les pauvres furent anéantis"
+    ],
+    "explanation_fr": "Ils furent complètement exterminés à cause de leur mécréance obstinée (« En vois-tu le moindre vestige ? »)."
+  },
+  {
+    "id": "hud_15",
+    "question_ar": "ما الدرس العظيم المستفاد من قصة هود حول الاغترار بالقوة المادية؟",
+    "options_ar": [
+      "أن القوة الجسدية تحمي من الكوارث الطبيعية",
+      "أن الله أقوى ممن اغتروا بقوتهم (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً)",
+      "أن الحضارة القوية لا يمكن أن تزول",
+      "أن الرياح لا تقتل الأقوياء وتقتل الضعفاء فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "مهما بلغ الإنسان من البناء والقوة المادية والحضارية، أمام أمر الله هو ضعيف هالك (هُوَ أَشَدُّ مِنْهُمْ قُوَّةً).",
+    "question_fr": "Quelle grande leçon tire-t-on de l'histoire de Hud sur l'illusion de la puissance matérielle ?",
+    "options_fr": [
+      "Que la force physique protège des catastrophes naturelles",
+      "Qu'Allah est plus puissant que ceux qui se sont laissés bercer par leur propre force (« N'ont-ils pas vu qu'Allah, qui les a créés, est plus fort qu'eux en puissance ? »)",
+      "Qu'une civilisation puissante ne peut jamais disparaître",
+      "Que le vent ne tue que les faibles et épargne les forts"
+    ],
+    "explanation_fr": "Quelle que soit l'ampleur de la construction et de la puissance matérielle et civilisationnelle d'un homme, il est faible et voué à la ruine devant l'ordre d'Allah (« Il est plus fort qu'eux en puissance »)."
+  },
+  {
+    "id": "hud_16",
+    "question_ar": "كيف كان موقف كبراء القوم من هود عليه السلام عندما نصحهم؟",
+    "options_ar": [
+      "اتهموه بالجنون (سفاهة) والكذب",
+      "وافقوا على نصف دعوته",
+      "طردوه من أرضهم فوراً",
+      "عذبوه بالسجن المؤبد"
+    ],
+    "correct": 0,
+    "explanation_ar": "(قَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ الْكَاذِبِينَ).",
+    "question_fr": "Quelle fut l'attitude des notables du peuple envers Hud (paix sur lui) lorsqu'il les conseilla ?",
+    "options_fr": [
+      "Ils l'accusèrent de folie (insensé) et de mensonge",
+      "Ils acceptèrent la moitié de son appel",
+      "Ils le chassèrent immédiatement de leur terre",
+      "Ils l'emprisonnèrent à perpétuité"
+    ],
+    "explanation_fr": "« Les notables de son peuple qui avaient mécru dirent : Nous te voyons certes dans un égarement et nous te pensons du nombre des menteurs »."
+  },
+  {
+    "id": "hud_17",
+    "question_ar": "في سورة هود، ماذا قال هود عليه السلام عندما طلبوا منه معجزة مادية؟",
+    "options_ar": [
+      "سأركم معجزة غداً",
+      "قال: يا قوم اعبدوا الله ما لكم من إله غيره، أفلا تتقون (أنكر طلبهم وركز على التوحيد)",
+      "دعا الله أن يشق القمر",
+      "لا تسألوا أشياء إن تبد لكم تسؤكم"
+    ],
+    "correct": 1,
+    "explanation_ar": "في سورة الأعراف وهود لم يذكر القرآن إتيانه بمعجزة مادية قاهرة، بل ركز على بلاغ التوحيد الصريح وحجته العقلية القوية.",
+    "question_fr": "Dans la sourate Hud, que dit Hud (paix sur lui) lorsqu'on lui demanda un miracle matériel ?",
+    "options_fr": [
+      "Je vous montrerai un miracle demain",
+      "Il dit : « Ô mon peuple, adorez Allah, vous n'avez point d'autre divinité que Lui ; ne craignez-vous donc pas ? » (il rejeta leur demande et se concentra sur le monothéisme)",
+      "Il implora Allah de fendre la lune",
+      "Ne posez pas de questions qui, si elles vous étaient révélées, vous nuiraient"
+    ],
+    "explanation_fr": "Dans les sourates al-A'raf et Hud, le Coran ne mentionne pas qu'il ait apporté un miracle matériel écrasant ; il se concentra plutôt sur la proclamation explicite du monothéisme et son argument rationnel solide."
+  },
+  {
+    "id": "hud_18",
+    "question_ar": "كيف ربط هود بين الاستغفار وزيادة القوة المادية لقومه؟",
+    "options_ar": [
+      "يزدكم أموالاً وبنين",
+      "ويزدكم قوة إلى قوتكم",
+      "يجعل لكم أرضاً خضراء",
+      "يمددكم بأنهار من عسل"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَيَا قَوْمِ اسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ).",
+    "question_fr": "Comment Hud a-t-il lié le repentir à l'accroissement de la puissance matérielle de son peuple ?",
+    "options_fr": [
+      "Il vous accordera plus de biens et d'enfants",
+      "Et Il ajoutera à votre force une force supplémentaire",
+      "Il rendra votre terre verdoyante",
+      "Il vous procurera des rivières de miel"
+    ],
+    "explanation_fr": "« Ô mon peuple, implorez le pardon de votre Seigneur, puis repentez-vous à Lui : Il enverra sur vous une pluie abondante du ciel, et ajoutera à votre force une force supplémentaire »."
+  },
+  {
+    "id": "hud_19",
+    "question_ar": "هل آمن قوم هود بعد طول حواره معهم؟",
+    "options_ar": [
+      "نعم آمن الضعفاء منهم فقط",
+      "كلا، بل قالوا: (سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ الْوَاعِظِينَ)",
+      "هربوا ولم يقابلوه",
+      "نعم آمن الجميع ثم ارتدوا"
+    ],
+    "correct": 1,
+    "explanation_ar": "هكذا كان ردهم في سورة الشعراء (سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ الْوَاعِظِينَ).",
+    "question_fr": "Le peuple de Hud a-t-il fini par croire après ce long dialogue avec lui ?",
+    "options_fr": [
+      "Oui, seuls les faibles parmi eux crurent",
+      "Non, ils dirent plutôt : « Il est égal pour nous que tu nous exhortes ou que tu ne sois pas de ceux qui exhortent »",
+      "Ils s'enfuirent et ne le rencontrèrent jamais",
+      "Oui, tous crurent puis apostasièrent"
+    ],
+    "explanation_fr": "Telle fut leur réponse dans la sourate ash-Shu'ara : « Il est égal pour nous que tu nous exhortes ou que tu ne sois pas de ceux qui exhortent »."
+  },
+  {
+    "id": "hud_20",
+    "question_ar": "بماذا برر قوم هود فعلتهم بأنهم ينفذون أخلاق من سبقهم؟",
+    "options_ar": [
+      "قالوا: (إِنْ هَٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ)",
+      "قالوا: (نحن أعلم بالصواب)",
+      "قالوا: (هذا دين العقل)",
+      "قالوا: (أمرنا الملوك بذلك)"
+    ],
+    "correct": 0,
+    "explanation_ar": "(إِنْ هَٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ * وَمَا نَحْنُ بِمُعَذَّبِينَ) أي هذه عادات الآباء ولن نتنازل عنها.",
+    "question_fr": "Par quoi le peuple de Hud justifiait-il son acte, en prétendant ne faire que perpétuer les mœurs de leurs ancêtres ?",
+    "options_fr": [
+      "Ils dirent : « Ce n'est là que la coutume des anciens »",
+      "Ils dirent : « Nous connaissons mieux le juste »",
+      "Ils dirent : « Ceci est la religion de la raison »",
+      "Ils dirent : « Les rois nous l'ont ordonné »"
+    ],
+    "explanation_fr": "« Ce n'est là que la coutume des anciens * et nous ne serons point châtiés » — c'est-à-dire que ce sont les coutumes des ancêtres et qu'ils n'y renonceraient jamais."
+  },
+  {
+    "id": "hud_21",
+    "question_ar": "هل خاف هود من آلهتهم المزعومة؟",
+    "options_ar": [
+      "نعم، كان يتجنب الاقتراب منها",
+      "أبداً، بل أشهد الله وأشهدهم أنه بريء منها",
+      "طلب من الله أن يحميه منها",
+      "لا يعلم، فالقرآن لم يذكر موقفه من أصنامهم تفصيلاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالَ إِنِّي أُشْهِدُ اللَّهَ وَاشْهَدُوا أَنِّي بَرِيءٌ مِّمَّا تُشْرِكُونَ * مِن دُونِهِ).",
+    "question_fr": "Hud a-t-il craint leurs prétendues divinités ?",
+    "options_fr": [
+      "Oui, il évitait de s'en approcher",
+      "Jamais, il prit Allah à témoin, et eux aussi, qu'il en était innocent",
+      "Il demanda à Allah de le protéger d'elles",
+      "On ne sait pas, le Coran ne détaille pas sa position sur leurs idoles"
+    ],
+    "explanation_fr": "« Il dit : Je prends Allah à témoin, et soyez-en aussi témoins, que je suis innocent de ce que vous associez * en dehors de Lui »."
+  },
+  {
+    "id": "hud_22",
+    "question_ar": "كيف وصف هود عليه السلام مدى توكله على الله رغم قوّتهم وتهديدهم؟",
+    "options_ar": [
+      "قال: إني سأهرب بعيداً عنكم",
+      "قال: (إِنِّي تَوَكَّلْتُ عَلَى اللَّهِ رَبِّي وَرَبِّكُم ۚ مَّا مِن دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا)",
+      "طلب مساعدة قبائل مجاورة",
+      "دعا الملائكة للقتال معه"
+    ],
+    "correct": 1,
+    "explanation_ar": "التوكّل المطلق في قوله (مَّا مِن دَابَّةٍ إِلَّا هُوَ آخِذٌ بِنَاصِيَتِهَا) يسلبهم كل قوة تخويف.",
+    "question_fr": "Comment Hud (paix sur lui) a-t-il décrit l'étendue de sa confiance en Allah malgré leur force et leur menace ?",
+    "options_fr": [
+      "Il dit : je vais m'enfuir loin de vous",
+      "Il dit : « Je place ma confiance en Allah, mon Seigneur et le vôtre. Il n'y a pas de créature qu'Il ne tienne par le toupet »",
+      "Il demanda l'aide de tribus voisines",
+      "Il appela les anges à combattre avec lui"
+    ],
+    "explanation_fr": "La confiance absolue exprimée dans « Il n'y a pas de créature qu'Il ne tienne par le toupet » leur ôte tout pouvoir d'intimidation."
+  },
+  {
+    "id": "hud_23",
+    "question_ar": "ماذا قال هود لقومه محذراً إياهم في حال توليهم وإعراضهم؟",
+    "options_ar": [
+      "سيسلط عليكم أعداء من الإنس",
+      "يستخلف ربي قوماً غيركم ولا تضرونه شيئاً",
+      "ستهدم بيوتكم بزلزال عظيم",
+      "سينقطع المطر للأبد"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَإِن تَوَلَّوْا فَقَدْ أَبْلَغْتُكُم مَّا أُرْسِلْتُ بِهِ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّي قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُ شَيْئًا).",
+    "question_fr": "Que dit Hud à son peuple pour les avertir s'ils se détournaient et s'écartaient ?",
+    "options_fr": [
+      "Des ennemis humains vous seront envoyés",
+      "Mon Seigneur fera succéder à votre place un autre peuple, et vous ne Lui nuirez en rien",
+      "Vos maisons seront détruites par un grand séisme",
+      "La pluie cessera à jamais"
+    ],
+    "explanation_fr": "« Si vous vous détournez, je vous ai déjà transmis ce avec quoi j'ai été envoyé vers vous ; et mon Seigneur vous remplacera par un autre peuple, et vous ne Lui nuirez en rien »."
+  },
+  {
+    "id": "hud_24",
+    "question_ar": "متى جاء أمر الله (العذاب) وكيف نجى هود ومن معه؟",
+    "options_ar": [
+      "نجوا بالاختباء في الكهوف العميقة",
+      "نجينا هوداً والذين آمنوا معه برحمة منا",
+      "عبروا البحر بسفينة صغيرة",
+      "لُفوا في سحابة بيضاء نقلوها لمكان آمن"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا هُودًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا).",
+    "question_fr": "Quand vint l'ordre d'Allah (le châtiment), et comment Hud et ceux qui étaient avec lui furent-ils sauvés ?",
+    "options_fr": [
+      "Ils furent sauvés en se cachant dans des grottes profondes",
+      "Nous avons sauvé Hud et ceux qui avaient cru avec lui par une miséricorde venant de Nous",
+      "Ils traversèrent la mer sur un petit bateau",
+      "Ils furent enveloppés dans un nuage blanc qui les transporta en lieu sûr"
+    ],
+    "explanation_fr": "« Et lorsque Notre ordre vint, Nous sauvâmes Hud et ceux qui avaient cru avec lui par une miséricorde venant de Nous »."
+  },
+  {
+    "id": "hud_25",
+    "question_ar": "ما هو وصف العذاب الذي تعرض له هود والمؤمنون من قبل أن ينجيهم الله (وَنَجَّيْنَاهُم مِّنْ ...)؟",
+    "options_ar": [
+      "عَذَابٍ أَلِيمٍ",
+      "عَذَابٍ غَلِيظٍ",
+      "عَذَابٍ شَدِيدٍ",
+      "عَذَابٍ مُهِينٍ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَنَجَّيْنَاهُم مِّنْ عَذَابٍ غَلِيظٍ).",
+    "question_fr": "Comment est décrit le châtiment dont Hud et les croyants furent préservés avant qu'Allah ne les sauve (« Et Nous les avons sauvés d'un… ») ?",
+    "options_fr": [
+      "Châtiment douloureux",
+      "Châtiment rigoureux",
+      "Châtiment sévère",
+      "Châtiment humiliant"
+    ],
+    "explanation_fr": "« Et Nous les avons sauvés d'un châtiment rigoureux »."
+  },
+  {
+    "id": "hud_26",
+    "question_ar": "ما هي الحجة المركزية التي رفض قوم عاد من أجلها الإيمان؟",
+    "options_ar": [
+      "أنهم ينتظرون ملائكة ورسولاً ليس بشراً (أَجِئْتَنَا لِنَعْبُدَ اللَّهَ وَحْدَهُ وَنَذَرَ مَا كَانَ يَعْبُدُ آبَاؤُنَا)",
+      "أن هوداً طلب منهم أموالهم كأجر",
+      "أن هوداً أراد تنصيب نفسه ملكاً عليهم",
+      "أن توحيد الآلهة في إله واحد فكرة معقدة لهم"
+    ],
+    "correct": 0,
+    "explanation_ar": "صراعهم كان بالأساس مع 'الأصنام' وتمسكهم بآبائهم: (وَقَالُوا أَجِئْتَنَا لِتَأْفِكَنَا عَنْ آلِهَتِنَا).",
+    "question_fr": "Quel était l'argument central pour lequel le peuple de 'Ad refusait de croire ?",
+    "options_fr": [
+      "Qu'ils attendaient des anges ou un messager qui ne soit pas humain (« Es-tu venu à nous pour que nous adorions Allah seul et abandonnions ce qu'adoraient nos ancêtres ? »)",
+      "Que Hud leur demandait leurs biens comme salaire",
+      "Que Hud voulait se faire couronner roi sur eux",
+      "Que l'unicité divine était une idée trop complexe pour eux"
+    ],
+    "explanation_fr": "Leur conflit portait essentiellement sur les « idoles » et leur attachement à leurs ancêtres : « Et ils dirent : Es-tu venu pour nous détourner de nos divinités ? »"
+  },
+  {
+    "id": "hud_27",
+    "question_ar": "لماذا لم يخف هود من تهديدات قومه عندما قالوا: (إِن نَّقُولُ إِلَّا اعْتَرَاكَ بَعْضُ آلِهَتِنَا بِسُوءٍ)؟",
+    "options_ar": [
+      "لأنه يعلم أن أصنامهم لا تضر ولا تنفع، فتوكل على ربه تماماً",
+      "لأنه كان يرتدي درعاً سحرياً",
+      "لأن أقاربه وعشيرته كانوا يحمونه",
+      "لأنه كان ينوي الهرب في نفس الليلة"
+    ],
+    "correct": 0,
+    "explanation_ar": "العلم اليقيني بعجز الأصنام وقوة الله المطلقة جعله يتحدى كيدهم جميعاً بقلب واثق.",
+    "question_fr": "Pourquoi Hud n'a-t-il pas craint les menaces de son peuple lorsqu'ils dirent : « Nous dirons seulement que l'une de nos divinités t'a frappé d'un mal » ?",
+    "options_fr": [
+      "Parce qu'il savait avec certitude que leurs idoles ne pouvaient ni nuire ni profiter, aussi plaça-t-il sa confiance totale en son Seigneur",
+      "Parce qu'il portait une armure magique",
+      "Parce que ses proches et son clan le protégeaient",
+      "Parce qu'il comptait s'enfuir cette nuit même"
+    ],
+    "explanation_fr": "La certitude quant à l'impuissance des idoles et la puissance absolue d'Allah lui permit de défier leur complot avec un cœur confiant."
+  },
+  {
+    "id": "hud_28",
+    "question_ar": "كيف وصف القرآن قوم عاد في نهاية قصتهم لتكون عبرة للناس؟",
+    "options_ar": [
+      "فدمرناهم تدميراً",
+      "أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ",
+      "وجعلناهم أحاديث ومزقناهم كل ممزق",
+      "فأصبحوا لا يرى إلا مساكنهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَلَا إِنَّ عَادًا كَفَرُوا رَبَّهُمْ ۗ أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ) دعاءٌ عليهم بالبعد عن رحمة الله.",
+    "question_fr": "Comment le Coran décrit-il le peuple de 'Ad à la fin de leur histoire, pour en faire une leçon pour les hommes ?",
+    "options_fr": [
+      "Nous les avons anéantis totalement",
+      "« Que 'Ad, le peuple de Hud, soit banni loin [de Ma miséricorde] ! »",
+      "Nous en avons fait des sujets de récits et les avons dispersés complètement",
+      "Ils ne devinrent visibles que par leurs demeures"
+    ],
+    "explanation_fr": "« En vérité, 'Ad a mécru en son Seigneur. Que 'Ad, le peuple de Hud, soit banni loin ! » — une invocation contre eux pour être écartés de la miséricorde d'Allah."
+  },
+  {
+    "id": "hud_29",
+    "question_ar": "في سورة الأحقاف، ما هي تفاصيل الريح العقيم التي وُسلطت على عاد؟",
+    "options_ar": [
+      "اقتلعت جبالهم ورجمتهم بها",
+      "تدمر كل شيء بأمر ربها فأصبحوا لا يُرى إلا مَسَاكِنُهُمْ",
+      "أطفأت نارهم وأتلفت ثمارهم فقط",
+      "أغرقت قراهم كما حدث لنوح"
+    ],
+    "correct": 1,
+    "explanation_ar": "(تُدَمِّرُ كُلَّ شَيْءٍ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا لَا يُرَىٰ إِلَّا مَسَاكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ).",
+    "question_fr": "Dans la sourate al-Ahqaf, quels sont les détails du vent stérile envoyé sur 'Ad ?",
+    "options_fr": [
+      "Il arracha leurs montagnes et les en lapida",
+      "Il détruisait tout par l'ordre de son Seigneur, si bien qu'on ne voyait plus que leurs demeures",
+      "Il éteignit leur feu et abîma seulement leurs fruits",
+      "Il noya leurs villages comme cela arriva à Noé"
+    ],
+    "explanation_fr": "« Détruisant tout par l'ordre de son Seigneur ; ils devinrent tels qu'on ne voyait plus que leurs demeures. C'est ainsi que Nous rétribuons le peuple criminel »."
+  },
+  {
+    "id": "hud_30",
+    "question_ar": "هود عليه السلام وصف نفسه لقومه بأنه مرسل ناصح، كيف كان التعبير القرآني تحديداً؟",
+    "options_ar": [
+      "أَنَا لَكُمْ رَسُولٌ أَمِينٌ",
+      "وَأَنَاَ لَكُمْ نَاصِحٌ أَمِينٌ",
+      "إِنِّي لَكُمْ نَذِيرٌ وَبَشِيرٌ",
+      "إِنَّمَا أَنَا رَحْمَةٌ لَكُمْ"
+    ],
+    "correct": 1,
+    "explanation_ar": "في سورة الأعراف (وَأَنَاَ لَكُمْ نَاصِحٌ أَمِينٌ).",
+    "question_fr": "Hud (paix sur lui) s'est décrit à son peuple comme un messager conseiller ; comment cela fut-il exprimé précisément dans le Coran ?",
+    "options_fr": [
+      "Je suis pour vous un messager digne de confiance",
+      "Et je suis pour vous un conseiller digne de confiance",
+      "Je suis pour vous un avertisseur et un annonciateur",
+      "Je ne suis pour vous qu'une miséricorde"
+    ],
+    "explanation_fr": "Dans la sourate al-A'raf : « Et je suis pour vous un conseiller digne de confiance »."
+  },
+  {
+    "id": "hud_31",
+    "question_ar": "في سياق استعجال قوم عاد للعذاب، ماذا قال لهم هود؟",
+    "options_ar": [
+      "إنه آت لا محالة غداً صباحاً",
+      "قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ (حلت العقوبة حتماً)",
+      "سأطلب من الله أن يُهلككم الليلة",
+      "والله لتعلمُنَّ نبأه بعد حين"
+    ],
+    "correct": 1,
+    "explanation_ar": "استعجلوا العذاب فقال: (قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ ۖ أَتُجَادِلُونَنِي فِي أَسْمَاءٍ سَمَّيْتُمُوهَا).",
+    "question_fr": "Dans le contexte où le peuple de 'Ad réclamait avec hâte le châtiment, que leur dit Hud ?",
+    "options_fr": [
+      "Il arrivera inévitablement demain matin",
+      "« Une souillure et une colère de votre Seigneur se sont déjà abattues sur vous » (le châtiment s'était déjà accompli inéluctablement)",
+      "Je demanderai à Allah de vous anéantir cette nuit même",
+      "Par Allah, vous en saurez la nouvelle après un certain temps"
+    ],
+    "explanation_fr": "Ils réclamèrent le châtiment avec hâte, et il dit : « Une souillure et une colère de votre Seigneur se sont déjà abattues sur vous. Discutez-vous avec moi au sujet de noms que vous avez inventés ? »"
+  },
+  {
+    "id": "hud_32",
+    "question_ar": "ما المقصود بالنجوى في قوله تعالى عن قوم هود (وَتِلْكَ عَادٌ ۖ جَحَدُوا بِآيَاتِ رَبِّهِمْ وَعَصَوْا رُسُلَهُ وَاتَّبَعُوا أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ)؟",
+    "options_ar": [
+      "أنهم كانوا يطيعون الزعماء المستبدين الذين أمروهم بالكفر",
+      "أنهم كانوا يعبدون الشمس جهاراً",
+      "أنهم كانوا يسحرون الناس",
+      "أنهم كانوا يرفضون دفع الزكاة"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَاتَّبَعُوا أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ) التبعية العمياء للكبرياء والزعماء الظالمين قادتهم للهلاك.",
+    "question_fr": "Que signifie l'expression dans la parole d'Allah au sujet du peuple de Hud (« Et voilà 'Ad ! Ils nièrent les signes de leur Seigneur, désobéirent à Ses messagers et suivirent l'ordre de tout tyran obstiné ») ?",
+    "options_fr": [
+      "Qu'ils obéissaient aux chefs despotiques qui leur ordonnaient la mécréance",
+      "Qu'ils adoraient le soleil ouvertement",
+      "Qu'ils ensorcelaient les gens",
+      "Qu'ils refusaient de payer l'aumône"
+    ],
+    "explanation_fr": "« Et ils suivirent l'ordre de tout tyran obstiné » — l'obéissance aveugle à l'orgueil et aux chefs injustes les mena à leur perte."
+  },
+  {
+    "id": "hud_33",
+    "question_ar": "كيف تعامل القرآن مع مسألة القوة المادية لقوم عاد في سرد القصة؟",
+    "options_ar": [
+      "أمر المسلمين بطلب قوة مماثلة لقتال الروم",
+      "أبرزها كمصدر شرعية ملكهم على الأرض",
+      "استخدمها كدليل صارخ على أن القوة البشرية لا تغني أمام بطش الله شيئاً",
+      "تجاهلها واعتبرها خرافة وتضخيم"
+    ],
+    "correct": 2,
+    "explanation_ar": "تم ذكر قوتهم (من أشد منا قوة) ثم إهلاكهم بريح باردة كدليل على تفاهة القوة البشرية أمام الله.",
+    "question_fr": "Comment le Coran a-t-il traité la question de la puissance matérielle du peuple de 'Ad dans le récit de leur histoire ?",
+    "options_fr": [
+      "Il ordonna aux musulmans de rechercher une force similaire pour combattre les Romains",
+      "Il la mit en avant comme source de légitimité de leur royaume sur terre",
+      "Il l'utilisa comme une preuve éclatante que la force humaine ne peut rien face à la violence d'Allah",
+      "Il l'ignora et la considéra comme une légende exagérée"
+    ],
+    "explanation_fr": "Leur force fut mentionnée (« qui est plus fort que nous ? ») puis leur anéantissement par un vent froid, comme preuve de l'insignifiance de la force humaine devant Allah."
+  },
+  {
+    "id": "hud_34",
+    "question_ar": "ما هو وصف الريح التي أهلكتهم في سورة الذاريات؟",
+    "options_ar": [
+      "الريح القاصف",
+      "الريح العقيم (التي لا تلقح شجراً ولا تأتي بمطر)",
+      "الريح السموم",
+      "العاصفة الهوجاء"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ).",
+    "question_fr": "Quelle est la description du vent qui les anéantit dans la sourate adh-Dhariyat ?",
+    "options_fr": [
+      "Le vent fracassant",
+      "Le vent stérile (qui ne féconde aucun arbre et n'apporte pas de pluie)",
+      "Le vent brûlant (samum)",
+      "La tempête furieuse"
+    ],
+    "explanation_fr": "« Et dans [l'histoire de] 'Ad, quand Nous envoyâmes contre eux le vent stérile »."
+  },
+  {
+    "id": "hud_35",
+    "question_ar": "في قوله تعالى (كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ) دليل على ماذا؟",
+    "options_ar": [
+      "على أن الرياح كانت تحملهم وترميهم بقوة فتقطع رؤوسهم وتتركهم كجذوع النخل المقلوعة",
+      "على ضخامة أجسامهم وطولهم المفرط الذي يشبه النخل الطويل",
+      "على أنهم كانوا يزرعون النخل بكثرة",
+      "الخيار الأول والثاني معاً"
+    ],
+    "correct": 3,
+    "explanation_ar": "وصفهم بأعجاز النخل يدل على ضخامة أجسادهم كالنخيل، وأن الريح كانت تقلعهم فتتركهم بلا رؤوس ومقلوعين.",
+    "question_fr": "Que prouve la parole d'Allah « Comme s'ils étaient des troncs de palmiers déracinés » ?",
+    "options_fr": [
+      "Que les vents les emportaient et les projetaient avec force, leur tranchant la tête et les laissant comme des troncs de palmiers arrachés",
+      "L'énormité de leur corps et leur taille excessive, semblable à celle des palmiers élevés",
+      "Qu'ils cultivaient abondamment le palmier",
+      "La première et la deuxième réponse ensemble"
+    ],
+    "explanation_fr": "Les décrire comme des troncs de palmiers indique l'énormité de leurs corps comme des palmiers, et que le vent les déracinait, les laissant sans tête et arrachés du sol."
+  },
+  {
+    "id": "hud_36",
+    "question_ar": "كيف كان موقف هود عليه السلام المستمر من اتهامات قومه المستمرة له بالسفاهة؟",
+    "options_ar": [
+      "رد عليهم بشتائم مماثلة ليدافع عن عرضه",
+      "تجاهلهم تماماً ولم يخاطبهم أبداً بعد ذلك",
+      "رد بأدب النبوة الناصع: (يَا قَوْمِ لَيْسَ بِي سَفَاهَةٌ وَلَٰكِنِّي رَسُولٌ مِّن رَّبِّ الْعَالَمِينَ)",
+      "هددهم بالقتل فوراً إذا كرروها"
+    ],
+    "correct": 2,
+    "explanation_ar": "حلم الأنبياء يظهر في رده الهادي (لَيْسَ بِي سَفَاهَةٌ) نافياً التهمة عن نفسه، ثم مثبتًا الحقيقة (وَلَٰكِنِّي رَسُولٌ) ليستمر في دعوته بإيجابية.",
+    "question_fr": "Quelle fut l'attitude constante de Hud (paix sur lui) face aux accusations répétées d'insensé portées contre lui par son peuple ?",
+    "options_fr": [
+      "Il leur répondit par des insultes similaires pour défendre son honneur",
+      "Il les ignora totalement et ne leur adressa plus jamais la parole",
+      "Il répondit avec la noble mansuétude prophétique : « Ô mon peuple, il n'y a en moi nulle insensé, mais je suis un messager du Seigneur des mondes »",
+      "Il les menaça immédiatement de mort s'ils répétaient cela"
+    ],
+    "explanation_fr": "La clémence des prophètes se manifeste dans sa réponse apaisée (« Il n'y a en moi nulle insensé »), niant l'accusation contre lui, puis affirmant la vérité (« mais je suis un messager ») pour poursuivre sa prédication de manière constructive."
+  },
+  {
+    "id": "hud_37",
+    "question_ar": "ما الذي استكثره قوم عاد واعتبروه عجيباً جداً في رسالة هود؟",
+    "options_ar": [
+      "أنه كان يطلب منهم مالاً وهو فقير",
+      "أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ (استغربوا أن يكون الرسول بشراً عادياً منهم)",
+      "أن يطلب منهم الصيام في الصيف",
+      "أنه كان يعيش في الكهوف"
+    ],
+    "correct": 1,
+    "explanation_ar": "الاستغراب المتكرر للأمم الكافرة هو (البشرية)، كيف يرسل الله بشراً يأكل ويمشي في الأسواق ليكون هادياً لهم.",
+    "question_fr": "Qu'est-ce que le peuple de 'Ad trouva étrange et particulièrement surprenant dans le message de Hud ?",
+    "options_fr": [
+      "Qu'il leur demandât de l'argent alors qu'il était pauvre",
+      "« Vous étonnez-vous qu'un rappel vous vienne de votre Seigneur par l'intermédiaire d'un homme des vôtres, pour vous avertir ? » (ils s'étonnaient que le messager soit un simple homme ordinaire)",
+      "Qu'il leur demandât de jeûner en été",
+      "Qu'il vivait dans des grottes"
+    ],
+    "explanation_fr": "L'étonnement récurrent des peuples mécréants porte sur l'(humanité) : comment Allah pouvait-Il envoyer un être humain qui mange et marche sur les marchés pour être leur guide."
+  },
+  {
+    "id": "hud_38",
+    "question_ar": "ما نسب هود عليه السلام وما علاقته بقوم عاد؟",
+    "options_ar": [
+      "كان غريباً عنهم جاء من بلاد بعيدة لا يعرفونه",
+      "كان من نسل سام بن نوح عليه السلام ومن قبيلة عاد نفسها يعرفونه ويعرفون صدقه وأمانته",
+      "كان من ذرية إبراهيم عليه السلام أُرسل إليهم من بلاد الشام",
+      "كان ملاكاً أُرسل في صورة بشر لاختبارهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "هود من نسل سام بن نوح وكان رجلاً من قبيلة عاد نفسها. كونه منهم نسباً وحسباً يقطع حجتهم بالغرابة، فهو أخوهم لا دخيل عليهم.",
+    "question_fr": "Quelle était la lignée de Hud (paix sur lui) et son lien avec le peuple de 'Ad ?",
+    "options_fr": [
+      "Il leur était étranger, venu de contrées lointaines qu'ils ne connaissaient pas",
+      "Il était de la descendance de Sem, fils de Noé (paix sur lui), et de la tribu de 'Ad elle-même ; ils le connaissaient et connaissaient sa sincérité et son intégrité",
+      "Il était de la descendance d'Ibrahim (paix sur lui), envoyé vers eux depuis le Levant",
+      "Il était un ange envoyé sous forme humaine pour les mettre à l'épreuve"
+    ],
+    "explanation_fr": "Hud était de la descendance de Sem, fils de Noé, et un homme de la tribu de 'Ad elle-même. Le fait qu'il soit des leurs par la lignée et l'origine coupe court à leur argument d'étrangeté ; il est leur frère, non un intrus."
+  },
+  {
+    "id": "hud_39",
+    "question_ar": "ماذا قال هود عليه السلام لقومه حول الأجر والمقابل على دعوته؟",
+    "options_ar": [
+      "طلب منهم مالاً وذهباً لبناء معبد للتوحيد",
+      "قال (لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِيَ إِلَّا عَلَى الَّذِي فَطَرَنِي) فلم يطلب مالاً ولا جاهاً",
+      "اشترط أن يكون ملكاً عليهم مقابل دعوته",
+      "طلب نصف ثمارهم وأنعامهم أجراً له"
+    ],
+    "correct": 1,
+    "explanation_ar": "(يَا قَوْمِ لَا أَسْأَلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِيَ إِلَّا عَلَى الَّذِي فَطَرَنِي أَفَلَا تَعْقِلُونَ). هذا ديدن الأنبياء جميعاً: دعوة خالصة لله بلا مقابل دنيوي.",
+    "question_fr": "Que dit Hud (paix sur lui) à son peuple au sujet de la récompense et de la contrepartie de sa prédication ?",
+    "options_fr": [
+      "Il leur demanda de l'or et de l'argent pour construire un temple au monothéisme",
+      "Il dit : « Je ne vous demande pour cela aucun salaire ; mon salaire n'incombe qu'à Celui qui m'a créé » — il ne demanda ni argent ni prestige",
+      "Il posa comme condition d'être roi sur eux en échange de sa prédication",
+      "Il demanda la moitié de leurs fruits et de leur bétail comme salaire"
+    ],
+    "explanation_fr": "« Ô mon peuple, je ne vous demande pour cela aucun salaire ; mon salaire n'incombe qu'à Celui qui m'a créé. Ne raisonnez-vous donc pas ? » — C'est la constante de tous les prophètes : un appel sincère à Allah sans contrepartie matérielle."
+  },
+  {
+    "id": "hud_40",
+    "question_ar": "ما النعم التي ذكّر بها هود قومه في سورة الشعراء ليستشعروا فضل الله عليهم؟",
+    "options_ar": [
+      "الذهب والفضة والسيوف والخيول المدربة",
+      "أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ وَجَنَّاتٍ وَعُيُونٍ (مواشي وذرية وبساتين وينابيع)",
+      "السفن والبحار والأسماك واللؤلؤ",
+      "المناجم والمعادن والأحجار الكريمة النادرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ * وَجَنَّاتٍ وَعُيُونٍ). ذكّرهم بتفاصيل النعم الأربع ليُشعرهم بعظم جحودهم وكفرانهم لنعمة الله.",
+    "question_fr": "Quels bienfaits Hud a-t-il rappelés à son peuple dans la sourate ash-Shu'ara, pour qu'ils prennent conscience de la grâce d'Allah sur eux ?",
+    "options_fr": [
+      "L'or, l'argent, les épées et les chevaux dressés",
+      "« Il vous a pourvus de bétail, de fils, de jardins et de sources » (bétail, descendance, jardins et sources)",
+      "Les navires, les mers, les poissons et les perles",
+      "Les mines, les métaux et les pierres précieuses rares"
+    ],
+    "explanation_fr": "« Il vous a pourvus de bétail et de fils * de jardins et de sources ». Il leur rappela en détail ces quatre bienfaits pour leur faire ressentir l'ampleur de leur ingratitude et de leur mécréance envers la grâce d'Allah."
+  },
+  {
+    "id": "hud_41",
+    "question_ar": "ما المقصود بقوله تعالى عن قوم عاد (وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ)؟",
+    "options_ar": [
+      "كانوا يصنعون أسلحة فتاكة للحروب والغزو",
+      "كانوا يبنون حصوناً وقصوراً محصنة كأنهم سيعيشون فيها إلى الأبد ولن يموتوا أبداً",
+      "كانوا يصنعون سفناً عملاقة لعبور البحار والمحيطات",
+      "كانوا يصنعون تماثيل من ذهب لعرضها وبيعها"
+    ],
+    "correct": 1,
+    "explanation_ar": "المصانع هي الحصون والقصور المشيدة بإتقان. عاتبهم هود لأنهم بنوها بإحكام يوحي بظنهم الخلود فيها، وهذا غرور بالدنيا ونسيان للموت والآخرة.",
+    "question_fr": "Que signifie la parole d'Allah au sujet du peuple de 'Ad (« Et vous édifiez des forteresses dans l'espoir d'être éternels ») ?",
+    "options_fr": [
+      "Ils fabriquaient des armes meurtrières pour les guerres et les conquêtes",
+      "Ils construisaient des forteresses et des palais fortifiés comme s'ils allaient y vivre éternellement et ne jamais mourir",
+      "Ils construisaient d'immenses navires pour traverser mers et océans",
+      "Ils fabriquaient des statues en or pour les exposer et les vendre"
+    ],
+    "explanation_fr": "Les « forteresses » sont les places fortes et palais bâtis avec un grand soin. Hud leur reprocha de les avoir édifiées avec une telle solidité qu'elle traduisait leur illusion d'y demeurer éternellement — c'est là l'orgueil pour ce bas monde et l'oubli de la mort et de l'au-delà."
+  },
+  {
+    "id": "hud_42",
+    "question_ar": "ماذا حدث لقوم عاد قبل إرسال الريح العاتية عليهم مباشرة؟",
+    "options_ar": [
+      "أرسل الله عليهم زلزالاً خفيفاً كإنذار أخير",
+      "أمسك الله عنهم المطر فترة طويلة حتى جفت أرضهم وعطشت أنعامهم",
+      "أرسل الله لهم نبياً آخر مع هود لتقوية الحجة",
+      "نزل عليهم ثلج كثيف لم يعهدوه في بلادهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "أمسك الله المطر عنهم كمقدمة للعذاب، فلما رأوا السحابة العارضة فرحوا ظناً أنها مطر الخير، لكنها كانت ريحاً فيها عذاب أليم.",
+    "question_fr": "Que se passa-t-il pour le peuple de 'Ad juste avant que le vent violent ne leur soit envoyé ?",
+    "options_fr": [
+      "Allah leur envoya un léger séisme en dernier avertissement",
+      "Allah retint la pluie pendant une longue période, jusqu'à ce que leur terre se dessèche et que leur bétail ait soif",
+      "Allah leur envoya un autre prophète aux côtés de Hud pour renforcer l'argument",
+      "Une neige épaisse tomba sur eux, chose inconnue dans leur pays"
+    ],
+    "explanation_fr": "Allah retint la pluie comme prélude au châtiment ; lorsqu'ils virent le nuage s'avancer, ils se réjouirent croyant qu'il s'agissait de la pluie bienfaisante, mais c'était en réalité un vent porteur d'un châtiment douloureux."
+  },
+  {
+    "id": "hud_43",
+    "question_ar": "كيف تعاملت الريح المدمرة مع هود والمؤمنين الذين كانوا معه وسط العذاب؟",
+    "options_ar": [
+      "هربوا منها في سفينة مثل سفينة نوح عليه السلام",
+      "كانت تمر عليهم لينة طيبة بينما تمر على الكافرين مدمرة مهلكة",
+      "اختبأوا في كهوف عميقة تحت الأرض فلم تصل إليهم",
+      "حملهم الله على سحابة بيضاء نقلتهم بعيداً عن مكان العذاب"
+    ],
+    "correct": 1,
+    "explanation_ar": "ريح واحدة تُفرّق بين الكافر والمؤمن وهذا من أعظم آيات الله. قال المفسرون إن الريح كانت على المؤمنين لينة طيبة وعلى الكافرين مدمرة مهلكة.",
+    "question_fr": "Comment le vent destructeur a-t-il traité Hud et les croyants qui étaient avec lui au milieu du châtiment ?",
+    "options_fr": [
+      "Ils s'en échappèrent sur un navire, comme celui de Noé (paix sur lui)",
+      "Il passait sur eux doux et agréable, tandis qu'il passait sur les mécréants de manière destructrice et mortelle",
+      "Ils se cachèrent dans des grottes profondes que le vent n'atteignit pas",
+      "Allah les porta sur un nuage blanc qui les transporta loin du lieu du châtiment"
+    ],
+    "explanation_fr": "Un seul vent faisait la distinction entre le mécréant et le croyant, et c'est l'un des plus grands signes d'Allah. Les exégètes ont dit que le vent était doux et agréable pour les croyants, mais destructeur et mortel pour les mécréants."
+  },
+  {
+    "id": "hud_44",
+    "question_ar": "لماذا سمّى القرآن هوداً (أخاهم) في قوله تعالى (وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا)؟",
+    "options_ar": [
+      "لأنه كان أخاً لزعيمهم بالرضاعة",
+      "لأنه كان منهم نسباً وقبيلة فهو أخوهم في النسب لا في الدين",
+      "لأنه تزوج من بناتهم فصار أخاً لهم بالمصاهرة",
+      "من باب المجاملة والتلطف فقط ولا علاقة نسب بينهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "إرسال النبي من قومه أنفسهم يُزيل حجة الغرابة ويجعل الحجة أقوى، لأنهم يعرفون صدقه وأمانته منذ صغره. ولهذا وصفه القرآن بأنه (أخوهم).",
+    "question_fr": "Pourquoi le Coran a-t-il nommé Hud « leur frère » dans la parole d'Allah « Et [Nous avons envoyé] au peuple de 'Ad leur frère Hud » ?",
+    "options_fr": [
+      "Parce qu'il était le frère de lait de leur chef",
+      "Parce qu'il était des leurs par la lignée et la tribu ; il est donc leur frère par la filiation, et non par la religion",
+      "Parce qu'il avait épousé une de leurs filles, devenant ainsi leur frère par alliance",
+      "Simple formule de courtoisie et de politesse, sans aucun lien de parenté entre eux"
+    ],
+    "explanation_fr": "Envoyer un prophète issu du peuple lui-même supprime l'argument de l'étrangeté et renforce l'argumentation, car ils connaissaient sa sincérité et son intégrité depuis son plus jeune âge. C'est pourquoi le Coran l'a décrit comme « leur frère »."
+  },
+  {
+    "id": "hud_45",
+    "question_ar": "ما اسم السورة القرآنية التي سُميت باسم نبي الله هود عليه السلام وما ترتيبها؟",
+    "options_ar": [
+      "سورة الأعراف وهي السورة السابعة",
+      "سورة هود وهي السورة الحادية عشرة من القرآن الكريم",
+      "سورة الأحقاف وهي السورة السادسة والأربعون",
+      "سورة القمر وهي السورة الرابعة والخمسون"
+    ],
+    "correct": 1,
+    "explanation_ar": "سورة هود هي السورة الحادية عشرة في ترتيب المصحف، وفيها تفصيل مهم لقصة هود مع قومه عاد وحوارهم ونهايتهم.",
+    "question_fr": "Quel est le nom de la sourate coranique portant le nom du prophète Hud (paix sur lui), et quel est son rang ?",
+    "options_fr": [
+      "La sourate al-A'raf, qui est la septième sourate",
+      "La sourate Hud, qui est la onzième sourate du Saint Coran",
+      "La sourate al-Ahqaf, qui est la quarante-sixième sourate",
+      "La sourate al-Qamar, qui est la cinquante-quatrième sourate"
+    ],
+    "explanation_fr": "La sourate Hud est la onzième sourate dans l'ordre du Mus'haf ; elle contient un développement important de l'histoire de Hud avec son peuple 'Ad, leur dialogue et leur fin."
+  },
+  {
+    "id": "hud_46",
+    "question_ar": "كيف وصف القرآن قوم عاد في سورة النجم تمييزاً لهم عن غيرهم؟",
+    "options_ar": [
+      "عاد العظيمة ذات الملك الواسع",
+      "عَادًا الْأُولَىٰ أي عاد القديمة الأولى تمييزاً لها عمن جاء بعدها",
+      "عاد الشرقية ذات البأس الشديد",
+      "عاد الكبرى المتفوقة على الأمم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَأَنَّهُ أَهْلَكَ عَادًا الْأُولَىٰ). وصفها الله بالأولى للتمييز وللإشارة إلى قدمها في التاريخ البشري بعد قوم نوح مباشرة.",
+    "question_fr": "Comment le Coran décrit-il le peuple de 'Ad dans la sourate an-Najm, pour les distinguer d'autres peuples ?",
+    "options_fr": [
+      "'Ad le Grand, au vaste royaume",
+      "« 'Ad la première » c'est-à-dire l'ancien peuple de 'Ad, pour le distinguer de ceux venus après lui",
+      "'Ad l'Oriental, doté d'une force redoutable",
+      "'Ad le Majeur, supérieur aux autres nations"
+    ],
+    "explanation_fr": "« Et qu'Il a fait périr 'Ad, le premier ». Allah le qualifia de « premier » pour le distinguer et indiquer son ancienneté dans l'histoire humaine, juste après le peuple de Noé."
+  },
+  {
+    "id": "hud_47",
+    "question_ar": "بأي أسلوب حجاجي خاطب هود قومه ليستنهض عقولهم في نهاية كلامه؟",
+    "options_ar": [
+      "أفلا تشكرون (استنهاض الشكر والامتنان)",
+      "أَفَلَا تَعْقِلُونَ (استنهاض العقل والتفكر في بطلان عبادة الأصنام وصدق دعوته المجانية)",
+      "أفلا تسمعون (استنهاض حاسة السمع)",
+      "أفلا تبصرون (استنهاض حاسة البصر)"
+    ],
+    "correct": 1,
+    "explanation_ar": "(إِنْ أَجْرِيَ إِلَّا عَلَى الَّذِي فَطَرَنِي أَفَلَا تَعْقِلُونَ). دعوة لاستخدام العقل في الحكم على دعوته الخالصة التي لا يطلب عليها أجراً.",
+    "question_fr": "Par quel procédé argumentatif Hud s'est-il adressé à son peuple pour stimuler leur raison, à la fin de son discours ?",
+    "options_fr": [
+      "« Ne remerciez-vous donc pas ? » (appel à la gratitude et à la reconnaissance)",
+      "« Ne raisonnez-vous donc pas ? » (appel à la raison et à la réflexion sur la vanité de l'adoration des idoles et sur la sincérité de sa prédication gratuite)",
+      "« N'entendez-vous donc pas ? » (appel au sens de l'ouïe)",
+      "« Ne voyez-vous donc pas ? » (appel au sens de la vue)"
+    ],
+    "explanation_fr": "« Mon salaire n'incombe qu'à Celui qui m'a créé. Ne raisonnez-vous donc pas ? » — un appel à user de la raison pour juger de sa prédication pure, pour laquelle il ne demande aucun salaire."
+  },
+  {
+    "id": "hud_48",
+    "question_ar": "كيف استخدم قوم عاد قوتهم البدنية الهائلة التي وهبهم الله إياها؟",
+    "options_ar": [
+      "في الزراعة وإعمار الأرض وخدمة الفقراء والمحتاجين",
+      "في البغي والظلم والإفساد في الأرض بدلاً من الإعمار والإصلاح",
+      "في بناء المساجد والمعابد لعبادة الله وحده",
+      "في حماية القوافل التجارية والمسافرين العابرين"
+    ],
+    "correct": 1,
+    "explanation_ar": "منحهم الله القوة ليعمروا بها الأرض فاستخدموها في البطش والظلم والإفساد. فكانت النعمة حجة عليهم لا لهم وصاروا يظلمون الضعفاء والمساكين.",
+    "question_fr": "Comment le peuple de 'Ad a-t-il utilisé l'énorme force physique qu'Allah leur avait accordée ?",
+    "options_fr": [
+      "Dans l'agriculture, la mise en valeur de la terre et le service des pauvres et des nécessiteux",
+      "Dans l'oppression, l'injustice et la corruption sur terre, au lieu de la construction et de la réforme",
+      "Dans la construction de mosquées et de temples pour adorer Allah seul",
+      "Dans la protection des caravanes commerciales et des voyageurs de passage"
+    ],
+    "explanation_fr": "Allah leur avait accordé la force pour qu'ils mettent la terre en valeur, mais ils l'utilisèrent dans la violence, l'injustice et la corruption. Ainsi, la grâce devint un argument contre eux et non en leur faveur, et ils se mirent à opprimer les faibles et les pauvres."
+  },
+  {
+    "id": "hud_49",
+    "question_ar": "ما الذي كان يدفع هوداً عليه السلام في دعوته المستمرة لقومه رغم إيذائهم له؟",
+    "options_ar": [
+      "الرغبة في السلطة والزعامة على قومه",
+      "الرحمة والشفقة على قومه وحرصه على نجاتهم من العذاب دون طلب أي مقابل دنيوي",
+      "الانتقام من الذين أساءوا إليه في صغره ومعاقبتهم",
+      "تنفيذ أوامر ملك مجاور يريد إضعاف قوم عاد"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي وَأَنَا لَكُمْ نَاصِحٌ أَمِينٌ). كانت دعوته خالصة لله نابعة من الرحمة والشفقة على قومه لا من أي مصلحة شخصية.",
+    "question_fr": "Qu'est-ce qui poussait Hud (paix sur lui) à poursuivre sans relâche sa prédication auprès de son peuple, malgré le tort qu'ils lui infligeaient ?",
+    "options_fr": [
+      "Le désir de pouvoir et de suprématie sur son peuple",
+      "La miséricorde et la compassion envers son peuple, et son souci de les sauver du châtiment, sans demander aucune contrepartie matérielle",
+      "La vengeance contre ceux qui l'avaient maltraité dans son enfance, et leur punition",
+      "L'exécution des ordres d'un roi voisin cherchant à affaiblir le peuple de 'Ad"
+    ],
+    "explanation_fr": "« Je vous transmets les messages de mon Seigneur et je suis pour vous un conseiller digne de confiance ». Sa prédication était sincère envers Allah, née de la miséricorde et de la compassion envers son peuple, et non d'un quelconque intérêt personnel."
+  },
+  {
+    "id": "hud_50",
+    "question_ar": "ماذا حدث لهود عليه السلام والمؤمنين بعد هلاك قوم عاد بالريح العاتية؟",
+    "options_ar": [
+      "هاجروا إلى مصر وعاشوا مع الفراعنة في قصورهم",
+      "عاشوا بعد ذلك في أمان شاهدين على عاقبة الكفر والطغيان وعلى رحمة الله بعباده المؤمنين",
+      "هلكوا جميعاً بعد قوم عاد بسنة واحدة بمرض عظيم",
+      "ذهبوا إلى بابل بالعراق وأسسوا مملكة جديدة قوية"
+    ],
+    "correct": 1,
+    "explanation_ar": "نجّاهم الله برحمته وعاشوا في أمان بعد الدمار، شاهدين على عاقبة الكفر والطغيان وعلى أن الله ينصر رسله والذين آمنوا.",
+    "question_fr": "Que devinrent Hud (paix sur lui) et les croyants après l'anéantissement du peuple de 'Ad par le vent violent ?",
+    "options_fr": [
+      "Ils émigrèrent en Égypte et vécurent avec les pharaons dans leurs palais",
+      "Ils vécurent ensuite en sécurité, témoins de l'issue de la mécréance et de la tyrannie, et de la miséricorde d'Allah envers Ses serviteurs croyants",
+      "Ils périrent tous, un an après le peuple de 'Ad, d'une grande maladie",
+      "Ils se rendirent à Babylone, en Irak, et y fondèrent un nouveau royaume puissant"
+    ],
+    "explanation_fr": "Allah les sauva par Sa miséricorde et ils vécurent en sécurité après la destruction, témoins de l'issue de la mécréance et de la tyrannie, et de ce qu'Allah secourt Ses messagers et ceux qui ont cru."
+  }
+]

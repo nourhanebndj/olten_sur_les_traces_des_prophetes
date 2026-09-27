@@ -1,0 +1,53 @@
+name: olten_sur_les_traces_des_prophetes
+
+description: "Olten sur les traces des prophètes"
+
+publish_to: 'none'
+
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  path: ^1.9.1
+  sqflite: ^2.4.4
+  supabase_flutter: ^2.17.2
+  connectivity_plus: ^7.0.0
+  uuid: ^4.5.1
+  shared_preferences: ^2.5.3
+  easy_localization: ^3.0.8
+
+  pdf: ^3.11.3
+  printing: ^5.14.2
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/images/auth/
+    - assets/images/icons/
+    - assets/images/prophets/
+    - assets/data/prophet_stories/
+    - assets/data/quizzes/
+    - assets/translations/
+    - assets/fonts/NotoSansArabic-Regular.ttf
+    - assets/fonts/NotoSansArabic-Bold.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"

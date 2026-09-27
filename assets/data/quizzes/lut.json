@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "lut_01",
+    "question_ar": "بماذا امتازت جريمة قوم لوط التي استحقوا عليها أشد العذاب ولم يسبقهم إليها أحد؟",
+    "options_ar": [
+      "أنهم كانوا يطففون الميزان في أسواقهم ويسرقون الحجاج",
+      "إتيان الذكران (الرجال) من العالمين وترك ما خلق لهم الله من الزوجات",
+      "السحر الشديد وتغيير خلق الله بعبادة النجوم والشمس",
+      "أول من صنعوا الأوثان من الذهب الخالص"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ * وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَاجِكُم).",
+    "question_fr": "Par quoi se distinguait le crime du peuple de Lot qui leur valut le châtiment le plus sévère et que personne avant eux n'avait commis ?",
+    "options_fr": [
+      "Ils trichaient sur les balances dans leurs marchés et volaient les pèlerins",
+      "Ils avaient des relations avec les hommes et délaissaient ce qu'Allah leur avait créé comme épouses",
+      "Ils pratiquaient une magie intense et modifiaient la création d'Allah en adorant les étoiles et le soleil",
+      "Ils furent les premiers à fabriquer des idoles en or pur"
+    ],
+    "explanation_fr": "« Avez-vous des relations avec les mâles parmi les mondes, et délaissez-vous les épouses que votre Seigneur a créées pour vous ? »"
+  },
+  {
+    "id": "lut_02",
+    "question_ar": "كيف وبخ لوط قومه على جريمتهم مبيناً أنها شذوذ لم يُعرف في تاريخ البشر السالف؟",
+    "options_ar": [
+      "أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ",
+      "أَتَأْتُونَ السِّحْرَ الَّذِي ضَلَّمْتُم بِهِ",
+      "لقد أفسدتم أسواقكم وقطعتم سبيل المسافرين",
+      "أأنتم تكذبون بآيات الله وتعبدون الأصنام فقط"
+    ],
+    "correct": 0,
+    "explanation_ar": "(أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) فكانوا هم المبتدعين لهذا الانحراف الشاذ في الفطرة.",
+    "question_fr": "Comment Lot réprimanda-t-il son peuple en montrant que leur acte était une déviance inconnue des générations humaines précédentes ?",
+    "options_fr": [
+      "« Commettez-vous cette turpitude qu'aucun peuple avant vous n'a commise ? »",
+      "« Pratiquez-vous la magie par laquelle vous vous êtes égarés ? »",
+      "« Vous avez corrompu vos marchés et barré la route aux voyageurs »",
+      "« Niez-vous les signes d'Allah et adorez-vous seulement les idoles ? »"
+    ],
+    "explanation_fr": "« Commettez-vous cette turpitude qu'aucun peuple avant vous n'a commise ? » Ils furent ainsi décrits comme les premiers à introduire cette déviance."
+  },
+  {
+    "id": "lut_03",
+    "question_ar": "إلى أي منطقة أُرسل نبي الله لوط؟",
+    "options_ar": [
+      "مدينة بابل في العراق",
+      "قرى سدوم (المؤتفكات) في منطقة البحر الميت",
+      "الأحقاف في اليمن",
+      "مدين في شمال الجزيرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "أرسل إلى قومه بقرى سدوم وعمورة (وهي التي تُسمى في القرآن: المؤتفكات أي المنقلبات)، ويُعتقد أنها قرب البحر الميت.",
+    "question_fr": "Dans quelle région le prophète d'Allah Lot fut-il envoyé ?",
+    "options_fr": [
+      "La ville de Babylone en Irak",
+      "Les cités de Sodome, les cités renversées, dans la région de la mer Morte",
+      "Al-Ahqaf au Yémen",
+      "Madyan dans le nord de la péninsule"
+    ],
+    "explanation_fr": "Il fut envoyé à son peuple dans les cités de Sodome et de Gomorrhe, appelées dans le Coran les cités renversées ; elles sont traditionnellement situées près de la mer Morte."
+  },
+  {
+    "id": "lut_04",
+    "question_ar": "ماذا كان يفعل قوم لوط في مجالسهم العامة (ناديهم) علانية وبلا حياء؟",
+    "options_ar": [
+      "كانوا يبنون أصناماً ضخمة في وسط الساحة فقط",
+      "كانوا يتشاجرون بالسيوف للترفيه",
+      "وَتَأْتُونَ فِي نَادِيكُمُ الْمُنكَرَ (يفعلون الفواحش والمنكرات جهاراً بلا ستر)",
+      "كانوا يخططون لسرقة القبائل الأخرى"
+    ],
+    "correct": 2,
+    "explanation_ar": "(وَتَطْقَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنكَرَ) فكانوا يجاهرون بالقبيح كالشذوذ وقطع الطرقات في مجالسهم كأنما هو مباح وتسلية.",
+    "question_fr": "Que faisait ouvertement et sans pudeur le peuple de Lot dans leurs assemblées publiques ?",
+    "options_fr": [
+      "Ils construisaient seulement d'immenses idoles au milieu de la place",
+      "Ils se battaient à l'épée pour se divertir",
+      "« Et vous commettez le blâmable dans vos assemblées », accomplissant publiquement des actes répréhensibles",
+      "Ils planifiaient le vol des autres tribus"
+    ],
+    "explanation_fr": "« Vous barrez le chemin et commettez le blâmable dans vos assemblées. » Ils commettaient ouvertement leurs actes répréhensibles et agressaient les voyageurs."
+  },
+  {
+    "id": "lut_05",
+    "question_ar": "ما هو الرد الذي ردده قوم لوط عندما عاب عليهم الفاحشة ونهاهم عنها؟",
+    "options_ar": [
+      "أَخْرِجُوا آلَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "قالوا نحن لا نفهم ماذا تقصد",
+      "قالوا سنعطيك نصف أموالنا لتسكت",
+      "قالوا سندهسكم بأفيالنا إن لم تصمت"
+    ],
+    "correct": 0,
+    "explanation_ar": "(فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوا آلَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ). جعلوا الطهارة تهمة تستحق الطرد لانحراف موازينهم.",
+    "question_fr": "Quelle réponse le peuple de Lot répétait-il lorsqu'il leur reprochait leur turpitude et les en dissuadait ?",
+    "options_fr": [
+      "« Expulsez la famille de Lot de votre cité : ce sont des gens qui veulent rester purs. »",
+      "« Nous ne comprenons pas ce que tu veux dire »",
+      "« Nous te donnerons la moitié de nos biens pour que tu te taises »",
+      "« Nous vous écraserons avec nos éléphants si vous ne vous taisez pas »"
+    ],
+    "explanation_fr": "« Expulsez la famille de Lot de votre cité : ce sont des gens qui veulent rester purs. » Ils transformèrent même la chasteté en motif d'expulsion."
+  },
+  {
+    "id": "lut_06",
+    "question_ar": "كيف أخبر الله عن موقف زوجة لوط من خيانة زوجها ورسالة ربها؟",
+    "options_ar": [
+      "كانت مؤمنة لكنها قُتلت على يدهم قبل العذاب",
+      "أخبرت قومها بالملائكة (ضيوف لوط) وكانت تدلهم على الضيوف، فكُتبت من الغابرين (الهالكين المعذبين)",
+      "هربت إلى مدينة أخرى فلم يعاقبها الله",
+      "تخاصمت معه وذهبت لأهلها قبل الطوفان"
+    ],
+    "correct": 1,
+    "explanation_ar": "(إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ)، وخيانتها لم تكن في العرض بل في الدين وإفشاء سر ضيوفه للقوم الفاسدين.",
+    "question_fr": "Comment Allah a-t-Il décrit l'attitude de l'épouse de Lot envers son mari et son message ?",
+    "options_fr": [
+      "Elle était croyante, mais ils la tuèrent avant le châtiment",
+      "Elle informa son peuple de la présence des anges et leur indiqua les invités ; elle fut donc parmi ceux qui périrent",
+      "Elle s'enfuit vers une autre ville et ne fut pas châtiée",
+      "Elle se disputa avec lui et retourna chez sa famille avant le déluge"
+    ],
+    "explanation_fr": "« Sauf sa femme, qui fut parmi ceux qui restèrent en arrière. » Sa trahison concernait la foi et le soutien aux gens corrompus, et non l'honneur conjugal."
+  },
+  {
+    "id": "lut_07",
+    "question_ar": "عندما جاءت الملائكة (في صورة رجال حِسان) ضيوفاً إلى لوط، بماذا شعر لوط وكيف كانت ردة فعله؟",
+    "options_ar": [
+      "فرح جداً وخرج يتباهى بجمالهم أمام قومه",
+      "سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌ (شعر بالهم الشديد والأذى النفسي خوفاً عليهم من قومه)",
+      "رحب بهم ودعا قومه لحفل كبير لإكرامهم",
+      "خبأهم في قبو منزله ولم يقابلهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَلَمَّا جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌ) كان يعلم فساد قومه وخاف العار في ضيوفه.",
+    "question_fr": "Lorsque les anges, sous l'apparence de beaux hommes, vinrent comme invités chez Lot, que ressentit-il et comment réagit-il ?",
+    "options_fr": [
+      "Il se réjouit beaucoup et se vanta de leur beauté devant son peuple",
+      "« Il fut affligé à leur sujet, se sentit à l'étroit et dit : voici un jour pénible », craignant pour eux à cause de son peuple",
+      "Il les accueillit et invita son peuple à une grande fête pour les honorer",
+      "Il les cacha dans une cave sans les rencontrer"
+    ],
+    "explanation_fr": "« Lorsque Nos messagers vinrent à Lot, il fut affligé à leur sujet, se sentit à l'étroit et dit : voici un jour pénible. » Il connaissait la corruption de son peuple et craignait pour ses invités."
+  },
+  {
+    "id": "lut_08",
+    "question_ar": "ماذا فعل قوم لوط حينما علموا بوجود الضيوف الشبان الوسيمين في بيته؟",
+    "options_ar": [
+      "فروا من القرية خوفاً من العظمة",
+      "وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ (يُسرعون برغبة حيوانية واندفاع لاقتحام بيته وطلب الضيوف)",
+      "أرسلوا وفداً من الكبراء للاستفسار عن سبب الزيارة بأدب",
+      "أحاطوا بيته بالورود ترحيباً بغرباء المدينة"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَجَاءَهُ قَوْمُهُ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا يَعْمَلُونَ السَّيِّئَاتِ) أي أسرعوا إليه بشبق ووقاحة لانتهاك حرمة الضيوف.",
+    "question_fr": "Que fit le peuple de Lot lorsqu'il apprit que de beaux jeunes hommes étaient ses invités ?",
+    "options_fr": [
+      "Ils fuirent la cité par crainte d'un événement extraordinaire",
+      "« Son peuple accourut vers lui », avec empressement, pour entrer chez lui et réclamer les invités",
+      "Ils envoyèrent poliment une délégation de notables pour demander la raison de leur visite",
+      "Ils entourèrent sa maison de fleurs pour souhaiter la bienvenue aux étrangers"
+    ],
+    "explanation_fr": "« Son peuple accourut vers lui, alors qu'auparavant ils commettaient les mauvaises actions. » Ils vinrent avec empressement et insolence pour atteindre les invités."
+  },
+  {
+    "id": "lut_09",
+    "question_ar": "ماذا عرض لوط على قومه بقصد صدهم عن جريمتهم ومراعاة للضيافة والفطرة؟",
+    "options_ar": [
+      "عرض عليهم أمواله كلها مقابل ترك الضيوف",
+      "قَالَ يَا قَوْمِ هَٰؤُلَاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ ۖ (متزوجاتكم أو إرشادهم للتزوج بالطريق الشرعي العفيف والزواج من نساء الأمة)",
+      "عرض عليهم أن يعبدوا الله يوماً واحداً ويترك لهم ضيوفه",
+      "عرض مبارزتهم بالسيف فرداً فرداً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالَ يَا قَوْمِ هَٰؤُلَاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ ۖ فَاتَّقُوا اللَّهَ وَلَا تُخْزُونِ فِي ضَيْفِي) التوجيه للفطرة السليمة والزواج من بنات المجتمع.",
+    "question_fr": "Que proposa Lot à son peuple pour les détourner de leur acte et préserver l'hospitalité et la voie légitime ?",
+    "options_fr": [
+      "Il leur proposa toute sa fortune en échange du départ des invités",
+      "« Ô mon peuple, voici mes filles ; elles sont plus pures pour vous », c'est-à-dire la voie légitime du mariage",
+      "Il leur proposa d'adorer Allah pendant un jour en échange de ses invités",
+      "Il leur proposa de les affronter un par un à l'épée"
+    ],
+    "explanation_fr": "« Ô mon peuple, voici mes filles ; elles sont plus pures pour vous. Craignez donc Allah et ne me déshonorez pas à propos de mes invités. »"
+  },
+  {
+    "id": "lut_10",
+    "question_ar": "ماذا كان جواب القوم المتبجح لرد عرض لوط العفيف (هؤلاء بناتي)؟",
+    "options_ar": [
+      "قالوا: نوافق ولكن المهور عالية لا نستطيعها",
+      "قالوا: لَقَدْ عَلِمْتَ مَا لَنَا فِي بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ (ليس لنا فيهن رغبة، وأنت تعرف مقصدنا الخبيث)",
+      "ضحكوا وكسروا باب بيته فورا",
+      "تجادلوا فيما بينهم وانصرفوا غاضبين"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالُوا لَقَدْ عَلِمْتَ مَا لَنَا فِي بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ) تصريح بالانحراف الفطري الكامل.",
+    "question_fr": "Quelle fut la réponse provocatrice de son peuple à l'offre chaste de Lot : « voici mes filles » ?",
+    "options_fr": [
+      "« Nous acceptons, mais les dots sont trop élevées »",
+      "« Tu sais que nous n'avons aucun droit sur tes filles et tu sais ce que nous voulons »",
+      "Ils rirent et brisèrent immédiatement la porte de sa maison",
+      "Ils se disputèrent entre eux puis repartirent en colère"
+    ],
+    "explanation_fr": "« Tu sais que nous n'avons aucun droit sur tes filles et tu sais ce que nous voulons. » Ils affirmèrent clairement leur refus de la voie légitime."
+  },
+  {
+    "id": "lut_11",
+    "question_ar": "عندما شعر لوط بضعفه أمام الجموع المحتشدة، قال متحسراً: (لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ...)",
+    "options_ar": [
+      "أَوْ عِنْدِي مَلَائِكَةٌ يَنْصُرُونَنِي",
+      "أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ (دعم قبلي أو عصبة وقوة تحميني منكم)",
+      "أَوْ كُنْتُ مَلِكاً عَلَيْكُمْ",
+      "أَوْ مَعِي سِلَاحٌ غَلِيظٌ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ) وقال النبي ﷺ: يرحم الله لوطاً، لقد كان يأوي إلى ركن شديد (أي الله عز وجل).",
+    "question_fr": "Lorsque Lot se sentit impuissant face à la foule rassemblée, il dit avec regret : « Si seulement j'avais sur vous une force ou... »",
+    "options_fr": [
+      "« ou si j'avais des anges pour me secourir »",
+      "« ou si je pouvais me réfugier auprès d'un appui solide »",
+      "« ou si j'étais votre roi »",
+      "« ou si j'avais une arme puissante »"
+    ],
+    "explanation_fr": "« Si seulement j'avais sur vous une force ou si je pouvais me réfugier auprès d'un appui solide. » Le véritable appui solide est Allah."
+  },
+  {
+    "id": "lut_12",
+    "question_ar": "متى كشفت الملائكة هويتها للوط وكيف نصحوه وطمأنوه؟",
+    "options_ar": [
+      "بعد أن كسر القوم الباب، قالوا: إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوا إِلَيْكَ (فطمسنا أعينهم)",
+      "قبل دخول القوم بيوم وقالوا اترك القرية اليوم ظهرا",
+      "لم يكشفوا هويتهم حتى خرجوا من القرية جميعاً",
+      "عندما بكى لوط، أخرجوا أجنحتهم فقط بدون كلمة"
+    ],
+    "correct": 0,
+    "explanation_ar": "عند هجوم القوم، كُشفت الحقيقة الإلهية: (قَالُوا يَا لُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوا إِلَيْكَ) وطمسوا أعيَن القوم بضربة جناح من جبريل (فَطَمَسْنَا أَعْيُنَهُمْ).",
+    "question_fr": "Quand les anges révélèrent-ils leur identité à Lot et comment le rassurèrent-ils ?",
+    "options_fr": [
+      "Lorsque le peuple attaqua, ils dirent : « Nous sommes les messagers de ton Seigneur ; ils ne pourront pas t'atteindre »",
+      "Un jour avant l'arrivée du peuple, ils lui dirent de quitter la cité à midi",
+      "Ils ne révélèrent leur identité qu'après avoir quitté la cité",
+      "Lorsque Lot pleura, ils montrèrent seulement leurs ailes sans parler"
+    ],
+    "explanation_fr": "Lorsque le peuple attaqua, les anges révélèrent leur identité : « Ô Lot, nous sommes les messagers de ton Seigneur ; ils ne pourront pas t'atteindre. »"
+  },
+  {
+    "id": "lut_13",
+    "question_ar": "ما هو الأمر الذي أعطته الملائكة للوط بشأن خروجه من القرية الموعودة بالعذاب؟",
+    "options_ar": [
+      "أن يخرج بالنهار ويركب جملاً سريعاً ويأخذ ما خف حمله",
+      "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ (اخرج خفية ليلاً ولا تنظر للخلف)",
+      "أن يحاول إيقاظ القوم مرة أخيرة فجراً",
+      "أن يبقى في قبو بيته ولا يخرج حتى الصباح وتشرق الشمس"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ ۖ إِنَّهُ مُصِيبُهَا مَا أَصَابَهُمْ).",
+    "question_fr": "Quel ordre les anges donnèrent-ils à Lot concernant son départ de la cité promise au châtiment ?",
+    "options_fr": [
+      "Partir de jour, monter un chameau rapide et emporter ce qui était léger",
+      "« Pars avec ta famille pendant une partie de la nuit et que personne parmi vous ne se retourne, sauf ta femme »",
+      "Tenter encore une fois de réveiller le peuple à l'aube",
+      "Rester dans la cave de sa maison jusqu'au lever du soleil"
+    ],
+    "explanation_fr": "« Pars avec ta famille pendant une partie de la nuit et que personne parmi vous ne se retourne, sauf ta femme ; le châtiment les atteindra. »"
+  },
+  {
+    "id": "lut_14",
+    "question_ar": "متى كان الموعد القاطع لهلاك قوم لوط الذي أخبرت به الملائكة لتهدئة استعجال لوط؟",
+    "options_ar": [
+      "إِنَّ مَوْعِدَهُمُ الصُّبْحُ ۚ أَلَيْسَ الصُّبْحُ بِقَرِيبٍ",
+      "إِنَّ مَوْعِدَهُمُ الْعَصْرُ حِينَ الشَّمْسُ تَصْفَرُّ",
+      "يَوْمَ الزِّينَةِ وَأَن يُحْشَرَ النَّاسُ ضُحًى",
+      "عشية الجمعة القادمة"
+    ],
+    "correct": 0,
+    "explanation_ar": "(إِنَّ مَوْعِدَهُمُ الصُّبْحُ ۚ أَلَيْسَ الصُّبْحُ بِقَرِيبٍ).",
+    "question_fr": "Quel était le moment fixé pour la destruction du peuple de Lot, annoncé par les anges pour calmer son impatience ?",
+    "options_fr": [
+      "« Leur rendez-vous est le matin ; le matin n'est-il pas proche ? »",
+      "« Leur rendez-vous est l'après-midi, lorsque le soleil devient jaune »",
+      "« Le jour de la fête, lorsque les gens seront rassemblés le matin »",
+      "« Vendredi prochain à la veille »"
+    ],
+    "explanation_fr": "« Leur rendez-vous est le matin ; le matin n'est-il pas proche ? »"
+  },
+  {
+    "id": "lut_15",
+    "question_ar": "كيف وقع العذاب المركب على سدوم وقرى قوم لوط كما وصف القرآن الكريم بدقة؟",
+    "options_ar": [
+      "طوفان من الماء المالح فقط أغرقهم",
+      "فَلَمَّا جَاءَ أَمْرُنَا جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ (قلب الأرض مع مطر حجارة من نار)",
+      "أمطرهم الله ماء بارداً جمد قلوبهم وصارعتهم وحوش الجبل",
+      "دُمروا بصيحة واحدة من دون قلاب للأرض"
+    ],
+    "correct": 1,
+    "explanation_ar": "(جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ مَّنضُودٍ) اقتلعت قراهم وجُعل أسفلها أعلاها ثم رُجموا بحجارة معلّمة مهلكة.",
+    "question_fr": "Comment le châtiment combiné s'abattit-il sur Sodome et les cités du peuple de Lot, selon le Coran ?",
+    "options_fr": [
+      "Une inondation d'eau salée seulement les engloutit",
+      "« Lorsque Notre ordre vint, Nous renversâmes leurs cités et fîmes pleuvoir sur elles des pierres d'argile cuite disposées en rangées »",
+      "Allah leur envoya une eau froide qui gela leurs cœurs et des bêtes de montagne les attaquèrent",
+      "Ils furent détruits par un seul cri, sans renversement des cités"
+    ],
+    "explanation_fr": "« Nous renversâmes leurs cités et fîmes pleuvoir sur elles des pierres d'argile cuite disposées en rangées. »"
+  },
+  {
+    "id": "lut_16",
+    "question_ar": "ما صفة هذه الحجارة العذاب التي أمطرت عليهم (مُّسَوَّمَةً عِندَ رَبِّكَ...)؟ وما التعقيب الذي ذكره القرآن كتهديد لعصاة كل أمة؟",
+    "options_ar": [
+      "وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ (عذاب مماثل لا يبتعد عمن يفعل فعلهم الظالم)",
+      "وَسَنُذِيقُ الكَافِرِينَ مِنْهَا كُلَّ حِينٍ",
+      "وَلَن يَنْقُصَ مِنْهَا حَجَرٌ ابَدَا",
+      "وَهِيَ مِنَ السَّمَاءِ الصَّافِيَةِ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(مُّسَوَّمَةً عِندَ رَبِّكَ ۖ وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ).",
+    "question_fr": "Quelle était la caractéristique des pierres du châtiment qui furent envoyées sur eux, et quel avertissement le Coran donne-t-il ensuite ?",
+    "options_fr": [
+      "« Marquées auprès de ton Seigneur ; elles ne sont pas loin des injustes »",
+      "« Nous ferons goûter aux mécréants leur châtiment à chaque instant »",
+      "« Aucune pierre n'en manquera jamais »",
+      "« Elles viennent d'un ciel parfaitement dégagé »"
+    ],
+    "explanation_fr": "« Marquées auprès de ton Seigneur, et elles ne sont pas loin des injustes. »"
+  },
+  {
+    "id": "lut_17",
+    "question_ar": "في سورة النمل، ماذا قال قوم لوط دليلاً على تضخيمهم للتطهر من المعاصي واستنكارهم له؟",
+    "options_ar": [
+      "قالوا: إِنَّهُمْ يُرِيدُونَ الدُّنْيَا وَنَحْنُ نُرِيدُ الآخِرَةِ",
+      "قَالُوا أَخْرِجُوا آلَ لُوطٍ مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+      "قالوا: أَفَسَدُوا بِمَا لا نَطيقُ رَدَّهُ",
+      "قالوا: إِنَّهُم مَلأٌ مَنَ الْأَغْنياءِ الْمُتَكَبِّرينَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "الردود تتكرر في القرآن بتعبيرات متشابهة؛ فهم سخروا من عفاف لوط وجعلوه عيباً وجريمة توجب الطرد.",
+    "question_fr": "Dans la sourate An-Naml, que dit le peuple de Lot, montrant son mépris envers la pureté morale ?",
+    "options_fr": [
+      "« Ils veulent le bas-monde, tandis que nous voulons l'au-delà »",
+      "« Expulsez la famille de Lot de votre cité : ce sont des gens qui veulent rester purs »",
+      "« Ils ont corrompu ce que nous ne pouvons pas supporter »",
+      "« Ce sont les riches et les orgueilleux qui nous dirigent »"
+    ],
+    "explanation_fr": "Ils se moquèrent de la chasteté de Lot et en firent un défaut justifiant l'expulsion."
+  },
+  {
+    "id": "lut_18",
+    "question_ar": "ما الآية التي ذكرت أين كان موقع قرى قوم لوط، وأن آثار دمارها ما زالت قائمة وعلامة واضحة للمسافرين؟",
+    "options_ar": [
+      "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ * وَبِاللَّيْلِ ۗ أَفَلَا تَعْقِلُونَ (تمرون على آثارهم المدمرة في أسفاركم)",
+      "تَرَكْنَاهُمْ أَمْوَاجًا تَضْرِبُ فَلَا رَادَّ لَهَا",
+      "وَإِنَّهَا لَفِي أَقْصَى الْأَرْضِ مَخْفِيَّةً لِّلنَّاظِرِينَ",
+      "وَقَدْ دُفِنَتْ فِي الْبَحْرِ العَمِيقِ لَا يُرَى لَهَا أَثَرٌ"
+    ],
+    "correct": 0,
+    "explanation_ar": "كان كفار قريش وغيرهم يمرون على موقع سدوم (البحر الميت) في طريق أسفارهم للشام، (وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ * وَبِاللَّيْلِ).",
+    "question_fr": "Quel verset mentionne l'emplacement des cités du peuple de Lot et le fait que leurs ruines restent visibles pour les voyageurs ?",
+    "options_fr": [
+      "« Vous passez certainement auprès d'eux au matin et pendant la nuit. Ne raisonnez-vous donc pas ? »",
+      "« Nous les avons laissés comme des vagues qui se heurtent sans que personne ne puisse les arrêter »",
+      "« Elles se trouvent à l'extrémité de la terre, cachées aux regards »",
+      "« Elles furent ensevelies dans la mer profonde sans laisser de trace »"
+    ],
+    "explanation_fr": "Les voyageurs passaient près du site de leurs cités sur la route vers le Levant : « Vous passez certainement auprès d'eux au matin et pendant la nuit. »"
+  },
+  {
+    "id": "lut_19",
+    "question_ar": "كيف وصف القرآن إلحاح قوم لوط على لوط أن يترك لهم الضيوف وراودوه عنهم؟",
+    "options_ar": [
+      "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ * وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ (حاولوا غصبه بوقاحة فطُمست أعينهم بالعمى المفاجئ)",
+      "طرقوا بابه بأدب حتى الصباح فقط",
+      "حاولوا رشوة زوجته بالذهب لتدخلهم خفية",
+      "انتظروهم حتى خرجوا للصيد خارج القرية"
+    ],
+    "correct": 0,
+    "explanation_ar": "في سورة القمر: (وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ).",
+    "question_fr": "Comment le Coran décrit-il l'insistance du peuple de Lot pour obtenir ses invités ?",
+    "options_fr": [
+      "« Ils insistèrent auprès de lui au sujet de ses invités, puis Nous les aveuglâmes »",
+      "Ils frappèrent poliment à sa porte jusqu'au matin",
+      "Ils tentèrent de soudoyer sa femme avec de l'or pour entrer discrètement",
+      "Ils attendirent que les invités sortent chasser"
+    ],
+    "explanation_fr": "Dans la sourate Al-Qamar : « Ils insistèrent auprès de lui au sujet de ses invités, puis Nous aveuglâmes leurs yeux. »"
+  },
+  {
+    "id": "lut_20",
+    "question_ar": "ما الوصف الذي أطلقه الله على زوجة لوط في القرآن؟",
+    "options_ar": [
+      "عَجُوزًا فِي الْغَابِرِينَ (في الهالكين الباقين في العذاب)",
+      "شَابَّةً مِنَ الخَائِنَاتِ",
+      "أُمًّا للعَاصِينَ تَقُودُهُمْ للرَّذِيلَةِ",
+      "مُنَافِقَةً كُبْرَى تَسْتَتِرُ باللَّيْلِ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(فَأَنجَيْنَاهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ قَدَّرْنَاهَا ۖ مِنَ الْغَابِرِينَ)، وفي الشعراء أضاف (إِلَّا عَجُوزًا فِي الْغَابِرِينَ).",
+    "question_fr": "Quelle description Allah donne-t-Il de la femme de Lot dans le Coran ?",
+    "options_fr": [
+      "« Une vieille femme parmi ceux qui périrent »",
+      "« Une jeune femme parmi les traîtres »",
+      "« Une mère des désobéissants qui les conduisait au vice »",
+      "« Une grande hypocrite qui se cachait la nuit »"
+    ],
+    "explanation_fr": "« Nous les sauvâmes, lui et sa famille, sauf sa femme... » et : « sauf une vieille femme parmi ceux qui périrent. »"
+  },
+  {
+    "id": "lut_21",
+    "question_ar": "كيف وصف الله حالة السُّكر (العمى) الأخلاقي الذي كان فيه قوم لوط وقت نزول العذاب (لَعَمْرُكَ إِنَّهُمْ ...)؟",
+    "options_ar": [
+      "فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "فِي سَكْرَتِهِمْ يَعْمَهُونَ (يقسم بحياة نبيه محمد ﷺ أنهم في ضلالهم وحيرتهم يتخبطون كالسُكارى)",
+      "فِي غَيِّهِمْ يَتَرَدَّدُونَ",
+      "فِي غَفْلَتِهِمْ سَاهُونَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ) سكرة الشهوة العمياء طمست بصيرتهم فتخبطوا في الانحراف بلا وعي.",
+    "question_fr": "Comment Allah décrit-Il l'état d'aveuglement moral du peuple de Lot au moment du châtiment : « Par ta vie, ils étaient... » ?",
+    "options_fr": [
+      "« dans leur transgression, ils erraient »",
+      "« dans leur ivresse, ils erraient », comme des gens aveuglés par leur égarement",
+      "« dans leur erreur, ils hésitaient »",
+      "« dans leur insouciance, ils étaient distraits »"
+    ],
+    "explanation_fr": "« Par ta vie, ils étaient dans leur ivresse, ils erraient. » Leur passion aveugle les empêchait de voir la vérité."
+  },
+  {
+    "id": "lut_22",
+    "question_ar": "في سورة الشعراء، عندما توعد قوم لوط نبيهم بالرجم، ماذا قال لهم (قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ ...)؟",
+    "options_ar": [
+      "لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
+      "لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ (الطرد والنفي)",
+      "لَتَكُونَنَّ مِنَ الْمَسْجُونِينَ",
+      "لَتَكُونَنَّ مِنَ الْمُعَذَّبِينَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ) الإخراج والنفي أسلوب الطغاة لإسكات الناصحين.",
+    "question_fr": "Dans la sourate Ash-Shu'ara, lorsque le peuple de Lot menaça son prophète de le lapider, que lui dit-il : « Si tu ne cesses pas, ô Lot... » ?",
+    "options_fr": [
+      "« tu seras certainement parmi les lapidés »",
+      "« tu seras certainement parmi les expulsés »",
+      "« tu seras certainement parmi les prisonniers »",
+      "« tu seras certainement parmi les châtiés »"
+    ],
+    "explanation_fr": "« Si tu ne cesses pas, ô Lot, tu seras certainement parmi les expulsés. »"
+  },
+  {
+    "id": "lut_23",
+    "question_ar": "بماذا أجاب لوط قومه حينما هددوه بالإخراج؟ (قَالَ إِنِّي لِعَمَلِكُم ...)؟",
+    "options_ar": [
+      "مِّنَ الْكَارِهِينَ خُفْيَةً",
+      "مِّنَ الْقَالِينَ (أي من المُبغضين الشديدي الكراهية لعملكم القبيح)",
+      "لَسْتُ عَلَيْكُم بِوَكِيلٍ",
+      "سَأَصْبِرُ حَتَّىٰ يَحْكُمَ اللَّهُ بَيْنَنا"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالَ إِنِّي لِعَمَلِكُم مِّنَ الْقَالِينَ) أي أشد البغض القلبي لأفعالهم الفاضحة ورفض المساومة عليها الدنيئة.",
+    "question_fr": "Que répondit Lot à son peuple lorsqu'ils le menacèrent d'expulsion : « Je suis, quant à votre acte... » ?",
+    "options_fr": [
+      "« parmi ceux qui le détestent secrètement »",
+      "« parmi ceux qui le détestent profondément »",
+      "« Je ne suis pas responsable de vous »",
+      "« Je patienterai jusqu'à ce qu'Allah juge entre nous »"
+    ],
+    "explanation_fr": "« Je suis, quant à votre acte, parmi ceux qui le détestent. » Il refusa fermement leur conduite."
+  },
+  {
+    "id": "lut_24",
+    "question_ar": "كيف كان دعاء لوط العاجل لربه بعد استيئاسه التام من قومه؟ (رَبِّ نَجِّنِي وَأَهْلِي ...)",
+    "options_ar": [
+      "مِن قَرْيَةِ الظَّالِمِينَ",
+      "مِمَّا يَعْمَلُونَ (أي من عقاب فعلهم الخبيث ومن إقامتهم معهم)",
+      "مِنَ الَّذِينَ كَفَرُوا وَلَمْ يُؤْمِنُوا",
+      "إِلَىٰ أَرْضٍ طَيِّبَةٍ مُّبَارَكَةٍ بَعِيدَةٍ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ) استجاب الله له فوراً ونجاهم عدا امرأته العجوز الخائنة.",
+    "question_fr": "Quelle invocation Lot adressa-t-il rapidement à son Seigneur après avoir totalement perdu espoir de voir son peuple changer : « Seigneur, sauve-moi ainsi que ma famille... » ?",
+    "options_fr": [
+      "« de la cité des injustes »",
+      "« de ce qu'ils font »",
+      "« de ceux qui ont mécru et n'ont pas cru »",
+      "« vers une terre bonne et bénie, éloignée »"
+    ],
+    "explanation_fr": "« Seigneur, sauve-moi ainsi que ma famille de ce qu'ils font. » Allah exauça son invocation et les sauva, à l'exception de sa femme."
+  },
+  {
+    "id": "lut_25",
+    "question_ar": "ما هو اللقب العجيب الذي أطلقه القرآن على فاحشة قوم لوط في وصف لوط لهم في سورة العنكبوت؟ (إِنَّكُمْ لَتَأْتُونَ ...)",
+    "options_ar": [
+      "لا تُبْصِرُونَ الْحَقَّ الْمُبِينَ",
+      "الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ",
+      "السِّحْرَ وَالشَّعْوَذَةَ",
+      "الْخِيَانَةَ الْكُبْرَى"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) فاحشة الانتكاسة الفطرية البشعة.",
+    "question_fr": "Quel nom remarquable le Coran donne-t-il à l'acte du peuple de Lot dans la sourate Al-'Ankabut : « Vous commettez... » ?",
+    "options_fr": [
+      "« Vous n'apercevez pas la vérité évidente »",
+      "« cette turpitude qu'aucun peuple avant vous n'a commise »",
+      "« la magie et la sorcellerie »",
+      "« la grande trahison »"
+    ],
+    "explanation_fr": "« Ô Lot, lorsqu'il dit à son peuple : vous commettez certes une turpitude qu'aucun peuple avant vous n'a commise. »"
+  },
+  {
+    "id": "lut_26",
+    "question_ar": "من الأسباب التي ذكرت لفساد قلب امرأة لوط رغم قربها من النبي (ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ ۖ...)",
+    "options_ar": [
+      "أنهما سرقتا خزائن زوجيهما بالليل ظلماً",
+      "كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا (الخيانة هنا في الدين والرسالة لا في الشرف)",
+      "هربتا مع الكفار قبل العذاب بليلة واحدة",
+      "عبدتا الأصنام سراً في بيوتهما منذ البداية"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ اللَّهِ شَيْئًا وَقِيلَ ادْخُلَا النَّارَ مَعَ الدَّاخِلِينَ) الخيانة العقدية والولاء للكفار كافٍ للهلاك التام.",
+    "question_fr": "Quelle cause est mentionnée pour expliquer la corruption de la foi de la femme de Lot malgré sa proximité avec un prophète ?",
+    "options_fr": [
+      "Elles volaient la nuit les trésors de leurs maris",
+      "« Elles étaient sous la protection de deux serviteurs vertueux parmi Nos serviteurs, mais elles les trahirent » ; la trahison concernait la foi et le message",
+      "Elles s'enfuirent avec les mécréants avant le châtiment",
+      "Elles adoraient secrètement les idoles depuis le début"
+    ],
+    "explanation_fr": "« Elles les trahirent, mais ils ne leur furent d'aucune utilité contre Allah. » Il s'agit d'une trahison dans la foi et l'alliance avec les mécréants, non d'une trahison conjugale."
+  },
+  {
+    "id": "lut_27",
+    "question_ar": "كم ابنة (بنت) كانت لنبي الله لوط عليه السلام وفقاً لأغلب التفاسير عندما هربن معه؟",
+    "options_ar": [
+      "بنت واحدة فقط",
+      "ابنتان (ريثا وزعورا)",
+      "خمس بنات وثلاثة أولاد",
+      "عشر بنات متزوجات"
+    ],
+    "correct": 1,
+    "explanation_ar": "يذكر المفسرون، اعتماداً على الأثر، أنه كان له ابنتان هربتا معه ليلاً ونجتا من الطوفان والحجارة الحارقة.",
+    "question_fr": "Selon la majorité des commentaires mentionnés dans la source, combien de filles le prophète Lot avait-il lorsqu'elles partirent avec lui ?",
+    "options_fr": [
+      "Une seule fille",
+      "Deux filles (Ritha et Za'ura)",
+      "Cinq filles et trois garçons",
+      "Dix filles mariées"
+    ],
+    "explanation_fr": "Certains commentateurs, en s'appuyant sur des récits, mentionnent qu'il avait deux filles qui partirent avec lui durant la nuit et furent sauvées."
+  },
+  {
+    "id": "lut_28",
+    "question_ar": "هل ذكر القرآن الكريم قتالاً شرعياً واجهه لوط ضد قومه؟",
+    "options_ar": [
+      "نعم، قاتلهم وقتل عشرة منهم بسيفه",
+      "لا، لم يكن للوط عصبة تدافع عنه (لَوْ أَنَّ لِي بِكُمْ قُوَّةً) واكتفى بالمناصحة البليغة والدعاء الحار",
+      "أرسل جيشاً من الملائكة لقتالهم جهاراً بالسيوف الدامية",
+      "طلب من إبراهيم إرسال جيشه لمساعدته فحاصرهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "لوط كان غريباً (مهاجراً مع إبراهيم) وليس له عصبة أو قبيلة تحميه في سدوم، فاستعان بالله وحده لرد أذاهم الملحّ.",
+    "question_fr": "Le Coran mentionne-t-il un combat armé mené par Lot contre son peuple ?",
+    "options_fr": [
+      "Oui, il les combattit et en tua dix avec son épée",
+      "Non, Lot n'avait pas de clan pour le défendre ; il se limita à exhorter son peuple et à invoquer Allah",
+      "Il envoya une armée d'anges combattre ouvertement avec des épées",
+      "Il demanda à Ibrahim d'envoyer son armée pour l'aider à les assiéger"
+    ],
+    "explanation_fr": "Lot était un émigré avec Ibrahim et ne disposait pas d'un clan pour le protéger à Sodome ; il s'en remit donc à Allah pour repousser leurs agressions."
+  },
+  {
+    "id": "lut_29",
+    "question_ar": "كيف هلكت زوجة لوط عندما خرجت معه ليلا؟ (وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ...)",
+    "options_ar": [
+      "اكلتها السباع في الطريق المظلم الوعر",
+      "التفتت لتنظر إلى قريتها وعذابهم حسرةً عليهم، فأصابها حجر من السماء (أصابها ما أصابهم)",
+      "عادت مسرعة للقرية لتجلب بعض الذهب المدفون فغرقت",
+      "أمرها لوط بالبقاء لتحرس البيت فاحترقت"
+    ],
+    "correct": 1,
+    "explanation_ar": "(إِلَّا امْرَأَتَكَ ۖ إِنَّهُ مُصِيبُهَا مَا أَصَابَهُمْ ۚ) فقيل إنها التفتت شفقة عليهم أو عادت إليهم فأدركها العذاب الهائل الساحق.",
+    "question_fr": "Comment la femme de Lot périt-elle lorsqu'elle sortit avec lui pendant la nuit : « Que personne parmi vous ne se retourne, sauf ta femme... » ?",
+    "options_fr": [
+      "Des bêtes sauvages la dévorèrent sur la route",
+      "Elle se retourna pour regarder sa cité et son châtiment ; elle fut alors atteinte par le châtiment",
+      "Elle retourna rapidement à la cité pour prendre de l'or caché et périt",
+      "Lot lui ordonna de rester garder la maison et elle brûla"
+    ],
+    "explanation_fr": "« Sauf ta femme ; elle sera atteinte par ce qui les atteindra. » Les récits mentionnent qu'elle se retourna ou retourna vers eux et fut atteinte par le châtiment."
+  },
+  {
+    "id": "lut_30",
+    "question_ar": "كيف ذكر القرآن الكريم مصير قرى ومدن قوم لوط في سورة النجم دليلاً على الدمار الشامل؟",
+    "options_ar": [
+      "وَسَدُومَ أَهْلَكْنَا بِالطُّوفَانِ",
+      "وَالْمُؤْتَفِكَةَ (القرى التي انقلابها مقلوب) أَهْوَىٰ * فَغَشَّاهَا مَا غَشَّىٰ (ألبسها العذاب الذي غطاها)",
+      "وَقُرَى قَوْمِ لُوطٍ أَخَذْنَاهُمْ بِالصَّيْحَةِ",
+      "وَالْمَدِينَةَ الْعَاصِيَةَ دَمَّرْنَا بِنَارٍ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَالْمُؤْتَفِكَةَ أَهْوَىٰ * فَغَشَّاهَا مَا غَشَّىٰ) رفعها جبريل بأمر الله ثم أهواها (أسقطها مقلوبة) وغطاها بالحجارة المستمرة.",
+    "question_fr": "Comment le Coran décrit-il dans la sourate An-Najm le destin des cités du peuple de Lot, comme preuve de leur destruction totale ?",
+    "options_fr": [
+      "« Nous avons détruit Sodome par le déluge »",
+      "« Et les cités renversées, Il les fit tomber ; puis Il les recouvrit de ce qui les recouvrit »",
+      "« Nous avons frappé les cités du peuple de Lot par un seul cri »",
+      "« Nous avons détruit la cité rebelle par le feu »"
+    ],
+    "explanation_fr": "« Et les cités renversées, Il les fit tomber ; puis Il les recouvrit de ce qui les recouvrit. »"
+  },
+  {
+    "id": "lut_31",
+    "question_ar": "كيف ذكر القرآن الكريم مصير قرى ومدن قوم لوط في سورة النجم دليلاً على الدمار الشامل؟",
+    "options_ar": [
+      "وَسَدُومَ أَهْلَكْنَا بِالطُّوفَانِ",
+      "وَالْمُؤْتَفِكَةَ (القرى التي انقلابها مقلوب) أَهْوَىٰ * فَغَشَّاهَا مَا غَشَّىٰ (ألبسها العذاب الذي غطاها)",
+      "وَقُرَى قَوْمِ لُوطٍ أَخَذْنَاهُمْ بِالصَّيْحَةِ",
+      "وَالْمَدِينَةَ الْعَاصِيَةَ دَمَّرْنَا بِنَارٍ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَالْمُؤْتَفِكَةَ أَهْوَىٰ * فَغَشَّاهَا مَا غَشَّىٰ) رفعها جبريل بأمر الله ثم أهواها (أسقطها مقلوبة) وغطاها بالحجارة المستمرة.",
+    "question_fr": "Comment le Coran décrit-il dans la sourate An-Najm le destin des cités du peuple de Lot, comme preuve de leur destruction totale ?",
+    "options_fr": [
+      "« Nous avons détruit Sodome par le déluge »",
+      "« Et les cités renversées, Il les fit tomber ; puis Il les recouvrit de ce qui les recouvrit »",
+      "« Nous avons frappé les cités du peuple de Lot par un seul cri »",
+      "« Nous avons détruit la cité rebelle par le feu »"
+    ],
+    "explanation_fr": "« Et les cités renversées, Il les fit tomber ; puis Il les recouvrit de ce qui les recouvrit. »"
+  },
+  {
+    "id": "lut_32",
+    "question_ar": "ما الذي يمكن استنتاجه من تحذير الملائكة للوط (وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا امْرَأَتَكَ) بخصوص طبيعة العذاب؟",
+    "options_ar": [
+      "أنه سيكون بطيئاً جداً ويمكن الهرب منه بسهولة",
+      "أنه سيكون سريعاً، وقوياً جداً ومريعاً لدرجة أن النظر إليه قد يعيق الهرب أو يصيبهم بالخوف القاتل",
+      "أنه سيحدث في البحر وتغرق القرية فقط",
+      "أن الملائكة لم تكن متأكدة من نجاح هروبه"
+    ],
+    "correct": 1,
+    "explanation_ar": "نهيهم عن الالتفات حماية لهم من هول المنظر المريع الذي قد يجمدهم أو يصيبهم بالجزع المعيق عن النجاة السريعة.",
+    "question_fr": "Que peut-on comprendre de l'avertissement des anges à Lot : « Que personne parmi vous ne se retourne, sauf ta femme », concernant la nature du châtiment ?",
+    "options_fr": [
+      "Le châtiment devait atteindre les habitants et quiconque partageait leur sort",
+      "Le châtiment ne concernait que les animaux de la cité",
+      "Il s'agissait uniquement d'une maladie naturelle",
+      "La cité devait être abandonnée pendant un mois avant le châtiment"
+    ],
+    "explanation_fr": "L'ordre de ne pas se retourner indique la gravité et l'imminence du châtiment, ainsi que la séparation entre les sauvés et ceux qui allaient être châtiés."
+  },
+  {
+    "id": "lut_33",
+    "question_ar": "ماذا قال قوم لوط دلالة على استهزائهم بوعده وتحديهم الصريح عندما ألح عليهم بالتوبة (ائْتِنَا بِـ...)؟",
+    "options_ar": [
+      "بِمَلَائِكَةٍ مِنَ السَّمَاءِ",
+      "بِعَذَابِ اللَّهِ إِن كُنتَ مِنَ الصَّادِقِينَ",
+      "بِكِتَابٍ مَقْرُوءٍ مِنْ رَبِّكَ",
+      "بِمُعْجِزَةٍ تُنْطِقُ الأَحْجَارَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِن كُنتَ مِنَ الصَّادِقِينَ) وهو قمة الغطرسة والعمى.",
+    "question_fr": "Que dit le peuple de Lot pour se moquer de sa promesse et le défier ouvertement lorsqu'il les exhortait au repentir : « Fais-nous venir... » ?",
+    "options_fr": [
+      "« Fais-nous venir le châtiment d'Allah, si tu es véridique »",
+      "« Fais-nous venir des richesses et nous te croirons »",
+      "« Fais-nous venir une armée pour nous combattre »",
+      "« Fais-nous venir des anges pour nous parler »"
+    ],
+    "explanation_fr": "Ils défièrent Lot en demandant que le châtiment dont il les avertissait leur soit apporté immédiatement."
+  },
+  {
+    "id": "lut_34",
+    "question_ar": "ماذا يُقصد بقول إبراهيم للملائكة (إِنَّ فِيهَا لُوطًا) عندما أخبروه بإهلاك القرية؟",
+    "options_ar": [
+      "كان غاضباً من لوط وتمنى أن يهلك معهم",
+      "كان قلقاً من أن لوطاً قد أصبح مثلهم",
+      "كان يتشفع ويُذكر الملائكة بوجود المؤمن لإنقاذه من العقوبة العامة",
+      "كان يعتقد أن لوطاً إله يمكنه حمايتهم"
+    ],
+    "correct": 2,
+    "explanation_ar": "(قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا) شفقة إبراهيم دفعته للتذكير بنجاة المؤمن قبل العذاب.",
+    "question_fr": "Que signifie la parole d'Ibrahim aux anges : « Il y a Lot dans cette cité », lorsqu'ils lui annoncèrent sa destruction ?",
+    "options_fr": [
+      "Ibrahim craignait pour Lot, son parent et prophète, et souhaitait connaître son salut",
+      "Ibrahim demandait que la cité soit épargnée entièrement",
+      "Ibrahim voulait quitter la région avec Lot",
+      "Ibrahim demandait aux anges de combattre le peuple"
+    ],
+    "explanation_fr": "Ibrahim s'inquiéta de la présence de Lot dans la cité ; les anges le rassurèrent en lui annonçant que Lot et sa famille croyante seraient sauvés."
+  },
+  {
+    "id": "lut_35",
+    "question_ar": "كيف كشف لوط عن ضعفه البشري عندما راوده قومه عن ضيوفه ولم تكن له منعة؟ (قَالَ لَوْ أَنَّ لِي بِكُمْ...)",
+    "options_ar": [
+      "حِيلَةً أَوْ مَالاً",
+      "قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ (رغبة في العزوة والسند المادي أمامهم)",
+      "سِلَاحاً أَوْ خُيُولاً",
+      "سُلْطَاناً يُخِيفُكُمْ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ) تمنى لو كان له عشيرة تمنعه أذاهم في ضيوفه.",
+    "question_fr": "Comment Lot exprima-t-il sa faiblesse humaine lorsque son peuple insista au sujet de ses invités alors qu'il n'avait aucun soutien : « Si seulement j'avais sur vous... » ?",
+    "options_fr": [
+      "« une force ou un appui solide »",
+      "« des richesses suffisantes pour les soudoyer »",
+      "« une grande armée derrière moi »",
+      "« l'autorité sur votre cité »"
+    ],
+    "explanation_fr": "« Si seulement j'avais sur vous une force ou si je pouvais me réfugier auprès d'un appui solide. » Il cherchait une protection humaine tout en s'en remettant à Allah."
+  },
+  {
+    "id": "lut_36",
+    "question_ar": "ماذا فعل الله بأعين المقتحمين (قوم لوط) عندما حاولوا دخول بيت لوط بالإكراه للوصول للملائكة؟",
+    "options_ar": [
+      "جعلهم يرون الملائكة وحوشاً فخافوا وهربوا",
+      "وَلَقَدْ رَاوَدُوهُ عَن ضَيْفِهِ فَطَمَسْنَا أَعْيُنَهُمْ (مُحِيَت أعينهم بالكلية أو أصابهم العمى الفجائي الدامس)",
+      "أنزل عليهم دماً من السماء أعمى بصيرتهم فقط",
+      "تحدثت الملائكة بصوت جلّد قلوبهم فماتوا فورا"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَطَمَسْنَا أَعْيُنَهُمْ فَذُوقُوا عَذَابِي وَنُذُرِ) عقوبة دنيوية فورية ومذلة قبل العذاب الأعظم في الصباح.",
+    "question_fr": "Que fit Allah aux yeux des hommes qui tentèrent de forcer l'entrée de la maison de Lot pour atteindre les anges ?",
+    "options_fr": [
+      "Il les rendit aveugles et leur ôta la vue",
+      "Il les transforma en pierre immédiatement",
+      "Il les fit dormir jusqu'au matin",
+      "Il les éloigna de la cité par le vent"
+    ],
+    "explanation_fr": "Les anges les frappèrent d'un aveuglement : « Nous aveuglâmes leurs yeux. »"
+  },
+  {
+    "id": "lut_37",
+    "question_ar": "هل آمن مع لوط رجال أو أُسر أخرى في القرية طوال فترة دعوته الطويلة المشقة؟",
+    "options_ar": [
+      "نعم، آمنت معه عشر أُسر فقيرة",
+      "لا، فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ (بيت لوط فقط، وزوجته منافقة كافرة)",
+      "آمن نصف القرية سراً وخافوا إعلانه",
+      "لم يؤمن معه أحد حتى بناته كفرن به"
+    ],
+    "correct": 1,
+    "explanation_ar": "(فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ * فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ الْمُسْلِمِينَ) غربة شديدة لنبي مع قومه.",
+    "question_fr": "D'autres hommes ou familles de la cité crurent-ils avec Lot pendant toute la durée difficile de sa prédication ?",
+    "options_fr": [
+      "Oui, toute la cité crut avec lui",
+      "Oui, la majorité des habitants le suivirent",
+      "Le récit coranique indique que les croyants sauvés avec lui furent très peu nombreux, essentiellement sa famille croyante",
+      "Oui, toutes les familles sauf les notables"
+    ],
+    "explanation_fr": "Le récit montre que Lot ne disposait pas d'un grand groupe de croyants ; sa famille croyante fut sauvée, tandis que son épouse faisait partie de ceux qui périrent."
+  },
+  {
+    "id": "lut_38",
+    "question_ar": "كيف يمكن تفسير موقف زوجة لوط، وهل كانت تشارك قومها في الفاحشة؟",
+    "options_ar": [
+      "نعم كانت تشاركهم في ذنوبهم تماماً",
+      "لا، لكنها داهنتهم، وكفرت برسالة زوجها، وكانت تعمل كجاسوسة (تدلهم على أين يبيت الضيوف الملاح)، فرضيت بفعلهم فاستحقت عذابهم",
+      "كانت تعبد اللات والعزى ولا تهتم بأفعال قومها",
+      "كانت مريضة مجنونة ولم تحاسب"
+    ],
+    "correct": 1,
+    "explanation_ar": "الخيانة هنا دينية وليست شرفية؛ فقد كانت توالي وتدل القوم الفاسقين على الضيوف ليقعوا بهم، وهذا رضا بالجريمة.",
+    "question_fr": "Comment comprendre la position de la femme de Lot, et participait-elle à la turpitude de son peuple ?",
+    "options_fr": [
+      "Elle était croyante et défendait secrètement son peuple",
+      "Elle partageait la foi de Lot mais fut tuée avec lui",
+      "Elle ne partageait pas nécessairement leur acte de manière directe, mais elle soutenait les mécréants et trahit le message de Lot",
+      "Elle avait quitté la cité avant l'arrivée des anges"
+    ],
+    "explanation_fr": "La trahison mentionnée dans le Coran est comprise comme une trahison de la foi et du soutien au peuple mécréant ; le texte ne dit pas qu'elle commettait elle-même la turpitude."
+  },
+  {
+    "id": "lut_39",
+    "question_ar": "القرآن يعبر عن فعل قوم لوط بأنه إفسادٌ للفطرة والنسل وتعدٍّ للحدود، كيف وصفهم لوط في سورة الشعراء؟ (بَلْ أَنتُمْ...)",
+    "options_ar": [
+      "قَوْمٌ شَيَاطِينُ",
+      "قَوْمٌ عَادُونَ (متجاوزون للحدود الشرعية والفطرة الطبيعية بالكلية)",
+      "قَوْمٌ مَسْحُورُونَ",
+      "قَوْمٌ مُبْذِّرُونَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(بَلْ أَنتُمْ قَوْمٌ عَادُونَ) تجاوزوا الحلال المنظم إلى الحرام المستقذر، متعدين على سنن الله في خلقه.",
+    "question_fr": "Le Coran décrit l'acte du peuple de Lot comme une transgression de la nature et des limites. Comment Lot les décrit-il dans la sourate Ash-Shu'ara : « Mais vous êtes... » ?",
+    "options_fr": [
+      "« Mais vous êtes un peuple qui ignore »",
+      "« Mais vous êtes un peuple qui adore les anges »",
+      "« Mais vous êtes un peuple qui aime la richesse »",
+      "« Mais vous êtes un peuple qui voyage beaucoup »"
+    ],
+    "explanation_fr": "« Mais vous êtes un peuple qui ignore. » Lot dénonçait leur ignorance et leur transgression des limites établies par Allah."
+  },
+  {
+    "id": "lut_40",
+    "question_ar": "كيف أخبر لوط ضيوفه عن قومه عندما سألوه عن حال القرية (وهو يظنهم بشراً)، ليكون إقراراً بحالهم وتبرئة لساحته كضيف؟",
+    "options_ar": [
+      "قال: هم أطيب الناس قلباً ولكنهم بعيدون عن الله",
+      "قال: (مَا أَعْلَمُ أَهْلَ أَرْضٍ أَخْبَثَ مِنْهُمْ) مكررًا إياها أربع مرات ليحذرهم",
+      "كذب عليهم وقال: هم مسالمون لئلا يخيفهم",
+      "قال لهم: إنهم أغنياء وسيمنحونكم هدايا كبرى"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذكر ابن كثير أنه حذرهم وهم متوجهون لبيته مراراً من خبث قومه، فأشهده الملائكة أربع مرات عليهم قبل أن يدخلوا ليكونوا شهوداً.",
+    "question_fr": "Comment Lot décrivit-il à ses invités l'état de son peuple lorsqu'ils l'interrogèrent sur la cité, alors qu'il les croyait humains ?",
+    "options_fr": [
+      "Il leur dit que les habitants étaient connus pour leurs mauvaises actions et qu'il craignait pour eux",
+      "Il leur dit que la cité était sûre et paisible",
+      "Il leur dit qu'il n'y avait aucun habitant dans la cité",
+      "Il leur demanda de repartir immédiatement sans explication"
+    ],
+    "explanation_fr": "Lot fit comprendre à ses invités qu'il connaissait la corruption de son peuple et qu'il craignait pour eux, tout en assumant son devoir d'hôte."
+  },
+  {
+    "id": "lut_41",
+    "question_ar": "بماذا كان يشعر لوط تجاه قومه في دعوته لهم كما وصف ذلك القرآن في قوله (وَإِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ ۚ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ)؟",
+    "options_ar": [
+      "كان يشعر بالخوف فقط دون قدرة على المواجهة",
+      "كان يشعر بالاستنكار والعجب من جهلهم بفطرتهم وانحدار بهيميتهم",
+      "كان يشعر بالملل ويفكر في الرحيل دائماً",
+      "كان يظن أنهم يفعلون ذلك بالخطأ فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "(بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ) فالجهل هنا ليس فقدان المعلومة، بل السفه والتصرف بخلاف العقل السليم والفطرة المستقيمة.",
+    "question_fr": "Que ressentait Lot envers son peuple dans sa prédication, selon le verset : « Vous allez certes vers les hommes par désir plutôt que vers les femmes ; mais vous êtes un peuple ignorant » ?",
+    "options_fr": [
+      "Une profonde réprobation de leur acte et une volonté sincère de les guider",
+      "De la fierté pour leurs actions",
+      "De l'indifférence complète",
+      "Une volonté de quitter la cité sans jamais les conseiller"
+    ],
+    "explanation_fr": "Il condamnait leur conduite avec fermeté tout en les appelant à revenir à la voie droite."
+  },
+  {
+    "id": "lut_42",
+    "question_ar": "كم مَلَكاً تشكلوا كضيوف للوط وفقاً للروايات؟",
+    "options_ar": [
+      "مَلَكان فقط",
+      "ثلاثة في الغالب وهم: جبريل وميكائيل وإسرافيل",
+      "عشرة ملائكة بأسلحة مرئية",
+      "سبعة ملائكة أطوالهم كالجبال"
+    ],
+    "correct": 1,
+    "explanation_ar": "جاءت الروايات أن الرسل كانوا ثلاثة (جبريل وميكائيل وإسرافيل) جاءوا في صورة شباب حسان الوجوه جداً اختباراً للقوم.",
+    "question_fr": "Combien d'anges prirent l'apparence d'invités chez Lot selon les récits mentionnés ?",
+    "options_fr": [
+      "Deux anges",
+      "Trois anges",
+      "Quatre anges",
+      "Sept anges"
+    ],
+    "explanation_fr": "Les récits de l'histoire mentionnent généralement plusieurs anges venus sous forme humaine ; le nombre rapporté dans certaines narrations est de trois."
+  },
+  {
+    "id": "lut_43",
+    "question_ar": "في سورة الحجر (فَأَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِينَ)، متى كان توقيت العذاب الذي ضرب قوم لوط بدقة؟",
+    "options_ar": [
+      "عند شروق الشمس، والصبح قد أسفر ليكون عذاباً مبصراً للجميع",
+      "مشرقين تعني في جهة المشرق من الأرض (مكانهم الجغرافي)",
+      "ليلاً والجميع نائمون بغتة",
+      "عند زوال الشمس وقت الظهيرة"
+    ],
+    "correct": 0,
+    "explanation_ar": "(مُشْرِقِينَ) أي في وقت الإشراق (طلوع الشمس)، بعد أن حل بهم العذاب المتسلسل من الفجر.",
+    "question_fr": "Dans la sourate Al-Hijr, lorsque le châtiment frappa le peuple de Lot au lever du jour, à quel moment précis eut-il lieu ?",
+    "options_fr": [
+      "Au lever du soleil, le matin",
+      "À minuit",
+      "Après la prière du soir",
+      "À midi"
+    ],
+    "explanation_fr": "Le Coran dit : « Le cri les saisit au lever du soleil » ; le châtiment survint donc au matin."
+  },
+  {
+    "id": "lut_44",
+    "question_ar": "كيف تعامل القرآن مع جريمة قوم لوط للرديف (ما سبقكم بها من أحد) كتأصيل تحريمي أبدي لمن يتبعهم؟",
+    "options_ar": [
+      "اعتبرها جريمة محلية خاصة بتلك القرية فقط لزمانهم",
+      "جعلها مثالاً لانتكاس الفطرة، وكل من يعمل عملهم فهو ملعون مهدد برجم السجيل المتواصل (وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ)",
+      "أهمل ذكرها وركز على شركهم بالأصنام فقط",
+      "لم يذكر العقاب الدنيوي لها، بل أجله للآخرة كبقية المعاصي"
+    ],
+    "correct": 1,
+    "explanation_ar": "القرآن صوّر شناعة الجرم وتهديد الحجارة الباقي والمعد لكل من سلك طريقهم (مسومة للمسرفين المتجاوزين للفطرة).",
+    "question_fr": "Comment le Coran traite-t-il le crime du peuple de Lot, décrit comme un acte qu'aucun peuple avant eux n'avait commis, comme principe d'interdiction durable ?",
+    "options_fr": [
+      "Il le présente comme une turpitude gravement réprouvée et rappelle l'exemple de ce peuple",
+      "Il le présente comme une coutume acceptable selon les époques",
+      "Il n'en parle qu'une seule fois sans avertissement",
+      "Il le présente comme une pratique réservée aux prophètes"
+    ],
+    "explanation_fr": "Le Coran répète l'histoire et la formule « aucun peuple avant vous ne l'avait commise », en faisant de leur histoire un avertissement pour ceux qui suivent leur voie."
+  },
+  {
+    "id": "lut_45",
+    "question_ar": "ما معنى قوله تعالى على لسان الملائكة للوط (وَامْضُوا حَيْثُ تُؤْمَرُونَ) وقت هربهم؟",
+    "options_ar": [
+      "أي اذهبوا باتجاه الشام حيث أمركم الله بالنجاة خلف إبراهيم",
+      "أي سيروا ببطء لتشاهدوا هلاكهم",
+      "أي عودوا إلى مصر حيث ولدتم",
+      "لا وجهة محددة لكم فامضوا في الصحراء"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَامْضُوا حَيْثُ تُؤْمَرُونَ) أي امضوا إلى الموضع الذي أمركم الله بالذهاب إليه للهجرة، وهو الشام.",
+    "question_fr": "Que signifie la parole des anges à Lot : « Avancez là où il vous est ordonné », au moment de leur fuite ?",
+    "options_fr": [
+      "Continuez votre chemin vers l'endroit qu'Allah vous a ordonné de rejoindre",
+      "Retournez dans la cité après le châtiment",
+      "Attendez jusqu'à midi avant de partir",
+      "Cherchez une autre famille pour vous accompagner"
+    ],
+    "explanation_fr": "Cela signifie de poursuivre leur départ conformément à l'ordre d'Allah, sans hésitation ni retour en arrière."
+  },
+  {
+    "id": "lut_46",
+    "question_ar": "كيف وُصفت قوة جبريل في الأثر عند قلبه لقرى قرى لوط الأربعة أو الخمسة التي كانت تسع آلاف البشر؟",
+    "options_ar": [
+      "رفعها جميعاً ببطرف جناحه الواحد فقط حتى سمع أهل السماء نباح كلابهم ثم قلبها بهم",
+      "استعان بخمسين ألف ملك لقلبها لضخامتها",
+      "ضرب الأرض بقدمه فانشقت وابتلعتهم بصمت",
+      "نفخ فيها فتطايرت كالريش"
+    ],
+    "correct": 0,
+    "explanation_ar": "روي عن ابن عباس وغيره: رفعها جبريل بخافية جناحه (بطرف جناحه) إلى السماء الدنيا... ثم قلبها، للدلالة على القوة الإلهية الساحقة.",
+    "question_fr": "Comment la force de Jibril est-elle décrite dans les récits lors du renversement des cités du peuple de Lot ?",
+    "options_fr": [
+      "Il les souleva puis les renversa par la permission d'Allah",
+      "Il détruisit les cités avec une épée",
+      "Il les fit disparaître sous la mer sans les soulever",
+      "Il demanda aux habitants de quitter eux-mêmes les cités"
+    ],
+    "explanation_fr": "Les récits rapportent que Jibril souleva les cités par leur base puis les renversa sur leur peuple, par ordre d'Allah."
+  },
+  {
+    "id": "lut_47",
+    "question_ar": "بماذا عيَّر قوم لوط لوطاً حينما أمرهم بالحق (أَوَلَمْ نَنْهَكَ عَنِ ...)؟",
+    "options_ar": [
+      "أن تتحدث في الأسواق",
+      "الْعَالَمِينَ (ألم نمنعك أن تضيف أحداً من الغرباء أو تجيرهم منا؟)",
+      "أن تصلي في الطريق",
+      "أن تبني بيتاً من الحجر"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَالُوا أَوَلَمْ نَنْهَكَ عَنِ الْعَالَمِينَ)، فقد كانوا يقطعون الطريق على المسافرين بالغصب واللواط، ومنعوا لوطاً من استضافة أي غريب.",
+    "question_fr": "Par quelle parole le peuple de Lot lui reprocha-t-il son conseil lorsqu'il leur ordonna de suivre la vérité : « Ne t'avions-nous pas interdit de... » ?",
+    "options_fr": [
+      "« Ne t'avions-nous pas interdit de recevoir des étrangers ? »",
+      "« Ne t'avions-nous pas interdit de parler aux voyageurs ? »",
+      "« Ne t'avions-nous pas interdit de construire une maison ? »",
+      "« Ne t'avions-nous pas interdit de quitter la cité ? »"
+    ],
+    "explanation_fr": "Ils lui reprochèrent de protéger ses invités et de leur adresser des conseils, en disant : « Ne t'avions-nous pas interdit de recevoir des gens ? »"
+  },
+  {
+    "id": "lut_48",
+    "question_ar": "ما هو الدرس العظيم من قصة قوم لوط والمتكرر في سُور القرآن؟",
+    "options_ar": [
+      "أن الكثرة دائماً تنجو بأعمالها",
+      "أن المجاهرة بالمعصية وانتكاس الفطرة يوجب الاستئصال والإبادة السماوية التي لا تُرد",
+      "أن التجارة في السلع الفاسدة تهلك الأمم",
+      "أن الدعاء لا ينفع بعد فوات الأوان أبداً"
+    ],
+    "correct": 1,
+    "explanation_ar": "المجاهرة والاستخفاف بحدود الله وتغيير خلق الله الطبيعي (في الزواج) يجلب المقت والإبادة الدنيوية الشاملة كعبرة باقية.",
+    "question_fr": "Quelle grande leçon ressort de l'histoire du peuple de Lot, répétée dans plusieurs sourates du Coran ?",
+    "options_fr": [
+      "La proximité d'un prophète ne dispense pas chacun de croire et d'obéir à Allah ; l'injustice et la désobéissance ont des conséquences",
+      "La richesse est le seul moyen d'éviter le châtiment",
+      "Les familles des prophètes sont toujours sauvées quelles que soient leurs croyances",
+      "Les cités ne sont jamais châtiées"
+    ],
+    "explanation_fr": "L'histoire rappelle la responsabilité individuelle, l'importance de la foi et l'avertissement contre la persistance dans l'injustice et la désobéissance."
+  },
+  {
+    "id": "lut_49",
+    "question_ar": "ماذا كان يقصد لوط بقوله لقومه لحظة صدهم عن الضيوف (وَلَا تُخْزُونِ فِي ضَيْفِي ۖ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ)؟",
+    "options_ar": [
+      "يسألهم إن كان بينهم طبيب ليعالج ضيوفه الجرحى",
+      "يستنجد ببقايا المروءة والشهامة والعقل فيهم لعل فيهم من يتدخل لمنع هذا العار الاجتماعي",
+      "يهددهم برجل معين من قبيلتهم ليقاتلهم",
+      "يطلب منهم تعيين قائد جديد رشيد للحوار معه"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ) استغاثة واستنهاض للفطرة وشيمة الضيافة الباقية عند العرب قديماً لمنع هذا الفجور الأرعن.",
+    "question_fr": "Que voulait dire Lot lorsqu'il dit à son peuple : « Ne me déshonorez pas à propos de mes invités ; n'y a-t-il pas parmi vous un homme raisonnable ? »",
+    "options_fr": [
+      "Il leur demandait de respecter l'hospitalité, de préserver l'honneur des invités et de revenir à la raison",
+      "Il leur demandait de lui donner leurs richesses",
+      "Il leur demandait de quitter la cité avec lui immédiatement",
+      "Il leur proposait de devenir leurs chef"
+    ],
+    "explanation_fr": "Lot les appelait à respecter le droit de ses invités et à faire preuve de raison : « N'y a-t-il pas parmi vous un homme raisonnable ? »"
+  },
+  {
+    "id": "lut_50",
+    "question_ar": "كيف تمثّل قصة لوط مع زوجته قاعدة قرآنية ثابتة (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ)؟",
+    "options_ar": [
+      "زواجه من كافرة لم يبطل نبوته ورسالته، وعقرها لم يُلغِ كفرها بستر النبوة، فكل يُحاسب بنيّته وعمله المستقل (وهي خائنة لدينها)",
+      "لأن زوجته تحملت كل خطايا القرية ودفعت ثمنها بالنار",
+      "لأن لوطاً طلب من الله تعذيب زوجته بنفسه",
+      "لا توجد أي علاقة بين زوجته وهذه القاعدة القرآنية"
+    ],
+    "correct": 0,
+    "explanation_ar": "قربها الجسدي والزوجي من النبي لم يُنجها (فلم يغنيا عنهما من الله شيئاً) فالإيمان فردي والمسؤولية فردية مُطلقة.",
+    "question_fr": "Comment l'histoire de Lot et de sa femme illustre-t-elle la règle coranique : « Nulle âme ne portera le fardeau d'une autre » ?",
+    "options_fr": [
+      "Son mariage avec une mécréante n'annula ni sa prophétie ni son message ; sa femme fut jugée selon sa propre foi et ses propres actes",
+      "Sa femme porta toutes les fautes de la cité et en paya seule le prix",
+      "Lot demanda lui-même à Allah de châtier sa femme",
+      "L'histoire de sa femme n'a aucun rapport avec cette règle coranique"
+    ],
+    "explanation_fr": "Sa proximité physique et conjugale avec un prophète ne la sauva pas. La foi et la responsabilité sont individuelles : chacun est jugé selon sa propre croyance et ses propres actes."
+  }
+]

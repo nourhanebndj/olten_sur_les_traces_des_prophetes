@@ -1,0 +1,502 @@
+[
+  {
+    "id": "adam_01",
+    "question_ar": "مما خلق الله سيدنا آدم عليه السلام؟",
+    "options_ar": ["من نور الملائكة", "من نار السموم", "من تراب وطين الأرض", "من ماء دافق"],
+    "correct": 2,
+    "explanation_ar": "خلق الله آدم بيده من تراب الأرض ثم خلطه بالماء فصار طيناً.",
+    "question_fr": "De quoi Allah a-t-Il créé notre maître Adam (paix sur lui) ?",
+    "options_fr": ["De la lumière des anges", "Du feu ardent (samoum)", "De la terre et de l'argile de la terre", "D'une eau jaillissante"],
+    "explanation_fr": "Allah a créé Adam de Sa main à partir de la terre, puis Il l'a mélangée à l'eau pour qu'elle devienne de l'argile."
+  },
+  {
+    "id": "adam_02",
+    "question_ar": "ماذا علم الله آدم عليه السلام بعد خلقه مباشرة؟",
+    "options_ar": ["كيفية العبادة والصلاة", "الأسماء كلها ومسمياتها", "لغة الملائكة والتسبيح", "كيف يزرع ويعمر الأرض"],
+    "correct": 1,
+    "explanation_ar": "(وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا) ليكون خليفة في الأرض.",
+    "question_fr": "Qu'est-ce qu'Allah a enseigné à Adam (paix sur lui) juste après sa création ?",
+    "options_fr": ["Comment adorer et prier", "Tous les noms et leurs désignations", "La langue des anges et la glorification", "Comment cultiver et peupler la terre"],
+    "explanation_fr": "« Et Il apprit à Adam tous les noms » afin qu'il soit calife sur terre."
+  },
+  {
+    "id": "adam_03",
+    "question_ar": "من هو الكائن الوحيد الذي رفض أمر الله بالسجود لآدم؟",
+    "options_ar": ["أحد الملائكة العصاة", "ميكائيل عليه السلام", "إبليس (من الجن)", "بعض الشياطين"],
+    "correct": 2,
+    "explanation_ar": "(إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ).",
+    "question_fr": "Qui est le seul être à avoir refusé l'ordre d'Allah de se prosterner devant Adam ?",
+    "options_fr": ["Un ange désobéissant", "Mika'il (paix sur lui)", "Iblis (issu des djinns)", "Certains démons"],
+    "explanation_fr": "« Excepté Iblis qui était du nombre des djinns et qui désobéit à l'ordre de son Seigneur. »"
+  },
+  {
+    "id": "adam_04",
+    "question_ar": "ما هي الحجة التي استخدمها إبليس لرفض السجود لآدم؟",
+    "options_ar": ["أنه أكثر عبادة وتسبيحاً", "أنه ذو أصل أفضل (خُلق من نار وآدم من طين)", "أنه لا يسجد إلا لله وحده", "أنه أقدم وأعمر في الأرض"],
+    "correct": 1,
+    "explanation_ar": "(قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ).",
+    "question_fr": "Quel argument Iblis a-t-il utilisé pour refuser de se prosterner devant Adam ?",
+    "options_fr": ["Qu'il adorait et glorifiait davantage", "Qu'il avait une origine supérieure (créé du feu, Adam de l'argile)", "Qu'il ne se prosterne que devant Allah seul", "Qu'il était plus ancien et plus établi sur terre"],
+    "explanation_fr": "« Il dit : Je suis meilleur que lui : Tu m'as créé de feu et tu l'as créé d'argile. »"
+  },
+  {
+    "id": "adam_05",
+    "question_ar": "من أين خلقت حواء عليها السلام؟",
+    "options_ar": ["من نفس التراب الذي خُلق منه آدم", "من ضلع آدم الأيسر", "من نور الجنة الأبدي", "نزلت من سماء أخرى"],
+    "correct": 1,
+    "explanation_ar": "كما جاء في الحديث الشريف أن المرأة خلقت من ضلع.",
+    "question_fr": "De quoi Hawa (Ève, paix sur elle) a-t-elle été créée ?",
+    "options_fr": ["De la même terre dont Adam a été créé", "D'une côte gauche d'Adam", "De la lumière éternelle du Paradis", "Elle est descendue d'un autre ciel"],
+    "explanation_fr": "Comme le rapporte le hadith authentique selon lequel la femme a été créée d'une côte."
+  },
+  {
+    "id": "adam_06",
+    "question_ar": "ما هو الأمر الذي حذر الله منه آدم وحواء في الجنة؟",
+    "options_ar": ["الاقتراب من شجرة معينة والأكل منها", "التحدث مع إبليس والملائكة", "الخروج من أبواب الجنة", "شرب ماء الأنهار الممزوجة"],
+    "correct": 0,
+    "explanation_ar": "(وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ).",
+    "question_fr": "Contre quoi Allah a-t-Il mis en garde Adam et Hawa au Paradis ?",
+    "options_fr": ["S'approcher d'un certain arbre et en manger", "Parler avec Iblis et les anges", "Sortir par les portes du Paradis", "Boire l'eau des rivières mélangées"],
+    "explanation_fr": "« Et n'approchez pas de cet arbre, sinon vous seriez du nombre des injustes. »"
+  },
+  {
+    "id": "adam_07",
+    "question_ar": "كيف استطاع إبليس إغواء آدم وحواء للأكل من الشجرة؟",
+    "options_ar": ["أجبرهما وهددهما بالقوة", "حلف أنه ناصح وأغراهما بشجرة الخلد", "تنكر في شكل مَلَك كريم", "دس لهم السم في الطعام"],
+    "correct": 1,
+    "explanation_ar": "(وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ).",
+    "question_fr": "Comment Iblis a-t-il réussi à séduire Adam et Hawa pour qu'ils mangent de l'arbre ?",
+    "options_fr": ["Il les a contraints et menacés par la force", "Il jura être un conseiller sincère et les tenta avec l'arbre de l'éternité", "Il se déguisa en noble ange", "Il mit du poison dans leur nourriture"],
+    "explanation_fr": "« Et il leur jura : Certes, je suis pour vous deux, un bon conseiller. »"
+  },
+  {
+    "id": "adam_08",
+    "question_ar": "ماذا حدث لآدم وحواء فور أكلهما من الشجرة الممنوعة؟",
+    "options_ar": ["أصبحا ملائكة مخلدين", "انكشفت عوراتهما (بدت لهما سوآتهما)", "طُردا من الجنة في نفس اللحظة", "سقطت الشجرة وتحولت لرماد"],
+    "correct": 1,
+    "explanation_ar": "(فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا سَوْآتُهُمَا).",
+    "question_fr": "Que s'est-il passé pour Adam et Hawa dès qu'ils ont mangé de l'arbre interdit ?",
+    "options_fr": ["Ils devinrent des anges immortels", "Leur nudité fut dévoilée", "Ils furent chassés du Paradis à l'instant même", "L'arbre tomba et se transforma en cendres"],
+    "explanation_fr": "« Dès qu'ils eurent goûté de l'arbre, leur nudité leur apparut. »"
+  },
+  {
+    "id": "adam_09",
+    "question_ar": "ماذا فعل آدم وحواء لستر عوراتهما بعد الأكل من الشجرة؟",
+    "options_ar": ["صنعا ثياباً من صوف وخيوط", "طفقا يخصفان عليهما من ورق الجنة", "اختبآ في كهف حتى تاب الله عليهما", "طلبا من الملائكة ثياباً"],
+    "correct": 1,
+    "explanation_ar": "(وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ).",
+    "question_fr": "Qu'ont fait Adam et Hawa pour couvrir leur nudité après avoir mangé de l'arbre ?",
+    "options_fr": ["Ils confectionnèrent des vêtements de laine et de fils", "Ils se mirent à coudre sur eux des feuilles du Paradis", "Ils se cachèrent dans une grotte jusqu'à ce qu'Allah agrée leur repentir", "Ils demandèrent des vêtements aux anges"],
+    "explanation_fr": "« Et ils se mirent tous deux à se couvrir de feuilles du Paradis. »"
+  },
+  {
+    "id": "adam_10",
+    "question_ar": "كيف كانت ردة فعل آدم بعد أن عصى ربه وانكشفت سوأته؟",
+    "options_ar": ["برر فعلته بأنه نسي ولم يقصد", "اعترف بظلمه لنفسه وتاب وطلب المغفرة", "ألقى باللوم على حواء لأنها أغرته", "ألقى باللوم على إبليس الذي حلف له"],
+    "correct": 1,
+    "explanation_ar": "(قَالَا رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ).",
+    "question_fr": "Quelle fut la réaction d'Adam après avoir désobéi à son Seigneur et que sa nudité fut dévoilée ?",
+    "options_fr": ["Il justifia son acte en disant qu'il avait oublié et ne l'avait pas voulu", "Il reconnut son injustice envers lui-même, se repentit et demanda le pardon", "Il rejeta la faute sur Hawa car elle l'avait tenté", "Il rejeta la faute sur Iblis qui lui avait juré"],
+    "explanation_fr": "« Ils dirent : Notre Seigneur, nous nous sommes fait du tort à nous-mêmes ; et si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons certainement du nombre des perdants. »"
+  },
+  {
+    "id": "adam_11",
+    "question_ar": "بم غفر الله لآدم زلته؟",
+    "options_ar": ["بصيام آدم أربعين يوماً", "بتلقي آدم كلمات من ربه فتاب عليه", "بشفاعة الملائكة له", "بعد أن هبط إلى الأرض وبكى دماً"],
+    "correct": 1,
+    "explanation_ar": "(فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ).",
+    "question_fr": "Par quoi Allah a-t-Il pardonné à Adam son faux pas ?",
+    "options_fr": ["Par le jeûne d'Adam pendant quarante jours", "Adam reçut des paroles de son Seigneur et Il agréa son repentir", "Par l'intercession des anges en sa faveur", "Après qu'il fut descendu sur terre et eut pleuré des larmes de sang"],
+    "explanation_fr": "« Puis Adam reçut de son Seigneur des paroles, et Il agréa son repentir, car c'est Lui l'Accueillant au repentir, le Miséricordieux. »"
+  },
+  {
+    "id": "adam_12",
+    "question_ar": "إلى أين أُهبط آدم وحواء بعد خروجهما من الجنة؟",
+    "options_ar": ["إلى سماء الدنيا ليعبدوا الله هناك", "إلى كوكب الأرض ليكونا خلفاء فيه", "إلى أرض محرمة لا نبات فيها", "لم يهبطا وظلا في الجنة في مكان آخر"],
+    "correct": 1,
+    "explanation_ar": "(قَالَ اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ).",
+    "question_fr": "Où Adam et Hawa furent-ils envoyés après leur sortie du Paradis ?",
+    "options_fr": ["Vers le ciel le plus proche pour y adorer Allah", "Vers la planète Terre pour y être califes", "Vers une terre interdite sans végétation", "Ils ne descendirent pas et restèrent au Paradis ailleurs"],
+    "explanation_fr": "« Il dit : Descendez, ennemis les uns des autres. Et il y aura pour vous sur la terre séjour et jouissance jusqu'à un certain temps. »"
+  },
+  {
+    "id": "adam_13",
+    "question_ar": "من هما ابنا آدم اللذان قُصت قصة تقاربهما في القرآن؟",
+    "options_ar": ["قابيل وهابيل", "شيث وإدريس", "يعقوب وعيسو", "يأجوج ومأجوج"],
+    "correct": 0,
+    "explanation_ar": "(وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ).",
+    "question_fr": "Qui sont les deux fils d'Adam dont l'histoire est racontée dans le Coran ?",
+    "options_fr": ["Qabil (Caïn) et Habil (Abel)", "Chith et Idris", "Ya'qub et Aïssou", "Ya'juj et Ma'juj (Gog et Magog)"],
+    "explanation_fr": "« Et raconte-leur, en toute vérité, l'histoire des deux fils d'Adam. »"
+  },
+  {
+    "id": "adam_14",
+    "question_ar": "لماذا تقبل الله قربان أحد ابني آدم ولم يتقبل من الآخر؟",
+    "options_ar": ["لأن المتقبل قُدم في الوقت الصحيح", "لأن الله إنما يتقبل من المتقين", "لأن أحدهما قدم ذهباً والآخر زرعاً", "لأن المرفوض لم يقدم شيئاً أصلاً"],
+    "correct": 1,
+    "explanation_ar": "(قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ).",
+    "question_fr": "Pourquoi Allah a-t-Il accepté l'offrande de l'un des fils d'Adam et pas celle de l'autre ?",
+    "options_fr": ["Parce que l'offrande acceptée avait été présentée au bon moment", "Parce qu'Allah n'accepte que des pieux", "Parce que l'un avait offert de l'or et l'autre des récoltes", "Parce que celui qui fut refusé n'avait rien offert du tout"],
+    "explanation_fr": "« Il dit : Allah n'accepte que de la part des pieux. »"
+  },
+  {
+    "id": "adam_15",
+    "question_ar": "كيف رد المجني عليه من ابني آدم عندما توعده أخوه بالقتل؟",
+    "options_ar": ["هدده بأنه سيقتله هو إن حاول ذلك", "استنجد بوالده آدم عليه السلام لحمايته", "أخبره بأنه لن يبسط يده ليقتله خوفاً من الله", "تآمر عليه مع شياطين الإنس"],
+    "correct": 2,
+    "explanation_ar": "(لَئِن بَسَطتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ يَدِيَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ).",
+    "question_fr": "Comment la victime parmi les deux fils d'Adam a-t-elle répondu quand son frère l'a menacée de mort ?",
+    "options_fr": ["Il le menaça de le tuer lui-même s'il essayait", "Il implora l'aide de son père Adam pour le protéger", "Il lui dit qu'il ne tendrait pas la main pour le tuer, par crainte d'Allah", "Il conspira contre lui avec des démons humains"],
+    "explanation_fr": "« Si tu étends ta main contre moi pour me tuer, je n'étendrai pas ma main contre toi pour te tuer : je crains Allah, Seigneur de l'univers. »"
+  },
+  {
+    "id": "adam_16",
+    "question_ar": "ماذا كان أول جريمة كبرى وقعت على وجه الأرض؟",
+    "options_ar": ["السرقة واغتصاب الأموال", "الشرك بالله وعبادة الأصنام", "القتل (قتل الأخ لأخيه ظلماً وعدواناً)", "التآمر لخلع الخليفة"],
+    "correct": 2,
+    "explanation_ar": "(فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ فَقَتَلَهُ).",
+    "question_fr": "Quel fut le premier grand crime commis sur terre ?",
+    "options_fr": ["Le vol et la spoliation des biens", "L'association à Allah et l'adoration des idoles", "Le meurtre (le frère tuant son frère injustement)", "Le complot pour destituer le calife"],
+    "explanation_fr": "« Son âme l'incita à tuer son frère ; il le tua donc. »"
+  },
+  {
+    "id": "adam_17",
+    "question_ar": "ماذا بعث الله ليعلم القاتل كيف يواري سوأة أخيه الميت؟",
+    "options_ar": ["أسداً يحفر في الأرض ليخفي صيده", "غراباً يبحث في الأرض ليدفن غراباً آخر", "ملَكاً في صورة أسد يعلمه الدفن", "كلباً يحفر ويدفن العظام"],
+    "correct": 1,
+    "explanation_ar": "(فَبَعَثَ اللَّهُ غُرَابًا يَبْحَثُ فِي الْأَرْضِ لِيُرِيَهُ كَيْفَ يُوَارِي سَوْأَةَ أَخِيهِ).",
+    "question_fr": "Qu'a envoyé Allah pour apprendre au meurtrier comment enterrer le corps de son frère mort ?",
+    "options_fr": ["Un lion creusant la terre pour cacher sa proie", "Un corbeau fouillant la terre pour enterrer un autre corbeau", "Un ange sous la forme d'un lion lui enseignant l'enterrement", "Un chien creusant et enterrant des os"],
+    "explanation_fr": "« Puis Allah envoya un corbeau qui se mit à fouiller la terre pour lui montrer comment couvrir le cadavre de son frère. »"
+  },
+  {
+    "id": "adam_18",
+    "question_ar": "لماذا شعر قابيل بالندم العظيم بعد القتل؟",
+    "options_ar": ["لأنه خاف من انتقام آدم", "لشعوره بالعجز بعد أن علمه الغراب كيف يواري سوأة أخيه", "لأن القربان لم يُتقبل حتى بعد القتل", "لأن الجثة اختفت فجأة"],
+    "correct": 1,
+    "explanation_ar": "عَجز أمام حكمة غراب استطاع دفن أخيه، فأحس بتفاهته وسوء صنيعه (فأصبح من النادمين).",
+    "question_fr": "Pourquoi Qabil a-t-il ressenti un immense remords après le meurtre ?",
+    "options_fr": ["Parce qu'il craignait la vengeance d'Adam", "Parce qu'il se sentit impuissant après que le corbeau lui eut appris comment couvrir le corps de son frère", "Parce que l'offrande ne fut toujours pas acceptée même après le meurtre", "Parce que le corps disparut soudainement"],
+    "explanation_fr": "Il se sentit dépassé par la sagesse d'un corbeau capable d'enterrer son frère, ressentant ainsi sa propre médiocrité et la gravité de son acte : « il devint alors du nombre des repentants »."
+  },
+  {
+    "id": "adam_19",
+    "question_ar": "ماذا كان موقف الملائكة حين أخبرهم الله أنه جاعل في الأرض خليفة؟",
+    "options_ar": ["وافقوا فوراً ورحبوا بالخليفة", "تعجبوا وسألوا: أتجعل فيها من يفسد فيها ويسفك الدماء؟", "طلبوا أن يكونوا هم الخلفاء في الأرض", "اغتروا بأنفسهم ورفضوا آدم تماماً"],
+    "correct": 1,
+    "explanation_ar": "(قَالُوا أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ).",
+    "question_fr": "Quelle fut la position des anges lorsqu'Allah les informa qu'Il allait établir un calife sur terre ?",
+    "options_fr": ["Ils acceptèrent immédiatement et accueillirent le calife", "Ils s'étonnèrent et demandèrent : Vas-Tu y placer quelqu'un qui y sèmera la corruption et versera le sang ?", "Ils demandèrent à être eux-mêmes les califes sur terre", "Ils devinrent orgueilleux et refusèrent totalement Adam"],
+    "explanation_fr": "« Ils dirent : Vas-Tu y désigner un être qui y sèmera la corruption et versera le sang, alors que nous célébrons Ta louange et proclamons Ta sainteté ? »"
+  },
+  {
+    "id": "adam_20",
+    "question_ar": "ماذا أمر الله إبليس بعد أن تكبر عن السجود؟",
+    "options_ar": ["أن يخرج من الجنة صاغراً مدحوراً مذموماً", "أن يعتذر لآدم ويسجد له فوراً", "أن يعيش وحيداً في الأرض بلا أتباع", "لم يعاقبه بل أمهله فقط"],
+    "correct": 0,
+    "explanation_ar": "(قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ).",
+    "question_fr": "Qu'a ordonné Allah à Iblis après qu'il se fut montré arrogant en refusant de se prosterner ?",
+    "options_fr": ["De sortir du Paradis, humilié, banni et blâmé", "De présenter ses excuses à Adam et de se prosterner devant lui immédiatement", "De vivre seul sur terre sans disciples", "Il ne le punit pas, Il lui accorda seulement un délai"],
+    "explanation_fr": "« Il dit : Descends d'ici, tu n'as pas à t'y montrer orgueilleux. Sors, tu es de ceux qui sont méprisables. »"
+  },
+  {
+    "id": "adam_21",
+    "question_ar": "ما هو الطلب الذي طلبه إبليس من ربه بعد طرده؟",
+    "options_ar": ["أن يسامحه", "أن يعطيه مالاً", "أن ينظره (يمهله) إلى يوم يبعثون", "أن يجعله نبياً"],
+    "correct": 2,
+    "explanation_ar": "(قَالَ أَنظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ).",
+    "question_fr": "Quelle requête Iblis a-t-il adressée à son Seigneur après avoir été chassé ?",
+    "options_fr": ["Qu'Il lui pardonne", "Qu'Il lui donne des biens", "Qu'Il lui accorde un délai jusqu'au jour de la résurrection", "Qu'Il fasse de lui un prophète"],
+    "explanation_fr": "« Il dit : Accorde-moi un délai jusqu'au jour où ils seront ressuscités. »"
+  },
+  {
+    "id": "adam_22",
+    "question_ar": "بماذا وعد إبليس الله سبحانه بعد أن أنظره المهلة؟",
+    "options_ar": ["بالتوبة بعد حين", "بأن يقعد لبني آدم صراطه المستقيم ويغويهم من كل جهة", "أن يتركهم لحالهم", "أن يسافر بعيداً"],
+    "correct": 1,
+    "explanation_ar": "(لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ).",
+    "question_fr": "Qu'a promis Iblis à Allah après qu'Il lui eut accordé ce délai ?",
+    "options_fr": ["De se repentir après un certain temps", "De guetter les fils d'Adam sur le droit chemin et de les séduire de toutes parts", "De les laisser tranquilles", "De partir au loin"],
+    "explanation_fr": "« Je m'assoirai pour eux sur Ton droit chemin. »"
+  },
+  {
+    "id": "adam_23",
+    "question_ar": "ما الحكمة الأساسية خلف خلق آدم وتعليمه الأسماء كما نرى في السورة؟",
+    "options_ar": ["إظهار أفضلية آدم على الملائكة بالعلم واختياره للخلافة والعمارة", "لأنه أقوى جسدياً", "لأنه يعيش طويلاً", "لتسلية الملائكة"],
+    "correct": 0,
+    "explanation_ar": "العلم هو ميزة الخليفة ليعمر الأرض ويسخرها.",
+    "question_fr": "Quelle est la sagesse essentielle derrière la création d'Adam et son enseignement des noms, comme le montre la sourate ?",
+    "options_fr": ["Montrer la supériorité d'Adam sur les anges par le savoir, et son choix pour le califat et le peuplement de la terre", "Parce qu'il était physiquement plus fort", "Parce qu'il vivait longtemps", "Pour divertir les anges"],
+    "explanation_fr": "Le savoir est la qualité distinctive du calife, lui permettant de peupler la terre et de la mettre à profit."
+  },
+  {
+    "id": "adam_24",
+    "question_ar": "لماذا عاقب الله آدم وحواء بعد التوبة إن كان قد غفر لهما؟",
+    "options_ar": ["الله لم يعاقبهما بل نفذ أمر الهبوط لتبدأ خطة الاستخلاف الأرضي", "لأن الخطيئة لا تمسح", "لأن إبليس اعترض", "لأنهما طلبا ذلك"],
+    "correct": 0,
+    "explanation_ar": "المغفرة تمت في السماء، لكن النزول للأرض كان مكتوباً من قوله (إني جاعل في الأرض خليفة) لتبدأ مرحلة الاختبار الحقيقي.",
+    "question_fr": "Pourquoi Allah a-t-Il « puni » Adam et Hawa après leur repentir, alors qu'Il leur avait pardonné ?",
+    "options_fr": ["Allah ne les a pas punis ; Il a exécuté l'ordre de descente pour amorcer le plan du califat terrestre", "Parce que le péché ne s'efface pas", "Parce qu'Iblis s'y opposa", "Parce qu'ils l'avaient demandé eux-mêmes"],
+    "explanation_fr": "Le pardon eut lieu dans les cieux, mais la descente sur terre était déjà décrétée par la parole « Je vais établir sur terre un calife », afin que commence la véritable étape de l'épreuve."
+  },
+  {
+    "id": "adam_25",
+    "question_ar": "ما هو الدين الأولي الذي نشأ عليه أبناء آدم الأوائل؟",
+    "options_ar": ["الشرك وعبادة الأصنام", "التوحيد الخالص والإسلام لله", "عبادة النار", "عبادة الشمس"],
+    "correct": 1,
+    "explanation_ar": "كان الناس على التوحيد منذ عهد آدم وحتى ظهر الشرك في قوم نوح.",
+    "question_fr": "Quelle était la religion originelle des premiers fils d'Adam ?",
+    "options_fr": ["Le polythéisme et l'adoration des idoles", "Le monothéisme pur et la soumission à Allah", "L'adoration du feu", "L'adoration du soleil"],
+    "explanation_fr": "Les hommes furent monothéistes depuis l'époque d'Adam jusqu'à l'apparition du polythéisme chez le peuple de Nuh (Noé)."
+  },
+  {
+    "id": "adam_26",
+    "question_ar": "أين ستقع عداوة المستقر المستمرة كما أشارت الآية (بعضكم لبعض عدو)؟",
+    "options_ar": ["في الجنة", "في الكواكب الأخرى", "في الأرض (بين ذرية آدم والشيطان)", "المقصود بين الحيوانات"],
+    "correct": 2,
+    "explanation_ar": "العداوة الممتدة على الأرض هي بين بني الإنسان من جهة وإبليس وجنوده من جهة.",
+    "question_fr": "Où se déroulera l'inimitié durable évoquée par le verset « ennemis les uns des autres » ?",
+    "options_fr": ["Au Paradis", "Sur d'autres planètes", "Sur terre (entre la descendance d'Adam et Satan)", "Il s'agit des animaux entre eux"],
+    "explanation_fr": "L'inimitié qui perdure sur terre oppose les fils d'Adam, d'une part, à Iblis et ses troupes, de l'autre."
+  },
+  {
+    "id": "adam_27",
+    "question_ar": "ما هي الصفة التي وصف بها آدم عندما نسي عهد ربه وأكل من الشجرة (حسب الآية)؟",
+    "options_ar": ["وجده صابراً", "ولم نجد له عزماً", "متكبر", "ظالماً دائم"],
+    "correct": 1,
+    "explanation_ar": "(وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ مِن قَبْلُ فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا).",
+    "question_fr": "Par quel qualificatif Adam fut-il décrit lorsqu'il oublia l'engagement envers son Seigneur et mangea de l'arbre (selon le verset) ?",
+    "options_fr": ["Il fut trouvé patient", "Et Nous ne lui trouvâmes aucune résolution", "Orgueilleux", "Constamment injuste"],
+    "explanation_fr": "« Nous avions déjà auparavant, conclu un pacte avec Adam, mais il oublia et Nous ne trouvâmes chez lui aucune résolution ferme. »"
+  },
+  {
+    "id": "adam_28",
+    "question_ar": "على مَن عُرضت الأمانة وأبَيْنَ أن يحملنها وأشفقن منها وحملها الإنسان (آدم وذريته)؟",
+    "options_ar": ["الملائكة", "السماوات والأرض والجبال", "الشياطين والجن", "سكان البحار"],
+    "correct": 1,
+    "explanation_ar": "(إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا).",
+    "question_fr": "À qui l'engagement (la responsabilité) fut-il proposé, avant que l'homme (Adam et sa descendance) ne l'assume ?",
+    "options_fr": ["Les anges", "Les cieux, la terre et les montagnes", "Les démons et les djinns", "Les habitants des mers"],
+    "explanation_fr": "« Nous avons proposé aux cieux, à la terre et aux montagnes d'assumer la responsabilité, mais ils refusèrent de la porter et en furent effrayés. »"
+  },
+  {
+    "id": "adam_29",
+    "question_ar": "كيف كان سجود الملائكة لآدم؟",
+    "options_ar": ["سجود عبادة", "سجود تحية وتكريم بأمر الله", "لم يسجدوا", "سجود خوف"],
+    "correct": 1,
+    "explanation_ar": "السجود كان تكريماً لأمر الله وطاعةً له وليس عبادة لآدم.",
+    "question_fr": "Quelle était la nature de la prosternation des anges devant Adam ?",
+    "options_fr": ["Une prosternation d'adoration", "Une prosternation de salutation et d'honneur, sur ordre d'Allah", "Ils ne se prosternèrent pas", "Une prosternation de peur"],
+    "explanation_fr": "La prosternation était un honneur en obéissance à l'ordre d'Allah, et non une adoration d'Adam."
+  },
+  {
+    "id": "adam_30",
+    "question_ar": "ما الذي كان يرتديه آدم وحواء في الجنة قبل الأكل من الشجرة (كما وصف بأنه لا يجوع فيها ولا يعرى)؟",
+    "options_ar": ["لباس التقوى فقط مجازاً", "ثياباً من حرير الجنة أو نور يستر سوأتهما", "كانا بدون ملابس", "ملابس قطنية"],
+    "correct": 1,
+    "explanation_ar": "(يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْآتِهِمَا).",
+    "question_fr": "Que portaient Adam et Hawa au Paradis avant de manger de l'arbre, sachant qu'il y était dit qu'il n'aurait ni faim ni nudité ?",
+    "options_fr": ["Uniquement le vêtement de la piété, au sens figuré", "Des vêtements de soie du Paradis ou de lumière couvrant leur nudité", "Ils étaient sans vêtements", "Des vêtements en coton"],
+    "explanation_fr": "« [Le Diable] leur arrache leur vêtement pour leur rendre visible leur nudité. »"
+  },
+  {
+    "id": "adam_31",
+    "question_ar": "من الذي سمى آدم بهذه الأسماء الحسنى (على الراجح)؟",
+    "options_ar": ["الله سبحانه", "هو الذي سمى نفسه", "الملائكة اختارت الاسم", "إبليس"],
+    "correct": 0,
+    "explanation_ar": "الله هو الذي خلق آدم وسماه بذلك (قيل لأنه خُلق من أديم الأرض).",
+    "question_fr": "Qui a donné à Adam ce nom (selon l'avis le plus juste) ?",
+    "options_fr": ["Allah, Gloire à Lui", "Il s'est nommé lui-même", "Les anges ont choisi le nom", "Iblis"],
+    "explanation_fr": "C'est Allah qui a créé Adam et l'a ainsi nommé (on dit que c'est parce qu'il fut créé de la surface, adim, de la terre)."
+  },
+  {
+    "id": "adam_32",
+    "question_ar": "كم من الوقت مر على آدم (الإنسان) حين كان غير مذكور (لم يكن شيئاً مذكوراً) حسب سورة الإنسان؟",
+    "options_ar": ["حين من الدهر", "ألف سنة", "مليون سنة", "عشر سنوات"],
+    "correct": 0,
+    "explanation_ar": "(هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا).",
+    "question_fr": "Combien de temps s'est écoulé pour l'homme lorsqu'il n'était rien de mentionnable, selon la sourate al-Insan ?",
+    "options_fr": ["Un laps de temps", "Mille ans", "Un million d'années", "Dix ans"],
+    "explanation_fr": "« Ne s'est-il pas écoulé pour l'homme un laps de temps durant lequel il n'était même pas une chose mentionnable ? »"
+  },
+  {
+    "id": "adam_33",
+    "question_ar": "هل آدم نبي؟",
+    "options_ar": ["لا، هو مجرد أب للبشر", "نعم، نبي مكلَّم", "رسول من أولي العزم", "مَلَك"],
+    "correct": 1,
+    "explanation_ar": "في الحديث (قلت: يا رسول الله أنبيٌّ كان آدم؟ قال: نعم مُكَلَّم).",
+    "question_fr": "Adam est-il un prophète ?",
+    "options_fr": ["Non, il n'est qu'un père pour l'humanité", "Oui, un prophète à qui Allah a parlé", "Un messager doué de fermeté (ulul-azm)", "Un ange"],
+    "explanation_fr": "Selon le hadith : « J'ai demandé : Ô Messager d'Allah, Adam était-il un prophète ? Il répondit : Oui, à qui Allah a parlé. »"
+  },
+  {
+    "id": "adam_34",
+    "question_ar": "كيف كانت طبيعة التكاثر في الجيل الأول من أبناء آدم (في بداية الخليقة وضرورة انتشار البشر)؟",
+    "options_ar": ["لم يحدث تكاثر بل خلق الله بشراً آخرين", "كان الأخ يتزوج توأمة أخيه الآخر", "انتشروا بالسحر", "لم يُذكر شيء"],
+    "correct": 1,
+    "explanation_ar": "كانت حواء تلد في كل بطن ذكر وأنثى، فيحل زواج ذَكَر هذا البطن بأنثى بطن أخرى.",
+    "question_fr": "Comment se déroulait la reproduction dans la première génération des fils d'Adam ?",
+    "options_fr": ["Il n'y eut pas de reproduction, Allah créa d'autres humains", "Le frère épousait la jumelle d'un autre frère", "Ils se sont multipliés par magie", "Rien n'est mentionné à ce sujet"],
+    "explanation_fr": "Hawa donnait naissance à chaque portée à un garçon et une fille, et le mariage du garçon d'une portée avec la fille d'une autre portée était permis."
+  },
+  {
+    "id": "adam_35",
+    "question_ar": "ما هي الحاسية التي أضيفت لأبناء آدم فأصبحوا مميزين بالعقل والإرادة؟",
+    "options_ar": ["الطيران", "النفخ من روح الله (الرُّوح المكرمة)", "الحجم العملاق فقط", "التنفس المائي"],
+    "correct": 1,
+    "explanation_ar": "(فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي).",
+    "question_fr": "Quel élément fut ajouté aux fils d'Adam pour qu'ils se distinguent par la raison et la volonté ?",
+    "options_fr": ["Le vol", "Le souffle de l'Esprit d'Allah (l'esprit honoré)", "Uniquement une taille gigantesque", "La respiration aquatique"],
+    "explanation_fr": "« Quand Je l'aurai harmonieusement formé et lui aurai insufflé de Mon Esprit... »"
+  },
+  {
+    "id": "adam_36",
+    "question_ar": "بأي شيء امتحن الله قربان قابيل وهابيل ليعرفا المتقبل؟",
+    "options_ar": ["نزلت نار من السماء فأكلت قربان المتقبل", "جاء مطر فغسل قربان قابيل", "ظهر كبش في السماء", "أخبرهما ملك"],
+    "correct": 0,
+    "explanation_ar": "هذه كانت سنة الله في تقبل القرابين السابقة، تنزل نار بیضاء من السماء تأكله.",
+    "question_fr": "Par quoi Allah a-t-Il éprouvé l'offrande de Qabil et Habil pour connaître celle qui serait acceptée ?",
+    "options_fr": ["Un feu descendit du ciel et consuma l'offrande acceptée", "Une pluie tomba et lava l'offrande de Qabil", "Un bélier apparut dans le ciel", "Un ange les en informa"],
+    "explanation_fr": "Telle était la coutume établie par Allah pour l'acceptation des offrandes chez les peuples anciens : un feu blanc descendait du ciel et la consumait."
+  },
+  {
+    "id": "adam_37",
+    "question_ar": "ماذا قال الله لإبليس حين استكبر عن السجود؟ (مَا مَنَعَكَ أَلَّا تَسْجُدَ...)",
+    "options_ar": ["إِذْ نَسِيتَ", "إِذْ أَمَرْتُكَ", "إِذْ غَفَلْتَ", "إِذْ أُحْيِيتَ"],
+    "correct": 1,
+    "explanation_ar": "الالتزام بأمر الله هو الأصل حتى لو غاب المبرر (إِذْ أَمَرْتُكَ).",
+    "question_fr": "Que dit Allah à Iblis lorsqu'il s'enorgueillit de refuser de se prosterner ? (« Qu'est-ce qui t'a empêché de te prosterner... »)",
+    "options_fr": ["Alors que tu as oublié", "Alors que Je te l'ai ordonné", "Alors que tu as été inattentif", "Alors que tu as été ressuscité"],
+    "explanation_fr": "L'obéissance à l'ordre d'Allah est le principe fondamental, même en l'absence de justification apparente : « alors que Je te l'ai ordonné »."
+  },
+  {
+    "id": "adam_38",
+    "question_ar": "يُعد آدم عليه السلام في الإسلام:",
+    "options_ar": ["أبو البشر", "أول من سن القتل", "أول من بنى سفينة", "أول ملك"],
+    "correct": 0,
+    "explanation_ar": "آدم هو الأب الأول لجميع البشر وخليفة الله الأولى على الأرض.",
+    "question_fr": "Dans l'islam, Adam (paix sur lui) est considéré comme :",
+    "options_fr": ["Le père de l'humanité", "Le premier à avoir institué le meurtre", "Le premier à avoir construit un navire", "Le premier roi"],
+    "explanation_fr": "Adam est le premier père de toute l'humanité et le premier calife d'Allah sur terre."
+  },
+  {
+    "id": "adam_39",
+    "question_ar": "ما معنى (يخصفان) في (وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ)؟",
+    "options_ar": ["يقفزان", "يقطفان ويصلان الورق ببعضه ليستترا", "يبكيان بمرارة", "يأكلان بشراهة"],
+    "correct": 1,
+    "explanation_ar": "يصلان ويلزقان ورقة بورقة لتغطية أجسادهما.",
+    "question_fr": "Que signifie « yakhsifân » dans le verset « et ils se mirent tous deux à se couvrir de feuilles du Paradis » ?",
+    "options_fr": ["Ils sautent", "Ils cueillent les feuilles et les assemblent pour se couvrir", "Ils pleurent amèrement", "Ils mangent avec avidité"],
+    "explanation_fr": "Ils assemblent et collent les feuilles l'une à l'autre pour couvrir leurs corps."
+  },
+  {
+    "id": "adam_40",
+    "question_ar": "هل وسوسة الشيطان لآدم كانت مجرد فكرة أم استخدم قسماً كذباً؟",
+    "options_ar": ["مجرد فكرة", "استخدم السحر", "قاسمهما (حلف لهما بالله) أنه لهما لمن الناصحين", "هددهما"],
+    "correct": 2,
+    "explanation_ar": "لقد خدعهما باليمنين الكاذب، وآدم لم يظن أن أحداً يحلف بالله كاذباً.",
+    "question_fr": "La tentation de Satan envers Adam n'était-elle qu'une simple idée, ou a-t-il eu recours à un faux serment ?",
+    "options_fr": ["Une simple idée", "Il eut recours à la magie", "Il leur jura par Allah qu'il était pour eux un conseiller sincère", "Il les menaça"],
+    "explanation_fr": "Il les trompa par un faux serment, et Adam ne pensait pas que quelqu'un puisse jurer faussement par Allah."
+  },
+  {
+    "id": "adam_41",
+    "question_ar": "ما الذي دفع قابيل لقتل هابيل أساساً؟",
+    "options_ar": ["السرقة", "الحسد (لتقبل القربان وزواج الجميلة)", "الخطأ بالصيد", "الجنون"],
+    "correct": 1,
+    "explanation_ar": "الحسد كان أول دافع للجريمة في السماء (إبليس) وفي الأرض (قابيل).",
+    "question_fr": "Qu'est-ce qui a poussé Qabil à tuer Habil, fondamentalement ?",
+    "options_fr": ["Le vol", "La jalousie (l'acceptation de l'offrande et le mariage avec la plus belle)", "Une erreur de chasse", "La folie"],
+    "explanation_fr": "La jalousie fut le premier mobile du crime, dans les cieux (Iblis) comme sur terre (Qabil)."
+  },
+  {
+    "id": "adam_42",
+    "question_ar": "بعد نزول آدم للأرض، ماذا يعتبر بالنسبة لذريته كقاعدة ومسؤولية؟",
+    "options_ar": ["العبودية والاستخلاف", "الاسترخاء وعدم العمل", "الطيران في الفضاء", "بناء الجبال"],
+    "correct": 0,
+    "explanation_ar": "مهمة الإنسان في الأرض العبادة والعمارة (الخلافة).",
+    "question_fr": "Après la descente d'Adam sur terre, quelle règle et responsabilité incombe à sa descendance ?",
+    "options_fr": ["L'adoration d'Allah et le califat (la gérance de la terre)", "La détente et l'oisiveté", "Voler dans l'espace", "Construire des montagnes"],
+    "explanation_fr": "La mission de l'homme sur terre est l'adoration d'Allah et le peuplement (le califat)."
+  },
+  {
+    "id": "adam_43",
+    "question_ar": "ما هو الدرس المستفاد من نسيان آدم (ولم نجد له عزما)؟",
+    "options_ar": ["الإنسان بطبعه يخطئ وينسى، والمخرج هو التوبة العاجلة والاعتراف", "لا فائدة من العقاب", "الملائكة تخطئ أيضاً", "العزم غير مطلوب"],
+    "correct": 0,
+    "explanation_ar": "التوبة تمحو الخطيئة والاعتراف بالذنب هو طريق النجاة.",
+    "question_fr": "Quelle leçon tirer de l'oubli d'Adam (« Nous ne lui trouvâmes aucune résolution ») ?",
+    "options_fr": ["L'homme, par nature, se trompe et oublie ; l'issue est le repentir immédiat et l'aveu", "Le châtiment est inutile", "Les anges se trompent aussi", "La résolution n'est pas requise"],
+    "explanation_fr": "Le repentir efface le péché, et l'aveu de la faute est la voie du salut."
+  },
+  {
+    "id": "adam_44",
+    "question_ar": "ماذا فعل إبليس بعدما رفض السجود من حيث ترتيب الذنوب؟",
+    "options_ar": ["اعترف بذنبه", "ازداد كبرياص وطلب المهلة ليغوي البشرية", "توارى واستخبأ", "سجد لاحقاً"],
+    "correct": 1,
+    "explanation_ar": "الكبر أورثه الإصرار على المعصية (إلا إبليس استكبر وكان من الكافرين).",
+    "question_fr": "Qu'a fait Iblis après avoir refusé de se prosterner, en termes de progression des péchés ?",
+    "options_fr": ["Il reconnut sa faute", "Son orgueil s'accrut et il demanda un délai pour égarer l'humanité", "Il se retira et se cacha", "Il se prosterna par la suite"],
+    "explanation_fr": "L'orgueil l'a conduit à persister dans la désobéissance : « excepté Iblis qui s'enfla d'orgueil et fut parmi les mécréants »."
+  },
+  {
+    "id": "adam_45",
+    "question_ar": "ما هو مصير من يتبع خطوات الشيطان من بني آدم كما توعد الله؟",
+    "options_ar": ["لا شيء", "يملأ جهنم منهم أجمعين", "يبقون في الأرض للأبد", "يعودون للجنة فوراً"],
+    "correct": 1,
+    "explanation_ar": "(لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ).",
+    "question_fr": "Quel est le sort de celui, parmi les fils d'Adam, qui suit les pas de Satan, selon la menace d'Allah ?",
+    "options_fr": ["Rien", "Il remplira l'Enfer de tous ceux-là", "Ils resteront sur terre pour toujours", "Ils retourneront immédiatement au Paradis"],
+    "explanation_fr": "« J'emplirai certainement l'Enfer de toi et de tous ceux d'entre eux qui te suivront. »"
+  },
+  {
+    "id": "adam_46",
+    "question_ar": "ما هي النعمة الكبرى التي أنزلها الله لستر سوءة الإنسان ظاهرًا وباطنًا في سورة الأعراف؟",
+    "options_ar": ["المال والقوة", "اللباس الخارجي (ريشاً) ولباس التقوى (وهو خير)", "القلاع والحصون", "السلاح"],
+    "correct": 1,
+    "explanation_ar": "(يَا بَنِي آدَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ).",
+    "question_fr": "Quel est le grand bienfait qu'Allah a fait descendre pour couvrir la nudité de l'homme, extérieurement et intérieurement, dans la sourate al-A'raf ?",
+    "options_fr": ["L'argent et la force", "Le vêtement extérieur (parure) et le vêtement de la piété (qui est meilleur)", "Les châteaux et forteresses", "Les armes"],
+    "explanation_fr": "« Ô fils d'Adam ! Nous avons fait descendre sur vous un vêtement pour couvrir vos nudités, ainsi que des parures. Mais le vêtement de la piété, voilà qui est meilleur. »"
+  },
+  {
+    "id": "adam_47",
+    "question_ar": "كم عاش آدم عليه السلام تقديراً في الأحاديث والأثر؟",
+    "options_ar": ["50 سنة", "100 سنة", "ألف سنة (وهب منها 40 لداود عليه السلام)", "مليون سنة"],
+    "correct": 2,
+    "explanation_ar": "كما ثبت في بعض الأحاديث أن عمره ألف سنة.",
+    "question_fr": "Selon les hadiths et les récits, combien de temps Adam (paix sur lui) a-t-il vécu, approximativement ?",
+    "options_fr": ["50 ans", "100 ans", "Mille ans (dont 40 furent offerts à Dawud, paix sur lui)", "Un million d'années"],
+    "explanation_fr": "Comme le confirment certains hadiths, sa vie dura mille ans."
+  },
+  {
+    "id": "adam_48",
+    "question_ar": "في أي يوم خُلق آدم عليه السلام؟",
+    "options_ar": ["يوم الاثنين", "يوم الأربعاء", "يوم الجمعة", "يوم السبت"],
+    "correct": 2,
+    "explanation_ar": "قال ﷺ: (خير يوم طلعت عليه الشمس يوم الجمعة، فيه خُلق آدم).",
+    "question_fr": "En quel jour Adam (paix sur lui) fut-il créé ?",
+    "options_fr": ["Le lundi", "Le mercredi", "Le vendredi", "Le samedi"],
+    "explanation_fr": "Le Prophète ﷺ a dit : « Le meilleur jour où le soleil s'est levé est le vendredi ; c'est en ce jour qu'Adam fut créé. »"
+  },
+  {
+    "id": "adam_49",
+    "question_ar": "من شابه أباه فما ظلم، فما هو وجه الشبه بين آدم الشاكر وأبنائه التائبين؟",
+    "options_ar": ["الإصرار على الخطيئة", "الخطأ ثم المبادرة بالاعتراف والتوبة النصوح", "عدم المبالاة", "التكبر على الأمر"],
+    "correct": 1,
+    "explanation_ar": "آدم أخطأ لكنه قال 'ربنا ظلمنا أنفسنا' فتاب الله عليه، بخلاف إبليس الذي أصر واستكبر.",
+    "question_fr": "« Qui ressemble à son père n'a commis aucune injustice » — quel est le point commun entre Adam le reconnaissant et ses enfants repentants ?",
+    "options_fr": ["La persistance dans le péché", "Se tromper, puis se hâter d'avouer et de faire un repentir sincère", "L'indifférence", "L'orgueil face à l'ordre"],
+    "explanation_fr": "Adam se trompa, mais il dit : « Notre Seigneur, nous nous sommes fait du tort à nous-mêmes », et Allah agréa son repentir, contrairement à Iblis qui persista et s'enorgueillit."
+  },
+  {
+    "id": "adam_50",
+    "question_ar": "ماذا قال الغراب عندما رآه القاتل (قابيل)؟ وكيف أثر ذلك فيه؟",
+    "options_ar": ["استبشر وفرح", "أحس بالندم وقال: يا ويلتا أعجزت أن أكون مثل هذا الغراب فأواري سوأة أخي", "اصطاد الغراب", "هرب منه"],
+    "correct": 1,
+    "explanation_ar": "(قَالَ يَا وَيْلَتَا أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا الْغُرَابِ ... فَأَصْبَحَ مِنَ النَّادِمِينَ).",
+    "question_fr": "Quelle fut la réaction du meurtrier (Qabil) en voyant le corbeau ? Comment cela l'a-t-il affecté ?",
+    "options_fr": ["Il se réjouit et fut content", "Il ressentit du remords et dit : Malheur à moi ! Ai-je été incapable d'être comme ce corbeau pour couvrir le cadavre de mon frère ?", "Il chassa le corbeau", "Il s'enfuit de lui"],
+    "explanation_fr": "« Il dit : Malheur à moi ! Ai-je été incapable d'être comme ce corbeau... et il devint du nombre des repentants. »"
+  }
+]

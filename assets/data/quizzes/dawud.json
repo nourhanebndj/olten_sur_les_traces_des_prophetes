@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "dawud_01",
+    "question_ar": "كيف وصف القرآن الكريم ما آتاه الله لداود بعد أن قتل جالوت؟",
+    "options_ar": [
+      "آتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ",
+      "آتَاهُ اللَّهُ الْمَالَ وَالْجَيْشَ وَفَتَحَ لَهُ الْبِلَادَ",
+      "آتَاهُ اللَّهُ النُّبُوَّةَ وَحْدَهَا وَأَمَرَهُ بِالزُّهْدِ",
+      "آتَاهُ اللَّهُ قُوَّةً جَسَدِيَّةً وَهَيْبَةً بَيْنَ الْمُلُوكِ"
+    ],
+    "correct": 0,
+    "explanation_ar": "(وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ) جمع الله لداود ثلاثة عطاءات في آنٍ واحد: الملك والحكمة والعلم الرباني.",
+    "question_fr": "Comment le Coran décrit-il ce qu'Allah a accordé à Dawud (David) après qu'il eut tué Jalout (Goliath) ?",
+    "options_fr": [
+      "Allah lui accorda le royaume et la sagesse, et lui enseigna ce qu'Il voulut",
+      "Allah lui accorda la richesse et une armée, et lui ouvrit des pays",
+      "Allah lui accorda uniquement la prophétie et lui ordonna l'ascétisme",
+      "Allah lui accorda une force physique et un prestige parmi les rois"
+    ],
+    "explanation_fr": "« Allah lui accorda le royaume et la sagesse, et lui enseigna ce qu'Il voulut » — Allah réunit pour Dawud trois dons à la fois : le royaume, la sagesse et le savoir divin."
+  },
+  {
+    "id": "dawud_02",
+    "question_ar": "ما مهنة داود عليه السلام قبل أن يصبح ملكاً ونبياً؟",
+    "options_ar": [
+      "تاجر أقمشة في بيت المقدس",
+      "راعي غنم من بيت لحم",
+      "صانع أسلحة لجيش طالوت",
+      "كاتب في قصر الملك طالوت"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان داود شاباً صغيراً راعي غنم من بيت لحم حين خرج لمبارزة جالوت، وهذا يدل على أن الله يختار أنبياءه من حيث لا يتوقع الناس.",
+    "question_fr": "Quel était le métier de Dawud (paix sur lui) avant de devenir roi et prophète ?",
+    "options_fr": [
+      "Marchand de tissus à Jérusalem",
+      "Berger de moutons originaire de Bethléem",
+      "Fabricant d'armes pour l'armée de Talout",
+      "Scribe au palais du roi Talout"
+    ],
+    "explanation_fr": "Dawud était un jeune berger de moutons de Bethléem lorsqu'il sortit affronter Jalout en duel — ce qui montre qu'Allah choisit Ses prophètes là où les gens ne s'y attendent pas."
+  },
+  {
+    "id": "dawud_03",
+    "question_ar": "ما الكتاب السماوي الذي أنزله الله على سيدنا داود عليه السلام؟",
+    "options_ar": [
+      "الإنجيل",
+      "التوراة",
+      "الزبور",
+      "الصحف"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَآتَيْنَا دَاوُودَ زَبُورًا). الزبور كتاب مواعظ وأدعية وتسابيح، وليس فيه أحكام شرعية جديدة بل دعاء وتسبيح وحكمة.",
+    "question_fr": "Quel livre céleste Allah a-t-Il révélé à notre maître Dawud (paix sur lui) ?",
+    "options_fr": [
+      "L'Évangile",
+      "La Torah",
+      "Les Psaumes (az-Zabour)",
+      "Les Feuillets"
+    ],
+    "explanation_fr": "Allah dit : « Et Nous avons donné à Dawud les Psaumes. » Les Psaumes sont un livre d'exhortations, d'invocations et de louanges, ne contenant pas de nouvelles prescriptions légales, mais plutôt des invocations, des louanges et de la sagesse."
+  },
+  {
+    "id": "dawud_04",
+    "question_ar": "بم وصف الله داود عليه السلام في سورة ص تعبيراً عن كثرة رجوعه إلى ربه؟",
+    "options_ar": [
+      "إِنَّهُ عَبْدُنَا الْمُخْلَصُ الأَمِينُ",
+      "نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ",
+      "إِنَّهُ مِنَ الْمُقَرَّبِينَ الصَّادِقِينَ",
+      "إِنَّهُ خَلِيفَةُ اللَّهِ فِي الأَرْضِينَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ) أي كثير الرجوع إلى الله بالتوبة والتسبيح والاستغفار، وهي أعلى درجات العبودية.",
+    "question_fr": "Comment Allah a-t-Il décrit Dawud dans la sourate Sad, pour exprimer son retour fréquent vers son Seigneur ?",
+    "options_fr": [
+      "« C'est Notre serviteur sincère et digne de confiance »",
+      "« Quel excellent serviteur ! Il était toujours repentant »",
+      "« Il fait partie des rapprochés véridiques »",
+      "« Il est le calife d'Allah sur les terres »"
+    ],
+    "explanation_fr": "Allah dit : « Quel excellent serviteur ! Il était toujours repentant » — c'est-à-dire qu'il retournait abondamment vers Allah par le repentir, la glorification et la demande de pardon, ce qui constitue le plus haut degré de l'adoration."
+  },
+  {
+    "id": "dawud_05",
+    "question_ar": "ماذا كانت تفعل الجبال والطير حين يسبّح داود عليه السلام؟",
+    "options_ar": [
+      "كانت تصمت وتهدأ إعظاماً لصوته",
+      "كانت تتحرك نحوه وتحيط به من كل جانب",
+      "كانت تسبّح معه وترجّع صداه",
+      "كانت تختفي وراء السحاب هيبةً وخشيةً"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (يَا جِبَالُ أَوِّبِي مَعَهُ وَالطَّيْرَ) وقال: (وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ). كانت الطير تقف في الهواء والجبال ترجع الصدى معه.",
+    "question_fr": "Que faisaient les montagnes et les oiseaux lorsque Dawud glorifiait Allah ?",
+    "options_fr": [
+      "Ils se taisaient et s'apaisaient en signe de vénération pour sa voix",
+      "Ils se mouvaient vers lui et l'entouraient de tous côtés",
+      "Ils glorifiaient avec lui et faisaient écho à sa voix",
+      "Ils disparaissaient derrière les nuages, par crainte et révérence"
+    ],
+    "explanation_fr": "Allah dit : « Ô montagnes, faites écho avec lui, ainsi que les oiseaux » et : « Nous avons assujetti les montagnes pour glorifier avec Dawud, ainsi que les oiseaux. » Les oiseaux s'immobilisaient dans les airs et les montagnes reprenaient l'écho avec lui."
+  },
+  {
+    "id": "dawud_06",
+    "question_ar": "ما المعجزة الفريدة التي أعطاها الله لداود في التعامل مع الحديد؟",
+    "options_ar": [
+      "كان الحديد يطير إليه من أماكن بعيدة إذا أراده",
+      "كان الحديد يلين في يده كالعجين دون حاجة لنار أو مطرقة",
+      "كان الحديد يتحول في يديه إلى ذهب خالص",
+      "كان الحديد يتكلم ويخبره عن عدد الأعداء"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَأَلَنَّا لَهُ الْحَدِيدَ * أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ). كان الحديد يلين كالعجين في يده، فيصنع منه الدروع المتقنة دون نار أو مطرقة.",
+    "question_fr": "Quel miracle unique Allah a-t-Il accordé à Dawud dans son travail du fer ?",
+    "options_fr": [
+      "Le fer volait vers lui depuis des lieux lointains dès qu'il le voulait",
+      "Le fer s'amollissait dans ses mains comme de la pâte, sans besoin de feu ni de marteau",
+      "Le fer se transformait dans ses mains en or pur",
+      "Le fer lui parlait et l'informait du nombre des ennemis"
+    ],
+    "explanation_fr": "Allah dit : « Et Nous avons amolli pour lui le fer : fabrique des cottes de mailles complètes et mesure bien les mailles. » Le fer s'amollissait comme de la pâte dans sa main, lui permettant de fabriquer des armures parfaites sans feu ni marteau."
+  },
+  {
+    "id": "dawud_07",
+    "question_ar": "ما معنى تعبير (قَدِّرْ فِي السَّرْدِ) في الآية الكريمة المتعلقة بصناعة داود للدروع؟",
+    "options_ar": [
+      "أسرع في صناعة الدروع قبل حلول الليل",
+      "أحكم حلقات الدرع بحيث لا تكون واسعة فتنفذ السهام ولا ضيقة فتعيق الحركة",
+      "أحصِ عدد الدروع وسجّلها في الكتاب",
+      "وزّع الدروع بالتساوي على جميع الجنود"
+    ],
+    "correct": 1,
+    "explanation_ar": "(قَدِّرْ فِي السَّرْدِ) أي أتقن ترتيب حلقات الزرد: لا واسعة فتنفذ السهام، ولا ضيقة فتثقل الجسد. وداود أول من صنع الدروع المتداخلة الحلقات.",
+    "question_fr": "Que signifie l'expression « mesure bien les mailles » dans le verset relatif à la fabrication des armures par Dawud ?",
+    "options_fr": [
+      "Fabrique les armures rapidement avant la tombée de la nuit",
+      "Ajuste précisément les mailles de l'armure : ni trop larges pour que les flèches ne les traversent, ni trop serrées pour ne pas entraver le mouvement",
+      "Compte le nombre d'armures et note-le dans un registre",
+      "Distribue les armures équitablement à tous les soldats"
+    ],
+    "explanation_fr": "« Mesure bien les mailles » signifie perfectionner l'agencement des anneaux de la cotte de mailles : ni trop larges pour laisser passer les flèches, ni trop serrées pour alourdir le corps. Dawud fut le premier à fabriquer des armures à mailles entrelacées."
+  },
+  {
+    "id": "dawud_08",
+    "question_ar": "ما موقف النبي ﷺ من صيام داود عليه السلام وكيف وصفه؟",
+    "options_ar": [
+      "قال إنه صيام شاق لا يُطيقه إلا الأنبياء",
+      "قال إنه أحب الصيام إلى الله: يصوم يوماً ويفطر يوماً",
+      "قال إنه صيام خاص بالأنبياء لا يجوز لغيرهم",
+      "قال إنه كان يصوم ثلاثة أيام ثم يفطر يوماً"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال النبي ﷺ: (أحب الصلاة إلى الله صلاة داود، وأحب الصيام إلى الله صيام داود: كان يصوم يوماً ويفطر يوماً). هذا النظام يجمع الصبر والعبادة المستدامة.",
+    "question_fr": "Quelle fut la position du Prophète ﷺ concernant le jeûne de Dawud, et comment l'a-t-il décrit ?",
+    "options_fr": [
+      "Il dit que c'était un jeûne pénible que seuls les prophètes pouvaient supporter",
+      "Il dit que c'était le jeûne le plus aimé d'Allah : jeûner un jour et rompre le jeûne le lendemain",
+      "Il dit que ce jeûne était réservé aux prophètes et interdit aux autres",
+      "Il dit qu'il jeûnait trois jours puis rompait le jeûne un jour"
+    ],
+    "explanation_fr": "Le Prophète ﷺ dit : « La prière la plus aimée d'Allah est la prière de Dawud, et le jeûne le plus aimé d'Allah est le jeûne de Dawud : il jeûnait un jour et rompait le jeûne un jour. » Ce rythme allie la patience et une adoration durable."
+  },
+  {
+    "id": "dawud_09",
+    "question_ar": "كيف كان نظام قيام الليل عند داود عليه السلام وفق الحديث النبوي الشريف؟",
+    "options_ar": [
+      "كان يقوم الليل كله ولا ينام إلا بعد الفجر",
+      "كان ينام ثلثي الليل ويقوم ثلثه بالكامل",
+      "كان ينام نصف الليل ويقوم ثلثه وينام سدسه",
+      "كان يقوم نصف الليل الأول ثم ينام حتى الفجر"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال النبي ﷺ: (كان ينام نصف الليل ويقوم ثلثه وينام سدسه). هذا النظام الدقيق يجمع بين حق الجسد في الراحة وحق الروح في العبادة.",
+    "question_fr": "Quel était le rythme des prières nocturnes de Dawud, selon le hadith prophétique ?",
+    "options_fr": [
+      "Il priait toute la nuit et ne dormait qu'après l'aube",
+      "Il dormait les deux tiers de la nuit et priait le tiers restant en entier",
+      "Il dormait la moitié de la nuit, priait le tiers, puis dormait le sixième restant",
+      "Il priait la première moitié de la nuit puis dormait jusqu'à l'aube"
+    ],
+    "explanation_fr": "Le Prophète ﷺ dit : « Il dormait la moitié de la nuit, priait le tiers, puis dormait le sixième restant. » Ce rythme précis équilibre le droit du corps au repos et le droit de l'âme à l'adoration."
+  },
+  {
+    "id": "dawud_10",
+    "question_ar": "ماذا قال النبي ﷺ عن أكل داود من عمله وما علاقة ذلك بالكرامة؟",
+    "options_ar": [
+      "قال إن داود كان يأخذ من بيت المال لكنه تصدق بكل ما أخذ",
+      "قال: ما أكل أحد طعاماً خيراً من أن يأكل من عمل يده، وإن نبي الله داود كان يأكل من عمل يده",
+      "قال إن داود كان يأكل مما يأتيه بالوحي من السماء",
+      "قال إن داود كان يطعم الناس ولا يأكل هو إلا القليل"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال ﷺ: (ما أكل أحد طعاماً قط خيراً من أن يأكل من عمل يده، وإن نبي الله داود كان يأكل من عمل يده). ملك ونبي يعمل بيده — درس في الكرامة والاستقلال.",
+    "question_fr": "Qu'a dit le Prophète ﷺ à propos du fait que Dawud mangeait du fruit de son travail, et quel est le lien avec la dignité ?",
+    "options_fr": [
+      "Il dit que Dawud prenait du trésor public mais faisait l'aumône de tout ce qu'il prenait",
+      "Il dit : « Personne n'a jamais mangé une meilleure nourriture que celle qu'il tire du travail de ses propres mains, et le prophète Dawud mangeait du travail de ses mains »",
+      "Il dit que Dawud mangeait ce que la révélation lui apportait du ciel",
+      "Il dit que Dawud nourrissait les gens et ne mangeait lui-même que très peu"
+    ],
+    "explanation_fr": "Le Prophète ﷺ dit : « Personne n'a jamais mangé une meilleure nourriture que celle qu'il tire du travail de ses propres mains, et le prophète Dawud mangeait du travail de ses mains » — un roi et un prophète qui travaille de ses mains : une leçon de dignité et d'indépendance."
+  },
+  {
+    "id": "dawud_11",
+    "question_ar": "في أي سورة ذكر القرآن الكريم قصة داود وجالوت بالتفصيل؟",
+    "options_ar": [
+      "سورة آل عمران",
+      "سورة البقرة",
+      "سورة النساء",
+      "سورة المائدة"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذكرت قصة داود وجالوت في سورة البقرة الآيات 249-251، ضمن سياق قصة طالوت وبني إسرائيل وامتحان نهر الماء.",
+    "question_fr": "Dans quelle sourate le Coran relate-t-il en détail l'histoire de Dawud et Jalout ?",
+    "options_fr": [
+      "Sourate Al 'Imran",
+      "Sourate al-Baqara",
+      "Sourate an-Nisa'",
+      "Sourate al-Ma'ida"
+    ],
+    "explanation_fr": "L'histoire de Dawud et Jalout est relatée dans la sourate al-Baqara, versets 249 à 251, dans le contexte de l'histoire de Talout, des Fils d'Israël et de l'épreuve du fleuve."
+  },
+  {
+    "id": "dawud_12",
+    "question_ar": "من الملك الذي كان داود جندياً في جيشه قبل أن يقتل جالوت؟",
+    "options_ar": [
+      "الملك سليمان",
+      "الملك طالوت",
+      "الملك جالوت نفسه",
+      "الملك يوشع"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان داود يقاتل في جيش الملك طالوت (شاول) حين تقدم لمبارزة جالوت. وبعد مقتل جالوت آتاه الله الملك من بعد طالوت.",
+    "question_fr": "Dans l'armée de quel roi Dawud était-il soldat avant de tuer Jalout ?",
+    "options_fr": [
+      "Le roi Souleyman",
+      "Le roi Talout",
+      "Le roi Jalout lui-même",
+      "Le roi Youcha'"
+    ],
+    "explanation_fr": "Dawud combattait dans l'armée du roi Talout (Saül) lorsqu'il s'avança pour affronter Jalout en duel. Après la mort de Jalout, Allah lui accorda le royaume après Talout."
+  },
+  {
+    "id": "dawud_13",
+    "question_ar": "ما الذي ميّز داود ليكون أول من تجرأ على مبارزة جالوت أمام كل الجيش المرعوب؟",
+    "options_ar": [
+      "امتلاكه سيفاً سحرياً لا يُقهر",
+      "كونه أكبر الجنود جثةً وأقواهم بنية",
+      "إيمانه الراسخ وتوكله على الله في مواجهة الباطل",
+      "وعد الملك طالوت له بنصف المملكة إن انتصر"
+    ],
+    "correct": 2,
+    "explanation_ar": "تقدم داود الشاب الصغير راعي الغنم بمقلاعه وحجره إيماناً بالله، وليس اعتماداً على قوة جسدية. وهذا درس أن الإيمان الصادق يتجاوز الأسباب المادية.",
+    "question_fr": "Qu'est-ce qui a distingué Dawud, le rendant le seul assez audacieux pour affronter Jalout en duel devant toute une armée terrifiée ?",
+    "options_fr": [
+      "Le fait qu'il possédait une épée magique invincible",
+      "Le fait qu'il était le soldat le plus grand et le plus puissant physiquement",
+      "Sa foi inébranlable et sa confiance en Allah face au faux",
+      "La promesse du roi Talout de lui offrir la moitié du royaume en cas de victoire"
+    ],
+    "explanation_fr": "Le jeune Dawud, simple berger de moutons, s'avança avec sa fronde et sa pierre par foi en Allah, et non en s'appuyant sur une force physique — une leçon montrant qu'une foi sincère dépasse les moyens matériels."
+  },
+  {
+    "id": "dawud_14",
+    "question_ar": "في أي سورة ذُكر تسبيح الجبال والطير مع داود في قوله تعالى (وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ)؟",
+    "options_ar": [
+      "سورة الأنبياء",
+      "سورة سبأ",
+      "سورة ص",
+      "الأنبياء وسبأ وص جميعاً"
+    ],
+    "correct": 3,
+    "explanation_ar": "ذُكر تسبيح الجبال والطير مع داود في أكثر من موضع: سورة الأنبياء (79)، وسورة سبأ (10)، وسورة ص (18-19)، مما يدل على أهمية هذه المعجزة.",
+    "question_fr": "Dans quelle sourate est mentionnée la glorification des montagnes et des oiseaux avec Dawud, dans la parole d'Allah « Nous avons assujetti les montagnes pour glorifier avec Dawud, ainsi que les oiseaux » ?",
+    "options_fr": [
+      "Sourate al-Anbiya'",
+      "Sourate Saba'",
+      "Sourate Sad",
+      "Al-Anbiya', Saba' et Sad, toutes ensemble"
+    ],
+    "explanation_fr": "La glorification des montagnes et des oiseaux avec Dawud est mentionnée à plusieurs endroits : sourate al-Anbiya' (verset 79), sourate Saba' (verset 10) et sourate Sad (versets 18-19), ce qui témoigne de l'importance de ce miracle."
+  },
+  {
+    "id": "dawud_15",
+    "question_ar": "ما الحكمة التي آتاها الله داود مقترنةً مع الملك (وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ)؟",
+    "options_ar": [
+      "القدرة على تعلم جميع اللغات البشرية",
+      "معرفة الغيب وما يخفيه الناس في صدورهم",
+      "القدرة على الحكم الصائب والفصل بين الحق والباطل",
+      "القدرة على تفسير الأحلام كنبي الله يوسف"
+    ],
+    "correct": 2,
+    "explanation_ar": "(وَآتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ) أي أعطاه الله الحكمة العملية والقدرة على الفصل في القضايا بكلام قاطع واضح لا لبس فيه.",
+    "question_fr": "Quelle sagesse Allah a-t-Il accordée à Dawud, en plus du royaume, dans « Nous lui avons donné la sagesse et le discours décisif » ?",
+    "options_fr": [
+      "La capacité d'apprendre toutes les langues humaines",
+      "La connaissance de l'invisible et de ce que les gens cachent dans leurs cœurs",
+      "La capacité de juger avec justesse et de trancher entre le vrai et le faux",
+      "La capacité d'interpréter les rêves comme le prophète Youssouf"
+    ],
+    "explanation_fr": "« Nous lui avons donné la sagesse et le discours décisif » signifie qu'Allah lui a accordé la sagesse pratique et la capacité de trancher les affaires par des paroles décisives, claires et sans ambiguïté."
+  },
+  {
+    "id": "dawud_16",
+    "question_ar": "في قصة الخصمين اللذين تسوروا المحراب على داود، ماذا كانت دعوى أحدهما على الآخر؟",
+    "options_ar": [
+      "أن أخاه أخذ أرضه وزرعها دون إذن منه",
+      "أن أخاه له تسع وتسعون نعجة وطلب منه نعجته الواحدة",
+      "أن شريكه في التجارة خانه وأخذ نصيبه من الأرباح",
+      "أن جاره قتل غنمه وأنكر ذلك أمام الناس"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال أحدهما: (إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ أَكْفِلْنِيهَا). قضية تمثيل رمزي لامتحان داود في العدل.",
+    "question_fr": "Dans l'histoire des deux plaideurs qui escaladèrent le mur de l'oratoire de Dawud, quelle fut la plainte de l'un contre l'autre ?",
+    "options_fr": [
+      "Que son frère avait pris sa terre et l'avait cultivée sans sa permission",
+      "Que son frère possédait quatre-vingt-dix-neuf brebis et lui demandait de lui céder son unique brebis",
+      "Que son associé en commerce l'avait trahi et avait pris sa part des bénéfices",
+      "Que son voisin avait tué son mouton et l'avait nié devant les gens"
+    ],
+    "explanation_fr": "L'un d'eux dit : « Celui-ci est mon frère ; il a quatre-vingt-dix-neuf brebis et moi une seule brebis, et il m'a dit : Confie-la-moi. » Une affaire à valeur symbolique, mettant à l'épreuve la justice de Dawud."
+  },
+  {
+    "id": "dawud_17",
+    "question_ar": "كيف كان حكم داود الأول الفوري في قضية الخصمين قبل أن يُدرك أنها ابتلاء؟",
+    "options_ar": [
+      "قضى بأن يُعطى كل واحد منهما نصف النعاج",
+      "قضى بأن تُعاد النعجة إلى صاحبها وغرم الظالم الضعف",
+      "قال: (لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَى نِعَاجِهِ)",
+      "طلب شهوداً قبل إصدار أي حكم"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال داود فوراً: (لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَى نِعَاجِهِ) ثم أدرك أنها كانت فتنة واختباراً، فاستغفر وأناب.",
+    "question_fr": "Quel fut le premier jugement immédiat de Dawud dans l'affaire des deux plaideurs, avant qu'il ne réalise qu'il s'agissait d'une épreuve ?",
+    "options_fr": [
+      "Il jugea que chacun d'eux recevrait la moitié des brebis",
+      "Il jugea que la brebis devait être rendue à son propriétaire et que l'injuste devait payer le double en amende",
+      "Il dit : « Il t'a certes lésé en réclamant ta brebis pour l'ajouter à ses brebis »",
+      "Il demanda des témoins avant de prononcer tout jugement"
+    ],
+    "explanation_fr": "Dawud dit immédiatement : « Il t'a certes lésé en réclamant ta brebis pour l'ajouter à ses brebis », puis réalisa qu'il s'agissait d'une épreuve et d'un test ; il demanda alors pardon et se repentit."
+  },
+  {
+    "id": "dawud_18",
+    "question_ar": "ماذا فعل داود حين أدرك أن قصة الخصمين كانت ابتلاءً واختباراً له؟",
+    "options_ar": [
+      "غضب من الخصمين وطردهما من مجلسه",
+      "فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "أعاد النظر في حكمه وأرسل في طلب الشهود",
+      "أمر بإغلاق المحراب حتى لا يتسلل أحد مرة أخرى"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَأَنَابَ * فَغَفَرْنَا لَهُ ذَٰلِكَ). سرعة التوبة والإنابة من علامات الأنبياء.",
+    "question_fr": "Qu'a fait Dawud lorsqu'il a réalisé que l'histoire des deux plaideurs était une épreuve et un test pour lui ?",
+    "options_fr": [
+      "Il se mit en colère contre les deux plaideurs et les chassa de son assemblée",
+      "Il demanda pardon à son Seigneur, tomba prosterné et se repentit",
+      "Il révisa son jugement et fit venir des témoins",
+      "Il ordonna de fermer l'oratoire pour que personne n'y pénètre à nouveau"
+    ],
+    "explanation_fr": "Allah dit : « Il demanda pardon à son Seigneur, tomba prosterné et se repentit ; Nous lui pardonnâmes cela. » La rapidité du repentir et du retour vers Allah est l'une des marques des prophètes."
+  },
+  {
+    "id": "dawud_19",
+    "question_ar": "ما الأمر الإلهي الذي جاء بعد توبة داود تأكيداً لمكانته كخليفة في الأرض؟",
+    "options_ar": [
+      "يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ",
+      "يَا دَاوُودُ اتَّخِذْ لَنَا بَيْتاً وَاجْعَلْنَا لَكَ حِصْناً",
+      "يَا دَاوُودُ إِنَّا أَرْسَلْنَاكَ لِبَنِي إِسْرَائِيلَ خَاصَّةً",
+      "يَا دَاوُودُ لَا تَحْكُمْ بَيْنَ النَّاسِ حَتَّى تَسْأَلَنِي"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ).",
+    "question_fr": "Quel ordre divin est venu après le repentir de Dawud, confirmant sa position de calife sur terre ?",
+    "options_fr": [
+      "« Ô Dawud, Nous avons fait de toi un calife sur la terre ; juge donc entre les gens en toute justice »",
+      "« Ô Dawud, prends pour Nous une maison et fais de toi une forteresse »",
+      "« Ô Dawud, Nous t'avons envoyé exclusivement aux Fils d'Israël »",
+      "« Ô Dawud, ne juge pas entre les gens sans Me consulter au préalable »"
+    ],
+    "explanation_fr": "Allah dit : « Ô Dawud, Nous avons fait de toi un calife sur la terre ; juge donc entre les gens en toute justice, et ne suis pas la passion, sinon elle t'égarera du chemin d'Allah. »"
+  },
+  {
+    "id": "dawud_20",
+    "question_ar": "من الذي ورث داود عليه السلام في الملك والنبوة من بعده؟",
+    "options_ar": [
+      "ابنه يوشع بن داود",
+      "ابنه سليمان عليه السلام",
+      "حفيده من ابنته الكبرى",
+      "أحد كبار قادة جيشه"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَوَرِثَ سُلَيْمَانُ دَاوُودَ). ورثه في الملك والنبوة وأتم ما بدأه، كإتمام بناء المسجد الأقصى.",
+    "question_fr": "Qui a succédé à Dawud, au royaume et à la prophétie, après lui ?",
+    "options_fr": [
+      "Son fils Youcha' fils de Dawud",
+      "Son fils Souleyman (paix sur lui)",
+      "Son petit-fils par sa fille aînée",
+      "L'un des grands chefs de son armée"
+    ],
+    "explanation_fr": "Allah dit : « Et Souleyman hérita de Dawud. » Il hérita de lui le royaume et la prophétie, et acheva ce qu'il avait commencé, comme l'achèvement de la construction de la Mosquée al-Aqsa."
+  },
+  {
+    "id": "dawud_21",
+    "question_ar": "ما العاصمة التي أسس فيها داود مملكة بني إسرائيل الموحدة؟",
+    "options_ar": [
+      "بيت لحم",
+      "الخليل",
+      "القدس (إيلياء)",
+      "أريحا"
+    ],
+    "correct": 2,
+    "explanation_ar": "أسس داود عاصمة مملكته في القدس (إيلياء)، وبنى أسس المسجد الأقصى الذي أتمّ بناءه ابنه سليمان من بعده.",
+    "question_fr": "Dans quelle capitale Dawud a-t-il fondé le royaume unifié des Fils d'Israël ?",
+    "options_fr": [
+      "Bethléem",
+      "Hébron",
+      "Jérusalem (Iliya')",
+      "Jéricho"
+    ],
+    "explanation_fr": "Dawud établit la capitale de son royaume à Jérusalem (Iliya'), et posa les fondations de la Mosquée al-Aqsa, dont son fils Souleyman acheva la construction après lui."
+  },
+  {
+    "id": "dawud_22",
+    "question_ar": "كم سنة حكم داود عليه السلام شعبه بالعدل والحكمة؟",
+    "options_ar": [
+      "عشرين سنة",
+      "ثلاثين سنة",
+      "أربعين سنة",
+      "خمسين سنة"
+    ],
+    "correct": 2,
+    "explanation_ar": "حكم داود عليه السلام أربعين سنة بالعدل والحكمة، وترك لسليمان مملكة قوية راسخة وإرثاً نبوياً عظيماً.",
+    "question_fr": "Combien d'années Dawud a-t-il gouverné son peuple avec justice et sagesse ?",
+    "options_fr": [
+      "Vingt ans",
+      "Trente ans",
+      "Quarante ans",
+      "Cinquante ans"
+    ],
+    "explanation_fr": "Dawud gouverna quarante ans avec justice et sagesse, laissant à Souleyman un royaume solide et puissant ainsi qu'un immense héritage prophétique."
+  },
+  {
+    "id": "dawud_23",
+    "question_ar": "في أي السماوات التقى النبي ﷺ بداود عليه السلام أثناء رحلة الإسراء والمعراج؟",
+    "options_ar": [
+      "السماء الثانية",
+      "السماء الرابعة",
+      "السماء الخامسة",
+      "السماء السادسة"
+    ],
+    "correct": 1,
+    "explanation_ar": "التقى النبي ﷺ بداود في السماء الرابعة وفق ما ورد في أحاديث المعراج، بينما التقى بهارون في السماء الخامسة.",
+    "question_fr": "Dans quel ciel le Prophète ﷺ a-t-il rencontré Dawud lors du voyage nocturne et de l'ascension (al-Isra' wal-Mi'raj) ?",
+    "options_fr": [
+      "Le deuxième ciel",
+      "Le quatrième ciel",
+      "Le cinquième ciel",
+      "Le sixième ciel"
+    ],
+    "explanation_fr": "Le Prophète ﷺ rencontra Dawud dans le quatrième ciel, selon ce qui est rapporté dans les hadiths sur l'Ascension, tandis qu'il rencontra Haroun dans le cinquième ciel."
+  },
+  {
+    "id": "dawud_24",
+    "question_ar": "ما الآية التي تشير إلى حصانة داود من الفرار في ميادين القتال؟",
+    "options_ar": [
+      "إنه كان لا يهرب من العدو وإن كثر عدده",
+      "وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَآبٍ",
+      "وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ",
+      "وَشَدَدْنَا مُلْكَهُ وَآتَيْنَاهُ الْحِكْمَةَ"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ) أي صاحب القوة. وكان من صفاته أنه لا يفر إذا لاقى العدو — شجاعة في الميدان كشجاعته في العبادة.",
+    "question_fr": "Quel verset fait allusion à la résistance de Dawud face à la fuite sur les champs de bataille ?",
+    "options_fr": [
+      "« Il ne fuyait jamais l'ennemi, même si celui-ci était nombreux »",
+      "« Il a auprès de Nous un rang élevé et un excellent lieu de retour »",
+      "« Et rappelle-toi Notre serviteur Dawud, doué de force »",
+      "« Nous avons affermi son royaume et lui avons donné la sagesse »"
+    ],
+    "explanation_fr": "Allah dit : « Et rappelle-toi Notre serviteur Dawud, doué de force », c'est-à-dire possesseur de puissance. Il avait pour qualité de ne jamais fuir face à l'ennemi — un courage au combat égal à son courage dans l'adoration."
+  },
+  {
+    "id": "dawud_25",
+    "question_ar": "ماذا قال الله تعالى في حق داود وسليمان لما أثنى عليهما بالعلم الذي آتاهما؟",
+    "options_ar": [
+      "وَلَقَدْ آتَيْنَا دَاوُودَ وَسُلَيْمَانَ عِلْمًا وَقَالَا الْحَمْدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ الْمُؤْمِنِينَ",
+      "وَجَعَلْنَا دَاوُودَ وَسُلَيْمَانَ خَلِيفَتَيْنِ عَلَى بَنِي إِسْرَائِيلَ أَجْمَعِينَ",
+      "وَبَارَكْنَا عَلَيْهِمَا وَأَرْسَلْنَاهُمَا إِلَى الْعَالَمِينَ كَافَّةً",
+      "وَأَعْطَيْنَاهُمَا الْقُوَّةَ وَالسُّلْطَانَ فِيمَا آتَيْنَاهُمَا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (وَلَقَدْ آتَيْنَا دَاوُودَ وَسُلَيْمَانَ عِلْمًا وَقَالَا الْحَمْدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ الْمُؤْمِنِينَ). الاعتراف بالنعمة والثناء على المنعم سمة الأنبياء.",
+    "question_fr": "Qu'a dit Allah au sujet de Dawud et Souleyman en louant le savoir qu'Il leur avait accordé ?",
+    "options_fr": [
+      "« Nous avons donné à Dawud et Souleyman un savoir, et ils dirent : Louange à Allah qui nous a favorisés sur beaucoup de Ses serviteurs croyants »",
+      "« Nous avons fait de Dawud et Souleyman deux califes sur tous les Fils d'Israël »",
+      "« Nous les avons bénis et les avons envoyés à tous les mondes »",
+      "« Nous leur avons donné la force et le pouvoir dans ce que Nous leur avons accordé »"
+    ],
+    "explanation_fr": "Allah dit : « Nous avons donné à Dawud et Souleyman un savoir, et ils dirent : Louange à Allah qui nous a favorisés sur beaucoup de Ses serviteurs croyants. » Reconnaître le bienfait et louer Celui qui l'accorde est une caractéristique des prophètes."
+  },
+  {
+    "id": "dawud_26",
+    "question_ar": "في أي سورة ورد ذكر (وَوَرِثَ سُلَيْمَانُ دَاوُودَ)؟",
+    "options_ar": [
+      "سورة سبأ",
+      "سورة ص",
+      "سورة النمل",
+      "سورة الأنبياء"
+    ],
+    "correct": 2,
+    "explanation_ar": "ورد قوله تعالى (وَوَرِثَ سُلَيْمَانُ دَاوُودَ) في سورة النمل الآية 16، في سياق ذكر ما أوتي سليمان من نعم عقب ما ورثه من أبيه.",
+    "question_fr": "Dans quelle sourate figure la mention « Et Souleyman hérita de Dawud » ?",
+    "options_fr": [
+      "Sourate Saba'",
+      "Sourate Sad",
+      "Sourate an-Naml",
+      "Sourate al-Anbiya'"
+    ],
+    "explanation_fr": "La parole d'Allah « Et Souleyman hérita de Dawud » figure dans la sourate an-Naml, verset 16, dans le contexte des bienfaits accordés à Souleyman à la suite de son héritage de son père."
+  },
+  {
+    "id": "dawud_27",
+    "question_ar": "ما السلاح الذي استخدمه داود الشاب لقتل جالوت العملاق؟",
+    "options_ar": [
+      "رمحاً خشبياً طويلاً",
+      "سيفاً من حديد طرّزه بنفسه",
+      "مقلاعاً وحجراً",
+      "قوساً ونشاباً"
+    ],
+    "correct": 2,
+    "explanation_ar": "تقدم داود بمقلاعه وحجره فأصاب جبهة جالوت وقتله. في هذا دلالة على أن التوكل على الله يجعل الأسباب البسيطة تتجاوز القوى الضخمة.",
+    "question_fr": "Quelle arme le jeune Dawud a-t-il utilisée pour tuer le géant Jalout ?",
+    "options_fr": [
+      "Une longue lance en bois",
+      "Une épée en fer qu'il avait lui-même forgée",
+      "Une fronde et une pierre",
+      "Un arc et des flèches"
+    ],
+    "explanation_fr": "Dawud s'avança avec sa fronde et sa pierre, atteignit le front de Jalout et le tua. Cela montre que la confiance en Allah fait triompher les moyens les plus simples sur les forces les plus immenses."
+  },
+  {
+    "id": "dawud_28",
+    "question_ar": "ما الصناعة التي كان داود أول من اخترعها وبرع فيها وفق ما ذكر المفسرون؟",
+    "options_ar": [
+      "بناء السفن الكبيرة للأنهار",
+      "صناعة الدروع المتداخلة الحلقات (الزرد)",
+      "صناعة المنجنيق وأدوات الحصار",
+      "نسج الأقمشة الثمينة للملوك"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان داود أول من صنع الدروع المتداخلة الحلقات (الزرد). وقد ألان الله له الحديد ليصنعها بدقة متناهية دون نار أو أدوات تقليدية.",
+    "question_fr": "Quel artisanat Dawud fut-il le premier à inventer et à maîtriser, selon les exégètes ?",
+    "options_fr": [
+      "La construction de grands navires fluviaux",
+      "La fabrication d'armures à mailles entrelacées (la cotte de mailles)",
+      "La fabrication de catapultes et d'engins de siège",
+      "Le tissage d'étoffes précieuses pour les rois"
+    ],
+    "explanation_fr": "Dawud fut le premier à fabriquer des armures à mailles entrelacées (la cotte de mailles). Allah amollit pour lui le fer afin qu'il puisse le travailler avec une précision extrême, sans feu ni outils traditionnels."
+  },
+  {
+    "id": "dawud_29",
+    "question_ar": "ماذا يُستفاد من قول الله (وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّن بَأْسِكُمْ)؟",
+    "options_ar": [
+      "أن صناعة الأسلحة محرمة إلا لمن أذن الله له كداود",
+      "أن الله علّم داود صناعة الدروع رحمة بالبشر ليقيهم في الحروب",
+      "أن داود كان يبيع الدروع لكل الجيوش بما فيها أعداؤه",
+      "أن الزرد معجزة لا يمكن لأحد بعد داود أن يصنعها"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَعَلَّمْنَاهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّن بَأْسِكُمْ) أي الله منح داود علم الصناعة رحمةً بالبشرية لتحمي نفسها في الحروب.",
+    "question_fr": "Que retenir de la parole d'Allah « Nous lui avons enseigné la fabrication de cottes de mailles pour vous, afin de vous protéger de votre propre violence » ?",
+    "options_fr": [
+      "Que la fabrication d'armes est interdite sauf pour celui qu'Allah a autorisé, comme Dawud",
+      "Qu'Allah a enseigné à Dawud la fabrication des armures par miséricorde envers l'humanité, pour la protéger dans les guerres",
+      "Que Dawud vendait des armures à toutes les armées, y compris à ses ennemis",
+      "Que la cotte de mailles est un miracle qu'aucun homme après Dawud ne peut reproduire"
+    ],
+    "explanation_fr": "Allah dit : « Nous lui avons enseigné la fabrication de cottes de mailles pour vous, afin de vous protéger de votre propre violence » — c'est-à-dire qu'Allah a accordé à Dawud le savoir de cet artisanat par miséricorde envers l'humanité, pour qu'elle se protège dans les guerres."
+  },
+  {
+    "id": "dawud_30",
+    "question_ar": "ما وصف النبي ﷺ لصوت داود عليه السلام وفق ما ورد في الأحاديث؟",
+    "options_ar": [
+      "كان صوته عادياً لكن التسبيح كان يعلو بمعجزة إلهية",
+      "كان أحسن الناس صوتاً على الإطلاق حتى توقفت له الطير",
+      "كان يصمت ولا يتكلم إلا بالوحي",
+      "كان صوته يُسمع من مسافة يوم كامل"
+    ],
+    "correct": 1,
+    "explanation_ar": "ورد في الأحاديث أن داود كان أحسن الناس صوتاً، وحين يقرأ الزبور كانت الطير تتوقف في الهواء والجبال ترجع الصدى معه.",
+    "question_fr": "Comment le Prophète ﷺ a-t-il décrit la voix de Dawud, selon les hadiths ?",
+    "options_fr": [
+      "Sa voix était ordinaire, mais sa glorification s'élevait par un miracle divin",
+      "Il avait absolument la plus belle voix parmi les gens, au point que les oiseaux s'immobilisaient pour lui",
+      "Il gardait le silence et ne parlait que par révélation",
+      "Sa voix s'entendait à une distance d'une journée entière"
+    ],
+    "explanation_fr": "Il est rapporté dans les hadiths que Dawud avait la plus belle voix parmi les gens ; lorsqu'il récitait les Psaumes, les oiseaux s'immobilisaient dans les airs et les montagnes lui faisaient écho."
+  },
+  {
+    "id": "dawud_31",
+    "question_ar": "ما الصفة التي وصف بها النبي ﷺ داود عند لقائه به في المعراج؟",
+    "options_ar": [
+      "الملك المحارب الذي لا يُقهر",
+      "العابد الذي لا ينام في الليل أبداً",
+      "الحاكم العادل الذي أقام ملك بني إسرائيل",
+      "وصفه بأنه صاحب أحسن صوت وأكثرهم عبادة"
+    ],
+    "correct": 3,
+    "explanation_ar": "لقي النبي ﷺ داود في المعراج ووصفه بما يتعلق بمكانته في الصوت والعبادة، كما أثنى عليه بصيامه الذي وصفه بأنه أحب الصيام إلى الله.",
+    "question_fr": "Par quelle qualité le Prophète ﷺ a-t-il décrit Dawud lors de leur rencontre pendant l'Ascension ?",
+    "options_fr": [
+      "Le roi guerrier invincible",
+      "L'adorateur qui ne dormait jamais la nuit",
+      "Le juste gouverneur qui établit le royaume des Fils d'Israël",
+      "Il le décrivit comme possédant la plus belle voix et étant l'un des plus assidus dans l'adoration"
+    ],
+    "explanation_fr": "Le Prophète ﷺ rencontra Dawud lors de l'Ascension et le décrivit en lien avec sa réputation pour sa voix et son adoration, faisant aussi l'éloge de son jeûne, qu'il décrivit comme le jeûne le plus aimé d'Allah."
+  },
+  {
+    "id": "dawud_32",
+    "question_ar": "ما التحذير الإلهي الذي أعقب تثبيت داود خليفةً في الأرض؟",
+    "options_ar": [
+      "لا تُشرك معي أحداً في الحكم",
+      "لا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ",
+      "لا تبنِ لك قصوراً فتنسى الآخرة",
+      "لا تُحارب إلا بإذن مني مباشرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ فَاحْكُم بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوَى فَيُضِلَّكَ عَن سَبِيلِ اللَّهِ). الهوى أعظم أعداء العدل.",
+    "question_fr": "Quel avertissement divin a suivi l'établissement de Dawud comme calife sur terre ?",
+    "options_fr": [
+      "« Ne M'associe personne dans le pouvoir »",
+      "« Ne suis pas la passion, sinon elle t'égarera du chemin d'Allah »",
+      "« Ne te bâtis pas de palais, de peur d'oublier l'au-delà »",
+      "« Ne fais la guerre qu'avec Ma permission directe »"
+    ],
+    "explanation_fr": "Allah dit : « Ô Dawud, Nous avons fait de toi un calife sur la terre ; juge donc entre les gens en toute justice, et ne suis pas la passion, sinon elle t'égarera du chemin d'Allah. » La passion est le plus grand ennemi de la justice."
+  },
+  {
+    "id": "dawud_33",
+    "question_ar": "ما الزبور من حيث طبيعته ومحتواه مقارنةً بباقي الكتب السماوية؟",
+    "options_ar": [
+      "كتاب أحكام شرعية جديدة للأمة الإسرائيلية",
+      "كتاب مواعظ وأدعية وتسابيح دون أحكام شرعية جديدة",
+      "كتاب تاريخ الأنبياء من آدم إلى داود",
+      "كتاب نبوءات عن المستقبل والآخرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "الزبور كتاب دعاء وتسبيح وحكمة وموعظة، وليس فيه شريعة جديدة — بخلاف التوراة التي فيها أحكام تشريعية. وكان داود يتلوه بصوت يأسر القلوب.",
+    "question_fr": "Quelle est la nature des Psaumes et leur contenu, comparés aux autres livres célestes ?",
+    "options_fr": [
+      "Un livre de nouvelles prescriptions légales pour la nation israélite",
+      "Un livre d'exhortations, d'invocations et de louanges, sans nouvelles prescriptions légales",
+      "Un livre d'histoire des prophètes depuis Adam jusqu'à Dawud",
+      "Un livre de prophéties sur l'avenir et l'au-delà"
+    ],
+    "explanation_fr": "Les Psaumes sont un livre d'invocation, de glorification, de sagesse et d'exhortation, sans nouvelle législation — à la différence de la Torah qui contient des prescriptions légales. Dawud le récitait d'une voix qui captivait les cœurs."
+  },
+  {
+    "id": "dawud_34",
+    "question_ar": "في أي سورة قال الله تعالى (وَآتَيْنَا دَاوُودَ زَبُورًا)؟",
+    "options_ar": [
+      "سورة آل عمران",
+      "سورة النساء",
+      "سورة البقرة",
+      "سورة يونس"
+    ],
+    "correct": 1,
+    "explanation_ar": "ورد قوله تعالى (وَآتَيْنَا دَاوُودَ زَبُورًا) في سورة النساء الآية 163، ضمن ذكر الأنبياء الذين أُوحي إليهم.",
+    "question_fr": "Dans quelle sourate Allah dit-Il « Et Nous avons donné à Dawud les Psaumes » ?",
+    "options_fr": [
+      "Sourate Al 'Imran",
+      "Sourate an-Nisa'",
+      "Sourate al-Baqara",
+      "Sourate Younous"
+    ],
+    "explanation_fr": "La parole d'Allah « Et Nous avons donné à Dawud les Psaumes » figure dans la sourate an-Nisa', verset 163, dans le cadre de la mention des prophètes ayant reçu la révélation."
+  },
+  {
+    "id": "dawud_35",
+    "question_ar": "ما الذي يميز داود عن كثير من الحكام العظام في التاريخ من حيث جمعه بين السلطة والروحانية؟",
+    "options_ar": [
+      "أنه لم يدخل قط في حرب وآثر السلم دائماً",
+      "أنه جمع بين السلطة الدنيوية (الملك) والروحية (النبوة) في آنٍ واحد",
+      "أنه تنازل عن الملك في آخر عمره وانزوى للعبادة",
+      "أنه فرّق ثروته كلها على الفقراء ولم يُبقِ شيئاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "الجمع بين الملك والنبوة نادر في التاريخ، وقد حباه الله به. كان ملكاً يحكم وعابداً يسبّح وقاضياً يعدل وصانعاً يعمل بيده.",
+    "question_fr": "Qu'est-ce qui distingue Dawud de nombreux grands dirigeants de l'histoire, en ce qui concerne l'alliance entre pouvoir et spiritualité ?",
+    "options_fr": [
+      "Qu'il ne fit jamais la guerre et préféra toujours la paix",
+      "Qu'il réunit à la fois le pouvoir temporel (le royaume) et le pouvoir spirituel (la prophétie)",
+      "Qu'il renonça au royaume à la fin de sa vie et se retira pour l'adoration",
+      "Qu'il distribua toute sa fortune aux pauvres sans rien garder"
+    ],
+    "explanation_fr": "L'alliance du royaume et de la prophétie est rare dans l'histoire, et Allah en a fait don à Dawud. Il était un roi qui gouvernait, un adorateur qui glorifiait, un juge qui rendait justice, et un artisan qui travaillait de ses mains."
+  },
+  {
+    "id": "dawud_36",
+    "question_ar": "ماذا كانت ردة فعل بني إسرائيل لما شهدوا داود يقتل جالوت بحجرة مقلاع؟",
+    "options_ar": [
+      "شكوا في النصر وظنوه حظاً لا معجزة",
+      "هزموا جيش جالوت بإذن الله وانتصروا بعد قتل قائدهم",
+      "فروا من ميدان المعركة خوفاً رغم مقتل جالوت",
+      "اختلفوا في تعيين داود ملكاً وأرادوا غيره"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَهَزَمُوهُم بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ). سقوط القائد العملاق أفقد الجيش معنوياته فانهار أمام جيش طالوت.",
+    "question_fr": "Quelle fut la réaction des Fils d'Israël lorsqu'ils virent Dawud tuer Jalout avec une pierre de fronde ?",
+    "options_fr": [
+      "Ils doutèrent de la victoire, la considérant comme un coup de chance et non un miracle",
+      "Ils vainquirent l'armée de Jalout par la permission d'Allah et remportèrent la victoire après la mort de leur chef",
+      "Ils fuirent le champ de bataille par peur, malgré la mort de Jalout",
+      "Ils se disputèrent sur la nomination de Dawud comme roi et en voulaient un autre"
+    ],
+    "explanation_fr": "Allah dit : « Ils les mirent en déroute par la permission d'Allah, et Dawud tua Jalout. » La chute du chef géant démoralisa l'armée, qui s'effondra face à l'armée de Talout."
+  },
+  {
+    "id": "dawud_37",
+    "question_ar": "ما الآية الكريمة في سورة الأنبياء التي تشير إلى تسخير الله الجبال والطير لداود؟",
+    "options_ar": [
+      "وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ",
+      "وَجَعَلْنَا الْجِبَالَ تَرْكَعُ مَعَ دَاوُودَ وَتَسْجُدُ",
+      "وَأَلَنَّا لَهُ الطَّيْرَ وَالْجِبَالَ فَأَطَاعَتْهُ كَالْعَبِيدِ",
+      "وَأَمَرْنَا الطَّيْرَ أَن تَسِيرَ مَعَ دَاوُودَ حَيْثُمَا تَوَجَّهَ"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى في سورة الأنبياء: (وَسَخَّرْنَا مَعَ دَاوُودَ الْجِبَالَ يُسَبِّحْنَ وَالطَّيْرَ ۚ وَكُنَّا فَاعِلِينَ). الختام (وَكُنَّا فَاعِلِينَ) يؤكد أن ذلك بقدرة الله لا بسحر.",
+    "question_fr": "Quel est le verset de la sourate al-Anbiya' évoquant l'assujettissement par Allah des montagnes et des oiseaux à Dawud ?",
+    "options_fr": [
+      "« Nous avons assujetti les montagnes pour glorifier avec Dawud, ainsi que les oiseaux ; et c'est Nous qui l'avons fait »",
+      "« Et Nous avons fait s'incliner et se prosterner les montagnes avec Dawud »",
+      "« Et Nous avons amolli pour lui les oiseaux et les montagnes, qui lui obéissaient comme des esclaves »",
+      "« Et Nous avons ordonné aux oiseaux de suivre Dawud partout où il se dirigeait »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate al-Anbiya' : « Nous avons assujetti les montagnes pour glorifier avec Dawud, ainsi que les oiseaux ; et c'est Nous qui l'avons fait. » La conclusion « et c'est Nous qui l'avons fait » confirme que cela relevait du pouvoir d'Allah, et non d'une magie."
+  },
+  {
+    "id": "dawud_38",
+    "question_ar": "ما الدرس الرئيسي في قصة داود وجالوت فيما يتعلق بموازين القوى الظاهرة والحقيقية؟",
+    "options_ar": [
+      "أن القوة الجسدية هي الفيصل دائماً في الحروب",
+      "أن الاستعداد المادي الجيد هو سبب النصر الوحيد",
+      "أن النصر بيد الله وحده وقد يأتي من حيث لا يتوقع الناس",
+      "أن الشجاعة الفردية كافية دون حاجة للجيش"
+    ],
+    "correct": 2,
+    "explanation_ar": "شاب صغير بمقلاع وحجر يقتل أضخم محارب في التاريخ — دلالة قاطعة على أن النصر من عند الله وليس بالقوة والعدد: (فَهَزَمُوهُم بِإِذْنِ اللَّهِ).",
+    "question_fr": "Quelle est la leçon principale de l'histoire de Dawud et Jalout concernant les rapports de force apparents et réels ?",
+    "options_fr": [
+      "Que la force physique est toujours ce qui départage dans les guerres",
+      "Qu'une bonne préparation matérielle est l'unique cause de la victoire",
+      "Que la victoire appartient à Allah seul et peut venir d'où les gens ne s'y attendent pas",
+      "Que le courage individuel suffit, sans besoin d'une armée"
+    ],
+    "explanation_fr": "Un jeune homme avec une fronde et une pierre tue le plus grand guerrier de l'histoire — une preuve décisive que la victoire vient d'Allah et non de la force ou du nombre : « Ils les mirent en déroute par la permission d'Allah. »"
+  },
+  {
+    "id": "dawud_39",
+    "question_ar": "ما المعنى الكامن في تسخير الجبال والطير للتسبيح مع داود فيما يتعلق بمكانته؟",
+    "options_ar": [
+      "أن داود كان قادراً على التحدث مع الحيوانات والجمادات",
+      "أن الكون بأسره يشارك في التسبيح وداود كان المحور الذي ينتظم حوله هذا التسبيح الكوني",
+      "أن الجبال والطير كانت تخشى داود وتطيعه خوفاً لا تسبيحاً",
+      "أن داود اكتشف نظاماً علمياً للتواصل مع الطبيعة"
+    ],
+    "correct": 1,
+    "explanation_ar": "التسخير الكوني لداود يعني أن الكون يُسبّح الله وداود كان نقطة التقاء هذا التسبيح. هذا تكريم فريد لم يُعطَ لنبي سواه بهذه الصورة.",
+    "question_fr": "Quel sens profond revêt l'assujettissement des montagnes et des oiseaux pour glorifier avec Dawud, quant à sa position ?",
+    "options_fr": [
+      "Que Dawud était capable de parler avec les animaux et les objets inanimés",
+      "Que l'univers tout entier participe à la glorification, et que Dawud était le point autour duquel s'organisait cette glorification cosmique",
+      "Que les montagnes et les oiseaux craignaient Dawud et lui obéissaient par peur, non par glorification",
+      "Que Dawud avait découvert un système scientifique de communication avec la nature"
+    ],
+    "explanation_fr": "L'assujettissement cosmique à Dawud signifie que l'univers glorifie Allah, et que Dawud fut le point de convergence de cette glorification. C'est un honneur unique qui ne fut accordé sous cette forme à aucun autre prophète."
+  },
+  {
+    "id": "dawud_40",
+    "question_ar": "ما الصفة التي جمعت أربعة محاور في شخصية داود: (ملك + نبي + عابد + صانع)؟",
+    "options_ar": [
+      "الشجاعة الفائقة التي لا تُقهر في الميدان",
+      "الاتزان الشامل: قوة الجسد وعمق الروح وعدل الحكم وكرامة الكسب",
+      "الزهد التام في الدنيا والتفرغ للعبادة فقط",
+      "الحكمة السياسية في التعامل مع الأعداء والحلفاء"
+    ],
+    "correct": 1,
+    "explanation_ar": "داود نموذج الإنسان المتكامل: ملك يحكم بعدل، ونبي يتلقى الوحي، وعابد يسبّح بكره وأصيلاً، وصانع يأكل من عمل يده. الاتزان الشامل هو سر عظمته.",
+    "question_fr": "Quelle qualité a réuni quatre dimensions dans la personnalité de Dawud (roi + prophète + adorateur + artisan) ?",
+    "options_fr": [
+      "Un courage exceptionnel et invincible sur le champ de bataille",
+      "Un équilibre global : la force du corps, la profondeur de l'âme, la justice du jugement et la dignité du gain personnel",
+      "Un ascétisme total à l'égard de ce bas monde, consacré uniquement à l'adoration",
+      "La sagesse politique dans les relations avec les ennemis et les alliés"
+    ],
+    "explanation_fr": "Dawud est le modèle de l'homme complet : un roi qui gouverne avec justice, un prophète qui reçoit la révélation, un adorateur qui glorifie Allah matin et soir, et un artisan qui mange du travail de ses mains. Cet équilibre global est le secret de sa grandeur."
+  },
+  {
+    "id": "dawud_41",
+    "question_ar": "ما المقصود بـ(السابغات) التي أمر الله داود بصنعها في قوله (أَنِ اعْمَلْ سَابِغَاتٍ)؟",
+    "options_ar": [
+      "ثياب فاخرة واسعة للملوك والأمراء",
+      "دروع كاملة تغطي الجسم بالكامل",
+      "خيام واسعة للجيش في ميادين القتال",
+      "سيوف طويلة مصنوعة من الحديد الخالص"
+    ],
+    "correct": 1,
+    "explanation_ar": "(السابغات) هي الدروع التامة السابغة التي تغطي الجسم بالكامل، وقد أُمر داود بإتقان صنعها وإحكام حلقاتها لتحمي المقاتلين في الحروب.",
+    "question_fr": "Que désignent les « cottes complètes » qu'Allah a ordonné à Dawud de fabriquer, dans « fabrique des cottes de mailles complètes » ?",
+    "options_fr": [
+      "Des vêtements luxueux et amples pour les rois et les princes",
+      "Des armures complètes couvrant tout le corps",
+      "De grandes tentes pour l'armée sur les champs de bataille",
+      "De longues épées faites de fer pur"
+    ],
+    "explanation_fr": "Les « cottes complètes » sont des armures entières et amples couvrant tout le corps ; Dawud fut chargé d'en perfectionner la fabrication et d'ajuster précisément les mailles pour protéger les combattants dans les guerres."
+  },
+  {
+    "id": "dawud_42",
+    "question_ar": "ما وجه الشبه بين داود عليه السلام وإبراهيم عليه السلام من حيث الإرث النبوي في الذرية؟",
+    "options_ar": [
+      "كلاهما بُعث إلى الأمم جميعاً لا لبني إسرائيل وحدهم",
+      "كلاهما جمع الملك والنبوة في آنٍ واحد وورّثهما لأبنائهما",
+      "كلاهما قاتل ملوكاً ظالمين وانتصر عليهم بمعجزة",
+      "كلاهما بنى مسجداً مقدساً يُعدّ قبلةً للمؤمنين"
+    ],
+    "correct": 1,
+    "explanation_ar": "كما جمع إبراهيم النبوة في ذريته وورّثها لإسحاق ويعقوب، جمع داود الملك والنبوة وورّثهما لسليمان. كلاهما أصل لخط نبوي ممتد.",
+    "question_fr": "Quelle ressemblance existe-t-il entre Dawud et Ibrahim, concernant l'héritage prophétique transmis à leur descendance ?",
+    "options_fr": [
+      "Les deux furent envoyés à toutes les nations, et non aux seuls Fils d'Israël",
+      "Les deux réunirent à la fois le royaume et la prophétie, et les transmirent à leurs fils",
+      "Les deux combattirent des rois injustes et triomphèrent d'eux par un miracle",
+      "Les deux construisirent une mosquée sacrée, devenue qibla pour les croyants"
+    ],
+    "explanation_fr": "Tout comme Ibrahim réunit la prophétie dans sa descendance et la transmit à Ishaq et Ya'qub, Dawud réunit le royaume et la prophétie et les transmit à Souleyman. Tous deux sont à l'origine d'une lignée prophétique étendue."
+  },
+  {
+    "id": "dawud_43",
+    "question_ar": "ما الآية في سورة سبأ التي تذكر نعمة تليين الحديد لداود مع الأمر بإحكام الصنعة؟",
+    "options_ar": [
+      "وَأَلَنَّا لَهُ الْحَدِيدَ * أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ",
+      "وَجَعَلْنَا الْحَدِيدَ طَيِّعاً فِي يَدَيْهِ كَالطِّينِ الرَّخِيِّ",
+      "وَسَلَّطْنَا دَاوُودَ عَلَى الْحَدِيدِ فَأَلَانَهُ بِقُوَّةِ إِيمَانِهِ",
+      "وَعَلَّمْنَاهُ فَنَّ الحَدِيدِ لِيَنْتَفِعَ بِهِ المُؤْمِنُونَ"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى في سورة سبأ: (وَأَلَنَّا لَهُ الْحَدِيدَ * أَنِ اعْمَلْ سَابِغَاتٍ وَقَدِّرْ فِي السَّرْدِ وَاعْمَلُوا صَالِحًا) ثم ختمها بالأمر بالعمل الصالح شكراً للنعمة.",
+    "question_fr": "Quel verset de la sourate Saba' mentionne le bienfait de l'amollissement du fer pour Dawud, avec l'ordre de perfectionner l'ouvrage ?",
+    "options_fr": [
+      "« Et Nous avons amolli pour lui le fer : fabrique des cottes de mailles complètes et mesure bien les mailles »",
+      "« Et Nous avons rendu le fer docile dans ses mains, comme une argile molle »",
+      "« Et Nous avons donné à Dawud pouvoir sur le fer, qu'il amollit par la force de sa foi »",
+      "« Et Nous lui avons enseigné l'art du fer pour que les croyants en profitent »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate Saba' : « Et Nous avons amolli pour lui le fer : fabrique des cottes de mailles complètes et mesure bien les mailles, et œuvrez bien » — concluant par l'ordre d'accomplir de bonnes œuvres en gratitude pour ce bienfait."
+  },
+  {
+    "id": "dawud_44",
+    "question_ar": "ما الدرس المستفاد من كون داود يأكل من عمل يده رغم كونه ملكاً يملك خزائن الدولة؟",
+    "options_ar": [
+      "أن الملوك لا يجوز لهم الأخذ من بيت المال في الإسلام",
+      "أن الكرامة والاستقلال الذاتي فضيلة حتى للملوك، ولا تتعارض مع الملك",
+      "أن الصناعة اليدوية أشرف المهن وأحلاها دون سواها",
+      "أن داود كان يتصدق بكل ما في الخزينة لذا احتاج أن يعمل"
+    ],
+    "correct": 1,
+    "explanation_ar": "كونه ملكاً ونبياً يأكل من عمل يده دليل على أن الكرامة والاعتماد على النفس فضيلة مستقلة لا تتعارض مع السلطة — قدوة للحكام والعلماء عبر الأجيال.",
+    "question_fr": "Quelle leçon tirer du fait que Dawud mangeait du fruit de son travail malgré son statut de roi disposant des trésors de l'État ?",
+    "options_fr": [
+      "Que les rois n'ont pas le droit de prélever sur le trésor public en islam",
+      "Que la dignité et l'autonomie personnelle sont une vertu même pour les rois, et ne contredisent pas le pouvoir",
+      "Que le travail manuel est le métier le plus noble et le plus doux, à l'exclusion de tous les autres",
+      "Que Dawud faisait l'aumône de tout ce qui se trouvait dans le trésor, d'où sa nécessité de travailler"
+    ],
+    "explanation_fr": "Le fait qu'un roi et prophète mange du fruit de son travail prouve que la dignité et l'autonomie sont une vertu indépendante, qui ne contredit pas le pouvoir — un exemple pour les dirigeants et les savants à travers les générations."
+  },
+  {
+    "id": "dawud_45",
+    "question_ar": "ما الإرث الحضاري الذي تركه داود لسليمان فيما يخص القدس والمسجد الأقصى؟",
+    "options_ar": [
+      "بنى المسجد الأقصى بالكامل وسلّمه جاهزاً لسليمان",
+      "وضع أسس المسجد الأقصى وخطط له وأتمّ سليمان بناءه",
+      "أمر سليمان ببناء المسجد ولم يشارك في التخطيط",
+      "بنى قصراً ملكياً مكان المسجد وسليمان هو من هدمه وأعاد بناءه"
+    ],
+    "correct": 1,
+    "explanation_ar": "داود وضع أسس المسجد الأقصى وخطط لبنائه، لكن الله أوحى إليه ألا يبنيه لأنه سفك دماء كثيرة في الحروب، فأتمّ سليمان البناء من بعده.",
+    "question_fr": "Quel héritage civilisationnel Dawud a-t-il laissé à Souleyman concernant Jérusalem et la Mosquée al-Aqsa ?",
+    "options_fr": [
+      "Il construisit entièrement la Mosquée al-Aqsa et la remit achevée à Souleyman",
+      "Il posa les fondations de la Mosquée al-Aqsa et en fit les plans, et Souleyman en acheva la construction",
+      "Il ordonna à Souleyman de construire la mosquée sans participer lui-même à la planification",
+      "Il construisit un palais royal à la place de la mosquée, et c'est Souleyman qui le démolit pour la reconstruire"
+    ],
+    "explanation_fr": "Dawud posa les fondations de la Mosquée al-Aqsa et en planifia la construction, mais Allah lui révéla de ne pas la bâtir lui-même car il avait versé beaucoup de sang dans les guerres ; Souleyman acheva donc la construction après lui."
+  },
+  {
+    "id": "dawud_46",
+    "question_ar": "ما دلالة قول الله تعالى (إِنَّهُ أَوَّابٌ) في وصف داود على منهجه في التعامل مع الذنب؟",
+    "options_ar": [
+      "أنه كان لا يذنب أبداً لعصمته التامة من المعصية",
+      "أنه كان كثير الرجوع إلى الله بالتوبة والاستغفار والتسبيح",
+      "أنه كان يعود إلى قومه بعد كل غزوة بالسلامة",
+      "أنه كان يرجع للأنبياء السابقين ليستشيرهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(أَوَّابٌ) صيغة مبالغة من الأَوْب أي الرجوع — دائم الرجوع إلى الله بالتوبة والإنابة والتسبيح. وهذا ديدنه حتى في قمة الملك والسلطة.",
+    "question_fr": "Que signifie la parole d'Allah « il était toujours repentant » décrivant l'approche de Dawud face au péché ?",
+    "options_fr": [
+      "Qu'il ne péchait jamais, en raison d'une infaillibilité totale contre la désobéissance",
+      "Qu'il retournait abondamment vers Allah par le repentir, la demande de pardon et la glorification",
+      "Qu'il revenait sain et sauf vers son peuple après chaque expédition",
+      "Qu'il revenait consulter les prophètes précédents"
+    ],
+    "explanation_fr": "« Awwab » est une forme intensive dérivée de « al-awb » (le retour) — celui qui retourne constamment vers Allah par le repentir et la glorification. C'était son habitude même au sommet du royaume et du pouvoir."
+  },
+  {
+    "id": "dawud_47",
+    "question_ar": "ما الأمر الذي كان داود يتميز به في ميادين الحرب إضافة إلى إيمانه القوي؟",
+    "options_ar": [
+      "كان لا يُجرح أبداً لأن دروعه كانت مصنوعة بمعجزة",
+      "كان لا يفر إذا لقي العدو مهما كانت قوته",
+      "كان يقاتل وحده دون جيش ثقةً بالله",
+      "كان يسمع صوت الله يوجهه في كل معركة"
+    ],
+    "correct": 1,
+    "explanation_ar": "من أبرز صفات داود القتالية أنه لم يكن يفر من مواجهة العدو — ثبات نادر جمع بين شجاعة الميدان وشجاعة الوقوف بين يدي الله في المحراب.",
+    "question_fr": "Par quoi Dawud se distinguait-il sur les champs de bataille, en plus de sa foi solide ?",
+    "options_fr": [
+      "Il n'était jamais blessé, car ses armures étaient fabriquées par un miracle",
+      "Il ne fuyait jamais face à l'ennemi, quelle que soit sa force",
+      "Il combattait seul, sans armée, par confiance en Allah",
+      "Il entendait la voix d'Allah le guider dans chaque bataille"
+    ],
+    "explanation_fr": "L'une des qualités guerrières les plus marquantes de Dawud était de ne jamais fuir face à l'ennemi — une fermeté rare alliant le courage sur le champ de bataille au courage de se tenir devant Allah dans l'oratoire."
+  },
+  {
+    "id": "dawud_48",
+    "question_ar": "كيف تجلى اسم الله (اللطيف) في قصة داود من الرعي إلى الملك والنبوة؟",
+    "options_ar": [
+      "بأن الله أخبر داود مسبقاً بكل ما سيحدث له خطوةً خطوة",
+      "بأن الله دبّر له الوصول للعرش عبر أسباب تبدو بسيطة ظاهرها حجر ومقلاع",
+      "بأن الله أرسل ملائكة ترافقه وتحرسه في كل لحظة",
+      "بأن الله جعل كل الناس يحبونه فلم يحتج إلى قتال"
+    ],
+    "correct": 1,
+    "explanation_ar": "من راعي غنم بسيط إلى ملك عادل ونبي كريم — كل ذلك عبر حجر في مقلاع وإيمان صادق. هذا هو تجلّي (اللطيف): يصل بعبده إلى أعلى المراتب بأبسط الأسباب.",
+    "question_fr": "Comment le nom d'Allah « al-Latif » (le Subtil, le Bienveillant) se manifeste-t-il dans l'histoire de Dawud, du berger au roi-prophète ?",
+    "options_fr": [
+      "Allah informa Dawud à l'avance de tout ce qui lui arriverait, étape par étape",
+      "Allah lui prépara l'accès au trône à travers des moyens en apparence simples — une pierre et une fronde",
+      "Allah envoya des anges pour l'accompagner et le garder à chaque instant",
+      "Allah fit en sorte que tous l'aiment, si bien qu'il n'eut pas besoin de combattre"
+    ],
+    "explanation_fr": "D'un simple berger de moutons à un roi juste et un noble prophète — tout cela par une pierre dans une fronde et une foi sincère. C'est là la manifestation d'« al-Latif » : Il élève Son serviteur aux plus hauts rangs par les moyens les plus simples."
+  },
+  {
+    "id": "dawud_49",
+    "question_ar": "ما الحديث النبوي الذي يربط بين داود وعلي بن أبي طالب رضي الله عنه في باب الوراثة والمنزلة؟",
+    "options_ar": [
+      "لم يُذكر اسم داود في أي حديث يتعلق بعلي رضي الله عنه",
+      "قال ﷺ لعلي: أنت مني بمنزلة داود من قومه في العدل والشجاعة",
+      "قال ﷺ لعلي: أنت مني بمنزلة هارون من موسى إلا أنه لا نبي بعدي",
+      "قال ﷺ: كما ورث سليمان داود فأنت وارثي يا علي"
+    ],
+    "correct": 2,
+    "explanation_ar": "الحديث المشهور يشبّه علياً بهارون لا بداود، غير أن قصة وراثة سليمان لداود (الملك والنبوة في الذرية) كثيراً ما تُضرب مثلاً على الخلافة والتوارث.",
+    "question_fr": "Quel hadith prophétique relie Dawud à 'Ali ibn Abi Talib (qu'Allah l'agrée) en matière d'héritage et de rang ?",
+    "options_fr": [
+      "Le nom de Dawud n'apparaît dans aucun hadith relatif à 'Ali (qu'Allah l'agrée)",
+      "Le Prophète ﷺ dit à 'Ali : « Tu es pour moi comme Dawud pour son peuple, en justice et en courage »",
+      "Le Prophète ﷺ dit à 'Ali : « Tu es pour moi comme Haroun pour Moussa, si ce n'est qu'il n'y a pas de prophète après moi »",
+      "Le Prophète ﷺ dit : « Tout comme Souleyman hérita de Dawud, tu es mon héritier, ô 'Ali »"
+    ],
+    "explanation_fr": "Le hadith célèbre compare 'Ali à Haroun, et non à Dawud ; cependant, l'histoire de la succession de Souleyman à Dawud (le royaume et la prophétie transmis à la descendance) est souvent citée en exemple de succession et d'héritage."
+  },
+  {
+    "id": "dawud_50",
+    "question_ar": "ما الخلاصة الجامعة لشخصية داود عليه السلام التي تجعله نموذجاً فريداً للحاكم المؤمن؟",
+    "options_ar": [
+      "أنه ملك قاهر انتصر على أعدائه بالقوة والحديد وأخضع الجميع لسلطانه",
+      "أنه ملك خاشع لله يعمل بيده ويأكل من كسبه ويبكي في محرابه وتسبّح معه الجبال والطير",
+      "أنه تنازل عن الملك في نهاية عمره وعاش في الزهد والعزلة التامة",
+      "أنه جمع كل الشرائع السابقة وأضاف إليها شريعة جديدة شاملة"
+    ],
+    "correct": 1,
+    "explanation_ar": "داود نموذج الحاكم العابد الذي لم يُنسِه الملكُ عبوديةَ الله. يعمل بيده، يأكل من كسبه، يبكي في محرابه، تسبح معه الجبال والطير. هذا هو الجمع النادر الذي ميّزه في التاريخ.",
+    "question_fr": "Quelle synthèse résume le mieux la personnalité de Dawud, faisant de lui un modèle unique de dirigeant croyant ?",
+    "options_fr": [
+      "Un roi conquérant qui vainquit ses ennemis par la force et le fer, et soumit tous à son autorité",
+      "Un roi humble devant Allah, qui travaillait de ses mains, mangeait de son gain, pleurait dans son oratoire, et avec qui glorifiaient les montagnes et les oiseaux",
+      "Il renonça au royaume à la fin de sa vie et vécut dans un ascétisme et un isolement total",
+      "Il réunit toutes les lois précédentes et y ajouta une nouvelle loi globale"
+    ],
+    "explanation_fr": "Dawud est le modèle du dirigeant adorateur que le pouvoir n'a jamais détourné de l'adoration d'Allah. Il travaillait de ses mains, mangeait de son gain, pleurait dans son oratoire, et les montagnes et les oiseaux glorifiaient avec lui — cette combinaison rare fait de lui une figure singulière dans l'histoire."
+  }
+]

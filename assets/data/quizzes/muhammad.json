@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "muhammad_01",
+    "question_ar": "في أي عام وُلد النبي محمد ﷺ وما الحدث الذي سُمّي به ذلك العام؟",
+    "options_ar": [
+      "عام النور 569م حين ظهر نور في سماء مكة",
+      "عام الفيل 571م حين جاء أبرهة بجيشه لهدم الكعبة",
+      "عام الفتح 570م حين فُتح طريق التجارة من مكة",
+      "عام الحجر 572م حين وُضع الحجر الأسود"
+    ],
+    "correct": 1,
+    "explanation_ar": "وُلد النبي ﷺ عام الفيل 571م، وهو العام الذي قدم فيه أبرهة الحبشي بجيشه وفيله لهدم الكعبة فأهلكه الله بالطير الأبابيل، كما أشار القرآن في سورة الفيل.",
+    "question_fr": "En quelle année le prophète Muhammad ﷺ est-il né, et quel événement a donné son nom à cette année ?",
+    "options_fr": [
+      "L'Année de la Lumière (569 apr. J.-C.), lorsqu'une lumière apparut dans le ciel de La Mecque",
+      "L'Année de l'Éléphant (571 apr. J.-C.), lorsque Abraha vint avec son armée pour détruire la Kaaba",
+      "L'Année de la Conquête (570 apr. J.-C.), lorsque la route commerciale de La Mecque fut ouverte",
+      "L'Année de la Pierre (572 apr. J.-C.), lorsque la Pierre Noire fut posée"
+    ],
+    "explanation_fr": "Le Prophète ﷺ naquit l'Année de l'Éléphant (571 apr. J.-C.), l'année où Abraha l'Éthiopien vint avec son armée et son éléphant pour détruire la Kaaba ; Allah le détruisit par des oiseaux en volées, comme le mentionne le Coran dans la sourate al-Fil."
+  },
+  {
+    "id": "muhammad_02",
+    "question_ar": "ما اسم أبي النبي ﷺ وما ظرف وفاته؟",
+    "options_ar": [
+      "عبد العزى بن عبد المطلب توفي في غزوة قبل الإسلام",
+      "عبد الله بن عبد المطلب توفي قبل ولادة النبي ﷺ",
+      "عبد مناف بن قصي توفي حين كان النبي ﷺ في الرضاعة",
+      "الحارث بن عبد المطلب توفي حين كان النبي ﷺ في السادسة"
+    ],
+    "correct": 1,
+    "explanation_ar": "أبو النبي ﷺ هو عبد الله بن عبد المطلب، وقد توفي قبل ولادة ابنه محمد ﷺ. فوُلد النبي يتيماً من أبيه، وهي حكمة إلهية أشار إليها القرآن: (أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ).",
+    "question_fr": "Quel était le nom du père du Prophète ﷺ, et dans quelles circonstances est-il mort ?",
+    "options_fr": [
+      "'Abd al-'Uzza fils de 'Abd al-Muttalib, mort lors d'une expédition avant l'islam",
+      "'Abd Allah fils de 'Abd al-Muttalib, mort avant la naissance du Prophète ﷺ",
+      "'Abd Manaf fils de Qusay, mort alors que le Prophète ﷺ était encore nourrisson",
+      "Al-Harith fils de 'Abd al-Muttalib, mort alors que le Prophète ﷺ avait six ans"
+    ],
+    "explanation_fr": "Le père du Prophète ﷺ est 'Abd Allah fils de 'Abd al-Muttalib ; il mourut avant la naissance de son fils Muhammad ﷺ. Le Prophète naquit donc orphelin de père, une sagesse divine évoquée par le Coran : « Ne t'a-t-Il pas trouvé orphelin et t'a-t-Il pas accueilli ? »"
+  },
+  {
+    "id": "muhammad_03",
+    "question_ar": "من المرأة التي أرضعت النبي ﷺ وفي أي بيئة تربى؟",
+    "options_ar": [
+      "ثويبة مولاة أبي لهب في أحياء مكة الحضرية",
+      "حليمة السعدية في بادية بني سعد حيث نشأ فصيحاً قوياً",
+      "أم أيمن في قرية قريبة من مكة",
+      "زوجة ورقة بن نوفل في ضواحي الطائف"
+    ],
+    "correct": 1,
+    "explanation_ar": "أرضعته حليمة السعدية من بني سعد، وقد نشأ في البادية بعيداً عن أوبئة المدن، فاكتسب الفصاحة الكاملة وقوة الجسد وطلاقة اللسان — عادة العرب في إرسال أبنائهم للبادية.",
+    "question_fr": "Quelle femme a allaité le Prophète ﷺ, et dans quel environnement a-t-il grandi ?",
+    "options_fr": [
+      "Thouwayba, affranchie d'Abou Lahab, dans les quartiers urbains de La Mecque",
+      "Halima as-Sa'diyya, dans le désert de Bani Sa'd, où il grandit éloquent et robuste",
+      "Oum Ayman, dans un village proche de La Mecque",
+      "L'épouse de Waraqa ibn Nawfal, dans les environs de Ta'if"
+    ],
+    "explanation_fr": "Il fut allaité par Halima as-Sa'diyya, de la tribu de Bani Sa'd ; il grandit dans le désert, loin des épidémies urbaines, acquérant ainsi une pleine éloquence, une force physique et une aisance de langage — selon la coutume arabe d'envoyer leurs enfants au désert."
+  },
+  {
+    "id": "muhammad_04",
+    "question_ar": "ما الوصف الذي اشتُهر به النبي ﷺ في مجتمع مكة قبل بعثته؟",
+    "options_ar": [
+      "الكريم الشجاع لشجاعته في الدفاع عن الضعفاء",
+      "الصادق الأمين لأنه لم يكذب ولم يخن أحداً في حياته",
+      "العابد الزاهد لكثرة خلوته وابتعاده عن الناس",
+      "الحكيم البصير لاستشارته في فصل النزاعات القبلية"
+    ],
+    "correct": 1,
+    "explanation_ar": "قبل البعثة بسنوات طويلة، كان أهل مكة يلقّبونه بالصادق الأمين — لم يكذب قط ولم يشرب خمراً ولم يسجد لصنم. هذه السمعة الطاهرة هي ما استند إليه حين دعاهم للإسلام.",
+    "question_fr": "Par quelle réputation le Prophète ﷺ était-il connu dans la société mecquoise avant sa mission prophétique ?",
+    "options_fr": [
+      "Le noble et courageux, pour son courage à défendre les faibles",
+      "Le véridique et digne de confiance (as-Sadiq al-Amin), car il n'avait jamais menti ni trahi personne de toute sa vie",
+      "L'adorateur ascétique, pour ses fréquentes retraites loin des gens",
+      "Le sage clairvoyant, consulté pour trancher les conflits tribaux"
+    ],
+    "explanation_fr": "Bien des années avant sa mission, les habitants de La Mecque le surnommaient « le véridique, le digne de confiance » — il n'avait jamais menti, ni bu d'alcool, ni prosterné devant une idole. Cette réputation immaculée fut son point d'appui lorsqu'il les appela à l'islam."
+  },
+  {
+    "id": "muhammad_05",
+    "question_ar": "في أي سنة من عمره وأي مكان نزل عليه الوحي الأول؟",
+    "options_ar": [
+      "في الأربعين من عمره في غار حراء على جبل النور في رمضان",
+      "في الخامسة والثلاثين من عمره في المسجد الحرام أثناء الطواف",
+      "في الثامنة والثلاثين من عمره في بيت خديجة رضي الله عنها",
+      "في الثالثة والأربعين من عمره على جبل أبي قبيس"
+    ],
+    "correct": 0,
+    "explanation_ar": "نزل الوحي الأول في غار حراء على جبل النور في مكة، في شهر رمضان المبارك، حين كان النبي ﷺ في الأربعين من عمره — السن التي عدّها العرب اكتمال النضج والحكمة.",
+    "question_fr": "À quel âge et en quel lieu la première révélation est-elle descendue sur lui ?",
+    "options_fr": [
+      "À quarante ans, dans la grotte de Hira, sur le mont an-Nour, pendant le Ramadan",
+      "À trente-cinq ans, dans la Mosquée sacrée, pendant le tawaf",
+      "À trente-huit ans, dans la maison de Khadija (qu'Allah l'agrée)",
+      "À quarante-trois ans, sur le mont Abu Qoubays"
+    ],
+    "explanation_fr": "La première révélation descendit dans la grotte de Hira, sur le mont an-Nour à La Mecque, pendant le mois béni de Ramadan, alors que le Prophète ﷺ avait quarante ans — l'âge que les Arabes considéraient comme celui de la pleine maturité et de la sagesse."
+  },
+  {
+    "id": "muhammad_06",
+    "question_ar": "ما أول ما نزل من القرآن الكريم على النبي ﷺ في الوحي الأول؟",
+    "options_ar": [
+      "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ * الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "يَا أَيُّهَا الْمُدَّثِّرُ * قُمْ فَأَنذِرْ * وَرَبَّكَ فَكَبِّرْ",
+      "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ * خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+      "قُلْ هُوَ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَدُ"
+    ],
+    "correct": 2,
+    "explanation_ar": "أول ما نزل قوله تعالى: (اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ) من سورة العلق. ابتداء الرسالة بكلمة (اقرأ) دلالة عميقة على أن هذه رسالة العلم والنور.",
+    "question_fr": "Quel fut le premier passage du Coran révélé au Prophète ﷺ lors de la première révélation ?",
+    "options_fr": [
+      "« Au nom d'Allah, le Tout Miséricordieux, le Très Miséricordieux ; Louange à Allah, Seigneur des mondes »",
+      "« Ô toi, l'enveloppé ! Lève-toi et avertis ! Et de ton Seigneur, célèbre la grandeur »",
+      "« Lis, au nom de ton Seigneur qui a créé, qui a créé l'homme d'une adhérence »",
+      "« Dis : Il est Allah, Unique ; Allah, le Seul à être imploré pour ce que nous désirons »"
+    ],
+    "explanation_fr": "Le premier verset révélé fut : « Lis, au nom de ton Seigneur qui a créé », tiré de la sourate al-'Alaq. Que le message débute par le mot « lis » est hautement significatif : c'est un message de savoir et de lumière."
+  },
+  {
+    "id": "muhammad_07",
+    "question_ar": "من زوجة النبي ﷺ التي طمأنته بعد نزول الوحي الأول وما كلماتها الشهيرة؟",
+    "options_ar": [
+      "عائشة رضي الله عنها قالت له: إن الله معك يا رسوله",
+      "خديجة بنت خويلد قالت: والله لا يخزيك الله أبداً إنك لتصل الرحم وتحمل الكلّ",
+      "سودة بنت زمعة قالت: اصبر فإن الله لا يضيع المحسنين",
+      "أم سلمة رضي الله عنها قالت: ستُبلّغ الرسالة إلى العالمين"
+    ],
+    "correct": 1,
+    "explanation_ar": "خديجة رضي الله عنها قالت تلك الكلمات الخالدة التي تعدّد فيها صفاته الإنسانية الكريمة: صلة الرحم، وحمل الكلّ، وكسب المعدوم، وقِرى الضيف، والإعانة على نوائب الحق.",
+    "question_fr": "Quelle épouse du Prophète ﷺ l'a rassuré après la première révélation, et quelles furent ses paroles célèbres ?",
+    "options_fr": [
+      "'Aïcha (qu'Allah l'agrée) lui dit : « Allah est avec toi, ô Son messager »",
+      "Khadija bint Khouwaylid dit : « Par Allah, Allah ne te déshonorera jamais ; tu maintiens les liens de parenté, tu portes le fardeau d'autrui »",
+      "Sawda bint Zam'a dit : « Sois patient, car Allah ne laisse pas perdre les bienfaisants »",
+      "Oum Salama (qu'Allah l'agrée) dit : « Tu transmettras le message au monde entier »"
+    ],
+    "explanation_fr": "Khadija (qu'Allah l'agrée) prononça ces paroles éternelles, énumérant ses nobles qualités humaines : le maintien des liens de parenté, le soutien des faibles, l'aide aux démunis, l'hospitalité envers l'hôte, et le soutien dans les épreuves de la vérité."
+  },
+  {
+    "id": "muhammad_08",
+    "question_ar": "من ورقة بن نوفل وما دوره في بداية الرسالة؟",
+    "options_ar": [
+      "صحابي جليل كان أول من آمن بالنبي ﷺ من الرجال",
+      "عالم مسيحي ابن عم خديجة أكد أن ما جاء النبي ﷺ هو الوحي ذاته الذي أُنزل على موسى",
+      "كاهن عربي أخبر النبي ﷺ بنبوته قبل البعثة بسنوات",
+      "حكيم من حكماء قريش أشهد على صحة الوحي أمام الكبار"
+    ],
+    "correct": 1,
+    "explanation_ar": "ورقة بن نوفل ابن عم خديجة كان عالماً مسيحياً يقرأ العبرية والإنجيل. قال حين سمع ما حدث: هذا هو الناموس (جبريل) الذي أُنزل على موسى. وتمنى أن يدرك يوم الدعوة الجهرية.",
+    "question_fr": "Qui était Waraqa ibn Nawfal, et quel rôle joua-t-il au début de la mission prophétique ?",
+    "options_fr": [
+      "Un noble Compagnon, premier homme à croire au Prophète ﷺ",
+      "Un érudit chrétien, cousin de Khadija, qui confirma que ce qui était venu au Prophète ﷺ était la même révélation reçue par Moussa",
+      "Un devin arabe qui avait annoncé sa prophétie des années avant la mission",
+      "Un sage de Quraych qui témoigna de la véracité de la révélation devant les notables"
+    ],
+    "explanation_fr": "Waraqa ibn Nawfal, cousin de Khadija, était un érudit chrétien lisant l'hébreu et l'Évangile. En entendant ce qui s'était passé, il dit : « Voici le même Namous (Jibril) qui descendit sur Moussa. » Il souhaita vivre assez longtemps pour voir le jour de la prédication publique."
+  },
+  {
+    "id": "muhammad_09",
+    "question_ar": "كم سنة استمرت الدعوة السرية وأسماء من آمنوا في هذه المرحلة؟",
+    "options_ar": [
+      "سنة واحدة وآمن فيها خديجة وعلي وأبو بكر",
+      "ثلاث سنوات وآمن فيها أبو بكر وعلي وخديجة وزيد بن حارثة",
+      "خمس سنوات وآمن فيها عمر بن الخطاب وعثمان وطلحة",
+      "سبع سنوات وآمن فيها عدد كبير من سادة قريش"
+    ],
+    "correct": 1,
+    "explanation_ar": "استمرت الدعوة السرية ثلاث سنوات، وكان من أوائل المؤمنين: خديجة زوجه (أول المؤمنين)، وعلي بن أبي طالب (أول الصبيان)، وأبو بكر (أول الرجال)، وزيد بن حارثة.",
+    "question_fr": "Combien d'années a duré la prédication secrète, et qui furent les premiers à croire durant cette phase ?",
+    "options_fr": [
+      "Une année, durant laquelle crurent Khadija, 'Ali et Abou Bakr",
+      "Trois ans, durant lesquels crurent Abou Bakr, 'Ali, Khadija et Zayd ibn Haritha",
+      "Cinq ans, durant lesquels crurent 'Omar ibn al-Khattab, 'Othman et Talha",
+      "Sept ans, durant lesquels crurent un grand nombre de notables de Quraych"
+    ],
+    "explanation_fr": "La prédication secrète dura trois ans ; parmi les premiers croyants figuraient Khadija, son épouse (première croyante), 'Ali ibn Abi Talib (premier parmi les enfants), Abou Bakr (premier parmi les hommes) et Zayd ibn Haritha."
+  },
+  {
+    "id": "muhammad_10",
+    "question_ar": "كيف أعلن النبي ﷺ دعوته جهراً أمام قريش وما ردة فعلهم الأولى؟",
+    "options_ar": [
+      "أعلنها في المسجد الحرام فآمن منهم خمسون رجلاً في اليوم الأول",
+      "صعد جبل الصفا ونادى قبائل قريش مستخدماً صدقه الموثّق لديهم فكذّبه أبو لهب",
+      "أرسل رسائل لزعماء قريش فاجتمعوا وردّوا عليه بالرفض الجماعي",
+      "أعلنها في سوق عكاظ وأنشد قصيدة عن التوحيد فاستمع له الناس"
+    ],
+    "correct": 1,
+    "explanation_ar": "صعد الصفا ونادى القبائل واحدة واحدة، ثم سألهم: لو أخبرتكم بخيل تريد أن تُغير عليكم أكنتم مصدقيّ؟ قالوا: نعم. فقال: إني نذير لكم بين يدي عذاب شديد. فقال أبو لهب: تبًّا لك.",
+    "question_fr": "Comment le Prophète ﷺ a-t-il annoncé publiquement sa mission devant Quraych, et quelle fut leur première réaction ?",
+    "options_fr": [
+      "Il l'annonça dans la Mosquée sacrée, et cinquante hommes y crurent dès le premier jour",
+      "Il monta la colline de Safa et appela les tribus de Quraych, s'appuyant sur sa réputation de véracité bien établie ; Abou Lahab le traita alors de menteur",
+      "Il envoya des lettres aux chefs de Quraych, qui se réunirent et répondirent par un rejet collectif",
+      "Il l'annonça au marché de 'Ukaz en récitant un poème sur l'unicité divine, et les gens l'écoutèrent"
+    ],
+    "explanation_fr": "Il monta la colline de Safa et appela les tribus une à une, puis leur demanda : « Si je vous disais qu'une cavalerie s'apprête à vous attaquer, me croiriez-vous ? » Ils répondirent : « Oui. » Il dit alors : « Je suis pour vous un avertisseur avant un châtiment sévère. » Abou Lahab répondit : « Malheur à toi ! »"
+  },
+  {
+    "id": "muhammad_11",
+    "question_ar": "ما الذي جرى لبلال بن رباح وآل ياسر جراء إيمانهم في مكة؟",
+    "options_ar": [
+      "نُفوا من مكة وأُجبروا على الهجرة إلى الحبشة فوراً",
+      "عُذّبوا تعذيباً شديداً: بلال أُضجع على الرمال الحارة وآل ياسر قُتل منهم سمية وياسر",
+      "حُوصروا في منازلهم وقُطعت عنهم التجارة والطعام",
+      "أُخذت أموالهم وسُيّروا خارج مكة دون أذى جسدي"
+    ],
+    "correct": 1,
+    "explanation_ar": "عُذّب بلال على الرمال المحرقة وكان يردد (أحد أحد). وكان آل ياسر يُعذّبون أمام النبي ﷺ فيقول لهم: (صبراً آل ياسر فإن موعدكم الجنة). واستُشهدت سمية أم عمار أول شهيدة في الإسلام.",
+    "question_fr": "Qu'est-il arrivé à Bilal ibn Rabah et à la famille de Yasir à cause de leur foi à La Mecque ?",
+    "options_fr": [
+      "Ils furent exilés de La Mecque et contraints d'émigrer immédiatement vers l'Abyssinie",
+      "Ils furent sévèrement torturés : Bilal fut couché sur le sable brûlant, et de la famille de Yasir, Soumayya et Yasir furent tués",
+      "Ils furent assiégés dans leurs maisons, privés de commerce et de nourriture",
+      "Leurs biens furent confisqués et ils furent expulsés de La Mecque sans violence physique"
+    ],
+    "explanation_fr": "Bilal fut torturé sur le sable brûlant tout en répétant « Ahad, Ahad » (Unique, Unique). La famille de Yasir était torturée devant le Prophète ﷺ, qui leur disait : « Patience, famille de Yasir, votre rendez-vous est le Paradis. » Soumayya, mère de 'Ammar, devint la première martyre de l'islam."
+  },
+  {
+    "id": "muhammad_12",
+    "question_ar": "ما حصار شعب أبي طالب وكم استمر؟",
+    "options_ar": [
+      "حصار لمدة سنة فرضه الكفار على المسلمين في غار حراء",
+      "حصار اقتصادي واجتماعي لثلاث سنوات فُرض على بني هاشم وبني المطلب في شعب أبي طالب",
+      "حصار عسكري لمدة شهرين لمنع المسلمين من الهجرة للحبشة",
+      "حصار تجاري فُرض على أبي طالب لحمايته النبي ﷺ لمدة سنتين"
+    ],
+    "correct": 1,
+    "explanation_ar": "فرضت قريش مقاطعة شاملة على بني هاشم وبني المطلب: لا تجارة ولا مصاهرة ولا مخالطة. استمر الحصار ثلاث سنوات في شعب أبي طالب حتى أكلوا أوراق الشجر جوعاً.",
+    "question_fr": "Qu'était le siège du quartier d'Abou Talib, et combien de temps a-t-il duré ?",
+    "options_fr": [
+      "Un siège d'une année imposé par les mécréants aux musulmans dans la grotte de Hira",
+      "Un blocus économique et social de trois ans imposé aux Bani Hachim et Bani al-Muttalib dans le quartier d'Abou Talib",
+      "Un siège militaire de deux mois pour empêcher les musulmans d'émigrer en Abyssinie",
+      "Un blocus commercial imposé à Abou Talib pour avoir protégé le Prophète ﷺ, pendant deux ans"
+    ],
+    "explanation_fr": "Quraych imposa un boycott total aux Bani Hachim et Bani al-Muttalib : aucun commerce, aucun mariage, aucun contact. Le siège dura trois ans dans le quartier d'Abou Talib, jusqu'à ce qu'ils en soient réduits à manger des feuilles d'arbres par famine."
+  },
+  {
+    "id": "muhammad_13",
+    "question_ar": "بماذا سُمّي العام الذي توفيت فيه خديجة وأبو طالب ولماذا؟",
+    "options_ar": [
+      "عام الفقدان لأن النبي ﷺ فقد أقرب الناس إليه",
+      "عام الحزن لأن فقد الزوجة الوفية والحامي القريب أثقل قلب النبي ﷺ",
+      "عام الابتلاء لأنه اقترن بأذى أهل الطائف له",
+      "عام الغربة لأن النبي ﷺ وجد نفسه بلا ناصر أو معين"
+    ],
+    "correct": 1,
+    "explanation_ar": "سُمّي بعام الحزن لأن النبي ﷺ فقد في وقت متقارب خديجة أم المؤمنين التي كانت عونه وسنده، وعمه أبو طالب الذي كان يحميه بجاهه وقبيلته رغم عدم إيمانه.",
+    "question_fr": "Comment a-t-on nommé l'année où moururent Khadija et Abou Talib, et pourquoi ?",
+    "options_fr": [
+      "L'Année de la Perte, car le Prophète ﷺ perdit ses proches les plus chers",
+      "L'Année de la Tristesse (Am al-Huzn), car la perte de son épouse fidèle et de son protecteur proche alourdit le cœur du Prophète ﷺ",
+      "L'Année de l'Épreuve, car elle coïncida avec les persécutions subies à Ta'if",
+      "L'Année de l'Exil, car le Prophète ﷺ se retrouva sans soutien ni protecteur"
+    ],
+    "explanation_fr": "Elle fut nommée « l'Année de la Tristesse » car le Prophète ﷺ perdit à une période rapprochée Khadija, mère des croyants, qui était son soutien, et son oncle Abou Talib, qui le protégeait par son prestige et sa tribu malgré son incroyance."
+  },
+  {
+    "id": "muhammad_14",
+    "question_ar": "على أي دابة أُسري بالنبي ﷺ من مكة إلى المسجد الأقصى وكيف وُصفت؟",
+    "options_ar": [
+      "الحصان الأبيض ذو الأجنحة المسمى جبريل",
+      "البراق وهو دابة بيضاء أسرع من البرق تضع حافرها عند منتهى طرفها",
+      "الناقة العضباء التي طارت به من مكة للقدس",
+      "السفينة النورانية التي أطارها الله عبر السحاب"
+    ],
+    "correct": 1,
+    "explanation_ar": "البراق دابة بيضاء فوق الحمار ودون البغل، تضع حافرها عند منتهى بصرها في السرعة. أُسري بالنبي ﷺ عليها من المسجد الحرام في مكة إلى المسجد الأقصى في القدس.",
+    "question_fr": "Sur quelle monture le Prophète ﷺ fut-il transporté de nuit de La Mecque à la Mosquée al-Aqsa, et comment fut-elle décrite ?",
+    "options_fr": [
+      "Le cheval blanc ailé nommé Jibril",
+      "Al-Buraq, une monture blanche plus rapide que l'éclair, posant son sabot à la limite extrême de son regard",
+      "La chamelle al-'Adba', qui le fit voler de La Mecque à Jérusalem",
+      "Le vaisseau lumineux qu'Allah fit voler à travers les nuages"
+    ],
+    "explanation_fr": "Al-Buraq était une monture blanche, plus grande que l'âne et plus petite que le mulet, posant son sabot à la limite extrême de sa vision, tant sa vitesse était grande. Le Prophète ﷺ fut transporté sur elle de la Mosquée sacrée à La Mecque jusqu'à la Mosquée al-Aqsa à Jérusalem."
+  },
+  {
+    "id": "muhammad_15",
+    "question_ar": "من من الأنبياء لقيهم النبي ﷺ في السماء السادسة أثناء المعراج؟",
+    "options_ar": [
+      "سيدنا إبراهيم عليه السلام",
+      "سيدنا إدريس عليه السلام",
+      "سيدنا موسى عليه السلام",
+      "سيدنا يوسف عليه السلام"
+    ],
+    "correct": 2,
+    "explanation_ar": "لقي النبي ﷺ في السماء السادسة سيدنا موسى عليه السلام، الذي بكى حين رأى النبي ﷺ لأن أمته ستدخل الجنة أكثر من أمة موسى. وقد شفع موسى في تخفيف الصلوات من خمسين إلى خمس.",
+    "question_fr": "Quel prophète le Prophète ﷺ a-t-il rencontré dans le sixième ciel lors de l'Ascension ?",
+    "options_fr": [
+      "Notre maître Ibrahim (paix sur lui)",
+      "Notre maître Idris (paix sur lui)",
+      "Notre maître Moussa (paix sur lui)",
+      "Notre maître Youssouf (paix sur lui)"
+    ],
+    "explanation_fr": "Le Prophète ﷺ rencontra dans le sixième ciel notre maître Moussa, qui pleura en le voyant, sachant que sa communauté entrerait au Paradis en plus grand nombre que celle de Moussa. Moussa intercéda pour l'allègement des prières, de cinquante à cinq."
+  },
+  {
+    "id": "muhammad_16",
+    "question_ar": "في أي السماوات التقى النبي ﷺ بسيدنا إبراهيم عليه السلام أثناء المعراج؟",
+    "options_ar": [
+      "السماء الأولى",
+      "السماء الخامسة",
+      "السماء السابعة",
+      "سدرة المنتهى فوق السماوات"
+    ],
+    "correct": 2,
+    "explanation_ar": "لقي النبي ﷺ سيدنا إبراهيم عليه السلام في السماء السابعة — وهو أعلى مقام، مسنداً ظهره إلى البيت المعمور الذي يدخله سبعون ألف ملك كل يوم لا يعودون إليه.",
+    "question_fr": "Dans quel ciel le Prophète ﷺ a-t-il rencontré notre maître Ibrahim lors de l'Ascension ?",
+    "options_fr": [
+      "Le premier ciel",
+      "Le cinquième ciel",
+      "Le septième ciel",
+      "Sidrat al-Muntaha, au-dessus des cieux"
+    ],
+    "explanation_fr": "Le Prophète ﷺ rencontra notre maître Ibrahim dans le septième ciel — le plus haut rang, adossé à la Maison peuplée (al-Bayt al-Ma'mour) que soixante-dix mille anges visitent chaque jour sans jamais y revenir."
+  },
+  {
+    "id": "muhammad_17",
+    "question_ar": "كيف بدأت فريضة الصلاة وكم كانت في الأصل وكيف خُففت؟",
+    "options_ar": [
+      "فُرضت عشر صلوات ثم خُففت بشفاعة جبريل إلى خمس",
+      "فُرضت خمسون صلاة ثم خُففت بشفاعة موسى حتى استقرت على خمس",
+      "فُرضت عشرون صلاة ثم خُففت بتوسل النبي ﷺ مباشرة إلى خمس",
+      "فُرضت خمس صلوات مباشرة دون تخفيف وهي الخمس المعروفة"
+    ],
+    "correct": 1,
+    "explanation_ar": "فُرضت الصلاة خمسين صلاة في اليوم، فلما نزل النبي ﷺ اقترح موسى عليه أن يطلب التخفيف لأن أمته لا تطيق ذلك. ظل يتردد بين الله وموسى حتى استقرت على خمس صلوات.",
+    "question_fr": "Comment l'obligation de la prière a-t-elle été instituée, combien de prières furent d'abord prescrites, et comment ont-elles été allégées ?",
+    "options_fr": [
+      "Dix prières furent prescrites, puis allégées à cinq par l'intercession de Jibril",
+      "Cinquante prières furent prescrites, puis allégées par l'intercession de Moussa jusqu'à se fixer à cinq",
+      "Vingt prières furent prescrites, puis allégées à cinq par la supplication directe du Prophète ﷺ",
+      "Cinq prières furent prescrites directement, sans allègement, telles qu'elles sont connues aujourd'hui"
+    ],
+    "explanation_fr": "Cinquante prières par jour furent d'abord prescrites ; lorsque le Prophète ﷺ redescendit, Moussa lui suggéra de demander un allègement, car sa communauté ne pourrait le supporter. Il fit la navette entre Allah et Moussa jusqu'à ce que le nombre se fixe à cinq prières."
+  },
+  {
+    "id": "muhammad_18",
+    "question_ar": "ما سدرة المنتهى التي بلغها النبي ﷺ في المعراج؟",
+    "options_ar": [
+      "مكان في السماء السادسة حيث تقف الملائكة",
+      "حد منتهى علم المخلوقين ينتهي عنده كل شيء صاعداً من الأرض أو نازلاً من الأمر",
+      "شجرة في الجنة يستظل بها المؤمنون يوم القيامة",
+      "المكان الذي تُحفظ فيه أعمال العباد"
+    ],
+    "correct": 1,
+    "explanation_ar": "سدرة المنتهى هي منتهى ما يُعلم من الخلق — ينتهي عندها ما يصعد من الأرض وما ينزل من فوقها. بلغها النبي ﷺ ورأى عندها من آيات ربه الكبرى.",
+    "question_fr": "Qu'est-ce que le Lotus de la Limite (Sidrat al-Muntaha) atteint par le Prophète ﷺ lors de l'Ascension ?",
+    "options_fr": [
+      "Un lieu dans le sixième ciel où se tiennent les anges",
+      "La limite ultime du savoir des créatures, où s'arrête tout ce qui monte de la terre ou descend de l'ordre divin",
+      "Un arbre du Paradis à l'ombre duquel se tiendront les croyants au Jour de la Résurrection",
+      "Le lieu où sont conservées les œuvres des serviteurs"
+    ],
+    "explanation_fr": "Sidrat al-Muntaha marque la limite ultime de ce qui est connu de la création — c'est là que s'arrête ce qui monte de la terre et ce qui descend d'en haut. Le Prophète ﷺ l'atteignit et y vit certains des plus grands signes de son Seigneur."
+  },
+  {
+    "id": "muhammad_19",
+    "question_ar": "كم سنة استغرقت الدعوة في مكة قبل الهجرة إلى المدينة؟",
+    "options_ar": [
+      "عشر سنوات",
+      "خمس عشرة سنة",
+      "ثلاث عشرة سنة",
+      "عشرون سنة"
+    ],
+    "correct": 2,
+    "explanation_ar": "استمرت الدعوة في مكة ثلاث عشرة سنة (من البعثة في الأربعين من عمره إلى الهجرة في الثالثة والخمسين)، ثم استمرت عشر سنوات في المدينة حتى وفاته ﷺ.",
+    "question_fr": "Combien d'années a duré la prédication à La Mecque avant l'émigration vers Médine ?",
+    "options_fr": [
+      "Dix ans",
+      "Quinze ans",
+      "Treize ans",
+      "Vingt ans"
+    ],
+    "explanation_fr": "La prédication dura treize ans à La Mecque (de la mission à quarante ans jusqu'à l'émigration à cinquante-trois ans), puis se poursuivit dix ans à Médine jusqu'à sa mort ﷺ."
+  },
+  {
+    "id": "muhammad_20",
+    "question_ar": "ما الغار الذي اختبأ فيه النبي ﷺ وأبو بكر أثناء الهجرة وكم بقيا فيه؟",
+    "options_ar": [
+      "غار حراء على جبل النور لمدة ليلة واحدة",
+      "غار ثور على جبل ثور جنوب مكة لمدة ثلاثة أيام",
+      "غار عرفات قرب جبل الرحمة لمدة يومين",
+      "كهف في وادي الأبطح لمدة أسبوع كامل"
+    ],
+    "correct": 1,
+    "explanation_ar": "اختبأ النبي ﷺ وأبو بكر في غار ثور على جبل جنوب مكة لمدة ثلاثة أيام بينما كانت قريش تبحث عنهما. وكانت أسماء بنت أبي بكر ترسل لهما الطعام.",
+    "question_fr": "Dans quelle grotte le Prophète ﷺ et Abou Bakr se sont-ils cachés durant l'émigration, et combien de temps y sont-ils restés ?",
+    "options_fr": [
+      "La grotte de Hira, sur le mont an-Nour, pendant une seule nuit",
+      "La grotte de Thawr, sur le mont Thawr au sud de La Mecque, pendant trois jours",
+      "La grotte d'Arafat, près du mont ar-Rahma, pendant deux jours",
+      "Une grotte dans la vallée d'al-Abtah, pendant une semaine entière"
+    ],
+    "explanation_fr": "Le Prophète ﷺ et Abou Bakr se cachèrent dans la grotte de Thawr, sur une montagne au sud de La Mecque, pendant trois jours, tandis que Quraych les recherchait. Asma', fille d'Abou Bakr, leur apportait de la nourriture."
+  },
+  {
+    "id": "muhammad_21",
+    "question_ar": "ما الآية الكريمة التي تُخلّد موقف النبي ﷺ في تطمين أبي بكر داخل غار ثور؟",
+    "options_ar": [
+      "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ وَالصَّادِقِينَ",
+      "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "وَتَوَكَّلْ عَلَى اللَّهِ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+      "إِنَّ اللَّهَ لَا يُضَيِّعُ أَجْرَ الْمُحْسِنِينَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال الله تعالى في سورة التوبة: (إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا). خلّد الله هذا الموقف في القرآن شاهداً على إيمان النبي ﷺ وصاحبه أبي بكر.",
+    "question_fr": "Quel verset immortalise la parole du Prophète ﷺ rassurant Abou Bakr dans la grotte de Thawr ?",
+    "options_fr": [
+      "« Allah est avec les endurants et les véridiques »",
+      "« Ne t'afflige pas, car Allah est avec nous »",
+      "« Et place ta confiance en Allah ; Allah suffit comme protecteur »",
+      "« Allah ne laisse jamais perdre la récompense des bienfaisants »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate at-Tawba : « Lorsqu'il disait à son compagnon : Ne t'afflige pas, car Allah est avec nous. » Allah a immortalisé cette scène dans le Coran, témoignage de la foi du Prophète ﷺ et de son compagnon Abou Bakr."
+  },
+  {
+    "id": "muhammad_22",
+    "question_ar": "بماذا استقبل أهل المدينة النبيَّ ﷺ حين قدومه مهاجراً؟",
+    "options_ar": [
+      "بالدعاء والبكاء فرحاً وخرج سادتهم يستقبلونه",
+      "بأناشيد طلع البدر علينا من ثنيات الوداع",
+      "برفع السيوف والرماح تعظيماً وإجلالاً",
+      "ببناء خيمة كبيرة وإقامة وليمة ضخمة"
+    ],
+    "correct": 1,
+    "explanation_ar": "استقبله أهل المدينة بنشيد: (طلع البدر علينا من ثنيات الوداع). وكان مشهداً مؤثراً يعكس محبة الأنصار الصادقة للنبي ﷺ الذي هاجر إليهم تاركاً وطنه.",
+    "question_fr": "Comment les habitants de Médine ont-ils accueilli le Prophète ﷺ à son arrivée en tant qu'émigrant ?",
+    "options_fr": [
+      "Par des invocations et des larmes de joie, leurs notables sortant pour l'accueillir",
+      "Par le chant « La pleine lune s'est levée sur nous depuis les collines d'adieu »",
+      "En levant épées et lances, en signe d'honneur et de vénération",
+      "En dressant une grande tente et en organisant un immense banquet"
+    ],
+    "explanation_fr": "Les habitants de Médine l'accueillirent avec le chant : « La pleine lune s'est levée sur nous depuis les collines d'adieu. » Une scène émouvante, reflétant l'amour sincère des Ansar pour le Prophète ﷺ qui avait émigré vers eux, quittant sa patrie."
+  },
+  {
+    "id": "muhammad_23",
+    "question_ar": "ما أول ما بناه النبي ﷺ لما وصل المدينة؟",
+    "options_ar": [
+      "بيته الشريف حيث سكن مع أهله",
+      "المسجد النبوي الذي أسسه مقراً للصلاة والشورى والتعليم",
+      "دار الضيافة لاستقبال المهاجرين القادمين من مكة",
+      "المدرسة التي بدأ فيها تعليم القرآن لأبناء الأنصار"
+    ],
+    "correct": 1,
+    "explanation_ar": "أول ما بناه النبي ﷺ في المدينة المسجد النبوي — كان مركز الإسلام كله: مكان للصلاة، ومجلس للشورى، ومحكمة للقضاء، ومدرسة للعلم.",
+    "question_fr": "Quelle fut la première chose construite par le Prophète ﷺ en arrivant à Médine ?",
+    "options_fr": [
+      "Sa noble demeure, où il résida avec sa famille",
+      "La Mosquée du Prophète, qu'il fonda comme lieu de prière, de concertation et d'enseignement",
+      "Une maison d'accueil pour les émigrants venant de La Mecque",
+      "L'école où il commença à enseigner le Coran aux enfants des Ansar"
+    ],
+    "explanation_fr": "La première chose que le Prophète ﷺ construisit à Médine fut la Mosquée du Prophète — le centre de tout l'islam : un lieu de prière, une assemblée de concertation, un tribunal de justice, et une école du savoir."
+  },
+  {
+    "id": "muhammad_24",
+    "question_ar": "ما صحيفة المدينة التي وضعها النبي ﷺ وما مكانتها التاريخية؟",
+    "options_ar": [
+      "وثيقة لنظام الضرائب بين المسلمين واليهود في المدينة",
+      "أول دستور مدني في التاريخ ينظم العلاقات بين المسلمين واليهود وغيرهم",
+      "عهد دفاعي بين قبائل المدينة لصد هجمات قريش",
+      "معاهدة تجارية بين المهاجرين والأنصار لتوزيع الأرزاق"
+    ],
+    "correct": 1,
+    "explanation_ar": "صحيفة المدينة هي أول دستور مدني مكتوب في التاريخ، ينظم العلاقات بين المسلمين والمهاجرين والأنصار واليهود، ويؤسس لمبدأ التعايش والحقوق والمسؤوليات المشتركة.",
+    "question_fr": "Qu'est-ce que la Charte de Médine établie par le Prophète ﷺ, et quelle est sa place historique ?",
+    "options_fr": [
+      "Un document fiscal réglant les taxes entre musulmans et juifs à Médine",
+      "La première constitution civile de l'histoire, organisant les relations entre musulmans, juifs et autres",
+      "Un pacte défensif entre les tribus de Médine pour repousser les attaques de Quraych",
+      "Un traité commercial entre émigrants et Ansar pour répartir les ressources"
+    ],
+    "explanation_fr": "La Charte de Médine est la première constitution civile écrite de l'histoire ; elle organise les relations entre musulmans, émigrants, Ansar et juifs, et établit le principe de coexistence, de droits et de responsabilités partagés."
+  },
+  {
+    "id": "muhammad_25",
+    "question_ar": "في أي سنة من الهجرة وقعت غزوة بدر الكبرى وما كانت نسبة قوى الطرفين؟",
+    "options_ar": [
+      "السنة الأولى والمسلمون مئة وقريش خمسمئة",
+      "السنة الثانية وثلاثمئة وبضعة عشر مسلماً في مقابل ألف من قريش",
+      "السنة الثالثة وخمسمئة مسلم في مقابل ألفين من قريش",
+      "السنة الرابعة وأربعمئة مسلم في مقابل ألف وخمسمئة"
+    ],
+    "correct": 1,
+    "explanation_ar": "وقعت بدر في السنة الثانية للهجرة: ثلاثمئة وبضعة عشر مسلماً أمام ألف مقاتل من قريش. قال تعالى: (وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ). نصر الله الذي يضرب به المثل.",
+    "question_fr": "En quelle année de l'Hégire eut lieu la grande bataille de Badr, et quel était le rapport de forces entre les deux camps ?",
+    "options_fr": [
+      "La première année, cent musulmans contre cinq cents de Quraych",
+      "La deuxième année, trois cent et quelques musulmans contre mille combattants de Quraych",
+      "La troisième année, cinq cents musulmans contre deux mille de Quraych",
+      "La quatrième année, quatre cents musulmans contre mille cinq cents"
+    ],
+    "explanation_fr": "Badr eut lieu la deuxième année de l'Hégire : environ trois cent et quelques musulmans face à mille combattants de Quraych. Allah dit : « Allah vous a fait triompher à Badr alors que vous étiez faibles » — une victoire divine devenue proverbiale."
+  },
+  {
+    "id": "muhammad_26",
+    "question_ar": "ما السبب الرئيسي لقلب النصر في غزوة أحد إلى ابتلاء؟",
+    "options_ar": [
+      "خيانة المنافقين بقيادة عبد الله بن أبيّ الذين انسحبوا",
+      "مخالفة الرماة على الجبل أوامر النبي ﷺ ونزولهم لجمع الغنائم",
+      "هجوم خالد بن الوليد من جهة المسلمين أنفسهم",
+      "كثرة عدد المشركين التي فاقت كل التوقعات"
+    ],
+    "correct": 1,
+    "explanation_ar": "أمر النبي ﷺ الرماة بالبقاء على الجبل مهما يحدث، لكنهم لما رأوا انتصار المسلمين نزلوا لجمع الغنائم. فاستغل خالد بن الوليد (قبل إسلامه) الثغرة فالتف على المسلمين.",
+    "question_fr": "Quelle fut la cause principale du retournement de la victoire à Uhud en une épreuve ?",
+    "options_fr": [
+      "La trahison des hypocrites menés par 'Abd Allah ibn Oubayy, qui se retirèrent",
+      "La désobéissance des archers postés sur la colline aux ordres du Prophète ﷺ, en descendant pour ramasser le butin",
+      "Une attaque de Khalid ibn al-Walid depuis le camp musulman lui-même",
+      "Le nombre des polythéistes, bien supérieur à toutes les attentes"
+    ],
+    "explanation_fr": "Le Prophète ﷺ avait ordonné aux archers de rester sur la colline quoi qu'il arrive, mais en voyant la victoire des musulmans, ils descendirent ramasser le butin. Khalid ibn al-Walid (avant sa conversion) exploita cette brèche pour encercler les musulmans."
+  },
+  {
+    "id": "muhammad_27",
+    "question_ar": "من الصحابي الجليل الذي اقترح حفر الخندق في غزوة الأحزاب؟",
+    "options_ar": [
+      "علي بن أبي طالب رضي الله عنه",
+      "سلمان الفارسي رضي الله عنه بتجربته الفارسية في الحروب",
+      "عمر بن الخطاب رضي الله عنه",
+      "حذيفة بن اليمان رضي الله عنه"
+    ],
+    "correct": 1,
+    "explanation_ar": "سلمان الفارسي رضي الله عنه اقترح حفر الخندق حول المدينة من الجهة المكشوفة — وهو أسلوب دفاعي فارسي لم يعرفه العرب. وقد قال المسلمون عنه: (سلمان منا آل البيت).",
+    "question_fr": "Quel noble Compagnon a proposé de creuser une tranchée lors de la bataille des Coalisés ?",
+    "options_fr": [
+      "'Ali ibn Abi Talib (qu'Allah l'agrée)",
+      "Salman al-Farisi (qu'Allah l'agrée), fort de son expérience militaire perse",
+      "'Omar ibn al-Khattab (qu'Allah l'agrée)",
+      "Houdhayfa ibn al-Yaman (qu'Allah l'agrée)"
+    ],
+    "explanation_fr": "Salman al-Farisi (qu'Allah l'agrée) proposa de creuser une tranchée autour de Médine, du côté exposé — une méthode défensive perse inconnue des Arabes. Les musulmans dirent de lui : « Salman fait partie des nôtres, gens de la maison. »"
+  },
+  {
+    "id": "muhammad_28",
+    "question_ar": "كيف انتهت غزوة الأحزاب (الخندق) ومن الذي أرسل الله لنصرة المسلمين؟",
+    "options_ar": [
+      "انتهت بهدنة بين المسلمين وقريش بوساطة يهود بني قريظة",
+      "أرسل الله ريحاً عاتية وجنوداً لا يرونها فانهزم المشركون وانصرفوا",
+      "انتهت بمفاوضات بين النبي ﷺ وزعماء قريش",
+      "انتهت بهجوم مباغت من المسلمين في الليل فرّ المشركون"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا). أرسل الله ريحاً شديدة قلبت خيامهم وقدورهم وزلزلت قلوبهم، فانصرف الأحزاب خائبين دون أن يحققوا شيئاً.",
+    "question_fr": "Comment s'est achevée la bataille des Coalisés (la Tranchée), et qu'a envoyé Allah pour secourir les musulmans ?",
+    "options_fr": [
+      "Elle s'acheva par une trêve entre musulmans et Quraych, par la médiation des juifs de Bani Qourayza",
+      "Allah envoya un vent violent et des armées invisibles, mettant en déroute les polythéistes qui se retirèrent",
+      "Elle s'acheva par des négociations entre le Prophète ﷺ et les chefs de Quraych",
+      "Elle s'acheva par une attaque surprise nocturne des musulmans, faisant fuir les polythéistes"
+    ],
+    "explanation_fr": "Allah dit : « Nous envoyâmes contre eux un vent et des armées que vous ne voyiez point. » Allah envoya un vent violent qui renversa leurs tentes et leurs marmites, ébranlant leurs cœurs ; les Coalisés se retirèrent, déçus, sans avoir rien accompli."
+  },
+  {
+    "id": "muhammad_29",
+    "question_ar": "في أي سنة فُتحت مكة وبكم مقاتل دخلها النبي ﷺ؟",
+    "options_ar": [
+      "السنة السادسة بخمسة آلاف مقاتل",
+      "السنة الثامنة بعشرة آلاف مقاتل",
+      "السنة العاشرة بخمسة عشر ألف مقاتل",
+      "السنة السابعة بسبعة آلاف مقاتل"
+    ],
+    "correct": 1,
+    "explanation_ar": "فُتحت مكة في السنة الثامنة من الهجرة، ودخلها النبي ﷺ مع عشرة آلاف مقاتل. وقد كان الفتح شبه سلمي مقارنةً بأحجام الجيشين.",
+    "question_fr": "En quelle année La Mecque fut-elle conquise, et avec combien de combattants le Prophète ﷺ y entra-t-il ?",
+    "options_fr": [
+      "La sixième année, avec cinq mille combattants",
+      "La huitième année, avec dix mille combattants",
+      "La dixième année, avec quinze mille combattants",
+      "La septième année, avec sept mille combattants"
+    ],
+    "explanation_fr": "La Mecque fut conquise la huitième année de l'Hégire, et le Prophète ﷺ y entra avec dix mille combattants. La conquête fut quasiment pacifique, compte tenu de la taille des deux armées."
+  },
+  {
+    "id": "muhammad_30",
+    "question_ar": "كيف كانت هيئة النبي ﷺ حين دخل مكة فاتحاً؟",
+    "options_ar": [
+      "دخل راكباً على حصان أبيض رافعاً سيفه فوق رأسه",
+      "دخل متواضعاً خافضاً رأسه على ناقته حتى كاد يمس قربوس سرجها",
+      "دخل ماشياً على قدميه حافياً تواضعاً لله",
+      "دخل في مقدمة الجيش وكان يبكي من الفرح بالفتح"
+    ],
+    "correct": 1,
+    "explanation_ar": "دخل النبي ﷺ مكة وهو على ناقته، خافضاً رأسه تواضعاً لله حتى كاد رأسه يلمس قربوس السرج — صورة بالغة الدلالة: أعظم انتصار في التاريخ يُزيّنه أعمق تواضع.",
+    "question_fr": "Quelle était l'attitude du Prophète ﷺ en entrant à La Mecque en conquérant ?",
+    "options_fr": [
+      "Il entra monté sur un cheval blanc, brandissant son épée au-dessus de sa tête",
+      "Il entra humblement, la tête baissée sur sa chamelle, au point de presque toucher le pommeau de la selle",
+      "Il entra à pied, pieds nus, par humilité envers Allah",
+      "Il entra à l'avant de l'armée, pleurant de joie pour cette conquête"
+    ],
+    "explanation_fr": "Le Prophète ﷺ entra à La Mecque sur sa chamelle, la tête baissée par humilité envers Allah, au point que sa tête frôlait presque le pommeau de la selle — une image d'une portée immense : la plus grande victoire de l'histoire, ornée de la plus profonde humilité."
+  },
+  {
+    "id": "muhammad_31",
+    "question_ar": "ما الآية التي تلاها النبي ﷺ حين كسر الأصنام في فتح مكة؟",
+    "options_ar": [
+      "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+      "فَإِذَا جَاءَ وَعْدُ اللَّهِ جِئْنَا بِكُمْ لَفِيفًا",
+      "اللَّهُ أَكْبَرُ وَلِلَّهِ الْحَمْدُ نَصَرَ عَبْدَهُ"
+    ],
+    "correct": 1,
+    "explanation_ar": "ردد النبي ﷺ قوله تعالى: (وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا) وكان يُشير بقضيبه إلى الأصنام فتقع. وأُسقط ثلاثمئة وستون صنماً.",
+    "question_fr": "Quel verset le Prophète ﷺ a-t-il récité en brisant les idoles lors de la conquête de La Mecque ?",
+    "options_fr": [
+      "« Nous t'avons accordé une victoire éclatante »",
+      "« Dis : La vérité est venue, et le faux a disparu ; le faux est destiné à disparaître »",
+      "« Lorsque la promesse d'Allah viendra, Nous vous ramènerons tous ensemble »",
+      "« Allah est le plus Grand, et louange à Allah qui a secouru Son serviteur »"
+    ],
+    "explanation_fr": "Le Prophète ﷺ répétait : « Dis : La vérité est venue, et le faux a disparu ; le faux est destiné à disparaître », pointant son bâton vers les idoles, qui tombaient alors. Trois cent soixante idoles furent ainsi renversées."
+  },
+  {
+    "id": "muhammad_32",
+    "question_ar": "ما كلمة العفو الشهيرة التي قالها النبي ﷺ لأهل مكة بعد الفتح؟",
+    "options_ar": [
+      "إن الله يغفر لكم وهو أرحم الراحمين فاذهبوا أحراراً",
+      "اذهبوا فأنتم الطلقاء — عفو كامل دون شرط أو ثمن",
+      "آمنكم الله اليوم فأنتم في ذمتنا محفوظون",
+      "سامحكم الله وسامحناكم فلا تثريب عليكم اليوم"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال ﷺ لهم: (اذهبوا فأنتم الطلقاء). وهذه الكلمة هي أكثر الكلمات دلالةً على عظمة خُلقه ﷺ — عفو عند المقدرة لم يسبقه فاتح قبله ولن يسبقه بعده في التاريخ.",
+    "question_fr": "Quelle célèbre parole de pardon le Prophète ﷺ a-t-il adressée aux Mecquois après la conquête ?",
+    "options_fr": [
+      "« Allah vous pardonne, et Il est le plus Miséricordieux des miséricordieux ; allez-vous-en libres »",
+      "« Allez, vous êtes des affranchis » — un pardon complet, sans condition ni prix",
+      "« Allah vous a accordé la sécurité aujourd'hui ; vous êtes sous notre protection »",
+      "« Qu'Allah vous pardonne, et nous vous pardonnons ; nul reproche sur vous aujourd'hui »"
+    ],
+    "explanation_fr": "Il leur dit ﷺ : « Allez, vous êtes des affranchis. » Cette parole est la plus révélatrice de la grandeur de son caractère ﷺ — un pardon au sommet du pouvoir, sans précédent chez aucun conquérant avant lui, ni après lui dans l'histoire."
+  },
+  {
+    "id": "muhammad_33",
+    "question_ar": "ما كم عدد الحجاج الذين حجوا مع النبي ﷺ في حجة الوداع؟",
+    "options_ar": [
+      "أكثر من خمسين ألف حاج",
+      "أكثر من مئة ألف حاج",
+      "أكثر من مئتي ألف حاج",
+      "أكثر من عشرين ألف حاج"
+    ],
+    "correct": 1,
+    "explanation_ar": "حج مع النبي ﷺ في حجة الوداع أكثر من مئة ألف حاج — حشد لم يسبق له مثيل في تاريخ الجزيرة العربية. وفي هذا الجمع العظيم خطب خطبته الخالدة.",
+    "question_fr": "Combien de pèlerins ont accompli le pèlerinage avec le Prophète ﷺ lors du Pèlerinage d'Adieu ?",
+    "options_fr": [
+      "Plus de cinquante mille pèlerins",
+      "Plus de cent mille pèlerins",
+      "Plus de deux cent mille pèlerins",
+      "Plus de vingt mille pèlerins"
+    ],
+    "explanation_fr": "Plus de cent mille pèlerins accomplirent le pèlerinage avec le Prophète ﷺ lors du Pèlerinage d'Adieu — un rassemblement sans précédent dans l'histoire de la péninsule arabique. C'est devant cette immense foule qu'il prononça son sermon immortel."
+  },
+  {
+    "id": "muhammad_34",
+    "question_ar": "ما أبرز المبادئ التي أرستها خطبة الوداع في عرفات؟",
+    "options_ar": [
+      "تحريم التجارة والربا وإلغاء نظام الديات القبلية",
+      "حرمة الدماء والأموال والأعراض والمساواة بين البشر لا فضل لعربي على أعجمي إلا بالتقوى",
+      "إلزام المسلمين بالجهاد وتوسيع حدود دولة الإسلام",
+      "فرض الزكاة على الأغنياء وإلغاء الرق فوراً"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال ﷺ: (إن دماءكم وأموالكم وأعراضكم حرام عليكم... كلكم لآدم وآدم من تراب... لا فضل لعربي على أعجمي إلا بالتقوى). مواثيق حقوق الإنسان قبل إعلانات الأمم المتحدة بأربعة عشر قرناً.",
+    "question_fr": "Quels principes majeurs le Sermon d'Adieu à 'Arafat a-t-il établis ?",
+    "options_fr": [
+      "L'interdiction du commerce et de l'usure, et l'abolition du système tribal des compensations",
+      "L'inviolabilité du sang, des biens et de l'honneur, et l'égalité entre les hommes : nul mérite pour un Arabe sur un non-Arabe si ce n'est par la piété",
+      "L'obligation du jihad pour les musulmans et l'extension des frontières de l'État islamique",
+      "L'obligation de l'aumône légale pour les riches et l'abolition immédiate de l'esclavage"
+    ],
+    "explanation_fr": "Il dit ﷺ : « Votre sang, vos biens et votre honneur vous sont sacrés... Vous descendez tous d'Adam, et Adam vient de la poussière... nul mérite pour un Arabe sur un non-Arabe si ce n'est par la piété. » Une charte des droits humains, quatorze siècles avant les déclarations des Nations Unies."
+  },
+  {
+    "id": "muhammad_35",
+    "question_ar": "ما الآية التي نزلت في حجة الوداع وأعلنت اكتمال الدين؟",
+    "options_ar": [
+      "إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ وَمَنْ يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ",
+      "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
+      "وَمَن يُسْلِمْ وَجْهَهُ إِلَى اللَّهِ وَهُوَ مُحْسِنٌ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ",
+      "هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَىٰ وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ"
+    ],
+    "correct": 1,
+    "explanation_ar": "نزلت في يوم عرفة بحجة الوداع: (الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا). لما سمعها عمر بكى قائلاً: كل شيء بعد الكمال ينقص.",
+    "question_fr": "Quel verset, révélé lors du Pèlerinage d'Adieu, proclama l'achèvement de la religion ?",
+    "options_fr": [
+      "« Certes, la religion auprès d'Allah est l'islam. Quiconque désire une religion autre que l'islam, elle ne sera jamais acceptée de lui »",
+      "« Aujourd'hui, J'ai parachevé pour vous votre religion, accompli sur vous Mon bienfait, et J'ai agréé pour vous l'islam comme religion »",
+      "« Quiconque soumet son visage à Allah tout en étant bienfaisant s'est attaché à l'anse la plus solide »",
+      "« C'est Lui qui a envoyé Son messager avec la guidée et la religion de vérité, pour la faire prévaloir sur toute autre religion »"
+    ],
+    "explanation_fr": "Ce verset fut révélé le jour de 'Arafa, lors du Pèlerinage d'Adieu : « Aujourd'hui, J'ai parachevé pour vous votre religion, accompli sur vous Mon bienfait, et J'ai agréé pour vous l'islam comme religion. » En l'entendant, 'Omar pleura et dit : « Tout ce qui atteint la perfection ne peut que décliner ensuite. »"
+  },
+  {
+    "id": "muhammad_36",
+    "question_ar": "في حجر من من الصحابيات الكريمات توفي النبي ﷺ وما كانت آخر كلماته؟",
+    "options_ar": [
+      "في حجر أم سلمة رضي الله عنها وكانت آخر كلماته: الصلاة الصلاة",
+      "في حجر عائشة رضي الله عنها وكانت آخر كلماته: بل الرفيق الأعلى",
+      "في حجر فاطمة رضي الله عنها وكانت آخر كلماته: الأمة الأمة",
+      "في حجر خديجة رضي الله عنها وكانت آخر كلماته: في الرفيق الأعلى"
+    ],
+    "correct": 1,
+    "explanation_ar": "توفي النبي ﷺ في حجر عائشة رضي الله عنها في بيتها الملاصق للمسجد النبوي. وكانت آخر كلماته: (اللهم الرفيق الأعلى) — اختار الله على الدنيا.",
+    "question_fr": "Dans le giron de quelle noble Compagnonne le Prophète ﷺ est-il mort, et quelles furent ses dernières paroles ?",
+    "options_fr": [
+      "Dans le giron d'Oum Salama (qu'Allah l'agrée), et ses dernières paroles furent : « La prière, la prière »",
+      "Dans le giron de 'Aïcha (qu'Allah l'agrée), et ses dernières paroles furent : « Plutôt, le Compagnon Suprême »",
+      "Dans le giron de Fatima (qu'Allah l'agrée), et ses dernières paroles furent : « La communauté, la communauté »",
+      "Dans le giron de Khadija (qu'Allah l'agrée), et ses dernières paroles furent : « Vers le Compagnon Suprême »"
+    ],
+    "explanation_fr": "Le Prophète ﷺ mourut dans le giron de 'Aïcha (qu'Allah l'agrée), dans sa maison attenante à la Mosquée du Prophète. Ses dernières paroles furent : « Ô Allah, le Compagnon Suprême » — il choisit Allah plutôt que ce bas monde."
+  },
+  {
+    "id": "muhammad_37",
+    "question_ar": "ما آخر ما أوصى به النبي ﷺ أمته قبيل وفاته؟",
+    "options_ar": [
+      "تركت فيكم ما إن تمسكتم به لن تضلوا: كتاب الله وسنتي",
+      "أوصيكم بالصلاة والزكاة وبر الوالدين والجهاد",
+      "احفظوا القرآن وعلّموه أبناءكم ولا تضيعوه",
+      "اعتصموا بحبل الله جميعاً ولا تكونوا كالذين تفرقوا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال ﷺ: (تركت فيكم ما إن تمسكتم به لن تضلوا أبداً: كتاب الله وسنتي). وصية جامعة تُلخّص منهج الحياة — القرآن والسنة مرجعان لا يُستغنى عنهما.",
+    "question_fr": "Quelle fut la dernière recommandation que le Prophète ﷺ a laissée à sa communauté avant sa mort ?",
+    "options_fr": [
+      "« J'ai laissé parmi vous ce qui, si vous vous y attachez, vous ne vous égarerez jamais : le Livre d'Allah et ma sunna »",
+      "« Je vous recommande la prière, l'aumône légale, la piété filiale et le jihad »",
+      "« Préservez le Coran, enseignez-le à vos enfants, ne le négligez pas »",
+      "« Attachez-vous tous ensemble à la corde d'Allah, et ne soyez pas comme ceux qui se sont divisés »"
+    ],
+    "explanation_fr": "Il dit ﷺ : « J'ai laissé parmi vous ce qui, si vous vous y attachez, vous ne vous égarerez jamais : le Livre d'Allah et ma sunna. » Une recommandation englobante, résumant tout un mode de vie — le Coran et la sunna, deux références indispensables."
+  },
+  {
+    "id": "muhammad_38",
+    "question_ar": "في أي شهر وسنة توفي النبي ﷺ؟",
+    "options_ar": [
+      "في رجب من السنة العاشرة للهجرة",
+      "في ربيع الأول من السنة الحادية عشرة للهجرة",
+      "في رمضان من السنة العاشرة للهجرة",
+      "في ذي الحجة من السنة الحادية عشرة للهجرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "توفي النبي ﷺ في الثاني عشر من ربيع الأول من السنة الحادية عشرة للهجرة (632م)، بعد مرض استمر أياماً. وقد أتم ثلاثاً وستين سنة.",
+    "question_fr": "En quel mois et quelle année le Prophète ﷺ est-il mort ?",
+    "options_fr": [
+      "En Rajab, la dixième année de l'Hégire",
+      "En Rabi' al-Awwal, la onzième année de l'Hégire",
+      "En Ramadan, la dixième année de l'Hégire",
+      "En Dhou al-Hijja, la onzième année de l'Hégire"
+    ],
+    "explanation_fr": "Le Prophète ﷺ mourut le douze Rabi' al-Awwal de la onzième année de l'Hégire (632 apr. J.-C.), après une maladie ayant duré quelques jours. Il avait atteint soixante-trois ans."
+  },
+  {
+    "id": "muhammad_39",
+    "question_ar": "ما الوصف القرآني لأخلاق النبي ﷺ الذي يُعدّ أعظم شهادة لشخصيته؟",
+    "options_ar": [
+      "إِنَّكَ لَمِنَ الْمُرْسَلِينَ * عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+      "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "وَمَا يَنطِقُ عَنِ الْهَوَىٰ * إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
+      "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة القلم: (وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ). وحين سُئلت عائشة عن خُلقه قالت: (كان خُلقه القرآن) — أي أنه كان القرآن الحي متجسداً في شخص.",
+    "question_fr": "Quelle description coranique du caractère du Prophète ﷺ est considérée comme le plus grand témoignage de sa personnalité ?",
+    "options_fr": [
+      "« Tu es certes du nombre des messagers, sur une voie droite »",
+      "« Et tu es certes d'une moralité éminente »",
+      "« Et il ne parle pas sous l'effet de la passion ; ce n'est là qu'une révélation inspirée »",
+      "« Vous avez certes eu, dans le Messager d'Allah, un excellent modèle »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate al-Qalam : « Et tu es certes d'une moralité éminente. » Lorsqu'on demanda à 'Aïcha son caractère, elle dit : « Son caractère était le Coran » — c'est-à-dire qu'il était le Coran vivant incarné dans une personne."
+  },
+  {
+    "id": "muhammad_40",
+    "question_ar": "ما الآية في سورة الضحى التي تُشير إلى يُتم النبي ﷺ ورعاية الله له؟",
+    "options_ar": [
+      "وَالضُّحَىٰ * وَاللَّيْلِ إِذَا سَجَىٰ * مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ * وَوَجَدَكَ ضَالًّا فَهَدَىٰ * وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ * وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ * وَوَضَعْنَا عَنكَ وِزْرَكَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ * وَوَجَدَكَ ضَالًّا فَهَدَىٰ * وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ). ثلاث نعم: الإيواء والهداية والإغناء — رد الله على كل ضعف بنعمة مقابله.",
+    "question_fr": "Quel verset de la sourate ad-Duha évoque l'orphelinat du Prophète ﷺ et le soin qu'Allah a pris de lui ?",
+    "options_fr": [
+      "« Par le Jour montant ! Et par la nuit quand elle s'assombrit ! Ton Seigneur ne t'a ni abandonné ni détesté »",
+      "« Ne t'a-t-Il pas trouvé orphelin et t'a-t-Il pas accueilli ? Ne t'a-t-Il pas trouvé égaré et t'a-t-Il pas guidé ? Ne t'a-t-Il pas trouvé pauvre et t'a-t-Il pas enrichi ? »",
+      "« Quant à l'orphelin, ne le brime donc pas ; et quant au mendiant, ne le repousse pas »",
+      "« N'avons-Nous pas ouvert pour toi ta poitrine ? Et ne t'avons-Nous pas déchargé de ton fardeau ? »"
+    ],
+    "explanation_fr": "Allah dit : « Ne t'a-t-Il pas trouvé orphelin et t'a-t-Il pas accueilli ? Ne t'a-t-Il pas trouvé égaré et t'a-t-Il pas guidé ? Ne t'a-t-Il pas trouvé pauvre et t'a-t-Il pas enrichi ? » Trois bienfaits : l'accueil, la guidance et l'enrichissement — Allah répond à chaque faiblesse par un bienfait correspondant."
+  },
+  {
+    "id": "muhammad_41",
+    "question_ar": "ما المقصود بالمؤاخاة التي أجراها النبي ﷺ بين المهاجرين والأنصار؟",
+    "options_ar": [
+      "توزيع أراضي المدينة بالتساوي بين الطرفين لحل مشكلة الفقر",
+      "ربط كل مهاجر بأنصاري بأخوة حقيقية: يتشاركان المسكن والمال والمسؤولية",
+      "إلزام الأنصار بتعليم المهاجرين حرف التجارة والزراعة",
+      "إنشاء صندوق مشترك تودع فيه زكاة الأنصار ليُنفق على المهاجرين"
+    ],
+    "correct": 1,
+    "explanation_ar": "آخى النبي ﷺ بين كل مهاجر وأنصاري بأخوة حقيقية عملية: يرثان بعضهما في البداية، ويتشاركان المسكن والأرض والمورد — نموذج اجتماعي في التضامن لم يُسبق.",
+    "question_fr": "Qu'entend-on par la fraternisation instaurée par le Prophète ﷺ entre les Émigrants et les Ansar ?",
+    "options_fr": [
+      "La répartition égale des terres de Médine entre les deux groupes pour résoudre le problème de la pauvreté",
+      "L'union de chaque émigrant à un Ansari par une véritable fraternité : ils partagent logement, biens et responsabilité",
+      "L'obligation pour les Ansar d'enseigner aux émigrants les métiers du commerce et de l'agriculture",
+      "La création d'un fonds commun alimenté par l'aumône légale des Ansar, destiné aux émigrants"
+    ],
+    "explanation_fr": "Le Prophète ﷺ unit chaque émigrant à un Ansari par une fraternité réelle et pratique : ils héritaient l'un de l'autre au début, et partageaient logement, terre et ressources — un modèle social de solidarité sans précédent."
+  },
+  {
+    "id": "muhammad_42",
+    "question_ar": "ما الذي جعل معركة بدر نقطة تحول في تاريخ الإسلام رغم قِلّة عدد المسلمين؟",
+    "options_ar": [
+      "أنها كانت أول انتصار عسكري يمنح المسلمين شرعية الدولة",
+      "أنها أسفرت عن نصر رباني مدعوم بالملائكة أثبت للعرب أن الله مع المسلمين",
+      "أنها أنهت سلطة قريش التجارية على طرق العالم",
+      "أنها كانت أولى الغزوات التي شارك فيها عدد كبير من المسلمين"
+    ],
+    "correct": 1,
+    "explanation_ar": "بدر كانت المعجزة الكبرى: ثلاثمئة ضد ألف ومع ذلك نصرهم الله بملائكته. أكدت للمسلمين أن النصر من عند الله لا بالعدد، وكسرت هيبة قريش أمام بقية العرب.",
+    "question_fr": "Qu'est-ce qui a fait de la bataille de Badr un tournant dans l'histoire de l'islam, malgré le petit nombre de musulmans ?",
+    "options_fr": [
+      "Ce fut la première victoire militaire conférant aux musulmans la légitimité d'un État",
+      "Elle aboutit à une victoire divine soutenue par les anges, prouvant aux Arabes qu'Allah était avec les musulmans",
+      "Elle mit fin à la domination commerciale de Quraych sur les routes du monde",
+      "Ce fut la première expédition à laquelle participa un grand nombre de musulmans"
+    ],
+    "explanation_fr": "Badr fut le grand miracle : trois cents contre mille, et pourtant Allah les fit triompher par Ses anges. Cela confirma aux musulmans que la victoire vient d'Allah et non du nombre, et brisa le prestige de Quraych aux yeux des autres Arabes."
+  },
+  {
+    "id": "muhammad_43",
+    "question_ar": "ما الدرس الذي علّمته غزوة أحد للمسلمين فيما يتعلق بطاعة القيادة؟",
+    "options_ar": [
+      "أن الاستشارة الجماعية أهم من رأي القائد الفرد",
+      "أن مخالفة أمر النبي ﷺ ولو لدافع الطمع في الغنيمة تُقلب النصر ابتلاءً",
+      "أن الخروج للقتال خارج المدينة كان خطأ استراتيجياً",
+      "أن الثقة بالنفس الزائدة تُورث الهزيمة في الحروب"
+    ],
+    "correct": 1,
+    "explanation_ar": "مخالفة الرماة للأمر النبوي الصريح — بدافع الطمع في الغنائم — كانت السبب المباشر للابتلاء في أحد. درس: طاعة القائد في الحرب فريضة، والاجتهاد ضد الأمر خيانة للأمانة.",
+    "question_fr": "Quelle leçon la bataille de Uhud a-t-elle enseignée aux musulmans concernant l'obéissance au commandement ?",
+    "options_fr": [
+      "Que la concertation collective prime sur l'avis du chef individuel",
+      "Que désobéir à l'ordre du Prophète ﷺ, même par appât du butin, transforme la victoire en épreuve",
+      "Que sortir combattre hors de Médine fut une erreur stratégique",
+      "Qu'une confiance excessive en soi entraîne la défaite dans les guerres"
+    ],
+    "explanation_fr": "La désobéissance des archers à l'ordre prophétique explicite — motivée par l'appât du butin — fut la cause directe de l'épreuve à Uhud. Leçon : l'obéissance au chef à la guerre est une obligation, et l'initiative contre son ordre est une trahison de confiance."
+  },
+  {
+    "id": "muhammad_44",
+    "question_ar": "ما الآية التي تُصوّر حصار الأحزاب للمدينة من الجهتين في غزوة الخندق؟",
+    "options_ar": [
+      "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا لِّيَغْفِرَ لَكَ اللَّهُ",
+      "إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ",
+      "وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ",
+      "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة الأحزاب: (إِذْ جَاءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ). تصوير حي لشدة الكرب الذي بلغ ذروته.",
+    "question_fr": "Quel verset dépeint l'encerclement de Médine par les Coalisés des deux côtés, lors de la bataille de la Tranchée ?",
+    "options_fr": [
+      "« Nous t'avons accordé une victoire éclatante, afin qu'Allah te pardonne »",
+      "« Quand ils vous vinrent d'en haut et d'en bas, et que les regards se troublèrent »",
+      "« Et préparez contre eux tout ce que vous pouvez comme force et comme chevaux entraînés »",
+      "« Ô vous qui croyez, prenez vos précautions »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate al-Ahzab : « Quand ils vous vinrent d'en haut et d'en bas, et que les regards se troublèrent, et que les cœurs remontèrent aux gorges » — une image vivante de l'angoisse extrême à son apogée."
+  },
+  {
+    "id": "muhammad_45",
+    "question_ar": "ما السورة التي نزلت تُبشّر بنصر الله وتُشير إلى دخول الناس في الإسلام أفواجاً؟",
+    "options_ar": [
+      "سورة الفتح",
+      "سورة النصر",
+      "سورة الإسراء",
+      "سورة الأنفال"
+    ],
+    "correct": 1,
+    "explanation_ar": "سورة النصر: (إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ * وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا). نزلت بعد فتح مكة وتُلمّح إلى قرب وفاة النبي ﷺ وفهم ذلك الصحابة.",
+    "question_fr": "Quelle sourate fut révélée pour annoncer le triomphe d'Allah et l'entrée des gens dans l'islam en foules ?",
+    "options_fr": [
+      "Sourate al-Fath",
+      "Sourate an-Nasr",
+      "Sourate al-Isra'",
+      "Sourate al-Anfal"
+    ],
+    "explanation_fr": "Sourate an-Nasr : « Quand vient le secours d'Allah, ainsi que la victoire, et que tu vois les gens entrer en foules dans la religion d'Allah. » Elle fut révélée après la conquête de La Mecque et laissait entrevoir la mort prochaine du Prophète ﷺ, ce que les Compagnons comprirent."
+  },
+  {
+    "id": "muhammad_46",
+    "question_ar": "ما الهجرة الأولى التي أذن فيها النبي ﷺ لبعض المسلمين قبل الهجرة للمدينة؟",
+    "options_ar": [
+      "الهجرة إلى الطائف حيث كان النبي ﷺ يأمل بنصرتهم",
+      "الهجرة إلى الحبشة حيث وجد المسلمون ملكاً عادلاً هو النجاشي",
+      "الهجرة إلى اليمن حيث كانت الدعوة الإسلامية قد وصلت مبكراً",
+      "الهجرة إلى يثرب قبل الهجرة الكبرى بعدة سنوات"
+    ],
+    "correct": 1,
+    "explanation_ar": "أذن النبي ﷺ لبعض المسلمين بالهجرة إلى الحبشة هرباً من الاضطهاد، وكان ملكها النجاشي ملكاً عادلاً لا يُظلم عنده أحد. وكانت هجرتين: الأولى والثانية إلى الحبشة.",
+    "question_fr": "Quelle fut la première émigration que le Prophète ﷺ autorisa à certains musulmans avant l'Hégire vers Médine ?",
+    "options_fr": [
+      "L'émigration vers Ta'if, où le Prophète ﷺ espérait obtenir leur soutien",
+      "L'émigration vers l'Abyssinie, où les musulmans trouvèrent un roi juste, le Négus",
+      "L'émigration vers le Yémen, où la prédication islamique était arrivée précocement",
+      "L'émigration vers Yathrib, plusieurs années avant la grande Hégire"
+    ],
+    "explanation_fr": "Le Prophète ﷺ autorisa certains musulmans à émigrer vers l'Abyssinie pour fuir la persécution ; son roi, le Négus, était un souverain juste où nul n'était opprimé. Il y eut deux émigrations, la première et la seconde, vers l'Abyssinie."
+  },
+  {
+    "id": "muhammad_47",
+    "question_ar": "ما الرسالة التي حملها النبي ﷺ للإنسانية كما وصفها القرآن في قوله (وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ)؟",
+    "options_ar": [
+      "رسالة خاصة ببني إسرائيل ليُكمل ما بدأه موسى وعيسى",
+      "رسالة شاملة للإنسانية كلها في كل زمان ومكان بلا استثناء",
+      "رسالة للعرب تحديداً ليوحّدهم ويجعلهم أمة قائدة",
+      "رسالة مؤقتة تنتهي بوفاته ويقوم الصحابة بعده بتكملتها"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ). رحمة للبشر والجن والحيوان والبيئة — رسالة خاتمة لكل الإنسانية لا تنتهي بزمن أو مكان.",
+    "question_fr": "Quel message le Prophète ﷺ a-t-il porté pour l'humanité, tel que décrit par le Coran dans « Nous ne t'avons envoyé qu'en miséricorde pour les mondes » ?",
+    "options_fr": [
+      "Un message spécifique aux Fils d'Israël, achevant ce qu'avaient commencé Moussa et Issa",
+      "Un message universel pour toute l'humanité, en tout temps et en tout lieu, sans exception",
+      "Un message adressé spécifiquement aux Arabes, pour les unifier et en faire une nation dirigeante",
+      "Un message temporaire qui s'achève avec sa mort, les Compagnons devant le compléter après lui"
+    ],
+    "explanation_fr": "Allah dit : « Nous ne t'avons envoyé qu'en miséricorde pour les mondes. » Une miséricorde pour les humains, les djinns, les animaux et l'environnement — un message final pour toute l'humanité, ne s'achevant ni avec le temps ni avec le lieu."
+  },
+  {
+    "id": "muhammad_48",
+    "question_ar": "ما الصفة التي شهد بها أبو سفيان لشخصية النبي ﷺ أمام هرقل قيصر الروم؟",
+    "options_ar": [
+      "قال: ما عرفنا عليه كذباً قط في حياته كلها",
+      "قال: إنه أشجع الناس وأكثرهم تأثيراً في أتباعه",
+      "قال: إن أتباعه يزيدون ولا ينقصون رغم الحروب",
+      "كل ما سبق كان من شهاداته أمام هرقل"
+    ],
+    "correct": 3,
+    "explanation_ar": "سأل هرقل أبا سفيان (وكان عدواً للنبي ﷺ آنذاك) أسئلة دقيقة فأجاب صادقاً رغم عداوته. قال: ما عرفنا عليه كذباً، وأتباعه يزيدون. فقال هرقل: إن ما قلته يدل أنه نبي حقاً.",
+    "question_fr": "Quel témoignage Abou Soufyan a-t-il rendu sur la personnalité du Prophète ﷺ devant l'empereur byzantin Héraclius ?",
+    "options_fr": [
+      "Il dit : « Nous ne lui avons jamais connu de mensonge de toute sa vie »",
+      "Il dit : « C'est le plus courageux des hommes, et celui qui a le plus d'influence sur ses adeptes »",
+      "Il dit : « Ses adeptes ne cessent d'augmenter, malgré les guerres »",
+      "Tout ce qui précède faisait partie de ses témoignages devant Héraclius"
+    ],
+    "explanation_fr": "Héraclius posa à Abou Soufyan (alors ennemi du Prophète ﷺ) des questions précises, auxquelles il répondit avec sincérité malgré son hostilité. Il dit : « Nous ne lui avons jamais connu de mensonge, et ses adeptes augmentent. » Héraclius dit alors : « Ce que tu dis prouve qu'il est vraiment un prophète. »"
+  },
+  {
+    "id": "muhammad_49",
+    "question_ar": "لماذا وصف المؤرخون البشريون النبي محمداً ﷺ بأنه أعظم شخصية أثّرت في التاريخ؟",
+    "options_ar": [
+      "لأنه فتح أكبر مساحة جغرافية في تاريخ الفتوحات العسكرية",
+      "لأنه غيّر العقيدة والأخلاق والقانون والسياسة والحضارة لمليارات البشر خلال أقل من قرن",
+      "لأنه أسس أول نظام ديمقراطي في التاريخ القديم",
+      "لأنه كان أول من أعلن مبدأ المساواة بين الناس في القانون"
+    ],
+    "correct": 1,
+    "explanation_ar": "في ثلاث وعشرين سنة فقط، حوّل شبه جزيرة متفرقة إلى أمة واحدة، وأرسى مبادئ حقوق الإنسان والعدالة التي شكّلت الحضارة الإسلامية ثم أثّرت في الحضارة الغربية. لا مثيل لهذا التأثير في التاريخ.",
+    "question_fr": "Pourquoi les historiens ont-ils décrit le prophète Muhammad ﷺ comme la plus grande personnalité ayant influencé l'histoire ?",
+    "options_fr": [
+      "Parce qu'il conquit la plus vaste étendue géographique dans l'histoire des conquêtes militaires",
+      "Parce qu'il transforma la croyance, la morale, le droit, la politique et la civilisation de milliards d'humains en moins d'un siècle",
+      "Parce qu'il fonda le premier système démocratique de l'histoire ancienne",
+      "Parce qu'il fut le premier à proclamer le principe d'égalité devant la loi"
+    ],
+    "explanation_fr": "En seulement vingt-trois ans, il transforma une péninsule fragmentée en une nation unifiée, et établit les principes des droits humains et de la justice qui façonnèrent la civilisation islamique, laquelle influença ensuite la civilisation occidentale. Une influence sans équivalent dans l'histoire."
+  },
+  {
+    "id": "muhammad_50",
+    "question_ar": "ما الخلاصة الجامعة لشخصية النبي محمد ﷺ التي تجعله خاتم الأنبياء وأكملهم؟",
+    "options_ar": [
+      "أنه الأكثر عبادةً وأكثر غزواتٍ وأكثر صياماً من بين جميع الأنبياء",
+      "أنه جمع اليُتم والصدق والأمانة والصبر على الأذى والعفو عند المقدرة والتواضع في القمة ورسالة الرحمة للعالمين",
+      "أنه الوحيد الذي أُنزل عليه كتاب محفوظ إلى يوم القيامة",
+      "أنه الأول في الجنة والأول في الشفاعة والأول في خلع باب الجنة"
+    ],
+    "correct": 1,
+    "explanation_ar": "خاتم الأنبياء ﷺ جمع ما تفرّق في غيره: اليتيم الذي غيّر العالم، الصادق الأمين قبل النبوة، الصابر على الأذى عشرين عاماً، العافي عند المقدرة يوم الفتح، المتواضع في أعلى قمة. (وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ).",
+    "question_fr": "Quelle synthèse globale de la personnalité du prophète Muhammad ﷺ fait de lui le sceau et le plus parfait des prophètes ?",
+    "options_fr": [
+      "Qu'il fut le plus assidu dans l'adoration, le plus engagé dans les batailles, et le plus jeûneur parmi tous les prophètes",
+      "Qu'il réunit l'orphelinat, la véracité, la fiabilité, la patience face à l'adversité, le pardon au sommet du pouvoir, l'humilité au faîte de la gloire, et le message de miséricorde pour les mondes",
+      "Qu'il fut le seul à recevoir un Livre préservé jusqu'au Jour de la Résurrection",
+      "Qu'il fut le premier au Paradis, le premier à intercéder, et le premier à en ouvrir la porte"
+    ],
+    "explanation_fr": "Le sceau des prophètes ﷺ réunit ce qui était dispersé chez les autres : l'orphelin qui changea le monde, le véridique et digne de confiance avant même la prophétie, l'endurant face à l'adversité pendant vingt ans, celui qui pardonna au sommet de son pouvoir le jour de la conquête, l'humble au plus haut degré. « Et tu es certes d'une moralité éminente. »"
+  }
+]

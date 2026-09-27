@@ -1,0 +1,1002 @@
+[
+{
+"id": "nuh_01",
+"question_ar": "كم سنة لبث نوح عليه السلام يدعو قومه (على وجه التحديد كما ورد في القرآن)؟",
+"options_ar": [
+"ألف سنة كاملة بلا نقص",
+"تسعمائة وخمسين عاماً (ألف سنة إلا خمسين عاماً)",
+"تسعمائة عام بالتمام",
+"خمسين عاماً فقط ثم أُمر بالسفينة"
+],
+"correct": 1,
+"explanation_ar": "(فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ).",
+"question_fr": "Combien d'années Noé عليه السلام est-il resté parmi son peuple à les appeler à Allah, précisément selon le Coran ?",
+"options_fr": [
+"Mille années complètes sans diminution",
+"Neuf cent cinquante ans (mille ans moins cinquante ans)",
+"Neuf cents ans exactement",
+"Seulement cinquante ans, puis il reçut l'ordre de construire l'arche"
+],
+"explanation_fr": "« Il demeura parmi eux mille ans moins cinquante années, puis le déluge les saisit. »"
+},
+{
+"id": "nuh_02",
+"question_ar": "بماذا كان قوم نوح يردون عليه كلما دعاهم لتغفر ذنوبهم؟",
+"options_ar": [
+"كانوا يستمعون ثم يخالفون أمره سراً",
+"جعلوا أصابعهم في آذانهم واستغشوا ثيابهم",
+"كانوا يهربون من القرية عند رؤيته",
+"حاولوا محاكمته أمام الملك"
+],
+"correct": 1,
+"explanation_ar": "(جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا).",
+"question_fr": "Comment le peuple de Noé réagissait-il chaque fois qu'il les appelait afin qu'Allah leur pardonne ?",
+"options_fr": [
+"Ils l'écoutaient puis désobéissaient secrètement",
+"Ils mettaient leurs doigts dans leurs oreilles et se couvraient de leurs vêtements",
+"Ils fuyaient le village lorsqu'ils le voyaient",
+"Ils essayèrent de le faire juger devant le roi"
+],
+"explanation_fr": "« Ils mettaient leurs doigts dans leurs oreilles, se couvraient de leurs vêtements, persistaient dans leur refus et s'enflaient d'orgueil. »"
+},
+{
+"id": "nuh_03",
+"question_ar": "ما هي أسماء بعض الأصنام التي عبدها قوم نوح وذكرت في القرآن؟",
+"options_ar": [
+"اللات والعزى ومناة",
+"وداً وسواعاً ويغوث ويعوق ونسراً",
+"هبل وإساف ونائلة",
+"بعل وعشتار ومردوخ"
+],
+"correct": 1,
+"explanation_ar": "(وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا)، وكانت في الأصل أسماء رجال صالحين.",
+"question_fr": "Quels sont certains des noms des idoles adorées par le peuple de Noé et mentionnées dans le Coran ?",
+"options_fr": [
+"Al-Lat, Al-Uzza et Manat",
+"Wadd, Suwa, Yaghuth, Ya'uq et Nasr",
+"Hubal, Isaf et Na'ila",
+"Baal, Ishtar et Marduk"
+],
+"explanation_fr": "« Ils dirent : N'abandonnez jamais vos divinités, n'abandonnez jamais Wadd, Suwa, Yaghuth, Ya'uq et Nasr. » Elles étaient à l'origine les noms d'hommes vertueux."
+},
+{
+"id": "nuh_04",
+"question_ar": "بماذا توعد نوح قومه إن آمنوا واستغفروا ربهم؟",
+"options_ar": [
+"بأن يصبحوا ملوك الأراضي المجاورة",
+"بأن يرسل السماء عليهم مدراراً ويمددهم بأموال وبنين",
+"بأن لا يموت أحد منهم أبداً",
+"بأن الملائكة ستنزل لقصورهم"
+],
+"correct": 1,
+"explanation_ar": "(فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا * يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا...).",
+"question_fr": "Qu'a annoncé Noé à son peuple s'ils croyaient et demandaient pardon à leur Seigneur ?",
+"options_fr": [
+"Qu'ils deviendraient les rois des terres voisines",
+"Qu'Il ferait tomber sur eux une pluie abondante et les renforcerait par des biens et des enfants",
+"Qu'aucun d'entre eux ne mourrait jamais",
+"Que les anges descendraient dans leurs palais"
+],
+"explanation_fr": "« Demandez pardon à votre Seigneur, car Il est Grand Pardonneur. Il vous enverra du ciel des pluies abondantes... »"
+},
+{
+"id": "nuh_05",
+"question_ar": "ماذا كان يصنع قوم نوح وهو يبني السفينة؟",
+"options_ar": [
+"كانوا يراقبونه بخوف وترقب",
+"كانوا كلما مر عليه ملأ من قومه سخروا منه",
+"حاولوا حرق السفينة وتدميرها",
+"كانوا يساعدونه من باب الفضول"
+],
+"correct": 1,
+"explanation_ar": "(وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِ سَخِرُوا مِنْهُ).",
+"question_fr": "Que faisait le peuple de Noé pendant qu'il construisait l'arche ?",
+"options_fr": [
+"Ils l'observaient avec peur et inquiétude",
+"Chaque fois qu'un groupe de son peuple passait près de lui, ils se moquaient de lui",
+"Ils essayèrent de brûler et de détruire l'arche",
+"Ils l'aidaient par curiosité"
+],
+"explanation_fr": "« Il construisait l'arche et chaque fois qu'un groupe de son peuple passait près de lui, ils se moquaient de lui. »"
+},
+{
+"id": "nuh_06",
+"question_ar": "ما هي العلامة (الشرارة الأولى) التي جعلها الله لنوح لبدء الطوفان وركوب السفينة؟",
+"options_ar": [
+"أن تمطر السماء دماً",
+"أن يفور التنور (خروج الماء بقوة من فرن الخبز)",
+"أن تنشق الأرض عن عين ماء عظيمة",
+"أن تختفي الشمس ثلاثة أيام"
+],
+"correct": 1,
+"explanation_ar": "(حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ).",
+"question_fr": "Quel fut le signe donné par Allah à Noé pour annoncer le début du déluge et l'embarquement dans l'arche ?",
+"options_fr": [
+"Que le ciel fasse tomber du sang",
+"Que le four déborde (l'eau jaillissant avec force du four)",
+"Que la terre s'ouvre pour faire apparaître une immense source",
+"Que le soleil disparaisse pendant trois jours"
+],
+"explanation_fr": "« Puis, lorsque Notre ordre vint et que le four déborda, Nous dîmes : Charge dans l'arche un couple de chaque espèce. »"
+},
+{
+"id": "nuh_07",
+"question_ar": "من الذي أُمر نوح أن يحمله معه في السفينة؟",
+"options_ar": [
+"المؤمنين فقط دون الحيوانات",
+"من كل زوجين اثنين وأهله (إلا من سبق عليه القول) ومن آمن",
+"أهله جميعاً دون استثناء والمؤمنين",
+"عشرة رجال وعشر نساء من المؤمنين فقط"
+],
+"correct": 1,
+"explanation_ar": "(قُلْنَا احْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ وَمَنْ آمَنَ).",
+"question_fr": "Qui Noé reçut-il l'ordre de faire monter avec lui dans l'arche ?",
+"options_fr": [
+"Uniquement les croyants, sans les animaux",
+"Un couple de chaque espèce, sa famille (sauf ceux contre qui la décision avait déjà été prononcée) et ceux qui avaient cru",
+"Toute sa famille sans exception ainsi que les croyants",
+"Dix hommes et dix femmes parmi les croyants seulement"
+],
+"explanation_fr": "« Nous dîmes : Charge dans l'arche un couple de chaque espèce, ta famille sauf ceux contre qui la parole a déjà été prononcée, et ceux qui ont cru. »"
+},
+{
+"id": "nuh_08",
+"question_ar": "ما هو موقف ابن نوح عندما ناداه أبوه ليركب معه؟",
+"options_ar": [
+"ركب في اللحظة الأخيرة بعد تردد",
+"قال سآوي إلى جبل يعصمني من الماء",
+"بنى سفينة صغيرة لنفسه",
+"تظاهر بالإيمان وركب ثم هرب"
+],
+"correct": 1,
+"explanation_ar": "قال ابنه: (سَآوِي إِلَىٰ جَبَلٍ يَعْصِمُنِي مِنَ الْمَاءِ) فغرق وكان من الكافرين.",
+"question_fr": "Quelle fut la réaction du fils de Noé lorsque son père l'appela à monter avec lui ?",
+"options_fr": [
+"Il monta au dernier moment après avoir hésité",
+"Il dit : « Je vais me réfugier sur une montagne qui me protégera de l'eau »",
+"Il construisit une petite embarcation pour lui-même",
+"Il fit semblant de croire, monta puis s'enfuit"
+],
+"explanation_fr": "Son fils dit : « Je vais me réfugier sur une montagne qui me protégera de l'eau. » Il fut alors parmi ceux qui furent engloutis."
+},
+{
+"id": "nuh_09",
+"question_ar": "ماذا قال نوح لابنه وهو يحاول نصحه ألا يغرق؟",
+"options_ar": [
+"يا بني اركب معنا ولا تكن مع الكافرين",
+"يا بني انزل من الجبل فالماء سيصل إليه",
+"يا بني لن أسامحك أبداً إن لم تركب",
+"يا بني سأطلب من الله أن يرحمك"
+],
+"correct": 0,
+"explanation_ar": "(وَنَادَىٰ نُوحٌ ابْنَهُ وَكَانَ فِي مَعْزِلٍ يَا بُنَيَّ ارْكَب مَّعَنَا وَلَا تَكُن مَّعَ الْكَافِرِينَ).",
+"question_fr": "Que dit Noé à son fils lorsqu'il essayait de le conseiller pour qu'il ne soit pas englouti ?",
+"options_fr": [
+"Mon fils, monte avec nous et ne sois pas parmi les mécréants",
+"Mon fils, descends de la montagne car l'eau l'atteindra",
+"Mon fils, je ne te pardonnerai jamais si tu ne montes pas",
+"Mon fils, je demanderai à Allah d'avoir pitié de toi"
+],
+"explanation_fr": "« Noé appela son fils, qui était à l'écart : Mon fils, monte avec nous et ne sois pas avec les mécréants. »"
+},
+{
+"id": "nuh_10",
+"question_ar": "أين استوت سفينة نوح (أين رست) بعد انتهاء الطوفان؟",
+"options_ar": [
+"على جبل عرفات",
+"على جبل الجودي",
+"في جبل الطور بسيناء",
+"في أرض مكة المكرمة"
+],
+"correct": 1,
+"explanation_ar": "(وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي ... وَاسْتَوَتْ عَلَى الْجُودِيِّ).",
+"question_fr": "Où l'arche de Noé s'est-elle immobilisée après la fin du déluge ?",
+"options_fr": [
+"Sur le mont Arafat",
+"Sur le mont Al-Judi",
+"Sur le mont Sinaï",
+"Dans la région de La Mecque"
+],
+"explanation_fr": "« Il fut dit : Ô terre, absorbe ton eau, et ô ciel, cesse ! [...] et l'arche s'immobilisa sur Al-Judi. »"
+},
+{
+"id": "nuh_11",
+"question_ar": "كم عدد الذين آمنوا مع نوح طوال هذه المدة الطويلة؟",
+"options_ar": [
+"نصف سكان القرية",
+"وما آمن معه إلا قليل",
+"لم يؤمن معه أحد سوى زوجته وأبنائه",
+"مائة ألف شخص"
+],
+"correct": 1,
+"explanation_ar": "(وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ) ورغم ذلك استمر في دعوته بإخلاص.",
+"question_fr": "Combien de personnes ont cru avec Noé pendant cette très longue période ?",
+"options_fr": [
+"La moitié des habitants du village",
+"Seul un petit nombre crut avec lui",
+"Personne ne crut avec lui sauf sa femme et ses fils",
+"Cent mille personnes"
+],
+"explanation_fr": "« Et peu de gens crurent avec lui. » Malgré cela, il continua son appel avec sincérité."
+},
+{
+"id": "nuh_12",
+"question_ar": "بماذا دعا نوح ربه على قومه في النهاية عندما يئس من إيمانهم؟",
+"options_ar": [
+"أن يمسخهم قردة وخنازير",
+"رب لا تذر على الأرض من الكافرين دياراً",
+"أن ينزل عليهم ناراً من السماء",
+"أن يشتت شملهم ويخذلهم"
+],
+"correct": 1,
+"explanation_ar": "لأنهم لن يلدوا إلا فاجراً كفاراً (وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا).",
+"question_fr": "Quelle invocation Noé adressa-t-il finalement à son Seigneur lorsqu'il perdit espoir de voir son peuple croire ?",
+"options_fr": [
+"Qu'Il les transforme en singes et en porcs",
+"« Seigneur, ne laisse sur la terre aucun mécréant »",
+"Qu'Il fasse descendre sur eux un feu du ciel",
+"Qu'Il disperse leur communauté et les abandonne"
+],
+"explanation_fr": "« Et Noé dit : Seigneur, ne laisse sur la terre aucun mécréant. »"
+},
+{
+"id": "nuh_13",
+"question_ar": "لماذا سخر الملأ من قوم نوح من صناعته للسفينة؟",
+"options_ar": [
+"لأن شكل السفينة كان غريباً بالنسبة لهم",
+"لأنه كان يبنيها في الصحراء بعيداً عن الأنهار والبحار",
+"لأنهم كانوا يملكون سفناً أفضل وأسرع",
+"لأنه لم يكن يملك خشباً كافياً"
+],
+"correct": 1,
+"explanation_ar": "كان يبني فُلكاً ضخماً على الرمل بعيداً عن أي بحر، فلم يصدقوا أنه سيكون هناك ماء فضلاً عن طوفان.",
+"question_fr": "Pourquoi les notables du peuple de Noé se moquaient-ils de la construction de l'arche ?",
+"options_fr": [
+"Parce que la forme de l'arche leur paraissait étrange",
+"Parce qu'il la construisait dans une région éloignée des rivières et des mers",
+"Parce qu'ils possédaient des navires meilleurs et plus rapides",
+"Parce qu'il n'avait pas assez de bois"
+],
+"explanation_fr": "Il construisait une grande arche loin de toute mer, et ils ne croyaient même pas qu'il y aurait de l'eau, encore moins un déluge."
+},
+{
+"id": "nuh_14",
+"question_ar": "ماذا رد نوح على سخرية قومه؟",
+"options_ar": [
+"إن تسخروا منا فإنا نسخر منكم كما تسخرون",
+"تجاهلهم تماماً ولم ينطق بكلمة",
+"هددهم بالقتل إن سخروا مرة أخرى",
+"قال لهم: انتظروا عذاب السيف"
+],
+"correct": 0,
+"explanation_ar": "(قَالَ إِن تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ).",
+"question_fr": "Que répondit Noé aux moqueries de son peuple ?",
+"options_fr": [
+"« Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez de nous »",
+"Il les ignora complètement et ne dit pas un mot",
+"Il les menaça de les tuer s'ils se moquaient encore",
+"Il leur dit : « Attendez le châtiment par l'épée »"
+],
+"explanation_fr": "« Il dit : Si vous vous moquez de nous, nous nous moquerons de vous comme vous vous moquez. »"
+},
+{
+"id": "nuh_15",
+"question_ar": "بماذا خاطب الله نوحاً عندما سأله عن ابنه الذي غرق؟",
+"options_ar": [
+"قال: إنه من أهلك لكنه أخطأ",
+"قال: إنه ليس من أهلك إنَّه عملٌ غير صالح",
+"قال: سأحييه لك لتختبره مرة أخرى",
+"قال: لقد غرق بالخطأ"
+],
+"correct": 1,
+"explanation_ar": "(قَالَ يَا نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ ۖ إِنَّهُ عَمَلٌ غَيْرُ صَالِحٍ) فرابطة الإيمان أقوى من رابطة الدم.",
+"question_fr": "Que dit Allah à Noé lorsqu'il l'interrogea au sujet de son fils qui avait été englouti ?",
+"options_fr": [
+"Il dit : Il fait partie de ta famille, mais il a commis une erreur",
+"Il dit : Il ne fait pas partie de ta famille ; son œuvre n'est pas pieuse",
+"Il dit : Je vais le ramener à la vie pour que tu le mettes à l'épreuve",
+"Il dit : Il a été englouti par accident"
+],
+"explanation_fr": "« Ô Noé, il ne fait pas partie de ta famille, car son œuvre n'est pas pieuse. » Le lien de la foi est plus fort que le lien du sang."
+},
+{
+"id": "nuh_16",
+"question_ar": "كيف وصف الله نجاة نوح والمؤمنين بالسفينة بكلمة جامعة؟",
+"options_ar": [
+"وجعلناها آية للعالمين",
+"ونجيناهم في الفلك المشحون",
+"ونجيناه والذين معه برحمة منا",
+"جميع ما سبق ذُكر في آيات متفرقة"
+],
+"correct": 3,
+"explanation_ar": "وردت التعبيرات المذكورة في القرآن لوصف النجاة كسورة الشعراء وسورة العنكبوت والأعراف.",
+"question_fr": "Comment Allah décrit-Il la délivrance de Noé et des croyants dans l'arche ?",
+"options_fr": [
+"« Et Nous en avons fait un signe pour les mondes »",
+"« Et Nous les avons sauvés dans l'arche chargée »",
+"« Et Nous le sauvâmes, ainsi que ceux qui étaient avec lui, par une miséricorde venant de Nous »",
+"Toutes les réponses précédentes sont mentionnées dans différents versets"
+],
+"explanation_fr": "Les expressions citées apparaissent dans le Coran pour décrire leur délivrance, notamment dans les sourates Ash-Shu'ara, Al-Ankabut et Al-A'raf."
+},
+{
+"id": "nuh_17",
+"question_ar": "هل آمنت زوجة نوح عليه السلام به؟",
+"options_ar": [
+"نعم، وكانت من أول المؤمنات وركبت السفينة",
+"لا، بل كانت تخونه في الدين (بالكفر وإفشاء سره) فغَرِقت",
+"آمنت سراً ولم تخبره",
+"لا يوجد ذكر لزوجته في القرآن"
+],
+"correct": 1,
+"explanation_ar": "(ضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا امْرَأَتَ نُوحٍ وَامْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَالِحَيْنِ فَخَانَتَاهُمَا).",
+"question_fr": "L'épouse de Noé عليه السلام a-t-elle cru en lui ?",
+"options_fr": [
+"Oui, elle fut parmi les premières croyantes et monta dans l'arche",
+"Non, elle était mécréante et trahissait son engagement religieux, puis elle fut parmi les engloutis",
+"Elle crut secrètement sans le lui dire",
+"Son épouse n'est pas mentionnée dans le Coran"
+],
+"explanation_fr": "« Allah donne en exemple aux mécréants la femme de Noé et la femme de Lot... elles trahirent tous deux leurs maris. »"
+},
+{
+"id": "nuh_18",
+"question_ar": "ماذا علمنا نوح عليه السلام عند الركوب والذي نردده كدعاء للسفر؟",
+"options_ar": [
+"بسم الله مجراها ومرساها",
+"سبحان الذي سخر لنا هذا",
+"الحمد لله الذي نجانا من القوم الظالمين",
+"الأولى والثالثة صحيحتان"
+],
+"correct": 3,
+"explanation_ar": "أمره الله أن يقول 'الحمدلله الذي نجانا' وقال هو 'بسم الله مجراها ومرساها' عند الركوب.",
+"question_fr": "Quelles paroles Noé nous a-t-il enseignées au moment de monter à bord, que nous pouvons réciter comme invocation lors d'un voyage ?",
+"options_fr": [
+"« Au nom d'Allah, son parcours et son amarrage »",
+"« Gloire à Celui qui nous a soumis ceci »",
+"« Louange à Allah qui nous a sauvés du peuple injuste »",
+"Les première et troisième réponses sont correctes"
+],
+"explanation_fr": "Allah lui ordonna de dire « Louange à Allah qui nous a sauvés », et Noé dit : « Au nom d'Allah, son parcours et son amarrage » au moment de monter."
+},
+{
+"id": "nuh_19",
+"question_ar": "ما هي الحجة التي استخدمها زعماء الكفار للتقليل من شأن من اتبع نوحاً؟",
+"options_ar": [
+"أنهم فقراء و(أراذلنا بادي الرأي) ولا رأي لهم",
+"أنهم ليسوا من نفس القبيلة العربية",
+"أنهم جميعاً أطفال صغار",
+"أنهم مجرمون قطاع طرق"
+],
+"correct": 0,
+"explanation_ar": "قالوا (وَمَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ) احتقاراً للفقراء والمساكين.",
+"question_fr": "Quel argument les dirigeants mécréants utilisaient-ils pour rabaisser ceux qui avaient suivi Noé ?",
+"options_fr": [
+"Qu'ils étaient pauvres et, selon eux, des gens méprisables sans importance",
+"Qu'ils n'étaient pas de la même tribu arabe",
+"Qu'ils étaient tous de jeunes enfants",
+"Qu'ils étaient des criminels et des bandits"
+],
+"explanation_fr": "Ils dirent : « Nous ne voyons que les plus méprisables d'entre nous te suivre au premier abord », par mépris envers les pauvres et les nécessiteux."
+},
+{
+"id": "nuh_20",
+"question_ar": "هل كان نوح عليه السلام يبني السفينة من وحي خياله وابتكاره؟",
+"options_ar": [
+"نعم، كان نجاراً محترفاً قبل النبوة",
+"لا، بل صنعها (بأعيننا ووحينا) تحت إشراف رباني دقيق",
+"استعان بمهندسين من الملائكة علناً",
+"استوحى الشكل من سفينة قديمة رآها"
+],
+"correct": 1,
+"explanation_ar": "لم تكن صناعة السفينة باجتهاد بشري بحت بل (وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا).",
+"question_fr": "Noé construisait-il l'arche selon sa propre imagination et son invention ?",
+"options_fr": [
+"Oui, il était charpentier professionnel avant sa mission prophétique",
+"Non, il la construisit sous la surveillance et la révélation d'Allah",
+"Il demanda publiquement l'aide d'ingénieurs parmi les anges",
+"Il s'inspira d'une ancienne embarcation qu'il avait vue"
+],
+"explanation_fr": "La construction de l'arche n'était pas une simple initiative humaine : « Construis l'arche sous Nos yeux et selon Notre révélation. »"
+},
+{
+"id": "nuh_21",
+"question_ar": "كيف كانت نهاية القوم الكافرين حسب التوصيف القرآني المباشر؟",
+"options_ar": [
+"أُغرقوا فقط في الدنيا",
+"مما خطيئاتهم أغرقوا فأدخلوا ناراً",
+"مسخوا إلى حجارة صماء",
+"جاءتهم صيحة من السماء أماتتهم ثم غرقوا"
+],
+"correct": 1,
+"explanation_ar": "(مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا).",
+"question_fr": "Quelle fut la fin du peuple mécréant selon la description directe du Coran ?",
+"options_fr": [
+"Ils furent seulement engloutis dans ce monde",
+"À cause de leurs péchés, ils furent engloutis puis introduits dans le Feu",
+"Ils furent transformés en pierres silencieuses",
+"Un cri céleste les fit mourir avant qu'ils ne soient engloutis"
+],
+"explanation_fr": "« À cause de leurs fautes, ils furent engloutis puis introduits dans le Feu. »"
+},
+{
+"id": "nuh_22",
+"question_ar": "نوح عليه السلام يلقب بأبي البشر الثاني، فما الدليل القرآني على أن البشرية اليوم من نسله فقط؟",
+"options_ar": [
+"كلا، البشرية اليوم من نسل كل من كان في السفينة",
+"لقوله تعالى: (وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاقِينَ)",
+"جميع أبنائه أوتوا النبوة من بعده",
+"لأن السفينة لم تحمل سوى أهل بيته فقط"
+],
+"correct": 1,
+"explanation_ar": "الذين آمنوا نجوا ولكنهم لم يعقبوا، والنسل الباقي انحصر في ذرية نوح (سام، حام، يافث).",
+"question_fr": "Noé عليه السلام est parfois appelé le second père de l'humanité. Quel est l'argument coranique cité pour indiquer que la descendance restante venait de lui ?",
+"options_fr": [
+"Non, l'humanité actuelle descend de tous ceux qui étaient dans l'arche",
+"La parole d'Allah : « Et Nous avons fait de sa descendance les survivants »",
+"Tous ses fils reçurent la prophétie après lui",
+"Parce que l'arche ne transportait que les membres de sa famille"
+],
+"explanation_fr": "Les croyants furent sauvés, mais la descendance restante est traditionnellement rattachée à la descendance de Noé : Sam, Ham et Yafith."
+},
+{
+"id": "nuh_23",
+"question_ar": "ما الأسلوب الذي استخدمه نوح في دعوة قومه كما وصف في سورة نوح؟",
+"options_ar": [
+"دعاهم سراً فقط تجنباً لأذاهم",
+"دعاهم جهاراً فقط في تجمعاتهم",
+"دعاهم ليلاً ونهاراً، سراً وجهاراً وإعلاناً",
+"اكتفى بإرسال رسائل مكتوبة لهم"
+],
+"correct": 2,
+"explanation_ar": "(قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا ... ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا * ثُمَّ إِنِّي أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا).",
+"question_fr": "Quelle méthode Noé utilisait-il pour appeler son peuple, comme le décrit la sourate Nuh ?",
+"options_fr": [
+"Il les appelait seulement en secret pour éviter leurs nuisances",
+"Il les appelait seulement publiquement dans leurs rassemblements",
+"Il les appelait nuit et jour, en secret, ouvertement et publiquement",
+"Il se contentait de leur envoyer des messages écrits"
+],
+"explanation_fr": "« Seigneur, j'ai appelé mon peuple nuit et jour... Puis je les ai appelés ouvertement, puis je leur ai parlé publiquement et en secret. »"
+},
+{
+"id": "nuh_24",
+"question_ar": "عندما شكك القوم في دعوة نوح، بماذا اتهموه وأتباعه في قوله تعالى (وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ...)؟",
+"options_ar": [
+"كَاذِبِينَ",
+"مَجَانِينَ",
+"سَاحِرِينَ",
+"طَامِعِينَ فِي الْمُلْكِ"
+],
+"correct": 0,
+"explanation_ar": "(بَلْ نَظُنُّكُمْ كَاذِبِينَ) لم يجدوا حجة فعايروهم بالفقر وكذبوهم.",
+"question_fr": "Lorsqu'ils mirent en doute l'appel de Noé, comment l'accusèrent-ils lui et ses disciples dans le verset : « Nous ne voyons en vous aucun mérite par rapport à nous, mais nous pensons que vous êtes... » ?",
+"options_fr": [
+"Des menteurs",
+"Des fous",
+"Des magiciens",
+"Des gens qui convoitent le pouvoir"
+],
+"explanation_fr": "« Mais nous pensons que vous êtes des menteurs. » Ne trouvant pas d'argument, ils les traitèrent de pauvres et les rejetèrent."
+},
+{
+"id": "nuh_25",
+"question_ar": "كيف كانت موجة الطوفان في شدتها كما وصفها القرآن الكريم؟",
+"options_ar": [
+"موجاً كبيراً يغطي المنازل",
+"موجاً كالجبال التهم الأرض بأكملها",
+"فيضاناً عادياً كفيضانات الأنهار",
+"كأمواج البحر الهائجة فقط"
+],
+"correct": 1,
+"explanation_ar": "(وَهِيَ تَجْرِي بِهِمْ فِي مَوْجٍ كَالْجِبَالِ) دلالة على الارتفاع المهول والشدة.",
+"question_fr": "Quelle était l'intensité des vagues du déluge selon la description coranique ?",
+"options_fr": [
+"De grandes vagues couvrant les maisons",
+"Des vagues semblables à des montagnes",
+"Une inondation ordinaire comme celles des rivières",
+"Seulement des vagues marines agitées"
+],
+"explanation_fr": "« Elle avançait avec eux au milieu de vagues semblables à des montagnes », ce qui indique leur hauteur et leur puissance considérables."
+},
+{
+"id": "nuh_26",
+"question_ar": "من أول رسول بُعث لأهل الأرض لمحاربة الشرك بعد آدم؟",
+"options_ar": [
+"هود عليه السلام",
+"شيث عليه السلام",
+"نوح عليه السلام",
+"إدريس عليه السلام"
+],
+"correct": 2,
+"explanation_ar": "نوح هو أول الرسل إلى أهل الأرض لمحاربة الشرك الوثني، بينما إدريس كان نبياً قبل نوح.",
+"question_fr": "Quel fut le premier messager envoyé aux habitants de la terre pour combattre le polythéisme après Adam ?",
+"options_fr": [
+"Hud عليه السلام",
+"Shith عليه السلام",
+"Noé عليه السلام",
+"Idris عليه السلام"
+],
+"explanation_fr": "Noé est présenté comme le premier messager envoyé aux habitants de la terre pour combattre l'idolâtrie, tandis qu'Idris était un prophète avant Noé."
+},
+{
+"id": "nuh_27",
+"question_ar": "ماذا قصد القوم بقولهم لنوح (يَا نُوحُ قَدْ جَادَلْتَنَا فَأَكْثَرْتَ جِدَالَنَا)؟",
+"options_ar": [
+"طلبوا منه أن يغير أسلوبه في الكلام الجميل",
+"ملّوا من كثرة دعوتهم وطلبوا منه أن يأتي بالعذاب إن كان صادقاً",
+"أعجبوا بحجته ولكنهم خافوا من الكبراء",
+"أرادوا مناظرة علنية أمام الجميع"
+],
+"correct": 1,
+"explanation_ar": "ضاقوا ذرعاً بالنصيحة فقالوا (فَأْتِنَا بِمَا تَعِدُنَا إِن كُنتَ مِنَ الصَّادِقِينَ).",
+"question_fr": "Que voulaient dire les gens lorsqu'ils dirent à Noé : « Ô Noé, tu as discuté avec nous et multiplié les discussions » ?",
+"options_fr": [
+"Ils lui demandaient de changer sa manière de parler",
+"Ils en avaient assez de ses appels et lui demandèrent de faire venir le châtiment s'il disait vrai",
+"Ils avaient été impressionnés par ses arguments mais craignaient les dirigeants",
+"Ils voulaient un débat public devant tout le monde"
+],
+"explanation_fr": "Ils furent lassés des conseils et dirent : « Fais donc venir ce que tu nous promets, si tu es du nombre des véridiques. »"
+},
+{
+"id": "nuh_28",
+"question_ar": "ما هو الرد الحاسم لنوح عندما طالبه الكبراء بطرد الفقراء من حوله ليؤمنوا به؟",
+"options_ar": [
+"وافق على طردهم مؤقتاً لمصلحة الدعوة",
+"قال (وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ إِنْ أَنَا إِلَّا نَذِيرٌ مُّبِينٌ)",
+"أخبر المؤمنين أن يختبئوا يوم زيارة الكبراء",
+"طلب من الفقراء التنازل عن مكانتهم طواعية"
+],
+"correct": 1,
+"explanation_ar": "نوح عليه السلام رفض المفاصلة الطبقية وأكد أن الإيمان هو معيار القبول.",
+"question_fr": "Quelle fut la réponse ferme de Noé lorsque les notables lui demandèrent de chasser les pauvres qui l'entouraient afin de croire en lui ?",
+"options_fr": [
+"Il accepta de les chasser temporairement pour le bien de la mission",
+"Il dit : « Je ne vais pas chasser les croyants ; je ne suis qu'un avertisseur explicite »",
+"Il demanda aux croyants de se cacher lors de la visite des notables",
+"Il demanda aux pauvres de renoncer volontairement à leur place"
+],
+"explanation_fr": "Noé refusa toute distinction fondée sur la classe sociale et affirma que la foi était le critère d'acceptation."
+},
+{
+"id": "nuh_29",
+"question_ar": "ما الوصف الذي أطلقه القرآن الكريم على سفينة نوح (ذات ألواح و...)؟",
+"options_ar": [
+"مسمار",
+"دُسُر (مسامير أو حبال تشد الألواح)",
+"شراع",
+"مجاديف"
+],
+"correct": 1,
+"explanation_ar": "(وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ).",
+"question_fr": "Quel terme le Coran utilise-t-il pour décrire l'arche de Noé : « faite de planches et de... » ?",
+"options_fr": [
+"Clous",
+"Dusur (éléments servant à fixer les planches, comme des clous ou des liens)",
+"Voile",
+"Rames"
+],
+"explanation_fr": "« Et Nous le portâmes sur une embarcation faite de planches et de Dusur. »"
+},
+{
+"id": "nuh_30",
+"question_ar": "ماذا يدل قول نوح (إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا)؟",
+"options_ar": [
+"أن القوم اتبعوا سحرة الجن",
+"أنهم انقادوا خلف الزعماء والأغنياء الذين زادهم كفرهم خسراناً",
+"أنهم اتبعوا ديناً جاء من بلد بعيد",
+"أن المال والولد يمنعان الإيمان دائماً"
+],
+"correct": 1,
+"explanation_ar": "هذا حال الغالبية العظمى، ينقادون للكبار والأغنياء أصحاب النفوذ وإن كانوا على باطل.",
+"question_fr": "Que montre la parole de Noé : « Ils m'ont désobéi et ont suivi celui dont les biens et les enfants n'ont fait qu'accroître la perte » ?",
+"options_fr": [
+"Que son peuple suivait des magiciens parmi les djinns",
+"Qu'ils suivaient les dirigeants et les riches dont la mécréance ne faisait qu'accroître la perte",
+"Qu'ils suivaient une religion venue d'un pays lointain",
+"Que les richesses et les enfants empêchent toujours la foi"
+],
+"explanation_fr": "Cela décrit ceux qui suivent les personnes puissantes et riches malgré le fait qu'elles soient dans l'erreur."
+},
+{
+"id": "nuh_31",
+"question_ar": "كم باباً كان للسفينة وكم طابقاً، وفقاً للمرويات التفسيرية؟",
+"options_ar": [
+"طابق واحد وباب واحد",
+"ثلاثة طوابق (للدواب، البشر النجوم، الطيور)",
+"سبعة طوابق",
+"خمسة طوابق ولها أشرعة"
+],
+"correct": 1,
+"explanation_ar": "تذكر كتب التفسير أنها كانت من 3 طبقات: السفلية للدواب، والوسطى للإنسان، والعليا للطيور.",
+"question_fr": "Combien de niveaux l'arche aurait-elle eus selon les récits exégétiques ?",
+"options_fr": [
+"Un niveau et une porte",
+"Trois niveaux (pour les animaux, les humains et les oiseaux)",
+"Sept niveaux",
+"Cinq niveaux avec des voiles"
+],
+"explanation_fr": "Certains ouvrages d'exégèse rapportent qu'elle aurait eu trois niveaux : le niveau inférieur pour les animaux, le niveau intermédiaire pour les humains et le niveau supérieur pour les oiseaux."
+},
+{
+"id": "nuh_32",
+"question_ar": "كيف كان عقاب الكافرين معنويا بتسلسل القرآن (أُغرقوا فأُدخلوا ناراً فلم يجدوا لهم من دون الله...)؟",
+"options_ar": [
+"ملاذاً",
+"أنصاراً",
+"طوق نجاة",
+"شفيعاً"
+],
+"correct": 1,
+"explanation_ar": "غرق، ثم دحول النار في البرزخ، ولا ناصر يمنع عنهم (فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا).",
+"question_fr": "Selon la succession décrite dans le Coran, quel fut le sort des mécréants après avoir été engloutis puis introduits dans le Feu, sans trouver auprès d'Allah de... ?",
+"options_fr": [
+"Refuge",
+"Secours",
+"Bouée de sauvetage",
+"Intercesseur"
+],
+"explanation_fr": "Ils furent engloutis puis introduits dans le Feu et ne trouvèrent aucun secours en dehors d'Allah."
+},
+{
+"id": "nuh_33",
+"question_ar": "من كان أول من عاب على نوح عليه السلام ودعوته علنًا (الملأ)؟",
+"options_ar": [
+"أخوه شيث",
+"زعماء وكبراء القوم أصحاب النفوذ",
+"زوجته وابنه",
+"كهنة المعابد المجاورة"
+],
+"correct": 1,
+"explanation_ar": "دائماً (الملأ) وهم الكبراء والزعماء هم طليعة المواجهة للأنبياء حفاظاً على مناصبهم.",
+"question_fr": "Qui, parmi les « notables », fut le premier à critiquer publiquement Noé et son appel ?",
+"options_fr": [
+"Son frère Shith",
+"Les dirigeants et notables influents du peuple",
+"Son épouse et son fils",
+"Les prêtres des temples voisins"
+],
+"explanation_fr": "Les « notables », c'est-à-dire les dirigeants et les personnes influentes, sont présentés comme ceux qui s'opposaient publiquement à l'appel de Noé."
+},
+{
+"id": "nuh_34",
+"question_ar": "لماذا لم تكن دعوة نوح مقتصرة على القول فقط، بدليل قوله (أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا...)؟",
+"options_ar": [
+"لأنه كان يستخدم آيات الله في الكون (التأمل) كدليل لإثبات الخالق",
+"لأنه كان يطير بهم ليروا السماء",
+"لأنه بنى برجاً عالياً ليرصدوا النجوم",
+"هذه الآية من سورة إبراهيم وليس نوح"
+],
+"correct": 0,
+"explanation_ar": "استخدم نوح أدلة كونية كالسموات والشمس والقمر والأرض ليلفت انتباههم لقدرة الله.",
+"question_fr": "Pourquoi l'appel de Noé ne se limitait-il pas à la parole, comme le montre son évocation des sept cieux superposés ?",
+"options_fr": [
+"Parce qu'il utilisait les signes de la création comme preuves de l'existence et de la puissance du Créateur",
+"Parce qu'il les faisait voler pour observer le ciel",
+"Parce qu'il construisit une haute tour pour observer les étoiles",
+"Ce verset appartient à la sourate Ibrahim et non à la sourate Nuh"
+],
+"explanation_fr": "Noé utilisait des signes de la création, comme les cieux, le soleil, la lune et la terre, pour attirer leur attention sur la puissance d'Allah."
+},
+{
+"id": "nuh_35",
+"question_ar": "متى طلب نوح عليه السلام المغفرة لوالديه ولنفسه والمؤمنين؟",
+"options_ar": [
+"في أول يوم من دعوته",
+"في نهاية دعائه بعد أن طلب هلاك الكافرين، طلب المغفرة لأهل الإيمان",
+"عندما صعد السفينة فقط",
+"بعد أن هبط من السفينة واستقرت"
+],
+"correct": 1,
+"explanation_ar": "ختم دعاءه القوي بقوله: (رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ).",
+"question_fr": "Quand Noé demanda-t-il pardon pour ses parents, pour lui-même et pour les croyants ?",
+"options_fr": [
+"Le premier jour de sa mission",
+"À la fin de son invocation, après avoir demandé la fin des mécréants, il demanda pardon pour les croyants",
+"Lorsqu'il monta dans l'arche seulement",
+"Après être descendu de l'arche et qu'elle se fut immobilisée"
+],
+"explanation_fr": "Il termina sa grande invocation en disant : « Seigneur, pardonne-moi, ainsi qu'à mes parents, à celui qui entre dans ma maison en croyant, ainsi qu'aux croyants et aux croyantes. »"
+},
+{
+"id": "nuh_36",
+"question_ar": "في سورة القم، كيف وصف الله السماء والأرض تلبية لأمره بالطوفان؟",
+"options_ar": [
+"ففتحنا أبواب السماء بماء منهمر وفجرنا الأرض عيونا",
+"فأنزلنا من السماء ماء طهورا",
+"أمطرت السماء دماً وانشقت الأرض",
+"فجاءهم طوفان عظيم من جهة البحر"
+],
+"correct": 0,
+"explanation_ar": "(فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُّنْهَمِرٍ * وَفَجَّرْنَا الْأَرْضَ عُيُونًا فَالْتَقَى الْمَاءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ).",
+"question_fr": "Dans la sourate Al-Qamar, comment Allah décrit-Il le ciel et la terre lorsqu'Il ordonna le déluge ?",
+"options_fr": [
+"Nous ouvrîmes les portes du ciel avec une eau abondante et fîmes jaillir de la terre des sources",
+"Nous fîmes descendre du ciel une eau pure",
+"Le ciel fit tomber du sang et la terre se fendit",
+"Un immense déluge vint de la mer"
+],
+"explanation_fr": "« Nous ouvrîmes les portes du ciel avec une eau abondante et fîmes jaillir de la terre des sources ; les eaux se rencontrèrent selon un ordre déjà décrété. »"
+},
+{
+"id": "nuh_37",
+"question_ar": "ما هو الدرس العظيم من غرق ابن نوح وزوجته في الطوفان؟",
+"options_ar": [
+"أن الأنبياء لم يحبوا أسرهم كثيراً",
+"أن القرابة من الصالحين لا تنجي من العذاب إن فُقِد الإيمان",
+"أن الابن كان خارج المنزل لحظة الطوفان بالخطأ",
+"أن السفينة لم تتسع للجميع"
+],
+"correct": 1,
+"explanation_ar": "الإيمان هو الرابطة الوحيدة المنجية وليس النسب، وهذا قمة العدل الإلهي.",
+"question_fr": "Quelle grande leçon peut-on tirer du sort du fils de Noé et de son épouse lors du déluge ?",
+"options_fr": [
+"Que les prophètes n'aimaient pas beaucoup leurs familles",
+"Que la proximité avec des personnes pieuses ne sauve pas du châtiment lorsque la foi fait défaut",
+"Que le fils se trouvait accidentellement à l'extérieur de la maison au moment du déluge",
+"Que l'arche n'était pas assez grande pour tout le monde"
+],
+"explanation_fr": "La foi est le lien qui sauve, et non la simple filiation."
+},
+{
+"id": "nuh_38",
+"question_ar": "هل كان نوح عليه السلام يدعي أنه يستطيع إتيان العجائب وخزائن الله؟",
+"options_ar": [
+"نعم، ليقنع قومه",
+"لا، بل صرّح لهم: لا أقول لكم عندي خزائن الله ولا أعلم الغيب ولا أقول إني ملك",
+"نعم ادعى أنه ملَك بلسان النبوة",
+"لم يتحدث في هذا الأمر أبداً"
+],
+"correct": 1,
+"explanation_ar": "(وَلَا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ إِنِّي مَلَكٌ).",
+"question_fr": "Noé prétendait-il pouvoir accomplir des miracles à volonté ou posséder les trésors d'Allah ?",
+"options_fr": [
+"Oui, pour convaincre son peuple",
+"Non, il leur déclara : « Je ne vous dis pas que je possède les trésors d'Allah, que je connais l'invisible ou que je suis un ange »",
+"Oui, il prétendait être un ange par sa mission prophétique",
+"Il ne parla jamais de cette question"
+],
+"explanation_fr": "« Je ne vous dis pas que je possède les trésors d'Allah, que je connais l'invisible, ni que je suis un ange. »"
+},
+{
+"id": "nuh_39",
+"question_ar": "بم أمر الله الأرض والسماء بعد أن أهلك الكافرين وأنجى نوحا؟",
+"options_ar": [
+"يا سماء كُفي، ويا أرض أخرجي نباتك",
+"يا أرض ابلعي ماءك ويا سماء أقلعي",
+"يا جوديّ تقبل السفينة",
+"أرسل ملائكة لشفط الماء"
+],
+"correct": 1,
+"explanation_ar": "كان الخطاب للأرض والسماء مباشراً بحزم جلالة: (وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي).",
+"question_fr": "Qu'ordonna Allah à la terre et au ciel après avoir fait périr les mécréants et sauvé Noé ?",
+"options_fr": [
+"Ô ciel, cesse, et ô terre, fais pousser tes plantes",
+"Ô terre, absorbe ton eau, et ô ciel, cesse",
+"Ô Judi, accueille l'arche",
+"Il envoya des anges pour retirer l'eau"
+],
+"explanation_fr": "L'ordre fut adressé directement à la terre et au ciel : « Ô terre, absorbe ton eau, et ô ciel, cesse. »"
+},
+{
+"id": "nuh_40",
+"question_ar": "ما هي أول رسالة قالها نوح لقومه وهي جوهر دعوة كل الرسل؟",
+"options_ar": [
+"يا قوم ابنوا لي سفينة",
+"يا قوم لا تتزوجوا من الكافرات",
+"يا قوم اعبدوا الله ما لكم من إله غيره",
+"يا قوم تصدقوا للفقراء"
+],
+"correct": 2,
+"explanation_ar": "عقيدة التوحيد الصافية هي أول ما ينطق به أي رسول (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ).",
+"question_fr": "Quel fut le premier message de Noé à son peuple, qui constitue le cœur de l'appel de tous les messagers ?",
+"options_fr": [
+"Ô mon peuple, construisez-moi une arche",
+"Ô mon peuple, ne vous mariez pas avec des mécréantes",
+"Ô mon peuple, adorez Allah ; vous n'avez pas d'autre divinité que Lui",
+"Ô mon peuple, faites l'aumône aux pauvres"
+],
+"explanation_fr": "Le monothéisme pur est au cœur du message : « Adorez Allah ; vous n'avez pas d'autre divinité que Lui. »"
+},
+{
+"id": "nuh_41",
+"question_ar": "هل شعر نوح عليه السلام بالندم على سؤاله ربه بخصوص ابنه؟",
+"options_ar": [
+"لا، ظل يسأل حتى النهاية",
+"نعم، استعاذ واستغفر ربه واعتذر",
+"حزن وبقي صامتاً دون اعتذار",
+"أمره الله بعدم الحزن ففرح"
+],
+"correct": 1,
+"explanation_ar": "قال مباشرة مُتضرعاً: (رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُن مِّنَ الْخَاسِرِينَ).",
+"question_fr": "Noé a-t-il regretté d'avoir interrogé son Seigneur au sujet de son fils ?",
+"options_fr": [
+"Non, il continua à demander jusqu'à la fin",
+"Oui, il chercha refuge auprès de son Seigneur, demanda pardon et reconnut son erreur",
+"Il fut triste et resta silencieux sans demander pardon",
+"Allah lui ordonna de ne pas être triste, alors il se réjouit"
+],
+"explanation_fr": "Il dit humblement : « Seigneur, je cherche refuge auprès de Toi contre le fait de Te demander ce dont je n'ai aucune connaissance. Si Tu ne me pardonnes pas et n'as pas pitié de moi, je serai parmi les perdants. »"
+},
+{
+"id": "nuh_42",
+"question_ar": "ما هي الجملة التي بادر بها القوم نوحاً كرد فعل سريع على وعظه لهم؟",
+"options_ar": [
+"قَالُوا يَا نُوحُ قَدْ جَادَلْتَنَا فَأَكْثَرْتَ جِدَالَنَا",
+"قَالَ الْمَلَأُ مِن قَوْمِهِ إِنَّا لَنَرَاكَ فِي ضَلَالٍ مُّبِينٍ",
+"قالوا سيهلكك آلهتنا",
+"قالوا أنت لست منا"
+],
+"correct": 1,
+"explanation_ar": "الكبر يجعلهم يرون الهادي المصلح في ضلال (إِنَّا لَنَرَاكَ فِي ضَلَالٍ مُّبِينٍ).",
+"question_fr": "Quelle phrase le peuple de Noé prononça-t-il rapidement en réaction à ses exhortations ?",
+"options_fr": [
+"« Ô Noé, tu as discuté avec nous et multiplié les discussions »",
+"« Nous te voyons manifestement dans l'égarement »",
+"« Nos divinités vont te détruire »",
+"« Tu ne fais pas partie de nous »"
+],
+"explanation_fr": "L'orgueil les amenait à considérer celui qui les guidait comme étant dans l'égarement : « Nous te voyons manifestement dans l'égarement. »"
+},
+{
+"id": "nuh_43",
+"question_ar": "بماذا أنزل الله الطمأنينة على قلب نوح بعد طول المعاناة؟",
+"options_ar": [
+"أخبره بأنه لن يؤمن من قومك إلا من قد آمن فلا تبتئس",
+"أرسل له جيشاً من الملائكة يحرسه",
+"زاد من قوة بصره وسمعه",
+"جعله غنياً لا يحتاج للناس"
+],
+"correct": 0,
+"explanation_ar": "حسم الله الجدال ليوقف إرهاق نفسه، وأمره بالانصراف للبناء (أَنَّهُ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ آمَنَ فَلا تَبْتَئِسْ).",
+"question_fr": "Comment Allah apporta-t-Il l'apaisement au cœur de Noé après sa longue épreuve ?",
+"options_fr": [
+"Il lui annonça que nul autre de son peuple ne croirait à part ceux qui avaient déjà cru, et lui dit de ne pas s'affliger",
+"Il lui envoya une armée d'anges pour le protéger",
+"Il augmenta la force de sa vue et de son ouïe",
+"Il le rendit riche afin qu'il n'ait besoin de personne"
+],
+"explanation_fr": "Allah mit fin à cette longue confrontation en lui annonçant : « Aucun de ton peuple ne croira à part ceux qui ont déjà cru. Ne t'afflige donc pas. »"
+},
+{
+"id": "nuh_44",
+"question_ar": "كيف تم توديع الطوفان والنزول من السفينة كما وصف في القرآن؟",
+"options_ar": [
+"اهبط بحزن على من مات من أهلك",
+"اهبط منها سريعاً لتبني بيتاً",
+"قيل يا نوح اهبط بسلام منا وبركات عليك وعلى أمم ممن معك",
+"نزلوا خائفين من الوحوش"
+],
+"correct": 2,
+"explanation_ar": "نزول بسلام وأمان إلهيين بعد النجاة العظيمة، ببركة تنسحب على الأجيال اللاحقة المؤمنة.",
+"question_fr": "Comment la fin du déluge et la descente de l'arche sont-elles décrites dans le Coran ?",
+"options_fr": [
+"Descends avec tristesse à cause de ceux de ta famille qui sont morts",
+"Descends rapidement pour construire une maison",
+"Il fut dit : « Ô Noé, descends avec paix de Notre part et avec Nos bénédictions sur toi et sur des communautés issues de ceux qui sont avec toi »",
+"Ils descendirent en ayant peur des animaux sauvages"
+],
+"explanation_fr": "La descente se fit avec paix et sécurité divines après cette grande délivrance, avec une bénédiction destinée aux générations croyantes suivantes."
+},
+{
+"id": "nuh_45",
+"question_ar": "لماذا تم التركيز بشدة على طول المدة (1000 سنة إلا 50) في قصة نوح؟",
+"options_ar": [
+"لإظهار شدة عناد القوم واستنفار صبر النبي وعزيمته",
+"لمجرد ذكر الأعمار الطويلة في الماضي",
+"لأن السفينة استغرقت كل هذا الوقت للبناء",
+"لأنه لم يكن يتحرك كثيراً من مكانه"
+],
+"correct": 0,
+"explanation_ar": "تبرز الآية قوة التحمل والمثابرة وعدم اليأس الطويل أمام أجيال متتالية من الكفر والعناد.",
+"question_fr": "Pourquoi la longue durée de 950 ans est-elle fortement mise en avant dans l'histoire de Noé ?",
+"options_fr": [
+"Pour montrer l'intensité de l'obstination de son peuple ainsi que la patience et la détermination du prophète",
+"Simplement pour mentionner les longues durées de vie du passé",
+"Parce que la construction de l'arche prit tout ce temps",
+"Parce qu'il ne se déplaçait pas beaucoup"
+],
+"explanation_fr": "Ce récit met en évidence la patience, la persévérance et l'absence de désespoir de Noé face à des générations successives de refus et d'obstination."
+},
+{
+"id": "nuh_46",
+"question_ar": "بماذا برر قوم نوح لأنفسهم عدم الإيمان في ادعاء كذب نوح؟",
+"options_ar": [
+"قالوا: لو شاء الله لأنزل ملائكة بدلاً من بشر",
+"قالوا: أنت تطلب أموالنا وثرواتنا",
+"قالوا: أنت تريد أن تتزوج بنات كبرائنا",
+"قالوا: نحن ننتظر نبياً آخراً وعدنا به أجدادنا"
+],
+"correct": 0,
+"explanation_ar": "استكثروا أن يرسل الله بشراً مثلهم فقالوا (لَوْ شَاءَ اللَّهُ لَأَنزَلَ مَلَائِكَةً مَّا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ).",
+"question_fr": "Comment le peuple de Noé justifiait-il son refus de croire, tout en l'accusant de mensonge ?",
+"options_fr": [
+"Ils dirent : « Si Allah avait voulu, Il aurait envoyé des anges au lieu d'êtres humains »",
+"Ils dirent : « Tu demandes nos biens et nos richesses »",
+"Ils dirent : « Tu veux épouser les filles de nos dirigeants »",
+"Ils dirent : « Nous attendons un autre prophète que nos ancêtres nous ont annoncé »"
+],
+"explanation_fr": "Ils trouvaient étonnant qu'Allah envoie un être humain comme eux et dirent : « Si Allah avait voulu, Il aurait fait descendre des anges. »"
+},
+{
+"id": "nuh_47",
+"question_ar": "كم من الوقت مر على الطوفان وتطهير الأرض؟",
+"options_ar": [
+"أربعين يوماً كما ورد في الإسرائيليات",
+"مدة كافية لإهلاك الأرض ثم استوت على الجودي (لم يحدد القرآن بالشهور والأيام المعينة)",
+"سنة كاملة",
+"أسبوع واحد فقط"
+],
+"correct": 1,
+"explanation_ar": "القرآن لا يركز غالباً على الأرقام الزمنية البحتة (إلا لبيان أهمية كالـ950 سنة)، بل ركز على النتيجة والهلاك التام للمكذبين.",
+"question_fr": "Combien de temps dura le déluge et la purification de la terre ?",
+"options_fr": [
+"Quarante jours, selon certains récits isra'iliyyat",
+"Une durée suffisante pour faire périr les mécréants, puis l'arche s'immobilisa sur Al-Judi ; le Coran ne précise pas le nombre exact de jours ou de mois",
+"Une année complète",
+"Une seule semaine"
+],
+"explanation_fr": "Le Coran ne met généralement pas l'accent sur les durées précises, mais sur les événements et leur résultat. Il mentionne explicitement les 950 années passées parmi son peuple."
+},
+{
+"id": "nuh_48",
+"question_ar": "ماذا فعلت أمواج الطوفان بابن نوح في اللحظة التي أراد التحدث فيها لأبيه؟",
+"options_ar": [
+"حملته للسفينة غصباً عنه فأُنجي",
+"حال بينهما الموج فكان من المغرقين",
+"التهمته سمكة ضخمة قبل وصول الموج",
+"استطاع السباحة لجبل وتنجو"
+],
+"correct": 1,
+"explanation_ar": "مشهد درامي مهيب يقطع فيه الموج الحوار ليعكس قدرة الله وقوته (وَحَالَ بَيْنَهُمَا الْمَوْجُ فَكَانَ مِنَ الْمُغْرَقِينَ).",
+"question_fr": "Que firent les vagues du déluge au fils de Noé au moment où il voulait parler à son père ?",
+"options_fr": [
+"Elles le portèrent de force vers l'arche et il fut sauvé",
+"Une vague s'interposa entre eux et il fut parmi ceux qui furent engloutis",
+"Un énorme poisson l'avala avant que la vague ne l'atteigne",
+"Il réussit à nager jusqu'à une montagne et fut sauvé"
+],
+"explanation_fr": "« Une vague s'interposa entre eux et il fut alors parmi ceux qui furent engloutis. »"
+},
+{
+"id": "nuh_49",
+"question_ar": "ماذا نتعلم من سورة نوح بأكملها عن الاستغفار؟",
+"options_ar": [
+"أنه فقط لمحو الذنوب دون أثر دنيوي",
+"أنه مفتاح للرزق الدنيوي (أموال، بَنين، أنهار، جنات...)",
+"أنه يُقال مرة واحدة في العمر فيغفر كل شيء",
+"أنه يوقف المطر إذا كان مدراراً"
+],
+"correct": 1,
+"explanation_ar": "ربط نوح الاستغفار بسعة الرزق واستنزال بركات السماء، وهو منهج حياة للمسلم.",
+"question_fr": "Que nous enseigne la sourate Nuh dans son ensemble au sujet de la demande de pardon ?",
+"options_fr": [
+"Qu'elle sert uniquement à effacer les péchés sans effet dans la vie d'ici-bas",
+"Qu'elle est une cause de bienfaits et de subsistance ici-bas : biens, enfants, rivières, jardins, etc.",
+"Qu'il suffit de la prononcer une seule fois dans sa vie pour que tout soit pardonné",
+"Qu'elle arrête la pluie lorsqu'elle est abondante"
+],
+"explanation_fr": "Noé a associé la demande de pardon à l'abondance des bienfaits et aux bénédictions venant du ciel, comme une démarche de vie pour le croyant."
+},
+{
+"id": "nuh_50",
+"question_ar": "بماذا وصف الله تعالى نوحا عليه السلام في سورة الإسراء بصفة جامعة تدل على منهجه في الحياة؟",
+"options_ar": [
+"إِنَّهُ كَانَ عَبْدًا صَبُورًا لَا يَمَلُّ مِنَ الدَّعْوَةِ أَبَدًا",
+"إِنَّهُ كَانَ عَبْدًا شَكُورًا (يَحْمَدُ اللَّهَ وَيَشْكُرُهُ فِي كُلِّ أَحْوَالِهِ)",
+"إِنَّهُ كَانَ عَبْدًا تَوَّابًا يَرْجِعُ إِلَى اللَّهِ فِي كُلِّ لَحْظَةٍ",
+"إِنَّهُ كَانَ عَبْدًا زَاهِدًا لَا يَمْلِكُ مِنَ الدُّنْيَا شَيْئًا"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى في سورة الإسراء (3): (إِنَّهُ كَانَ عَبْدًا شَكُورًا) فنوح كان يحمد الله ويشكره في كل أمر من أمور حياته حتى في الأكل والشرب واللبس، وهذا الشكر الدائم جعله قدوة لمن بعده وسببا في رفعة مقامه عند الله.",
+"question_fr": "Par quelle qualité globale Allah décrit-Il Noé عليه السلام dans la sourate Al-Isra, une qualité qui reflète son comportement dans la vie ?",
+"options_fr": [
+"« Il était un serviteur patient qui ne se lassait jamais de l'appel »",
+"« Il était un serviteur reconnaissant » : il louait Allah et Le remerciait dans toutes les situations",
+"« Il était un serviteur qui se repentait constamment »",
+"« Il était un serviteur ascète qui ne possédait rien de ce monde »"
+],
+"explanation_fr": "Allah dit dans la sourate Al-Isra (3) : « Il était certes un serviteur reconnaissant. » Noé louait Allah et Le remerciait dans les différentes situations de sa vie. Cette reconnaissance constante est présentée comme une qualité remarquable."
+}
+]

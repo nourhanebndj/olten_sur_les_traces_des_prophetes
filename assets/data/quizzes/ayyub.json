@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "ayyub_01",
+    "question_ar": "بماذا يُضرب المثل بنبي الله أيوب عليه السلام في التراث الإسلامي والثقافة العامة؟",
+    "options_ar": [
+      "يُضرب به المثل في سعة الملك والقوة العسكرية",
+      "يُضرب به المثل في الصبر العظيم على الابتلاءات الشديدة (صبر أيوب)",
+      "يُضرب به المثل في الغنى والثراء السريع",
+      "يُضرب به المثل في الشجاعة والفروسية في المعارك"
+    ],
+    "correct": 1,
+    "explanation_ar": "ارتبط اسمه بالصبر المطلق والثبات في المحن الشديدة، حتى صار مضرب المثل (يا صبر أيوب) في الثقافات قاطبة.",
+    "question_fr": "À quoi le prophète Ayyoub (Job, paix sur lui) sert-il d'exemple dans la tradition islamique et la culture populaire ?",
+    "options_fr": [
+      "Il sert d'exemple pour l'étendue du royaume et la puissance militaire",
+      "Il sert d'exemple pour l'immense patience face aux épreuves sévères (la « patience de Job »)",
+      "Il sert d'exemple pour la richesse et l'enrichissement rapide",
+      "Il sert d'exemple pour le courage et la bravoure au combat"
+    ],
+    "explanation_fr": "Son nom fut associé à la patience absolue et à la fermeté dans les épreuves sévères, au point de devenir un exemple proverbial (« la patience de Job ») dans toutes les cultures."
+  },
+  {
+    "id": "ayyub_02",
+    "question_ar": "كيف كانت حال أيوب عليه السلام قبل أن ينزل به البلاء العظيم؟",
+    "options_ar": [
+      "كان فقيراً معدماً لا يملك شيئاً طوال حياته",
+      "كَانَ غَنِيًّا كَثِيرَ الْمَالِ وَالْأَرَاضِي وَالْمَوَاشِي، وَكَثِيرَ الْأَوْلَادِ وَالْخَدَمِ وَمُعَافًى فِي بَدَنِهِ، ومع ذلك شاكراً لله ومحسناً",
+      "كان ملكاً يحكم الأرض كلها بقبضة من حديد",
+      "كان مريضاً منذ ولادته ولم يعرف الصحة قط"
+    ],
+    "correct": 1,
+    "explanation_ar": "منحة الله له أولاً كانت الغنى والكثرة والصحة، وكان شاكراً باراً بقومه، ثم جاء الابتلاء كاختبار لصدق طاعته.",
+    "question_fr": "Quelle était la situation d'Ayyoub (paix sur lui) avant que ne s'abatte sur lui la grande épreuve ?",
+    "options_fr": [
+      "Il était pauvre et démuni, ne possédant rien de toute sa vie",
+      "Il était riche, possédant beaucoup de biens, de terres et de troupeaux, ayant de nombreux enfants et serviteurs, et jouissant d'une bonne santé, tout en étant reconnaissant envers Allah et bienfaisant",
+      "Il était un roi gouvernant toute la terre d'une main de fer",
+      "Il était malade depuis sa naissance et n'avait jamais connu la santé"
+    ],
+    "explanation_fr": "Le don initial d'Allah pour lui fut la richesse, l'abondance et la santé ; il était reconnaissant et bienveillant envers son peuple, puis l'épreuve vint comme un test de la sincérité de son obéissance."
+  },
+  {
+    "id": "ayyub_03",
+    "question_ar": "ما الذي فقده أيوب في البلاء المتتابع الذي امتحنه الله به؟",
+    "options_ar": [
+      "فقد أمواله كلها (مواشيه ومزارعه) وانهار بيته ليموت جميع أبنائه، ثم أصابه مرض شديد في جسده كله فلم يبق منه عضو سليم إلا قلبه ولسانه الذاكر",
+      "فقد بصره فقط، ولكنه احتفظ بماله وعائلته",
+      "فقد أرضه ومزكته فقط واضطر للهجرة فراراً",
+      "فقط طُرد من دياره وعاش وحيداً معزولاً عن الناس"
+    ],
+    "correct": 0,
+    "explanation_ar": "البلاء كان شاملًا ومزلزلًا: المال، والولد، والصحة، ليصبح وحيداً فقيراً مريضاً مع زوجته الصابرة فقط.",
+    "question_fr": "Qu'a perdu Ayyoub dans les épreuves successives par lesquelles Allah l'a testé ?",
+    "options_fr": [
+      "Il perdit tous ses biens (son bétail et ses terres), sa maison s'effondra et tous ses enfants moururent, puis une grave maladie frappa tout son corps, ne laissant intact que son cœur et sa langue qui invoquait Allah",
+      "Il perdit seulement la vue, mais conserva ses biens et sa famille",
+      "Il perdit seulement sa terre et sa ferme et dut émigrer en fuyant",
+      "Il fut seulement chassé de son pays et vécut seul, isolé des gens"
+    ],
+    "explanation_fr": "L'épreuve fut totale et bouleversante : les biens, les enfants, la santé — jusqu'à ce qu'il devienne seul, pauvre et malade, avec pour seul soutien son épouse patiente."
+  },
+  {
+    "id": "ayyub_04",
+    "question_ar": "من هو الشخص الوحيد الذي بقي بجوار أيوب عليه السلام يخدمه ويرعاه لسنوات طويلة في شدة مرضه؟",
+    "options_ar": [
+      "أخوه الذي عاد من سفر بعيد ليواسيه",
+      "زوْجَتُهُ الصَّالِحَةُ الصَّابِرَةُ الْبَارَّةُ بِهِ (التي قيل إن اسمها رحمة)، خدمتْهُ بإخلاص بعدما تخلى عنه الناس حتى أصبحت تخدم الناس لتطعمه",
+      "أصغر أبنائه الذي نجا من انهيار البيت بأعجوبة",
+      "خادمته القديمة التي شَفقت على حاله وضعفه"
+    ],
+    "correct": 1,
+    "explanation_ar": "كانت الزوجة الوفية هي السند الوحيد، آزرته وعملت لكسب لقمة العيش بعد الغنى والعز، وهذا نموذج للوفاء والمعدن النقي.",
+    "question_fr": "Qui est la seule personne restée aux côtés d'Ayyoub, le servant et prenant soin de lui pendant de longues années dans la sévérité de sa maladie ?",
+    "options_fr": [
+      "Son frère, revenu d'un lointain voyage pour le consoler",
+      "Son épouse vertueuse, patiente et dévouée (dont on dit qu'elle s'appelait Rahma), qui le servit avec sincérité après que les gens l'eurent abandonné, au point de travailler pour les autres afin de le nourrir",
+      "Son plus jeune fils, miraculeusement rescapé de l'effondrement de la maison",
+      "Son ancienne servante, prise de pitié pour son état et sa faiblesse"
+    ],
+    "explanation_fr": "L'épouse fidèle fut son unique soutien ; elle le seconda et travailla pour gagner de quoi vivre après la richesse et la prospérité — un modèle de fidélité et de noblesse d'âme."
+  },
+  {
+    "id": "ayyub_05",
+    "question_ar": "كم سنة استمر هذا البلاء العظيم على أيوب عليه السلام (كما ترجح الروايات الإسرائيلية وبعض المفسرين)؟",
+    "options_ar": [
+      "ثلاثة أيام بلياليها فقط",
+      "قيل تِسْعُ سِنِينَ، وَقِيلَ سَبْعُ سِنِينَ وَأَشْهُرٌ، وقيل ثمانية عشر عاماً، قضاها في الصبر والتسليم ولم يئنّ أو يشتكي للناس",
+      "شهر واحد ومات بعده حزناً",
+      "أربعون سنة في كهف مظلم وموحش"
+    ],
+    "correct": 1,
+    "explanation_ar": "المدة طالت جداً لتمحيص الصبر، وأشهر الروايات (18 سنة) كما ورد في بعض الآثار، ما يعكس عزيمة وثباتاً خارقين.",
+    "question_fr": "Combien d'années cette grande épreuve a-t-elle duré pour Ayyoub (selon les récits israélites et certains exégètes) ?",
+    "options_fr": [
+      "Seulement trois jours et leurs nuits",
+      "On dit neuf ans, on dit sept ans et quelques mois, et on dit dix-huit ans, qu'il passa dans la patience et la soumission, sans gémir ni se plaindre aux gens",
+      "Un seul mois, après lequel il mourut de chagrin",
+      "Quarante ans dans une grotte sombre et désolée"
+    ],
+    "explanation_fr": "La durée fut très longue afin d'éprouver pleinement sa patience, et le récit le plus connu (18 ans), comme rapporté dans certaines traditions, reflète une détermination et une fermeté extraordinaires."
+  },
+  {
+    "id": "ayyub_06",
+    "question_ar": "كيف كان موقف أيوب مع زوجته في الشفاء بعد حلفه أن يضربها في لحظة غضبه لربه؟",
+    "options_ar": [
+      "ضربها بقسوة شديدة جداً.",
+      "عفا عنها تماماً دون أن يفعل أي شيء ليبر يمينه.",
+      "نفذ الأمر الإلهي بالرفق وضربها بضغث (حزمة من أعواد خفيفة) ضربة واحدة ليكون باراً بقسمه ولا يؤلمها، ليكتمل كمال الإنسانية المحبة مع الطاعة الصارمة.",
+      "طلقها وأبعدها عنه مكافأة لها."
+    ],
+    "correct": 2,
+    "explanation_ar": "هذا الحل الفقهي (الضغث) شُرع لأيوب خاصة إكراماً له ولتاريخها العظيم معه في البلاء، حتى لا تنكسر قلبها.",
+    "question_fr": "Comment Ayyoub s'est-il comporté envers son épouse après sa guérison, à la suite de son serment de la frapper dans un moment de colère envers son Seigneur ?",
+    "options_fr": [
+      "Il la frappa avec une extrême dureté",
+      "Il lui pardonna complètement sans rien faire pour tenir son serment",
+      "Il exécuta l'ordre divin avec douceur, en la frappant d'un « dighth » (une botte de tiges légères) d'un seul coup, pour être fidèle à son serment sans lui faire de mal, alliant ainsi une humanité aimante à une obéissance rigoureuse",
+      "Il la répudia et l'éloigna de lui en guise de récompense"
+    ],
+    "explanation_fr": "Cette solution juridique (le « dighth ») fut prescrite spécialement pour Ayyoub, en son honneur et en reconnaissance du rôle immense qu'elle avait joué à ses côtés dans l'épreuve, afin de ne pas briser son cœur."
+  },
+  {
+    "id": "ayyub_07",
+    "question_ar": "في سورة مريم، ما الذي نستلهمه من سياق ذكر أيوب بين زكريا وإدريس من حيث علاقة الأنبياء بربهم؟",
+    "options_ar": [
+      "أنهم أقوى الناس عسكرياً.",
+      "أنهم جميعاً مروا بمحن وابتلاءات شخصية (زكريا في العقم، وأيوب في المرض، وغيرهم) وكان مفتاح الخلاص لهم هو الدعاء واليقين التام باستجابة الله وتضرعهم وانكسارهم أمامه.",
+      "أنهم كلهم عاشوا في منطقة واحدة.",
+      "أنهم تقاسموا الملك والثروة."
+    ],
+    "correct": 1,
+    "explanation_ar": "الدعاء والانكسار بين يدي الله (إذ نادى ربه) هو السر الأعظم لسلسلة الأنبياء كلها في تخطي المستحيلات الطبية والمادية.",
+    "question_fr": "Dans la sourate Maryam, qu'apprenons-nous du contexte où Ayyoub est mentionné parmi Zakariya et Idris, concernant la relation des prophètes avec leur Seigneur ?",
+    "options_fr": [
+      "Qu'ils étaient les plus puissants militairement",
+      "Qu'ils traversèrent tous des épreuves personnelles (Zakariya avec la stérilité, Ayyoub avec la maladie, et d'autres), et que la clé de leur délivrance fut l'invocation et la certitude absolue en la réponse d'Allah, ainsi que leur humilité et leur supplication devant Lui",
+      "Qu'ils vécurent tous dans une même région",
+      "Qu'ils se partagèrent le royaume et la richesse"
+    ],
+    "explanation_fr": "L'invocation et l'humilité devant Allah (« lorsqu'il appela son Seigneur ») constituent le plus grand secret de toute la chaîne des prophètes pour surmonter l'impossible, tant sur le plan médical que matériel."
+  },
+  {
+    "id": "ayyub_08",
+    "question_ar": "ما هو الدرس التربوي للإنسان من قوله تعالى: (نِعْمَ العَبْدُ إنَّهُ أَوَّابٌ) في حق أيوب؟",
+    "options_ar": [
+      "أن العبودية لله تتحقق بالصبر في الضراء والشكر في السراء، فالرجوع (الأوبة) الدائم لله هو أعظم تاج يلبسه الإنسان، أياً كان حاله المادي أو الصحي.",
+      "أن الغنى لا يجتمع أبداً مع الأوبة والتقوى.",
+      "أن الأوب هو أن يكثر من الزيارات العائلية يومياً.",
+      "أن العبودية تشترط أن يكون الإنسان مريضاً طوال حياته."
+    ],
+    "correct": 0,
+    "explanation_ar": "عبودية (السراء والضراء) هي قمة الإيمان، فأيوب كان (أواباً) وهو غني صحيح، وظل (أواباً) وهو فقير مريض.",
+    "question_fr": "Quelle leçon éducative l'être humain peut-il tirer de la parole d'Allah « Quel excellent serviteur ! Il était toujours repentant (awwab) » à propos d'Ayyoub ?",
+    "options_fr": [
+      "Que l'adoration d'Allah se réalise par la patience dans l'adversité et la gratitude dans l'aisance ; le retour constant vers Allah (« al-awba ») est la plus belle couronne que l'homme puisse porter, quel que soit son état matériel ou physique",
+      "Que la richesse ne peut jamais coexister avec le retour vers Allah et la piété",
+      "Que « al-awb » signifie multiplier les visites familiales quotidiennement",
+      "Que l'adoration exige que l'homme soit malade toute sa vie"
+    ],
+    "explanation_fr": "L'adoration d'Allah dans l'aisance comme dans l'adversité est le sommet de la foi ; Ayyoub était « awwab » lorsqu'il était riche et en bonne santé, et il demeura « awwab » lorsqu'il devint pauvre et malade."
+  },
+  {
+    "id": "ayyub_09",
+    "question_ar": "كيف كان موقف زوجة أيوب نموذجاً للمرأة الصالحة في وقت الشدة؟",
+    "options_ar": [
+      "تركته وتزوجت من رجل غني آخر في قريتها.",
+      "ظلت بجواره حتى بعد أن طرده الناس وعزللوه، وخدمته بتفانٍ بالغ وهي مؤمنة صابرة راضية على مر عشرات السنين، مما جعلها من سيدات نساء الصابرين.",
+      "كانت تلومه يومياً وتصرخ في وجهه حتى طردته.",
+      "سافرت لأهلها ولم تعد إلا بعد أن شفي وصار غنياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "الوفاء الزوجي في أقصى درجاته تجلى في زوجة أيوب التي باعت حتى ضفائر شعرها لتطعمه، فاستحقت رضوان الله كرامة لها وله.",
+    "question_fr": "En quoi l'attitude de l'épouse d'Ayyoub fut-elle un modèle de femme vertueuse en temps d'épreuve ?",
+    "options_fr": [
+      "Elle le quitta et épousa un autre homme riche de son village",
+      "Elle resta à ses côtés même après que les gens l'eurent chassé et isolé, et le servit avec un dévouement extrême, croyante, patiente et satisfaite pendant des dizaines d'années, ce qui fit d'elle l'une des grandes figures féminines de la patience",
+      "Elle le blâmait quotidiennement et criait sur lui jusqu'à le chasser",
+      "Elle voyagea chez sa famille et ne revint qu'après sa guérison et son retour à la richesse"
+    ],
+    "explanation_fr": "La fidélité conjugale à son plus haut degré se manifesta chez l'épouse d'Ayyoub, qui vendit même ses tresses pour le nourrir, méritant ainsi l'agrément d'Allah, un honneur pour elle comme pour lui."
+  },
+  {
+    "id": "ayyub_10",
+    "question_ar": "لماذا لم يُزل الله تعالى المرض عن أيوب مباشرة دون أن يأمره بالركض بقدمه؟ (ارْكُضْ بِرِجْلِكَ...)",
+    "options_ar": [
+      "لأن الله يعلم الأنبياء والبشر اتخاذ الأسباب مهما كانت ضعيفة بالنسبة للعلاج (كقدم مريض)، فبذل السبب أساس مع اليقين، والشفاء من الله.",
+      "لأنه لم يكن يملك أي دواء آخر وقتها.",
+      "ليجعل منه رياضياً ويزيد من عضلاته الجسدية.",
+      "كانت مجرد صدفة أن نبعت العين تحت قدمه المريضة."
+    ],
+    "correct": 0,
+    "explanation_ar": "كذلك أمر مريم وهي في المخاض أن (تهز جذع النخلة)، اتخاذ للسبب الدنيوي المادي مع التوكل التام والتعلق بالمسبب الأكبر سبحانه.",
+    "question_fr": "Pourquoi Allah n'a-t-Il pas guéri Ayyoub directement, sans lui ordonner de frapper le sol de son pied (« Frappe le sol de ton pied ») ?",
+    "options_fr": [
+      "Parce qu'Allah enseigne aux prophètes et aux humains à recourir aux moyens, aussi faibles soient-ils en apparence pour la guérison (comme le pied d'un malade) — engager la cause est fondamental, tout en gardant la certitude, la guérison venant d'Allah",
+      "Parce qu'il n'existait aucun autre remède à cette époque",
+      "Pour en faire un sportif et renforcer ses muscles",
+      "Ce ne fut qu'une pure coïncidence que la source jaillisse sous son pied malade"
+    ],
+    "explanation_fr": "De même, Allah ordonna à Maryam, en plein travail, de « secouer le tronc du palmier » — un recours à la cause matérielle terrestre, tout en gardant une confiance totale et un attachement à la Cause suprême, Gloire à Lui."
+  },
+  {
+    "id": "ayyub_11",
+    "question_ar": "كيف يرى المفسرون عودة الأموال والأولاد لأيوب (بأهله ومثلهم معهم)؟",
+    "options_ar": [
+      "عادوا جميعاً بالصدفة البحتة من أسفارهم.",
+      "قيل أحيا الله له أبناءه المتوفين وزادهم في العدد مثلهم، وقيل رزقه في بقية شبابه المعافى أبناء جدداً بضعف العدد القديم تعويضاً من الله الكريم لصبره وعطائه اللامحدود (رحمة من عندنا).",
+      "لم يرجع له أحد بل عاش وحيداً بعد الشفاء.",
+      "تبنى أيتاماً من قرى مجاورة ليملأ بيته."
+    ],
+    "correct": 1,
+    "explanation_ar": "القدرة الإلهية لا يعجزها شيء؛ سواء بالإحياء كـآية باهرة، أو برزق جديد مضاعف يُقر عينه ويعوضه سنيناً من البكاء والحزن المكبوت الجميل.",
+    "question_fr": "Comment les exégètes interprètent-ils le retour des biens et des enfants d'Ayyoub (« sa famille et leur pareil avec eux ») ?",
+    "options_fr": [
+      "Ils revinrent tous par pure coïncidence de leurs voyages",
+      "On dit qu'Allah ressuscita ses enfants défunts et les doubla en nombre, et on dit aussi qu'Il lui accorda, dans le reste de sa jeunesse retrouvée, de nouveaux enfants en nombre double par rapport aux anciens, en compensation généreuse de sa patience et de son don sans limite (« une miséricorde venant de Nous »)",
+      "Personne ne lui revint ; il vécut seul après sa guérison",
+      "Il adopta des orphelins des villages voisins pour remplir sa maison"
+    ],
+    "explanation_fr": "Rien n'est impossible au pouvoir divin, que ce soit par la résurrection comme signe éclatant, ou par une nouvelle subsistance doublée qui réjouit son cœur et le compense pour des années de pleurs et de chagrin contenu."
+  },
+  {
+    "id": "ayyub_12",
+    "question_ar": "ما هو الدرس العظيم من قصة يمين أيوب في ضرب زوجته (واخذ بيدك ضغثاً...)؟",
+    "options_ar": [
+      "أن الله يُكرم الزوجة الصالحة، ويفتح للمؤمن الصادق أبواب المخرج من الورطات والوعود الشاقة الصعبة متى ما أخلص النية وعظم أمانته وحبه لربه (وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا).",
+      "أن الأيمان لا قيمة لها ولا يجب الوفاء بها.",
+      "أن العقاب الجسدي هو الحل الوحيد للخطأ.",
+      "أن الزوج يجب أن يغضب من أقل خطأ."
+    ],
+    "correct": 0,
+    "explanation_ar": "رأفة الله تدخلت لتحمي الزوجة الوفية الرقيقة، وتبرو قسم أيوب في نفس اللحظة عبر مخرج شرعي حكيم ومدهش.",
+    "question_fr": "Quelle grande leçon tirer de l'histoire du serment d'Ayyoub de frapper son épouse (« Prends dans ta main une botte de tiges ») ?",
+    "options_fr": [
+      "Qu'Allah honore l'épouse vertueuse, et ouvre au croyant sincère des issues aux dilemmes et aux promesses difficiles, dès lors que son intention est pure et que sa fidélité et son amour pour son Seigneur sont grands (« Et quiconque craint Allah, Il lui donnera une issue »)",
+      "Que les serments n'ont aucune valeur et qu'il n'est pas obligatoire de les tenir",
+      "Que la punition corporelle est la seule solution à une erreur",
+      "Que l'époux doit se mettre en colère pour la moindre faute"
+    ],
+    "explanation_fr": "La miséricorde d'Allah intervint pour protéger l'épouse fidèle et délicate, tout en permettant l'accomplissement du serment d'Ayyoub, au même instant, par une issue légale sage et remarquable."
+  },
+  {
+    "id": "ayyub_13",
+    "question_ar": "كيف واجه أيوب عزلته الاجتماعية بعد ابتعاد الناس عنه؟",
+    "options_ar": [
+      "شكاهم بمرارة للزوّار القلائل.",
+      "عاش في عزلة صامتة زاهدة مع ربه وزوجته فقط، وكان ذلك من أشد ألوان البلاء على رجل كان كثير العطاء وملتفاً بالناس (صبر أيوب).",
+      "خرج يبحث عنهم في الأسواق ليطالبهم بالبقاء معه.",
+      "هاجر لمدينة أخرى متخفياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "ألم العزلة والنكران من الأصدقاء أشد من المرض، وتجاوزه أيوب بالرضا والاشتغال بذكر الله وتسبيحه في المحنة المرة.",
+    "question_fr": "Comment Ayyoub a-t-il fait face à son isolement social après que les gens se furent éloignés de lui ?",
+    "options_fr": [
+      "Il se plaignit d'eux amèrement aux rares visiteurs",
+      "Il vécut dans un isolement silencieux et détaché, seul avec son Seigneur et son épouse, ce qui fut l'une des formes d'épreuve les plus dures pour un homme autrefois généreux et entouré de gens (la patience d'Ayyoub)",
+      "Il partit les chercher dans les marchés pour leur demander de rester avec lui",
+      "Il émigra dans une autre ville, déguisé"
+    ],
+    "explanation_fr": "La douleur de l'isolement et du reniement des amis est plus dure que la maladie ; Ayyoub la surmonta par la satisfaction et en s'occupant du rappel et de la glorification d'Allah dans l'amertume de l'épreuve."
+  },
+  {
+    "id": "ayyub_14",
+    "question_ar": "ماذا نتعلم من رخصة (خذ بيدك ضغثاً) في المفهوم الفقهي والاجتماعي؟",
+    "options_ar": [
+      "أن الأيمان لا تلغى بالتقادم.",
+      "جواز الحيل الشرعية (المخارج التي ترضي الله ولا تظلم الناس) لحل المعضلات الإنسانية والاجتماعية؛ فالنية هنا جبر الخواطر مع إبرار القسم، ودرء المفسدة (إيذاء الزوجة الوفية).",
+      "أن يُضرب الشخص مهما كان الوجع.",
+      "أنه يجب على الناس جمع الحشائش يومياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "المخارج الشرعية هي رحمة من الله للنفوس الصادقة التي تجد نفسها بين مطرقة الحلف (يمين معقود) وسندان الألم (ضرب زوجة حانية)، فأعطاها الله هذا المخرج برحمته.",
+    "question_fr": "Que nous enseigne la permission « prends dans ta main une botte de tiges » sur le plan juridique et social ?",
+    "options_fr": [
+      "Que les serments s'annulent avec le temps",
+      "La licéité des issues légales (des solutions qui satisfont Allah sans léser autrui) pour résoudre les dilemmes humains et sociaux ; l'intention ici est de réparer les cœurs tout en accomplissant le serment, et d'écarter le préjudice (blesser l'épouse fidèle)",
+      "Qu'une personne doit être frappée quelle que soit la douleur",
+      "Que les gens doivent ramasser des herbes quotidiennement"
+    ],
+    "explanation_fr": "Les issues légales sont une miséricorde d'Allah pour les âmes sincères qui se trouvent prises entre l'enclume du serment prononcé et le marteau de la douleur (frapper une épouse aimante) ; Allah leur accorda, par Sa miséricorde, cette solution."
+  },
+  {
+    "id": "ayyub_15",
+    "question_ar": "كيف يمكننا تلخيص قصة أيوب في معادلة الإيمان والابتلاء؟",
+    "options_ar": [
+      "الغنى يمنع الابتلاء، والفقر هو الابتلاء الوحيد.",
+      "الابتلاء الشديد مع الصبر الجميل والتفويض لله ينتج عنه العوض الجميل الأكبر في الدنيا قبل الآخرة (مغتسل بارد، أهل ومثلهم معهم، جيل جديد، ذهب يتساقط).",
+      "الابتلاء عقوبة دائماً ولا عوض عنه إلا في الآخرة.",
+      "لا يوجد ابتلاء للمؤمنين الصادقين أصلاً."
+    ],
+    "correct": 1,
+    "explanation_ar": "المعادلة الذهبية: صبر بلا شكوى لغير الله + يقين برحمته = تفريج كامل وعوض مدهش ينسي المبتلى كل ألم.",
+    "question_fr": "Comment peut-on résumer l'histoire d'Ayyoub dans une équation entre la foi et l'épreuve ?",
+    "options_fr": [
+      "La richesse empêche l'épreuve, et la pauvreté est la seule épreuve possible",
+      "Une épreuve sévère, accompagnée d'une belle patience et d'un total abandon à Allah, produit une compensation splendide et plus grande dès ce monde, avant même l'au-delà (un bain frais, une famille et son pareil avec elle, une nouvelle génération, de l'or qui pleut)",
+      "L'épreuve est toujours un châtiment sans compensation, sinon dans l'au-delà",
+      "Il n'existe aucune épreuve pour les croyants sincères"
+    ],
+    "explanation_fr": "L'équation d'or : une patience sans se plaindre à quiconque hormis Allah, associée à une certitude en Sa miséricorde, produit une délivrance totale et une compensation extraordinaire qui fait oublier à l'éprouvé toute douleur."
+  },
+  {
+    "id": "ayyub_16",
+    "question_ar": "لماذا تم اختيار اسم (أيوب) رمزاً في الأدب العالمي والشعبي؟",
+    "options_ar": [
+      "بسبب طوله الفارع.",
+      "لأنه صار (أيقونة) عالمية للصبر البشري الذي يفوق طاقة الإنسان العادي، حتى صار يُقال (يا صبر أيوب) في الموروثات الشعبية تعبيراً عن قوة التحمل الأسطورية المبنية على الإيمان.",
+      "لأنه أول من بنى سفينة.",
+      "لأنه كان يكتب الشعر الحزين."
+    ],
+    "correct": 1,
+    "explanation_ar": "ارتبط اسمه بالصبر المطلق، كما ارتبط اسم حاتم الطائي بالكرم، واسم لقمان بالحكمة.",
+    "question_fr": "Pourquoi le nom « Ayyoub » a-t-il été choisi comme symbole dans la littérature mondiale et populaire ?",
+    "options_fr": [
+      "En raison de sa grande taille",
+      "Parce qu'il est devenu une icône universelle de la patience humaine dépassant les capacités ordinaires, au point que l'on dise « ô patience de Job » dans les traditions populaires, pour exprimer une force de résilience légendaire fondée sur la foi",
+      "Parce qu'il fut le premier à construire un navire",
+      "Parce qu'il écrivait de la poésie triste"
+    ],
+    "explanation_fr": "Son nom fut associé à la patience absolue, tout comme le nom de Hatim at-Ta'i fut associé à la générosité, et celui de Luqman à la sagesse."
+  },
+  {
+    "id": "ayyub_17",
+    "question_ar": "ما الذي عوّل عليه الشيطان في محاولته لإيذاء أيوب نفسياً؟",
+    "options_ar": [
+      "حاول إغراءه بالمال المسروق.",
+      "حاول بث اليأس في قلبه وقلب زوجته وإيهامه بأن الله تخلى عنه بعد هذا البلاء الطويل، ليزلزز إيمانه وصبره العظيم (أني مسني الشيطان بنصب وعذاب).",
+      "حاول إقناعه بترك الصلاة ليرتاح.",
+      "حاول أن يجعله يصارعه جسدياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "الشيطان يهاجم المبتلى من ثغرة (اليأس وسوء الظن بالله)، لكن قلب أيوب كان معتصماً بحسن الظن (وأنت أرحم الراحمين).",
+    "question_fr": "Sur quoi Satan comptait-il dans sa tentative de faire souffrir Ayyoub psychologiquement ?",
+    "options_fr": [
+      "Il tenta de le séduire avec de l'argent volé",
+      "Il tenta de semer le désespoir dans son cœur et celui de son épouse, lui faisant croire qu'Allah l'avait abandonné après cette longue épreuve, afin d'ébranler sa foi et sa grande patience (« Le diable m'a touché d'une fatigue et d'un tourment »)",
+      "Il tenta de le convaincre d'abandonner la prière pour se reposer",
+      "Il tenta de l'affronter physiquement"
+    ],
+    "explanation_fr": "Satan attaque l'éprouvé par la brèche du désespoir et de la mauvaise opinion envers Allah, mais le cœur d'Ayyoub restait ancré dans la bonne opinion envers Lui (« et Tu es le plus miséricordieux des miséricordieux »)."
+  },
+  {
+    "id": "ayyub_18",
+    "question_ar": "كيف كان موقف أيوب من أصدقائه الذين اتهموه في دينه أثناء مرضه؟",
+    "options_ar": [
+      "دعا عليهم بالهلاك العاجل.",
+      "حزن حزناً شديداً ولجأ إلى الله مباشرة يبثه شكواه، ولم يرد عليهم بجدال عقيم أو شتائم، بل كان هذا الاتهام القاسي هو دافعه النهائي للدعاء بكشف الضر حفظاً لدينِه من الشماتة.",
+      "وافقهم الرأي واعترف بذنوب لم يرتكبها.",
+      "ضربهم وطردهم من قربه."
+    ],
+    "correct": 1,
+    "explanation_ar": "حماية سُمعة الدين والأنبياء أهم من ألم الجسد. لم يدعُ لخلاص جسده بل لخلاص دينه من ألسنة الشامتين والشانئين.",
+    "question_fr": "Quelle fut l'attitude d'Ayyoub envers ses amis qui l'accusaient en sa religion pendant sa maladie ?",
+    "options_fr": [
+      "Il invoqua contre eux une destruction immédiate",
+      "Il fut profondément affligé et se réfugia directement auprès d'Allah pour Lui confier sa plainte, sans répondre par une polémique stérile ou des insultes ; cette accusation cruelle fut en fait sa motivation finale pour implorer la levée du mal, afin de préserver sa religion des railleurs",
+      "Il approuva leur avis et avoua des péchés qu'il n'avait pas commis",
+      "Il les frappa et les chassa loin de lui"
+    ],
+    "explanation_fr": "Protéger la réputation de la religion et des prophètes importait plus que la douleur physique. Il n'invoqua pas le salut de son corps, mais celui de sa religion, contre les langues des railleurs et des malveillants."
+  },
+  {
+    "id": "ayyub_19",
+    "question_ar": "ما هي معجزة الشفاء الثلاثية الأبعاد في قصة أيوب؟",
+    "options_ar": [
+      "شفاء بالدواء العشبي، والجراحة، والسفر.",
+      "شفاء (أولاً) للجسد بالماء المبارك (اغتسال وشرب)، وشفاء (ثانياً) للقلب والروح برد الأهل مضاعفين، وشفاء (ثالثاً) للفقر بالمطر الذهبي، فكان شفاءً مادياً وجسدياً وعاطفياً متكاملاً.",
+      "شفاء مؤقت لعدة أيام ثم عاد له المرض.",
+      "شفاء منقوص ترك آثار المرض على وجهه."
+    ],
+    "correct": 1,
+    "explanation_ar": "(فاستجبنا له فكشفنا ما به من ضر): الكشف كان تاماً شاملاً مجتثاً لكل أصلاب المحنة وجذورها بأسلوب رباني مبهر.",
+    "question_fr": "Quel est le miracle de guérison à triple dimension dans l'histoire d'Ayyoub ?",
+    "options_fr": [
+      "Une guérison par les plantes médicinales, la chirurgie et le voyage",
+      "Une guérison (premièrement) du corps par l'eau bénie (bain et boisson), une guérison (deuxièmement) du cœur et de l'âme par le retour de la famille doublée, et une guérison (troisièmement) de la pauvreté par une pluie d'or — une guérison à la fois matérielle, physique et émotionnelle, pleinement intégrée",
+      "Une guérison temporaire de quelques jours, après quoi la maladie revint",
+      "Une guérison incomplète laissant les traces de la maladie sur son visage"
+    ],
+    "explanation_fr": "« Nous lui répondîmes et lui ôtâmes le mal dont il souffrait » — la levée du mal fut totale, complète, arrachant toutes les racines de l'épreuve, par un procédé divin éblouissant."
+  },
+  {
+    "id": "ayyub_20",
+    "question_ar": "هل كان ابتلاء أيوب نقصاً في مقامه عند الله؟",
+    "options_ar": [
+      "نعم، كان بسبب خطيئة ارتكبها في تجارته.",
+      "لا، بل كان رفعة لدرجاته وإظهاراً لكمال عبوديته في الشدة بعدما ظهرت في الرخاء، ليكون قدوة حية للبشرية في كل الأزمان (وذكرى للعابدين).",
+      "كان نقصاً في مكانته بين الأنبياء.",
+      "كان عقاباً لزوجته لا له."
+    ],
+    "correct": 1,
+    "explanation_ar": "الأنبياء أشد الناس بناءً ويُبتلى الرجل على حسب دينه؛ فإن كان في دينه صلابة زيد له في البلاء لتزيد رفعة درجاته في الجنة.",
+    "question_fr": "L'épreuve d'Ayyoub était-elle une diminution de son rang auprès d'Allah ?",
+    "options_fr": [
+      "Oui, elle fut causée par un péché qu'il aurait commis dans son commerce",
+      "Non, elle fut au contraire une élévation de son rang et une manifestation de la perfection de son adoration dans l'épreuve, après qu'elle se fut manifestée dans l'aisance, afin qu'il soit un exemple vivant pour l'humanité en tout temps (« et un souvenir pour les adorateurs »)",
+      "Elle fut une diminution de sa place parmi les prophètes",
+      "Elle fut un châtiment pour son épouse, et non pour lui"
+    ],
+    "explanation_fr": "Les prophètes sont les hommes les plus fermement bâtis, et l'homme est éprouvé selon sa religion ; plus sa religion est solide, plus l'épreuve s'intensifie, afin d'élever davantage son rang au Paradis."
+  },
+  {
+    "id": "ayyub_21",
+    "question_ar": "كيف يتجلى لطف الله المبطن في قصة أيوب وزوجته؟",
+    "options_ar": [
+      "أنهما تركا العمل وناما طوال المحنة.",
+      "اللطف الخفي تجلى في أن الله أبقى له (عقله ولسانه الذاكر وزوجته الوفية)، فكانت هذه الثلاثة كافية لتجاوز ثمانية عشر عاماً من البؤس، ثم تُوّج اللطف بالرخصة الشرعية (الضغث).",
+      "أنه كان يرسل لهما طعاماً جاهزاً كل يوم.",
+      "أن الملائكة كانت تتحدث معهما جهراً."
+    ],
+    "correct": 1,
+    "explanation_ar": "مهما اشتد البلاء، يُبقي اللطيف الخبير (ينابيع خفية) من النعم (كالذاكرة الروحية والسند الزوجي الصالح) لتكون طوق النجاة حتى يحين الفرج الأكبر.",
+    "question_fr": "Comment se manifeste la bonté cachée d'Allah dans l'histoire d'Ayyoub et de son épouse ?",
+    "options_fr": [
+      "Ils cessèrent de travailler et dormirent tout au long de l'épreuve",
+      "La bonté cachée se manifesta dans le fait qu'Allah lui préserva sa raison, sa langue qui L'invoquait, et son épouse fidèle — ces trois éléments suffirent à traverser dix-huit années de misère, avant que cette bonté ne soit couronnée par la permission légale (le « dighth »)",
+      "Il leur envoyait de la nourriture toute prête chaque jour",
+      "Les anges leur parlaient ouvertement"
+    ],
+    "explanation_fr": "Aussi intense que soit l'épreuve, le Très Bienveillant et Très Informé préserve des sources cachées de bienfaits (comme la mémoire spirituelle et le soutien conjugal vertueux) pour servir de bouée de sauvetage jusqu'à ce que vienne la plus grande délivrance."
+  },
+  {
+    "id": "ayyub_22",
+    "question_ar": "ما هو الرابط الخفي بين (نعم العبد) و (إنه أواب) في ختام قصة أيوب؟",
+    "options_ar": [
+      "لا يوجد رابط، هما صفتان منفصلتان.",
+      "أن مرتبة (نعم العبد) أي العبد الممدوح المفضل لا تُنال إلا بصفة (الأوبة) الدائمة؛ أي الرجوع لله بالاعتراف والاستغفار في الرخاء وبالصبر والانكسار الدعائي في الشدة.",
+      "أن العبد الأواب هو من يعود لقريته.",
+      "أن نعم العبد تُقال للأغنياء فقط."
+    ],
+    "correct": 1,
+    "explanation_ar": "كما قيلت في حق سليمان عليه السلام في غناه وسلطانه (نعم العبد إنه أواب)، قيلت في حق أيوب في مرضه وفقره، فالمدار هو كمال التعلق بالله لا نوع الظرف وحاله.",
+    "question_fr": "Quel est le lien caché entre « quel excellent serviteur » et « il était toujours repentant » à la fin de l'histoire d'Ayyoub ?",
+    "options_fr": [
+      "Il n'existe aucun lien, ce sont deux qualités distinctes",
+      "Que le rang de « excellent serviteur », c'est-à-dire le serviteur loué et préféré, ne s'obtient que par la qualité du retour (« al-awba ») constant vers Allah — c'est-à-dire Le rejoindre par la reconnaissance et la demande de pardon dans l'aisance, et par la patience et l'humilité suppliante dans l'épreuve",
+      "Que le serviteur « awwab » est celui qui retourne dans son village",
+      "Que « excellent serviteur » ne se dit que des riches"
+    ],
+    "explanation_fr": "Tout comme cela fut dit à propos de Souleyman dans sa richesse et son pouvoir (« quel excellent serviteur, il était toujours repentant »), cela fut dit à propos d'Ayyoub dans sa maladie et sa pauvreté — le critère est la perfection de l'attachement à Allah, non le type de circonstance ou d'état."
+  },
+  {
+    "id": "ayyub_23",
+    "question_ar": "من أي سلالة نبوية كان أيوب عليه السلام؟",
+    "options_ar": [
+      "كان من ذرية نوح عليه السلام مباشرة",
+      "كان من ذرية إبراهيم عليه السلام، وهو من أنبياء بني إسرائيل",
+      "كان من ذرية آدم عليه السلام ولم ينتسب لنبي آخر",
+      "كان من ذرية إسماعيل عليه السلام من العرب"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذكر القرآن أيوب في سياق ذرية إبراهيم عليه السلام في سورة الأنعام: (وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَأَيُّوبَ وَيُوسُفَ)، وهو من أنبياء بني إسرائيل.",
+    "question_fr": "De quelle lignée prophétique Ayyoub (paix sur lui) était-il issu ?",
+    "options_fr": [
+      "Il était directement de la descendance de Nouh (paix sur lui)",
+      "Il était de la descendance d'Ibrahim (paix sur lui), et faisait partie des prophètes des Fils d'Israël",
+      "Il était de la descendance d'Adam (paix sur lui) sans se rattacher à un autre prophète",
+      "Il était de la descendance d'Isma'il (paix sur lui), parmi les Arabes"
+    ],
+    "explanation_fr": "Le Coran mentionne Ayyoub dans le contexte de la descendance d'Ibrahim dans la sourate al-An'am : « Et parmi sa descendance : Dawud, Souleyman, Ayyoub et Youssouf » — il est l'un des prophètes des Fils d'Israël."
+  },
+  {
+    "id": "ayyub_24",
+    "question_ar": "أين كان يعيش أيوب عليه السلام قبل ابتلائه؟",
+    "options_ar": [
+      "في مكة المكرمة بجوار الكعبة المشرفة",
+      "في أرض مصر على ضفاف نهر النيل",
+      "في أرض حوران بين الشام وفلسطين",
+      "في أرض اليمن في جنوب الجزيرة العربية"
+    ],
+    "correct": 2,
+    "explanation_ar": "عاش أيوب عليه السلام في أرض حوران الواقعة بين الشام وفلسطين، وكان يملك فيها أراضي شاسعة ومواشي كثيرة.",
+    "question_fr": "Où vivait Ayyoub avant son épreuve ?",
+    "options_fr": [
+      "À La Mecque, près de la noble Kaaba",
+      "En Égypte, sur les rives du Nil",
+      "Dans la région de Hawran, entre le Levant et la Palestine",
+      "Au Yémen, dans le sud de la péninsule arabique"
+    ],
+    "explanation_fr": "Ayyoub vécut dans la région de Hawran, située entre le Levant et la Palestine, où il possédait de vastes terres et de nombreux troupeaux."
+  },
+  {
+    "id": "ayyub_25",
+    "question_ar": "في أي سورة ورد دعاء أيوب: (أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ)؟",
+    "options_ar": [
+      "سورة البقرة",
+      "سورة الأنبياء",
+      "سورة يوسف",
+      "سورة الكهف"
+    ],
+    "correct": 1,
+    "explanation_ar": "ورد هذا الدعاء العظيم في سورة الأنبياء الآية 83: (وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ).",
+    "question_fr": "Dans quelle sourate figure l'invocation d'Ayyoub : « Le mal m'a touché, et Tu es le plus miséricordieux des miséricordieux » ?",
+    "options_fr": [
+      "Sourate al-Baqara",
+      "Sourate al-Anbiya'",
+      "Sourate Youssouf",
+      "Sourate al-Kahf"
+    ],
+    "explanation_fr": "Cette grande invocation figure dans la sourate al-Anbiya', verset 83 : « Et Ayyoub, lorsqu'il appela son Seigneur : Le mal m'a touché, et Tu es le plus miséricordieux des miséricordieux. »"
+  },
+  {
+    "id": "ayyub_26",
+    "question_ar": "ما الأدب النبوي الذي تجلى في دعاء أيوب حين قال (مَسَّنِيَ الضُّرُّ) ولم يقل أصبتني بالضر؟",
+    "options_ar": [
+      "أنه نسب الفعل للضر ولم ينسبه لله تعالى تأدباً مع الله، ثم وصف الله بالرحمة ولم يطلب طلباً محدداً",
+      "أنه كان يتكلم بلغة مجازية لا حقيقية",
+      "أنه كان خائفاً من التصريح بطلبه فاكتفى بالتلميح",
+      "أنه لم يكن يعرف سبب مرضه فنسبه للضر بشكل عام"
+    ],
+    "correct": 0,
+    "explanation_ar": "هذا من كمال أدب الأنبياء مع الله؛ فأيوب نسب الضر لنفسه (مسني) ولم ينسبه لله، كما فعل إبراهيم حين قال (وإذا مرضت فهو يشفين) فنسب المرض لنفسه والشفاء لله.",
+    "question_fr": "Quelle bienséance prophétique se manifeste dans l'invocation d'Ayyoub lorsqu'il dit « le mal m'a touché » plutôt que « Tu m'as frappé du mal » ?",
+    "options_fr": [
+      "Il attribua l'action au mal et non à Allah, par bienséance envers Lui, puis Le décrivit par la miséricorde sans formuler de demande précise",
+      "Il s'exprimait dans un langage figuré et non littéral",
+      "Il craignait d'exprimer clairement sa demande et se contenta d'une allusion",
+      "Il ne connaissait pas la cause de sa maladie et l'attribua donc au mal en général"
+    ],
+    "explanation_fr": "C'est là une bienséance parfaite des prophètes envers Allah ; Ayyoub attribua le mal à lui-même (« m'a touché ») et non à Allah, tout comme Ibrahim le fit en disant « et lorsque je suis malade, c'est Lui qui me guérit », attribuant la maladie à lui-même et la guérison à Allah."
+  },
+  {
+    "id": "ayyub_27",
+    "question_ar": "ما العضوان اللذان بقيا سليمين في جسد أيوب عليه السلام طوال فترة مرضه الشديد؟",
+    "options_ar": [
+      "عيناه ويداه",
+      "قلبه ولسانه اللذان يذكر بهما الله",
+      "ساقاه وقدماه",
+      "أذناه وأنفه"
+    ],
+    "correct": 1,
+    "explanation_ar": "أصاب المرض جسد أيوب كله حتى لم يبق منه عضو سليم إلا قلبه ولسانه اللذين يذكر بهما الله تعالى، وهذا من لطف الله الخفي به.",
+    "question_fr": "Quels sont les deux organes restés intacts dans le corps d'Ayyoub pendant toute la durée de sa grave maladie ?",
+    "options_fr": [
+      "Ses yeux et ses mains",
+      "Son cœur et sa langue, par lesquels il invoquait Allah",
+      "Ses jambes et ses pieds",
+      "Ses oreilles et son nez"
+    ],
+    "explanation_fr": "La maladie frappa tout le corps d'Ayyoub, ne laissant intact que son cœur et sa langue par lesquels il invoquait Allah — c'est là l'une des bontés cachées d'Allah envers lui."
+  },
+  {
+    "id": "ayyub_28",
+    "question_ar": "ما الترتيب الصحيح لمراحل البلاء التي أصابت أيوب عليه السلام؟",
+    "options_ar": [
+      "المرض أولاً ثم فقدان المال ثم فقدان الأولاد",
+      "فقدان الأولاد أولاً ثم المرض ثم فقدان المال",
+      "فقدان المال أولاً ثم فقدان الأولاد ثم المرض في الجسد",
+      "المرض والفقدان جاءا كلهم دفعة واحدة في يوم واحد"
+    ],
+    "correct": 2,
+    "explanation_ar": "جاء البلاء متدرجاً ومتتابعاً: بدأ بفقدان المال (المواشي والأراضي والزروع)، ثم فقد أولاده جميعاً، ثم أصابه المرض الشديد في جسده.",
+    "question_fr": "Quel est l'ordre correct des étapes de l'épreuve qu'a subie Ayyoub ?",
+    "options_fr": [
+      "D'abord la maladie, puis la perte des biens, puis la perte des enfants",
+      "D'abord la perte des enfants, puis la maladie, puis la perte des biens",
+      "D'abord la perte des biens, puis la perte des enfants, puis la maladie du corps",
+      "La maladie et les pertes survinrent toutes en même temps, en un seul jour"
+    ],
+    "explanation_fr": "L'épreuve survint progressivement et successivement : elle commença par la perte des biens (bétail, terres et récoltes), puis la perte de tous ses enfants, puis la grave maladie qui frappa son corps."
+  },
+  {
+    "id": "ayyub_29",
+    "question_ar": "لماذا أخرج أهل القرية أيوب عليه السلام من بلدتهم؟",
+    "options_ar": [
+      "لأنه رفض دفع الضرائب والمستحقات لهم",
+      "لأنه كان يدعوهم للتوحيد وهم رفضوا دعوته",
+      "خوفاً من العدوى بمرضه الشديد",
+      "لأنهم كانوا يكرهونه قبل مرضه بسبب غناه"
+    ],
+    "correct": 2,
+    "explanation_ar": "أخرجه أهل قريته خارج البلدة خشية العدوى بمرضه الشديد، فعاش في عزلة لم يبق معه فيها إلا زوجته الوفية.",
+    "question_fr": "Pourquoi les habitants du village ont-ils chassé Ayyoub de leur bourgade ?",
+    "options_fr": [
+      "Parce qu'il refusait de payer les taxes et les redevances qu'ils exigeaient",
+      "Parce qu'il les appelait au monothéisme et qu'ils avaient rejeté son appel",
+      "Par crainte de contagion de sa grave maladie",
+      "Parce qu'ils le détestaient déjà avant sa maladie, à cause de sa richesse"
+    ],
+    "explanation_fr": "Les habitants de son village le chassèrent hors de la bourgade par crainte de contagion de sa grave maladie, et il vécut alors dans un isolement où seule son épouse fidèle resta avec lui."
+  },
+  {
+    "id": "ayyub_30",
+    "question_ar": "ما الاسم الذي ذكرته بعض الروايات لزوجة أيوب عليه السلام؟",
+    "options_ar": [
+      "قيل اسمها خديجة بنت خويلد",
+      "قيل اسمها رحمة، وقيل ليا بنت يعقوب",
+      "قيل اسمها هاجر بنت إبراهيم",
+      "قيل اسمها سارة بنت إسحاق"
+    ],
+    "correct": 1,
+    "explanation_ar": "اختلفت الروايات في اسمها؛ فقيل اسمها رحمة وهو الأشهر، وقيل اسمها ليا بنت يعقوب عليه السلام.",
+    "question_fr": "Quel nom certains récits attribuent-ils à l'épouse d'Ayyoub ?",
+    "options_fr": [
+      "On dit qu'elle s'appelait Khadija bint Khouwaylid",
+      "On dit qu'elle s'appelait Rahma, et on dit aussi Léa fille de Ya'qub",
+      "On dit qu'elle s'appelait Hajar fille d'Ibrahim",
+      "On dit qu'elle s'appelait Sarah fille d'Ishaq"
+    ],
+    "explanation_fr": "Les récits divergent sur son nom ; on dit qu'elle s'appelait Rahma, ce qui est le plus connu, et on dit aussi qu'elle s'appelait Léa, fille de Ya'qub (paix sur lui)."
+  },
+  {
+    "id": "ayyub_31",
+    "question_ar": "ما الذي اضطرت زوجة أيوب لبيعه حتى تشتري له طعاماً بعد أن رفض الناس تشغيلها؟",
+    "options_ar": [
+      "باعت حليها الذهبية التي ورثتها من أمها",
+      "باعت ثيابها الجميلة في السوق",
+      "باعت ضفائر شعرها الجميلة",
+      "باعت أواني البيت النحاسية"
+    ],
+    "correct": 2,
+    "explanation_ar": "لما عرف الناس أنها زوجة أيوب امتنعوا عن استخدامها خشية المرض، فاضطرت لبيع ضفائرها الجميلة لتشتري له طعاماً، وهذا من أعظم صور التضحية والوفاء.",
+    "question_fr": "Qu'a dû vendre l'épouse d'Ayyoub pour lui acheter de la nourriture, après que les gens eurent refusé de l'employer ?",
+    "options_fr": [
+      "Elle vendit ses bijoux en or hérités de sa mère",
+      "Elle vendit ses beaux vêtements au marché",
+      "Elle vendit ses belles tresses de cheveux",
+      "Elle vendit les ustensiles en cuivre de la maison"
+    ],
+    "explanation_fr": "Lorsque les gens surent qu'elle était l'épouse d'Ayyoub, ils refusèrent de l'employer par crainte de la maladie ; elle fut alors contrainte de vendre ses belles tresses pour lui acheter de la nourriture — l'un des plus grands exemples de sacrifice et de fidélité."
+  },
+  {
+    "id": "ayyub_32",
+    "question_ar": "ماذا حدث حين ضرب أيوب الأرض برجله كما أمره الله تعالى؟",
+    "options_ar": [
+      "انشقت الأرض وخرج منها كنز من ذهب",
+      "انبجست عين ماء باردة اغتسل منها وشرب فشفي ظاهراً وباطناً",
+      "هبت ريح قوية حملته إلى مكان بعيد فيه علاج",
+      "نزل مطر غزير من السماء غسل جسده"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (ارْكُضْ بِرِجْلِكَ هَٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ)، فضرب الأرض برجله فانبجست عين ماء باردة، اغتسل منها فشُفي جسده ظاهراً، وشرب منها فشُفي باطناً.",
+    "question_fr": "Que s'est-il passé lorsqu'Ayyoub a frappé le sol de son pied, comme Allah le lui avait ordonné ?",
+    "options_fr": [
+      "Le sol se fendit et un trésor d'or en jaillit",
+      "Une source d'eau fraîche jaillit ; il s'y baigna et en but, et fut guéri extérieurement et intérieurement",
+      "Un vent puissant se leva et l'emporta vers un lieu lointain où se trouvait un remède",
+      "Une pluie abondante tomba du ciel et lava son corps"
+    ],
+    "explanation_fr": "Allah dit : « Frappe le sol de ton pied : voici de l'eau fraîche pour te baigner et pour boire » — il frappa donc le sol de son pied, une source d'eau fraîche en jaillit ; il s'y baigna et son corps fut guéri extérieurement, et il en but et fut guéri intérieurement."
+  },
+  {
+    "id": "ayyub_33",
+    "question_ar": "كيف تحقق الشفاء الظاهري والباطني لأيوب من عين الماء المباركة؟",
+    "options_ar": [
+      "شُفي بالاغتسال فقط دون أن يشرب منها",
+      "شُفي بالشرب فقط دون الاغتسال",
+      "اغتسل منها فشُفي جسده ظاهراً، وشرب منها فشُفي باطناً",
+      "لم يشف منها بل شفاه ملك نزل من السماء"
+    ],
+    "correct": 2,
+    "explanation_ar": "الماء المبارك كان علاجاً شاملاً: الاغتسال شفى الجسد من الخارج، والشرب شفى الأعضاء الداخلية، فعاد إليه شبابه وصحته وجماله.",
+    "question_fr": "Comment la guérison extérieure et intérieure d'Ayyoub s'est-elle réalisée par la source d'eau bénie ?",
+    "options_fr": [
+      "Il fut guéri uniquement par le bain, sans boire de cette eau",
+      "Il fut guéri uniquement en buvant, sans se baigner",
+      "Il s'y baigna et son corps fut guéri extérieurement, et il en but et fut guéri intérieurement",
+      "Il ne fut pas guéri par cette eau, mais par un ange descendu du ciel"
+    ],
+    "explanation_fr": "L'eau bénie fut un remède complet : le bain guérit le corps de l'extérieur, et la boisson guérit les organes internes ; sa jeunesse, sa santé et sa beauté lui furent alors rendues."
+  },
+  {
+    "id": "ayyub_34",
+    "question_ar": "ما الذي حدث حين عادت زوجة أيوب إليه بعد شفائه؟",
+    "options_ar": [
+      "عرفته فوراً وفرحت بشفائه",
+      "لم تعرفه من شدة حسنه وجماله بعد الشفاء حتى أخبرها أنه أيوب",
+      "خافت منه وظنته رجلاً غريباً فهربت",
+      "لم تصدق أنه شُفي وطلبت منه دليلاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "عاد إلى أيوب شبابه وصحته وجماله كأن لم يمسه سوء، حتى إن زوجته لم تعرفه من حسنه حتى أخبرها، وهذا يدل على كمال الشفاء الإلهي.",
+    "question_fr": "Que s'est-il passé lorsque l'épouse d'Ayyoub est revenue vers lui après sa guérison ?",
+    "options_fr": [
+      "Elle le reconnut immédiatement et se réjouit de sa guérison",
+      "Elle ne le reconnut pas tant sa beauté était grande après la guérison, jusqu'à ce qu'il lui dise qu'il était Ayyoub",
+      "Elle eut peur de lui, le prenant pour un étranger, et s'enfuit",
+      "Elle ne crut pas à sa guérison et lui demanda une preuve"
+    ],
+    "explanation_fr": "La jeunesse, la santé et la beauté d'Ayyoub lui furent rendues comme si rien ne l'avait jamais touché, au point que son épouse ne le reconnut pas tant il était beau, jusqu'à ce qu'il le lui dise — signe de la perfection de la guérison divine."
+  },
+  {
+    "id": "ayyub_35",
+    "question_ar": "في سورة الأنعام الآية 84، ذُكر أيوب مع مجموعة من الأنبياء. من هم الأنبياء المذكورون معه في هذه الآية؟",
+    "options_ar": [
+      "نوح وهود وصالح ولوط",
+      "داود وسليمان ويوسف وموسى وهارون",
+      "إسماعيل وإسحاق ويعقوب",
+      "عيسى ويحيى وزكريا وإلياس"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَمِن ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَارُونَ)، فذكر أيوب مع هؤلاء الأنبياء الكرام من ذرية إبراهيم.",
+    "question_fr": "Dans la sourate al-An'am, verset 84, Ayyoub est mentionné avec un groupe de prophètes. Quels sont les prophètes cités avec lui dans ce verset ?",
+    "options_fr": [
+      "Nouh, Houd, Salih et Lout",
+      "Dawud, Souleyman, Youssouf, Moussa et Haroun",
+      "Isma'il, Ishaq et Ya'qub",
+      "Issa, Yahya, Zakariya et Ilyas"
+    ],
+    "explanation_fr": "Allah dit : « Et parmi sa descendance : Dawud, Souleyman, Ayyoub, Youssouf, Moussa et Haroun » — Ayyoub y est mentionné avec ces nobles prophètes issus de la descendance d'Ibrahim."
+  },
+  {
+    "id": "ayyub_36",
+    "question_ar": "ماذا كان أيوب يقول حين طال عليه البلاء ليعبر عن رضاه بقضاء الله؟",
+    "options_ar": [
+      "كان يقول: لماذا أنا بالذات من بين الناس؟",
+      "كان يقول: إن الله أنعم عليه سبعين سنة فلا يستكثر أن يبتليه سبع سنين",
+      "كان يقول: لعل هذا البلاء ينتهي غداً إن شاء الله",
+      "كان يقول: أريد أن أموت وأستريح من هذا العذاب"
+    ],
+    "correct": 1,
+    "explanation_ar": "هذا القول يعكس فهماً عميقاً لحقيقة النعمة والابتلاء؛ فقد قارن بين سنوات النعمة الطويلة وسنوات البلاء القليلة نسبياً، فوجد أن الشكر أولى من الشكوى.",
+    "question_fr": "Que disait Ayyoub, lorsque l'épreuve se prolongeait, pour exprimer sa satisfaction du décret d'Allah ?",
+    "options_fr": [
+      "Il disait : Pourquoi moi précisément, parmi tous les gens ?",
+      "Il disait : Allah m'a comblé de bienfaits pendant soixante-dix ans, il ne serait pas excessif qu'Il m'éprouve pendant sept ans",
+      "Il disait : Peut-être que cette épreuve prendra fin demain, si Allah le veut",
+      "Il disait : Je veux mourir et me reposer de ce tourment"
+    ],
+    "explanation_fr": "Cette parole reflète une compréhension profonde de la réalité du bienfait et de l'épreuve ; il compara les longues années de faveur aux années d'épreuve relativement courtes, et conclut que la gratitude valait mieux que la plainte."
+  },
+  {
+    "id": "ayyub_37",
+    "question_ar": "في سورة ص، ماذا قال أيوب في ندائه لله عن سبب معاناته؟",
+    "options_ar": [
+      "قال: (أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ)",
+      "قال: (إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي)",
+      "قال: (رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ)",
+      "قال: (رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ)"
+    ],
+    "correct": 0,
+    "explanation_ar": "في سورة ص الآية 41 ذكر الله نداء أيوب: (وَاذْكُرْ عَبْدَنَا أَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍ)، فنسب المعاناة للشيطان لا لله تأدباً.",
+    "question_fr": "Dans la sourate Sad, qu'a dit Ayyoub dans son appel à Allah concernant la cause de sa souffrance ?",
+    "options_fr": [
+      "Il dit : « Le diable m'a touché d'une fatigue et d'un tourment »",
+      "Il dit : « Je me suis fait du tort à moi-même, alors pardonne-moi »",
+      "Il dit : « Seigneur, j'ai besoin du bien que Tu m'as accordé »",
+      "Il dit : « Seigneur, ne me laisse pas seul, alors que Tu es le meilleur des héritiers »"
+    ],
+    "explanation_fr": "Dans la sourate Sad, verset 41, Allah mentionne l'appel d'Ayyoub : « Et rappelle-toi Notre serviteur Ayyoub, lorsqu'il appela son Seigneur : Le diable m'a touché d'une fatigue et d'un tourment » — il attribua ainsi la souffrance au diable et non à Allah, par bienséance."
+  },
+  {
+    "id": "ayyub_38",
+    "question_ar": "ما معنى قوله تعالى (وَذِكْرَىٰ لِأُولِي الْأَلْبَابِ) في ختام قصة أيوب؟",
+    "options_ar": [
+      "أن قصته مخصصة للعلماء والمفسرين فقط",
+      "أن قصته عبرة وموعظة لكل ذي عقل سليم يتدبر ويتعظ",
+      "أن قصته يجب أن تُحفظ في الكتب ولا تُنسى",
+      "أن قصته خاصة بأهل زمانه ولا تنطبق على غيرهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "أولو الألباب هم أصحاب العقول السليمة الذين يتدبرون ويستخلصون العبر، وقصة أيوب عبرة خالدة لكل إنسان يمر بمحنة أن الصبر مفتاح الفرج.",
+    "question_fr": "Que signifie la parole d'Allah « et un rappel pour les gens doués d'intelligence » à la fin de l'histoire d'Ayyoub ?",
+    "options_fr": [
+      "Que son histoire est réservée aux savants et aux exégètes seulement",
+      "Que son histoire est une leçon et un enseignement pour tout esprit sain qui médite et en tire une leçon",
+      "Que son histoire doit être conservée dans les livres et ne jamais être oubliée",
+      "Que son histoire concerne uniquement les gens de son époque et ne s'applique pas aux autres"
+    ],
+    "explanation_fr": "Les « doués d'intelligence » sont les esprits sains qui méditent et tirent des leçons ; l'histoire d'Ayyoub est une leçon éternelle pour tout homme traversant une épreuve : la patience est la clé de la délivrance."
+  },
+  {
+    "id": "ayyub_39",
+    "question_ar": "ما معنى كلمة (ارْكُضْ) في قوله تعالى (ارْكُضْ بِرِجْلِكَ)؟",
+    "options_ar": [
+      "اجرِ بسرعة شديدة نحو النهر",
+      "اضرب الأرض برجلك أو ادقها بقدمك",
+      "ارقص فرحاً بالشفاء",
+      "اقفز عالياً فوق الصخرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "الركض هنا بمعنى ضرب الأرض بالرجل ودقها بالقدم، فلما فعل ذلك انبجست عين ماء مباركة كانت سبب شفائه بإذن الله.",
+    "question_fr": "Que signifie le mot « rkoudh » dans la parole d'Allah « frappe le sol de ton pied » ?",
+    "options_fr": [
+      "Cours très vite vers la rivière",
+      "Frappe le sol de ton pied ou tape-le avec ton pied",
+      "Danse de joie pour la guérison",
+      "Saute haut par-dessus le rocher"
+    ],
+    "explanation_fr": "« Rkoudh » signifie ici frapper le sol avec le pied et le taper ; lorsqu'il le fit, une source d'eau bénie jaillit, qui fut la cause de sa guérison, par la permission d'Allah."
+  },
+  {
+    "id": "ayyub_40",
+    "question_ar": "ما الدرس المستفاد من أن أيوب دعا الله بعد سنوات من الصبر الطويل؟",
+    "options_ar": [
+      "أن الدعاء دليل على ضعف الإيمان وقلة الصبر",
+      "أن الصبر لا يعني ترك الدعاء، بل يعني توجيه الشكوى لله وحده مع حسن الظن به وعدم التسخط على قدره",
+      "أن الدعاء لا فائدة منه لأن القدر محتوم",
+      "أنه كان يجب عليه أن يدعو من أول يوم ولا ينتظر"
+    ],
+    "correct": 1,
+    "explanation_ar": "الصبر الحقيقي لا يتنافى مع الدعاء والتضرع لله، فالدعاء عبادة والشكوى لله وحده ليست نقضاً للصبر، بل هي من أرقى مقامات العبودية.",
+    "question_fr": "Quelle leçon tirer du fait qu'Ayyoub ait invoqué Allah après des années de longue patience ?",
+    "options_fr": [
+      "Que l'invocation est une preuve de faiblesse de la foi et de manque de patience",
+      "Que la patience ne signifie pas abandonner l'invocation, mais signifie adresser sa plainte à Allah seul, avec une bonne opinion de Lui et sans se révolter contre Son décret",
+      "Que l'invocation ne sert à rien car le destin est déjà écrit",
+      "Qu'il aurait dû invoquer dès le premier jour sans attendre"
+    ],
+    "explanation_fr": "La véritable patience ne s'oppose pas à l'invocation et à la supplication envers Allah ; l'invocation est une adoration, et se plaindre à Allah seul ne contredit pas la patience, mais fait au contraire partie des plus hauts degrés de l'adoration."
+  },
+  {
+    "id": "ayyub_41",
+    "question_ar": "ما دلالة قوله تعالى (رَحْمَةً مِّنَّا) في سياق إعادة أهل أيوب إليه؟",
+    "options_ar": [
+      "أن الله أعاد أهله بطلب من الملائكة وشفاعتهم",
+      "أن إعادة النعم كانت تفضلاً ومنة من الله ومكافأة إلهية للصبر العظيم",
+      "أن الأهل عادوا بجهدهم الشخصي واختيارهم",
+      "أن الرحمة هنا بمعنى المطر الذي أنبت الزرع فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "قوله (رحمة منا) يبين أن إعادة النعم لأيوب كانت تفضلاً من الله وجزاء لصبره، وفيه بشارة لكل صابر بأن الله لا يضيع أجر من أحسن عملاً.",
+    "question_fr": "Que signifie la parole d'Allah « une miséricorde venant de Nous » dans le contexte du retour de la famille d'Ayyoub ?",
+    "options_fr": [
+      "Qu'Allah ramena sa famille sur demande et intercession des anges",
+      "Que le retour des bienfaits fut une faveur et une grâce d'Allah, une récompense divine pour son immense patience",
+      "Que la famille revint par son propre effort et son propre choix",
+      "Que la miséricorde ici signifie uniquement la pluie qui fit pousser les récoltes"
+    ],
+    "explanation_fr": "La parole « une miséricorde venant de Nous » montre que le retour des bienfaits à Ayyoub fut une faveur d'Allah et une récompense pour sa patience, portant une bonne nouvelle pour tout patient : Allah ne laisse pas perdre la récompense de celui qui fait le bien."
+  },
+  {
+    "id": "ayyub_42",
+    "question_ar": "كيف كان أيوب عليه السلام يتعامل مع الفقراء والمحتاجين قبل ابتلائه؟",
+    "options_ar": [
+      "كان يتجاهلهم وينشغل بتجارته وأمواله",
+      "كان يطعم الجائع ويكسو العاري ويعين الضعيف رغم أنه كان غنياً",
+      "كان يعطيهم القليل من فضلات طعامه فقط",
+      "كان يوكل أمرهم لخدمه ولا يتدخل شخصياً"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان أيوب مع غناه الواسع شاكراً لله باراً بالفقراء والمساكين، يطعم الجائع ويكسو العاري ويعين الضعيف، فجمع بين الشكر والإحسان.",
+    "question_fr": "Comment Ayyoub traitait-il les pauvres et les nécessiteux avant son épreuve ?",
+    "options_fr": [
+      "Il les ignorait, absorbé par son commerce et ses biens",
+      "Il nourrissait l'affamé, habillait le dénudé et aidait le faible, malgré sa grande richesse",
+      "Il leur donnait seulement les restes de sa nourriture",
+      "Il confiait leur cas à ses serviteurs sans s'impliquer personnellement"
+    ],
+    "explanation_fr": "Malgré sa vaste richesse, Ayyoub était reconnaissant envers Allah et bienveillant envers les pauvres et les démunis ; il nourrissait l'affamé, habillait le dénudé et aidait le faible, alliant ainsi gratitude et bienfaisance."
+  },
+  {
+    "id": "ayyub_43",
+    "question_ar": "ما القاسم المشترك بين وصف الله لأيوب ووصفه لسليمان عليهما السلام في القرآن؟",
+    "options_ar": [
+      "كلاهما وصفه الله بأنه ذو الملك العظيم والجنود الكثيرة",
+      "كلاهما وصفه الله بقوله (نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ) رغم اختلاف ظروفهما",
+      "كلاهما ابتُلي بالمرض الشديد في جسده",
+      "كلاهما حكم بني إسرائيل وقاد جيوشهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "وصف الله كليهما بـ(نعم العبد إنه أواب)؛ سليمان في غناه وملكه، وأيوب في مرضه وفقره، فالمعيار هو كمال الرجوع لله لا نوع الحال.",
+    "question_fr": "Quel est le point commun entre la description qu'Allah fait d'Ayyoub et celle qu'Il fait de Souleyman dans le Coran ?",
+    "options_fr": [
+      "Allah décrit les deux comme possesseurs d'un grand royaume et de nombreuses armées",
+      "Allah décrit les deux par la parole « quel excellent serviteur, il était toujours repentant », malgré la différence de leurs circonstances",
+      "Les deux furent éprouvés par une grave maladie du corps",
+      "Les deux gouvernèrent les Fils d'Israël et dirigèrent leurs armées"
+    ],
+    "explanation_fr": "Allah décrit les deux par « quel excellent serviteur, il était toujours repentant » ; Souleyman dans sa richesse et son règne, et Ayyoub dans sa maladie et sa pauvreté — le critère est la perfection du retour vers Allah, non le type de situation."
+  },
+  {
+    "id": "ayyub_44",
+    "question_ar": "في كم سورة من سور القرآن الكريم ذُكر أيوب عليه السلام بالاسم؟",
+    "options_ar": [
+      "في سورة واحدة فقط",
+      "في سورتين اثنتين",
+      "في أربع سور: الأنعام والأنبياء وص والنساء",
+      "في ست سور مختلفة"
+    ],
+    "correct": 2,
+    "explanation_ar": "ذُكر أيوب بالاسم في أربع سور: سورة النساء (الآية 163)، وسورة الأنعام (الآية 84)، وسورة الأنبياء (الآية 83)، وسورة ص (الآية 41).",
+    "question_fr": "Dans combien de sourates du Coran Ayyoub est-il mentionné par son nom ?",
+    "options_fr": [
+      "Dans une seule sourate",
+      "Dans deux sourates",
+      "Dans quatre sourates : al-An'am, al-Anbiya', Sad et an-Nisa'",
+      "Dans six sourates différentes"
+    ],
+    "explanation_fr": "Ayyoub est mentionné par son nom dans quatre sourates : sourate an-Nisa' (verset 163), sourate al-An'am (verset 84), sourate al-Anbiya' (verset 83), et sourate Sad (verset 41)."
+  },
+  {
+    "id": "ayyub_45",
+    "question_ar": "ما الحكمة من أن الفرج جاء لأيوب فوراً وبلحظة واحدة بعد سنوات طويلة من البلاء؟",
+    "options_ar": [
+      "لأن الله نسيه ثم تذكره فأسرع في شفائه",
+      "ليعلمنا أن البلاء يطول لحكمة إلهية والفرج يأتي في طرفة عين حين يأذن الله",
+      "لأن الماء المبارك كان موجوداً دائماً تحت قدميه ولم ينتبه له",
+      "لأن المرض كان بسيطاً في حقيقته وسهل العلاج"
+    ],
+    "correct": 1,
+    "explanation_ar": "هذه سنة الله في خلقه: البلاء يطول لحكمة التمحيص والرفعة، لكن الفرج يأتي في لحظة واحدة حين يأذن الله، كما قال تعالى: (إنما أمره إذا أراد شيئاً أن يقول له كن فيكون).",
+    "question_fr": "Quelle est la sagesse du fait que la délivrance soit venue à Ayyoub instantanément, en un seul instant, après de longues années d'épreuve ?",
+    "options_fr": [
+      "Parce qu'Allah l'avait oublié puis s'en était souvenu, hâtant alors sa guérison",
+      "Pour nous enseigner que l'épreuve se prolonge pour une sagesse divine, et que la délivrance vient en un clin d'œil lorsqu'Allah le permet",
+      "Parce que l'eau bénie était toujours présente sous ses pieds sans qu'il ne s'en aperçoive",
+      "Parce que la maladie était en réalité bénigne et facile à soigner"
+    ],
+    "explanation_fr": "Telle est la règle d'Allah dans Sa création : l'épreuve se prolonge pour la sagesse de l'épuration et de l'élévation, mais la délivrance vient en un seul instant lorsqu'Allah le permet, comme Il le dit : « Son commandement, quand Il veut une chose, est de dire : Sois ! et elle est. »"
+  },
+  {
+    "id": "ayyub_46",
+    "question_ar": "ما صفة صبر أيوب عليه السلام التي ميزته عن الصبر العادي؟",
+    "options_ar": [
+      "كان صبره سلبياً قائماً على اليأس والاستسلام للواقع",
+      "كان صبره إيجابياً نابعاً من يقين عميق بحكمة الله، فكان يسبح الله ويحمده في كل حال",
+      "كان صبره مبنياً على عدم الإحساس بالألم لأن مرضه لم يكن مؤلماً",
+      "كان صبره قصير المدة ولم يتجاوز بضعة أسابيع فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "لم يكن صبر أيوب سلبياً أو يأساً مقنعاً، بل كان صبراً إيجابياً نابعاً من يقين عميق بحكمة الله، فكان يسبح ويحمد الله في المرض كما في الصحة.",
+    "question_fr": "Quelle qualité de la patience d'Ayyoub la distingue d'une patience ordinaire ?",
+    "options_fr": [
+      "Sa patience était passive, fondée sur le désespoir et la résignation à la réalité",
+      "Sa patience était active, née d'une certitude profonde en la sagesse d'Allah ; il Le glorifiait et Le louait en toute circonstance",
+      "Sa patience était fondée sur l'absence de sensation de douleur, car sa maladie n'était pas douloureuse",
+      "Sa patience fut de courte durée, ne dépassant pas quelques semaines"
+    ],
+    "explanation_fr": "La patience d'Ayyoub n'était ni passive ni un désespoir déguisé, mais une patience active née d'une certitude profonde en la sagesse d'Allah ; il Le glorifiait et Le louait dans la maladie comme dans la santé."
+  },
+  {
+    "id": "ayyub_47",
+    "question_ar": "لماذا حلف أيوب أن يضرب زوجته مئة ضربة إن شفاه الله؟",
+    "options_ar": [
+      "لأنها تركته وذهبت لأهلها ورفضت العودة",
+      "لأنها جاءت إليه وقد حلقت شعرها بعد بيع ضفائرها، فحزن وأقسم بدافع الغيرة عليها والحزن لا الغضب",
+      "لأنها أساءت إليه بالكلام وسبته أمام الناس",
+      "لأنها أنفقت ماله الأخير دون إذنه"
+    ],
+    "correct": 1,
+    "explanation_ar": "حين رأى أيوب زوجته وقد حلقت شعرها بعد أن باعت ضفائرها ليأكل، حزن عليها حزناً شديداً وأقسم ليضربنها مئة ضربة، وكان ذلك بدافع الغيرة على كرامتها لا بدافع الغضب منها.",
+    "question_fr": "Pourquoi Ayyoub a-t-il juré de frapper son épouse de cent coups si Allah le guérissait ?",
+    "options_fr": [
+      "Parce qu'elle l'avait quitté pour rejoindre sa famille et refusait de revenir",
+      "Parce qu'elle vint à lui les cheveux rasés après avoir vendu ses tresses ; il fut affligé et jura sous l'effet de la jalousie pour elle et du chagrin, non de la colère",
+      "Parce qu'elle l'avait insulté et injurié devant les gens",
+      "Parce qu'elle avait dépensé le reste de ses biens sans sa permission"
+    ],
+    "explanation_fr": "Lorsqu'Ayyoub vit son épouse le crâne rasé, après qu'elle eut vendu ses tresses pour qu'il puisse manger, il fut profondément affligé pour elle et jura de la frapper de cent coups — un geste motivé par la jalousie pour sa dignité, et non par la colère envers elle."
+  },
+  {
+    "id": "ayyub_48",
+    "question_ar": "ما معنى كلمة (أَوَّاب) التي وصف الله بها أيوب عليه السلام؟",
+    "options_ar": [
+      "كثير السفر والترحال بين البلدان",
+      "كثير الرجوع إلى الله والتوبة والاستغفار في كل أحواله",
+      "كثير البكاء والحزن على ما فاته من الدنيا",
+      "كثير الأوبة إلى بيته وعدم الخروج منه"
+    ],
+    "correct": 1,
+    "explanation_ar": "الأواب هو كثير الرجوع إلى الله بالتوبة والاستغفار والذكر في السراء والضراء، وهذا ما ميز أيوب فكان رجاعاً لله في غناه وفي فقره.",
+    "question_fr": "Que signifie le mot « awwab » par lequel Allah décrit Ayyoub ?",
+    "options_fr": [
+      "Celui qui voyage beaucoup et se déplace entre les pays",
+      "Celui qui retourne beaucoup vers Allah, par le repentir et la demande de pardon en toute circonstance",
+      "Celui qui pleure beaucoup et se lamente sur ce qu'il a manqué de ce bas monde",
+      "Celui qui rentre beaucoup chez lui et n'en sort jamais"
+    ],
+    "explanation_fr": "L'« awwab » est celui qui retourne abondamment vers Allah par le repentir, la demande de pardon et l'invocation, dans l'aisance comme dans l'adversité — c'est ce qui caractérisait Ayyoub, retournant vers Allah aussi bien dans sa richesse que dans sa pauvreté."
+  },
+  {
+    "id": "ayyub_49",
+    "question_ar": "ما الأنعام التي كانت عند أيوب عليه السلام قبل ابتلائه؟",
+    "options_ar": [
+      "إبل وبقر وغنم وخيل، وأراضٍ شاسعة",
+      "أسماك ودواجن فقط",
+      "غنم فقط بأعداد قليلة",
+      "لم يكن يملك مواشي بل كان تاجراً في الأقمشة"
+    ],
+    "correct": 0,
+    "explanation_ar": "أنعم الله على أيوب بأموال كثيرة من إبل وبقر وغنم وخيل، وأراضٍ شاسعة، فكان من أغنى أهل زمانه وأكثرهم شكراً لله.",
+    "question_fr": "Quels troupeaux possédait Ayyoub avant son épreuve ?",
+    "options_fr": [
+      "Des chameaux, des bovins, des ovins et des chevaux, ainsi que de vastes terres",
+      "Uniquement des poissons et de la volaille",
+      "Uniquement des moutons, en petit nombre",
+      "Il ne possédait aucun bétail, mais était marchand de tissus"
+    ],
+    "explanation_fr": "Allah combla Ayyoub de nombreux biens : chameaux, bovins, ovins et chevaux, ainsi que de vastes terres — il était l'un des hommes les plus riches de son époque et l'un des plus reconnaissants envers Allah."
+  },
+  {
+    "id": "ayyub_50",
+    "question_ar": "ما النص القرآني الكامل لأمر الله أيوب بشأن يمينه في ضرب زوجته؟",
+    "options_ar": [
+      "(فَاعْفُ عَنْهَا وَاصْفَحْ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ)",
+      "(وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ)",
+      "(وَلَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا)",
+      "(فَمَن شَهِدَ مِنكُمُ الشَّهْرَ فَلْيَصُمْهُ)"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سورة ص الآية 44: (وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِب بِّهِ وَلَا تَحْنَثْ)، فأمره بأخذ حزمة من أعواد رقيقة والضرب بها ضربة واحدة لبر يمينه دون إيذاء زوجته الوفية.",
+    "question_fr": "Quel est le texte coranique complet de l'ordre d'Allah à Ayyoub concernant son serment de frapper son épouse ?",
+    "options_fr": [
+      "« Pardonne-leur donc et sois indulgent, car Allah aime les bienfaisants »",
+      "« Et prends dans ta main une botte de tiges, frappe avec elle et ne viole pas ton serment »",
+      "« Et ne nous châtie pas si nous oublions ou commettons une erreur »",
+      "« Quiconque parmi vous est présent au mois, qu'il le jeûne »"
+    ],
+    "explanation_fr": "Allah dit dans la sourate Sad, verset 44 : « Et prends dans ta main une botte de tiges, frappe avec elle et ne viole pas ton serment » — Il lui ordonna de prendre une botte de tiges fines et de frapper d'un seul coup, afin d'accomplir son serment sans faire de mal à son épouse fidèle."
+  }
+]

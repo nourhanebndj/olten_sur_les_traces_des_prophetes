@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "dhul_kifl_01",
+    "question_ar": "كيف ذُكر ذو الكفل في القرآن الكريم ومتى؟",
+    "options_ar": [
+      "ذُكر في سورة يوسف مع إخوة يوسف.",
+      "ذُكر بالاسم مرتين في سورتي الأنبياء وص، مقترناً مع الأنبياء الصابرين كإسماعيل وإدريس ومقترناً بالأخيار.",
+      "ذُكر في سورة البقرة في قصة طالوت وجالوت.",
+      "ذُكر في سورة الكهف مع أصحاب الكهف."
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَإِسْمَاعِيلَ وَإِدْرِيسَ وَذَا الْكِفْلِ ۖ كُلٌّ مِّنَ الصَّابِرِينَ) وقال (وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِّنَ الْأَخْيَارِ).",
+    "question_fr": "Comment Dhul-Kifl est-il mentionné dans le Saint Coran et à quel moment ?",
+    "options_fr": [
+      "Il est mentionné dans la sourate Youssouf avec les frères de Youssouf.",
+      "Il est mentionné par son nom à deux reprises dans les sourates al-Anbiya et Sad, associé aux prophètes patients comme Isma'il et Idris, et aux vertueux.",
+      "Il est mentionné dans la sourate al-Baqara dans l'histoire de Talout et Jalout.",
+      "Il est mentionné dans la sourate al-Kahf avec les gens de la caverne."
+    ],
+    "explanation_fr": "Allah dit : « Et Isma'il, et Idris, et Dhul-Kifl : tous étaient parmi les endurants » et dit : « Et rappelle-toi Isma'il, al-Yasa' et Dhul-Kifl ; tous sont parmi les meilleurs. »"
+  },
+  {
+    "id": "dhul_kifl_02",
+    "question_ar": "ما هو الرأي الراجح عند جمهور العلماء والمفسرين كابن كثير في حقيقة ذي الكفل، هل هو نبي أم رجل صالح؟",
+    "options_ar": [
+      "أنه مجرد ملك عادل لم يكن نبياً.",
+      "أنه نبي من أنبياء بني إسرائيل؛ لأن القرآن قرنه بالأنبياء ولا يُقرن بالأنبياء في مقام المديح إلا نبي مثلهم.",
+      "أنه كان وزيراً لسليمان عليه السلام.",
+      "أنه كان رجلاً صالحاً فقط ولم يوحَ إليه."
+    ],
+    "correct": 1,
+    "explanation_ar": "سياق الآيات التي تذكر سلسلة الأنبياء يعزز بقوة نبوته، وهذا ما رجحه ابن كثير وغيره من المحققين.",
+    "question_fr": "Quel est l'avis prépondérant chez la majorité des savants et exégètes comme Ibn Kathir concernant la nature de Dhul-Kifl : était-il un prophète ou un homme vertueux ?",
+    "options_fr": [
+      "Qu'il était simplement un roi juste et non un prophète.",
+      "Qu'il était un prophète parmi les prophètes des Fils d'Israël ; car le Coran l'associe aux prophètes, et on n'associe aux prophètes dans un contexte d'éloge que quelqu'un de semblable à eux.",
+      "Qu'il était vizir de Souleyman (paix sur lui).",
+      "Qu'il était seulement un homme vertueux à qui rien n'a été révélé."
+    ],
+    "explanation_fr": "Le contexte des versets qui mentionnent la lignée des prophètes renforce fortement sa prophétie, ce qui a été privilégié par Ibn Kathir et d'autres exégètes reconnus."
+  },
+  {
+    "id": "dhul_kifl_03",
+    "question_ar": "ما هو الاسم الحقيقي لذي الكفل كما روي في بعض الآثار وكما ذكره بعض المؤرخين؟",
+    "options_ar": [
+      "يوشع بن نون",
+      "بِشْر بن أيوب (أي أنه ابن النبي أيوب عليه السلام) أو عوبديا.",
+      "حزقيال",
+      "جرجيس"
+    ],
+    "correct": 1,
+    "explanation_ar": "يذكر المؤرخون كابن جرير الطبري أن اسمه (بشر) ابن أيوب، وأن الله بعثه نبياً بعد أبيه وسماه ذا الكفل.",
+    "question_fr": "Quel est le vrai nom de Dhul-Kifl selon certains récits et certains historiens ?",
+    "options_fr": [
+      "Youcha' fils de Noun",
+      "Bishr fils d'Ayyoub (c'est-à-dire qu'il serait le fils du prophète Ayyoub, paix sur lui) ou 'Obadiah.",
+      "Ézéchiel (Hizqil)",
+      "Jirjis"
+    ],
+    "explanation_fr": "Des historiens comme Ibn Jarir at-Tabari rapportent que son nom était Bishr, fils d'Ayyoub, et qu'Allah l'envoya comme prophète après son père et le nomma Dhul-Kifl."
+  },
+  {
+    "id": "dhul_kifl_04",
+    "question_ar": "لماذا سُمي بهذا الاسم (ذو الكفل) حسب أشهر الروايات عن ابن عباس وغيره؟",
+    "options_ar": [
+      "لأنه تكفل ببناء مسجد عظيم.",
+      "لأنه تكفل لنبي قبله (قيل اليسع) بعمل ثلاثة أشياء شاقة جداً فوفّى بها فكفله الله برحمته.",
+      "لأنه كان يكفل الأيتام في قومه بمفرده.",
+      "لأنه تكفل بدفع ديون قبيلته كلها."
+    ],
+    "correct": 1,
+    "explanation_ar": "الاسم مشتق من (التكفل) أي الالتزام بعهد أو شرط ثقيل، وقد وفّى بما تكفل به تماماً فاستحق هذا اللقب العظيم.",
+    "question_fr": "Pourquoi fut-il surnommé ainsi (Dhul-Kifl) selon les récits les plus connus rapportés d'Ibn 'Abbas et d'autres ?",
+    "options_fr": [
+      "Parce qu'il s'est engagé à construire une grande mosquée.",
+      "Parce qu'il s'est engagé (takaffala) envers un prophète antérieur (dit être al-Yasa') à accomplir trois choses très difficiles, et il les a accomplies fidèlement, si bien qu'Allah lui accorda Sa miséricorde en retour.",
+      "Parce qu'il prenait en charge seul les orphelins de son peuple.",
+      "Parce qu'il s'est engagé à payer toutes les dettes de sa tribu."
+    ],
+    "explanation_fr": "Le nom vient de « takaffoul », c'est-à-dire s'engager à respecter un pacte ou une condition lourde ; il a parfaitement tenu son engagement et a ainsi mérité ce titre magnifique."
+  },
+  {
+    "id": "dhul_kifl_05",
+    "question_ar": "ما هي الشروط الثلاثة الصعبة التي تكفل بها ذو الكفل للنبي الذي قبله ليخلفه في قومه؟",
+    "options_ar": [
+      "أن يقرأ التوراة والإنجيل والزبور كل يوم.",
+      "أن يصوم النهار، ويقوم الليل، ولا يغضب أبداً (في القضاء بين الناس).",
+      "أن يتصدق بنصف ماله، ولا يتزوج، ولا ينام على فراش.",
+      "أن يحج كل عام، ويغزو، ويبني مسجداً."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان القضاء بين الناس شاقاً ويجلب الغضب، فشرط النبي السابق أن يخلفه من يكظم غيظه دائماً ويجتهد في العبادة ظاهراً وباطناً.",
+    "question_fr": "Quelles sont les trois conditions difficiles auxquelles Dhul-Kifl s'est engagé envers le prophète qui le précédait pour lui succéder auprès de son peuple ?",
+    "options_fr": [
+      "Lire la Torah, l'Évangile et les Psaumes chaque jour.",
+      "Jeûner le jour, prier la nuit, et ne jamais se mettre en colère (en jugeant entre les gens).",
+      "Faire l'aumône de la moitié de ses biens, ne pas se marier, et ne pas dormir sur un lit.",
+      "Faire le pèlerinage chaque année, combattre, et construire une mosquée."
+    ],
+    "explanation_fr": "Juger entre les gens était une tâche pénible qui suscitait la colère ; le prophète précédent posa donc comme condition que son successeur maîtrise toujours sa colère et s'efforce dans l'adoration, en apparence comme en son for intérieur."
+  },
+  {
+    "id": "dhul_kifl_06",
+    "question_ar": "عندما عرض النبي (قيل اليسع) هذه الشروط على قومه، كم مرة قام الشاب (ذو الكفل) متطوعاً رغم وجود كبار السن؟",
+    "options_ar": [
+      "مرة واحدة فقط ثم تراجع.",
+      "كلما سأل النبي قومه: من يتكفل لي بهذه الثلاث؟ كان الناس يسكتون لهيبتها ويقوم هذا الشاب فيقول: أنا، حتى رضي به النّبي وأسندها إليه.",
+      "لم يقم بل فُرضت عليه قسراً.",
+      "قام بعد أن قدم له الناس رشوة مالية."
+    ],
+    "correct": 1,
+    "explanation_ar": "رفض الشيوخ وكبار القوم لعلمهم بصعوبة الشروط، لكن هذا الشاب كان يدفعه إيمان ويقين عظيمان أهلاه لهذا المقام.",
+    "question_fr": "Lorsque le prophète (dit être al-Yasa') proposa ces conditions à son peuple, combien de fois ce jeune homme (Dhul-Kifl) se leva-t-il volontaire malgré la présence d'anciens ?",
+    "options_fr": [
+      "Une seule fois, puis il se rétracta.",
+      "Chaque fois que le prophète demandait à son peuple : « Qui s'engage envers moi pour ces trois choses ? », les gens se taisaient, impressionnés par leur gravité, mais ce jeune homme se levait et disait : « Moi », jusqu'à ce que le prophète l'accepte et lui confie la charge.",
+      "Il ne se leva pas, mais cela lui fut imposé de force.",
+      "Il se leva après que les gens lui aient offert un pot-de-vin."
+    ],
+    "explanation_fr": "Les anciens et les notables du peuple refusèrent, connaissant la difficulté des conditions, mais ce jeune homme était animé d'une foi et d'une certitude immenses qui le rendaient digne de cette position."
+  },
+  {
+    "id": "dhul_kifl_07",
+    "question_ar": "كيف اختبر إبليس وفاء ذي الكفل بعهده (ألا يغضب)؟",
+    "options_ar": [
+      "أرسل له جنوداً من الجن ليرعبوه في الليل.",
+      "جاءه إبليس في صورة شيخ فقير كبير مظلوم، وبدأ يطرق بابه ويزعجه في وقت قيلولته (راحته الوحيدة بعد سهر الليل وصيام النهار) ليغضبه.",
+      "سرق أمواله كلها ليرى ردة فعله.",
+      "حرض عليه الملك ليسجنه ويغضبه."
+    ],
+    "correct": 1,
+    "explanation_ar": "استغل إبليس نقطة الضعف البشرية (التعب والنعاس) وأتاه في أشد الأوقات حرجاً ليفقده أعصابه ويجعله ينقض عهده.",
+    "question_fr": "Comment Iblis testa-t-il la fidélité de Dhul-Kifl à son engagement (ne pas se mettre en colère) ?",
+    "options_fr": [
+      "Il envoya des soldats djinns pour l'effrayer la nuit.",
+      "Iblis vint à lui sous la forme d'un vieil homme pauvre et opprimé, et se mit à frapper à sa porte et à le déranger pendant sa sieste (son seul moment de repos après avoir veillé la nuit et jeûné le jour) pour le mettre en colère.",
+      "Il vola tous ses biens pour voir sa réaction.",
+      "Il incita le roi contre lui pour le faire emprisonner et le mettre en colère."
+    ],
+    "explanation_fr": "Iblis exploita une faiblesse humaine (la fatigue et le sommeil) et vint le trouver dans les moments les plus délicats pour lui faire perdre patience et rompre son engagement."
+  },
+  {
+    "id": "dhul_kifl_08",
+    "question_ar": "ماذا كان يفعل إبليس المُتخفي عندما كان ذو الكفل يطلب منه المجيء لمجلس القضاء لاسترداد حقه؟",
+    "options_ar": [
+      "كان يذهب بسرعة ويشكره على صنيعه.",
+      "كان يتعمد ألا يحضر في وقت المجلس، ثم يعود ليطرق بابه في وقت القيلولة والراحة المتأخر ليزيد من إرهاقه وإزعاجه.",
+      "كان يرفض الذهاب للقاضي ويطلب المال مباشرة.",
+      "كان يطلب من ذي الكفل أن يذهب معه لخصمه في مدينة أخرى."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان إبليس يخطط بذكاء خبيث لاستنفاد الصبر البشري؛ تضييع المجلس وتكرار الإزعاج في وقت الراحة الحرج كفيل بإغضاب أحلم الناس.",
+    "question_fr": "Que faisait Iblis déguisé lorsque Dhul-Kifl lui demandait de venir à la séance de jugement pour récupérer son droit ?",
+    "options_fr": [
+      "Il s'y rendait rapidement et le remerciait pour son geste.",
+      "Il évitait délibérément de venir à l'heure de la séance, puis revenait frapper à sa porte au moment tardif de la sieste et du repos, pour accroître sa fatigue et son agacement.",
+      "Il refusait d'aller voir le juge et demandait l'argent directement.",
+      "Il demandait à Dhul-Kifl de l'accompagner chez son adversaire dans une autre ville."
+    ],
+    "explanation_fr": "Iblis planifiait avec une ruse perfide pour épuiser la patience humaine ; manquer la séance et répéter le dérangement au moment critique du repos suffisait à mettre en colère les gens les plus patients."
+  },
+  {
+    "id": "dhul_kifl_09",
+    "question_ar": "في اليوم الثالث من محاولات إبليس، عندما اشتد النعاس بذي الكفل، ماذا طلب من خادمه بشأن الباب؟",
+    "options_ar": [
+      "طلب منه إحضار طعام للشيخ لكي ينصرف.",
+      "طلب منه أن يغلق الباب ولا يسمح لأحد بالدخول عليه إطلاقاً لأنه بلغ منه العناء مبلغه ويحتاج لساعة نوم واحدة.",
+      "طلب منه أن يضرب الشيخ إذا عاد.",
+      "أمره بترك الباب مفتوحاً للجميع."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان ذو الكفل قد وصل لقمة الإرهاق (سهر الليل وصيام النهار لليوم الثالث) فصرح بمنع الدخول طلباً للحد الأدنى من راحة الجسد.",
+    "question_fr": "Au troisième jour des tentatives d'Iblis, alors que le sommeil accablait Dhul-Kifl, que demanda-t-il à son serviteur au sujet de la porte ?",
+    "options_fr": [
+      "Il lui demanda d'apporter de la nourriture au vieil homme pour qu'il parte.",
+      "Il lui demanda de fermer la porte et de ne laisser entrer personne, car il était arrivé au bout de ses forces et avait besoin d'une heure de sommeil.",
+      "Il lui demanda de frapper le vieil homme s'il revenait.",
+      "Il lui ordonna de laisser la porte ouverte à tous."
+    ],
+    "explanation_fr": "Dhul-Kifl était parvenu au comble de l'épuisement (veillée nocturne et jeûne diurne pour le troisième jour), aussi ordonna-t-il d'interdire l'entrée pour obtenir un minimum de repos corporel."
+  },
+  {
+    "id": "dhul_kifl_10",
+    "question_ar": "كيف دخل إبليس على ذي الكفل بعد أن وجد الباب مغلقاً وممنوعاً؟",
+    "options_ar": [
+      "انتظر حتى استيقظ ذو الكفل.",
+      "تسور الجدار ودخل من كوة (نافذة صغيرة)، وفجأة وجده ذو الكفل واقفاً عند رأسه في الغرفة رغم إغلاق الباب.",
+      "كسر الباب الخشبي بالقوة.",
+      "حفر نفقاً تحت الأرض ودخل منه."
+    ],
+    "correct": 1,
+    "explanation_ar": "هنا تجلت قدرات الشياطين بالتسور والاختراق، لكي يضعوا ذا الكفل في أشد درجات الاستفزاز النفسي (شخص غريب يتسلل لغرفة النوم!).",
+    "question_fr": "Comment Iblis entra-t-il chez Dhul-Kifl après avoir trouvé la porte fermée et l'entrée interdite ?",
+    "options_fr": [
+      "Il attendit que Dhul-Kifl se réveille.",
+      "Il escalada le mur et entra par une petite ouverture (une lucarne), et soudain Dhul-Kifl le trouva debout à son chevet dans la chambre, malgré la porte fermée.",
+      "Il brisa la porte en bois par la force.",
+      "Il creusa un tunnel sous terre et entra par là."
+    ],
+    "explanation_fr": "Ici se manifestent les capacités des démons à escalader et à s'introduire, afin de placer Dhul-Kifl dans les degrés les plus extrêmes de provocation psychologique (un inconnu s'introduisant dans une chambre à coucher !)."
+  },
+  {
+    "id": "dhul_kifl_11",
+    "question_ar": "كيف كانت ردة فعل ذي الكفل عندما استيقظ مرعوباً أو منزعجاً ووجد الرجل (إبليس) قد تسلل لغرفته؟",
+    "options_ar": [
+      "صرخ فيه وضربه بعصاه كما يفعل أي بشر متعب.",
+      "قال له بهدوء وثبات الصابرين: ألم آمرْ ألا يَدخُلَ عليّ أحد؟ من أين دخلت والباب مغلق؟ دون أن يفقد أعصابه أو يسبّه.",
+      "هرب من الغرفة خوفاً منه.",
+      "قرر ألا يستمع لشكواه أبداً وطرده."
+    ],
+    "correct": 1,
+    "explanation_ar": "كظم الغيظ المطلق؛ فرغم المفاجأة والإرهاق والاختراق لخصوصيته، سيطر على نفسه ولم يُظهر (الغضب) المذموم الذي عاهده على تركه.",
+    "question_fr": "Quelle fut la réaction de Dhul-Kifl lorsqu'il se réveilla, effrayé ou dérangé, et trouva l'homme (Iblis) infiltré dans sa chambre ?",
+    "options_fr": [
+      "Il cria après lui et le frappa avec son bâton comme le ferait tout homme fatigué.",
+      "Il lui dit avec le calme et la fermeté des endurants : « Ne t'avais-je pas ordonné que personne n'entre chez moi ? D'où es-tu entré alors que la porte était fermée ? » sans perdre son sang-froid ni l'insulter.",
+      "Il s'enfuit de la chambre, effrayé.",
+      "Il décida de ne plus jamais écouter sa plainte et le chassa."
+    ],
+    "explanation_fr": "Maîtrise absolue de la colère ; malgré la surprise, la fatigue et l'intrusion dans son intimité, il se contrôla et ne montra pas la colère blâmable qu'il s'était engagé à abandonner."
+  },
+  {
+    "id": "dhul_kifl_12",
+    "question_ar": "كيف جمع الله له مديحاً عظيماً بكلمتين في قوله تعالى عن زمرة الأنبياء: (وَكُلٌّ مِّنَ الصَّابِرِينَ)؟",
+    "options_ar": [
+      "وصف صبره بأنه صبر مؤقت ينتهي بالغضب.",
+      "أكد أن صبره على الطاعة (صيام وقيام) وصبره عن المعصية (كظم الغيظ وترك المظالم) كان من أرقى مستويات الصبر البشري الذي يستحق التخليد القرآني.",
+      "وصف صبره في ساحات المعارك فقط.",
+      "اقتصر صبره على الفقر المدقع حصراً."
+    ],
+    "correct": 1,
+    "explanation_ar": "الصبر هنا يشمل كل أنواع الصبر الثلاثة: على أقدار الله المؤلمة، وعلى طاعة الله الشاقة (العهد)، وعن معصية الله (الغضب والهوى).",
+    "question_fr": "Comment Allah a-t-Il réuni pour lui un éloge magnifique en deux mots dans Sa parole au sujet du groupe de prophètes : « et tous étaient parmi les endurants » ?",
+    "options_fr": [
+      "Il décrivit sa patience comme temporaire, se terminant par la colère.",
+      "Il affirma que sa patience dans l'obéissance (jeûne et prière) et sa patience face au péché (maîtrise de la colère et abandon des injustices) représentaient l'un des plus hauts degrés de patience humaine, méritant d'être immortalisé dans le Coran.",
+      "Il décrivit sa patience uniquement sur les champs de bataille.",
+      "Sa patience se limitait exclusivement à une extrême pauvreté."
+    ],
+    "explanation_fr": "La patience englobe ici les trois types : patience face aux décrets douloureux d'Allah, patience dans l'obéissance pénible à Allah (l'engagement), et patience face à la désobéissance à Allah (la colère et la passion)."
+  },
+  {
+    "id": "dhul_kifl_13",
+    "question_ar": "لماذا تم ذكره مقترناً بإسماعيل وإدريس تحديداً في سورة الأنبياء؟",
+    "options_ar": [
+      "لأنهم الثلاثة من أنبياء العرب فقط.",
+      "لأن القاسم المشترك بينهم هو (الصبر الاستثنائي) والتفاني المطلق في التضحية لتنفيذ أمر الله (إسماعيل للذبح، إدريس للرفعة بالطاعة، وذو الكفل بعهده الشاق).",
+      "لأنهم الثلاثة عاشوا في نفس المدينة.",
+      "لأنهم بنوا الكعبة سوياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "القرآن يجمع النظائر في الصفات؛ فصبر هؤلاء لم يكن مجرد صبر عادي، بل تضحية بالذات في سبيل العهود مع الله.",
+    "question_fr": "Pourquoi est-il mentionné associé précisément à Isma'il et Idris dans la sourate al-Anbiya ?",
+    "options_fr": [
+      "Parce que tous trois faisaient partie uniquement des prophètes arabes.",
+      "Parce que le point commun entre eux est une patience exceptionnelle et un dévouement absolu au sacrifice pour exécuter l'ordre d'Allah (Isma'il pour le sacrifice, Idris pour l'élévation par l'obéissance, et Dhul-Kifl par son engagement pénible).",
+      "Parce qu'ils ont tous trois vécu dans la même ville.",
+      "Parce qu'ils ont construit la Kaaba ensemble."
+    ],
+    "explanation_fr": "Le Coran rassemble les figures similaires par leurs qualités ; la patience de ces hommes n'était pas une patience ordinaire, mais un sacrifice de soi au nom des pactes avec Allah."
+  },
+  {
+    "id": "dhul_kifl_14",
+    "question_ar": "ما هي الصفة الثانية التي استحقها ذو الكفل في القرآن بعد الصبر في قوله (وَكُلٌّ مِّنَ الْأَخْيَارِ)؟",
+    "options_ar": [
+      "الأقوياء بدنياً.",
+      "الأخيار: أي المصطفين المختارين الذين بلغوا درجات الكمال في الخيرية والفضل على الناس، وصفة (الخيرية) هنا مطلقة للشمول.",
+      "الأغنياء أصحاب الأموال.",
+      "المسافرون في الأرض."
+    ],
+    "correct": 1,
+    "explanation_ar": "شهادة ربانية عظيمة (من الأخيار) تتوج تاريخ هذا النبي الذي أثبت أن العزم البشري الصادق يقهر وسوسة إبليس وحيله.",
+    "question_fr": "Quelle est la deuxième qualité que Dhul-Kifl a méritée dans le Coran après la patience, dans la parole d'Allah « et tous étaient parmi les meilleurs » ?",
+    "options_fr": [
+      "La force physique.",
+      "Les meilleurs (al-akhyar) : c'est-à-dire les élus choisis qui ont atteint les degrés de perfection en bonté et en mérite auprès des gens, cette qualité de « bonté » étant ici absolue et globale.",
+      "Les riches possesseurs de fortune.",
+      "Les voyageurs sur terre."
+    ],
+    "explanation_fr": "Un témoignage divin magnifique (« parmi les meilleurs ») couronne l'histoire de ce prophète, qui a prouvé qu'une détermination humaine sincère triomphe des tentations d'Iblis et de ses ruses."
+  },
+  {
+    "id": "dhul_kifl_15",
+    "question_ar": "في أي قوم كان مبعث ذي الكفل عليه السلام؟",
+    "options_ar": [
+      "في قوم عاد.",
+      "في بني إسرائيل في منطقة الشام، وكان قاضيَهم ونبيَّهم العادل الذي لا يظلم ولا يغضب، خلفاً لنبي كان قبلهم.",
+      "في قبيلة قريش قبل الإسلام.",
+      "في الأقباط بمصر قديماً."
+    ],
+    "correct": 1,
+    "explanation_ar": "هو ضمن سلسلة أنبياء بني إسرائيل المتعاقبين لتقويم الأمة والحكم بالتوراة والوحي.",
+    "question_fr": "Auprès de quel peuple Dhul-Kifl (paix sur lui) fut-il envoyé ?",
+    "options_fr": [
+      "Auprès du peuple de 'Ad.",
+      "Auprès des Fils d'Israël dans la région du Levant, où il fut leur juge et leur prophète juste, qui n'opprimait ni ne se mettait en colère, succédant à un prophète qui les précédait.",
+      "Auprès de la tribu de Quraych avant l'islam.",
+      "Auprès des Coptes en Égypte, dans l'antiquité."
+    ],
+    "explanation_fr": "Il fait partie de la lignée des prophètes successifs des Fils d'Israël, chargés de redresser la nation et de gouverner selon la Torah et la révélation."
+  },
+  {
+    "id": "dhul_kifl_16",
+    "question_ar": "كيف يمكننا كمسلمين تطبيق العبرة من قصة (ذي الكفل) في حياتنا اليومية والعملية؟",
+    "options_ar": [
+      "بحرمان أنفسنا من كل ملذات الدنيا والنوم بالكلية.",
+      "بمعرفة أن أعظم جهاد هو (السيطرة على النفس عند الغضب) والوفاء بالعهود والشروط حتى وإن كانت شاقة، وأن الغضب المستفز يمكن قمعه بالصبر.",
+      "أن الغضب طبيعي ويجب ألا نحاول السيطرة عليه.",
+      "ألا نتعاهد مع أحد على شيء حتى لا نخطئ."
+    ],
+    "correct": 1,
+    "explanation_ar": "التدريب على إدارة الغضب والوفاء الوظيفي والأخلاقي بالعهود (كفالة) هو أعظم استلهام من شخصية ذي الكفل في واقعنا.",
+    "question_fr": "Comment pouvons-nous, en tant que musulmans, appliquer la leçon de l'histoire de Dhul-Kifl dans notre vie quotidienne et pratique ?",
+    "options_fr": [
+      "En nous privant totalement des plaisirs de ce bas monde et en renonçant complètement au sommeil.",
+      "En sachant que le plus grand combat spirituel est la maîtrise de soi face à la colère et le respect des engagements et des conditions, même pénibles, et que la colère provoquée peut être réprimée par la patience.",
+      "En considérant que la colère est naturelle et qu'il ne faut pas essayer de la maîtriser.",
+      "En ne s'engageant envers personne pour éviter de se tromper."
+    ],
+    "explanation_fr": "S'entraîner à gérer la colère et à respecter fidèlement, sur le plan professionnel comme moral, ses engagements (kafala) est la plus grande leçon tirée de la personnalité de Dhul-Kifl pour notre réalité."
+  },
+  {
+    "id": "dhul_kifl_17",
+    "question_ar": "في سورة الأنبياء، ما الذي يجمع بين عبارة (وَكُلٌّ مِّنَ الصَّابِرِينَ) و (وَأَدْخَلْنَاهُمْ فِي رَحْمَتِنَا)؟",
+    "options_ar": [
+      "الرحمة والمغفرة لمن لم يصبروا قط.",
+      "أن الصبر المطلق هو (المفتاح) الوحيد والأكيد لدخول أبواب (الرحمة الإلهية) الواسعة؛ فمن صبر ظفر بالرحمة.",
+      "أن الصبر والرحمة يتناقضان ولا يجتمعان.",
+      "أن الرحمة تُعطى للضعفاء فقط والصبر للأقوياء."
+    ],
+    "correct": 1,
+    "explanation_ar": "اقتران سببي؛ لما جاهدوا أنفسهم بالصبر، استحقوا أن يغمرهم الله برحمته الخاصة وعنايته.",
+    "question_fr": "Dans la sourate al-Anbiya, qu'est-ce qui relie l'expression « et tous étaient parmi les endurants » et « et Nous les avons fait entrer dans Notre miséricorde » ?",
+    "options_fr": [
+      "La miséricorde et le pardon pour ceux qui n'ont pas du tout été patients.",
+      "Que la patience absolue est la clé unique et certaine pour accéder aux vastes portes de la miséricorde divine ; qui patiente triomphe et obtient la miséricorde.",
+      "Que la patience et la miséricorde se contredisent et ne peuvent coexister.",
+      "Que la miséricorde n'est accordée qu'aux faibles, et la patience aux forts uniquement."
+    ],
+    "explanation_fr": "Un lien de causalité ; parce qu'ils se sont efforcés à la patience, ils ont mérité qu'Allah les enveloppe de Sa miséricorde particulière et de Sa sollicitude."
+  },
+  {
+    "id": "dhul_kifl_18",
+    "question_ar": "ماذا نتعلم من محاولات إبليس المتكررة لذي الكفل وعدم يأسه من إغضابه؟",
+    "options_ar": [
+      "أن إبليس يملك السلطة التامة لإجبار البشر على الغضب رغماً عنهم.",
+      "أن الشيطان لا ييأس من إغواء الصالحين، ويختار نقاط الضعف البشرية (كالإرهاق والنعاس)، لكن التحصن بالتقوى والعهد الداخلي يُفشل أرقى حيله.",
+      "أن إبليس ضعيف جداً ولا يحتاج للحذر منه.",
+      "أن الشياطين تظهر فقط في الليل للناس."
+    ],
+    "correct": 1,
+    "explanation_ar": "إبليس استراتيجي خبيث يبحث عن النقطة الحرجة للانهيار العصبي، لكن الاعتصام بالله يحمي الإنسان في تلك اللحظة العمياء.",
+    "question_fr": "Que retenons-nous des tentatives répétées d'Iblis contre Dhul-Kifl et de son insistance à ne pas désespérer de le mettre en colère ?",
+    "options_fr": [
+      "Qu'Iblis a le pouvoir absolu de forcer les humains à se mettre en colère malgré eux.",
+      "Que le diable ne désespère jamais de tenter les vertueux, et qu'il choisit les points faibles humains (comme la fatigue et le sommeil), mais que se prémunir par la piété et l'engagement intérieur fait échouer ses ruses les plus raffinées.",
+      "Qu'Iblis est très faible et qu'il n'est pas nécessaire de s'en méfier.",
+      "Que les démons n'apparaissent aux gens que la nuit."
+    ],
+    "explanation_fr": "Iblis est un stratège perfide qui cherche le point critique de l'effondrement nerveux, mais s'attacher à Allah protège l'être humain dans ce moment aveuglant."
+  },
+  {
+    "id": "dhul_kifl_19",
+    "question_ar": "في أي سياق وردت قصة ذي الكفل في سورة (ص)؟",
+    "options_ar": [
+      "في بداية السورة حيث قصة آدم.",
+      "بعد قصة أيوب وصبره، ذُكر ذو الكفل مع إسماعيل واليسع للتأكيد المتوالي على النماذج البشرية العظيمة في الصبر والخيرية، كعزاء وتسيلة للنبي محمد ﷺ.",
+      "في نهاية السورة بعد ذكر القيامة.",
+      "في وسط قصة داود عليه السلام."
+    ],
+    "correct": 1,
+    "explanation_ar": "سرد متناسق لقصص الأنبياء وأخلاقهم الراقية، لتكون تسلية للقلوب وإرشاداً للصالحين.",
+    "question_fr": "Dans quel contexte l'histoire de Dhul-Kifl est-elle mentionnée dans la sourate Sad ?",
+    "options_fr": [
+      "Au début de la sourate, avec l'histoire d'Adam.",
+      "Après l'histoire d'Ayyoub et de sa patience, Dhul-Kifl est mentionné avec Isma'il et al-Yasa' pour insister successivement sur les grands modèles humains de patience et de bonté, comme réconfort et consolation pour le prophète Muhammad ﷺ.",
+      "À la fin de la sourate, après la mention du Jour de la Résurrection.",
+      "Au milieu de l'histoire de Dawud (paix sur lui)."
+    ],
+    "explanation_fr": "Un récit cohérent des histoires des prophètes et de leur noble caractère, pour consoler les cœurs et guider les vertueux."
+  },
+  {
+    "id": "dhul_kifl_20",
+    "question_ar": "أين يقع المقام أو القبر الذي يُنسب (شعبياً أو تاريخياً) للنبي ذي الكفل في وقتنا الحاضر؟",
+    "options_ar": [
+      "في مكة المكرمة.",
+      "يوجد بلدة ومقام مشهور في منطقة (بابل) بالعراق يُنسب إليه (مدينة الكفل)، ويحترمه المسلمون واليهود على حد سواء (باعتباره النبي حزقيال).",
+      "في المدينة المنورة بأطرافها.",
+      "في الربع الخالي بالجزيرة العربية."
+    ],
+    "correct": 1,
+    "explanation_ar": "مقام (الكفل) جنوب بغداد من المزارات التاريخية التي يتوارد عليها الناس ويُظن أنها دُفن فيها، والله أعلم بصحتها يقيناً.",
+    "question_fr": "Où se trouve, actuellement, le mausolée ou tombeau attribué (populairement ou historiquement) au prophète Dhul-Kifl ?",
+    "options_fr": [
+      "À La Mecque.",
+      "Il existe une localité et un mausolée célèbre dans la région de Babylone, en Irak, qui lui est attribué (la ville d'al-Kifl) et que respectent tant les musulmans que les juifs (qui le considèrent comme étant le prophète Ézéchiel).",
+      "Aux abords de Médine.",
+      "Dans le Quart Vide (Rub' al-Khali), dans la péninsule Arabique."
+    ],
+    "explanation_fr": "Le mausolée d'al-Kifl, au sud de Bagdad, est l'un des lieux de pèlerinage historiques fréquentés, où l'on pense qu'il fut enterré, mais Allah seul connaît la vérité avec certitude."
+  },
+  {
+    "id": "dhul_kifl_21",
+    "question_ar": "بماذا امتاز ذو الكفل في شجاعته إلى جانب صبره، كما تروي بعض الإسرائيليات الضعيفة التي يُستأنس بها؟",
+    "options_ar": [
+      "بأنه كان يهرب دائماً من المعارك خائفاً.",
+      "إلى جانب حلمه العظيم، كان موصوفاً بالجهاد، حيث كفل لنبي بالتطوع لمحاربة الأعداء، فكان يقاتلهم ويثبت ولا يفر كشجاع صنديد.",
+      "كان يخون قومه لصالح الأعداء.",
+      "لم يشارك في أي غزو بل كان راهباً منعزلاً بالكلية."
+    ],
+    "correct": 1,
+    "explanation_ar": "بعض الآثار تربط تكفله بالجهاد وعدم الفرار مع الصبر والصلاة، فاجتمعت له قوة الروح بالعبادة وقوة الجسد بالجهاد.",
+    "question_fr": "Par quoi Dhul-Kifl se distinguait-il en matière de courage, en plus de sa patience, comme le rapportent certains récits israélites faibles dont on peut néanmoins tirer profit ?",
+    "options_fr": [
+      "Il fuyait toujours les batailles par peur.",
+      "En plus de son immense patience, il était décrit comme un combattant : il s'était engagé envers un prophète à combattre volontairement les ennemis, les affrontant et tenant bon sans jamais fuir, tel un brave intrépide.",
+      "Il trahissait son peuple au profit des ennemis.",
+      "Il ne participa à aucune expédition, mais vécut en moine isolé."
+    ],
+    "explanation_fr": "Certains récits relient son engagement au combat et à la non-fuite, associés à la patience et à la prière, réunissant ainsi en lui la force spirituelle par l'adoration et la force physique par le combat."
+  },
+  {
+    "id": "dhul_kifl_22",
+    "question_ar": "ما هو العهد في حياة الإنسان وكيف يُمثل ذو الكفل رمزه الأعظم؟",
+    "options_ar": [
+      "العهد هو مجرد كلام فارغ يُقال للاستعراض.",
+      "العهد التزام أمام الله والنفس؛ وذو الكفل جسّد المعنى الحرفي للآية (وأوفوا بالعهد إن العهد كان مسؤولاً) عندما أوفى بعهده المستحيل في أقسى ظروف التعب.",
+      "العهد يخص المسائل المالية فقط.",
+      "ذو الكفل كان ينقض عهده إذا تعب قليلاً متذرعاً بالمشقة."
+    ],
+    "correct": 1,
+    "explanation_ar": "الوفاء بالوعد حتى مع النفس والضمير وتحدي الإرهاق البشري يجعله أيقونة لـ (رجل المهمات الروحية الصعبة).",
+    "question_fr": "Qu'est-ce que le pacte (al-'ahd) dans la vie de l'être humain, et comment Dhul-Kifl en représente-t-il le symbole suprême ?",
+    "options_fr": [
+      "Le pacte n'est que des paroles vides prononcées pour la parade.",
+      "Le pacte est un engagement devant Allah et devant soi-même ; Dhul-Kifl a incarné le sens littéral du verset « Et tenez le pacte, car le pacte est une responsabilité » en respectant son engagement impossible dans les plus dures conditions de fatigue.",
+      "Le pacte ne concerne que les questions financières.",
+      "Dhul-Kifl rompait son pacte dès qu'il ressentait un peu de fatigue, invoquant la difficulté."
+    ],
+    "explanation_fr": "Tenir sa promesse même face à soi-même et à sa conscience, et défier l'épuisement humain, fait de lui une icône de « l'homme des missions spirituelles difficiles »."
+  },
+  {
+    "id": "dhul_kifl_23",
+    "question_ar": "هل يمكن لأي شخص أن يلقب بذي الكفل إذا قام بنفس الأعمال اليوم؟",
+    "options_ar": [
+      "نعم، الاسم ليس حصراً بل يمكن مناداة الكثيرين به.",
+      "هذا لقب إلهي لنبي كريم لا يُطلق هكذا، ولكن من يتخلق بأخلاق كظم الغيظ والصيام والقيام ينال أجر الصابرين الأخيار وثوابهم دون حمل اللقب النبوي.",
+      "اللقب محرم على البشر تماماً.",
+      "اللقب متاح فقط للملوك العظماء."
+    ],
+    "correct": 1,
+    "explanation_ar": "اللقب خاص بنبي الله كعلم عليه، لكن صفاته الحميدة هي ميراث البشرية الذي يجب أن تتنافس فيه (كظم الغيظ والاجتهاد).",
+    "question_fr": "Une personne peut-elle aujourd'hui être surnommée « Dhul-Kifl » si elle accomplit les mêmes œuvres ?",
+    "options_fr": [
+      "Oui, le nom n'est pas exclusif et beaucoup de gens peuvent en être appelés ainsi.",
+      "C'est un titre divin réservé à un noble prophète et ne s'attribue pas ainsi, mais celui qui adopte les qualités de maîtrise de la colère, de jeûne et de prière nocturne obtient la récompense des endurants et des meilleurs, sans porter le titre prophétique.",
+      "Ce titre est totalement interdit aux êtres humains.",
+      "Ce titre est réservé uniquement aux grands rois."
+    ],
+    "explanation_fr": "Le titre est propre à un prophète d'Allah en tant que nom propre, mais ses vertus louables sont un héritage de l'humanité que chacun doit s'efforcer d'acquérir (maîtrise de la colère et assiduité dans l'effort spirituel)."
+  },
+  {
+    "id": "dhul_kifl_24",
+    "question_ar": "كيف يمكننا تفسير ورود ذكر ذي الكفل مختصراً جداً وبدون تفاصيل موسعة في القرآن؟",
+    "options_ar": [
+      "لأن قصته غير مهمة ولا تحتوي على رسالة أخلاقية.",
+      "القرآن كتاب هداية، ويذكر من التفاصيل ما يكفي لأخذ العبرة، فذكر اسمه مقترناً بالصبر والخيرية يكفي كدليل ورمز للاقتداء دون الحاجة للمزيد.",
+      "لأن المشركين كانوا يعرفون القصة بالتفصيل الممل فنفروا منها.",
+      "لأنه لم تكن له قصة تذكر على الإطلاق."
+    ],
+    "correct": 1,
+    "explanation_ar": "القرآن لا يستطرد في القصص إلا لحكمة، والاختصار هنا لتسليط الضوء على جوهر شخصيته (وهو الصبر والخيرية).",
+    "question_fr": "Comment expliquer que la mention de Dhul-Kifl dans le Coran soit très brève, sans détails étendus ?",
+    "options_fr": [
+      "Parce que son histoire n'est pas importante et ne contient aucune leçon morale.",
+      "Le Coran est un livre de guidance, et il mentionne des détails suffisants pour tirer la leçon ; mentionner son nom associé à la patience et à la bonté suffit comme preuve et symbole à imiter, sans besoin de davantage.",
+      "Parce que les polythéistes connaissaient l'histoire en détail au point d'en être lassés.",
+      "Parce qu'il n'a en réalité aucune histoire à raconter."
+    ],
+    "explanation_fr": "Le Coran ne s'étend dans les récits que pour une sagesse précise, et la brièveté ici vise à mettre en lumière l'essence de sa personnalité, à savoir la patience et la bonté."
+  },
+  {
+    "id": "dhul_kifl_25",
+    "question_ar": "ما هي أقسام (الصابرين) التي كان ذو الكفل جزءاً مضيئاً منها بانضمامه لهذه الزمرة؟",
+    "options_ar": [
+      "صبر على النعم فقط وعدم الإسراف.",
+      "الصبر الشامل: صبر أيوب على الابتلاء، وصبر إسماعيل على التضحية بالروح، وصبر ذي الكفل على مشقة العبادة المستمرة (الصيام والقيام) وقمع الغضب (القضاء).",
+      "الصبر على الفقر والحرمان المادي.",
+      "الصبر على الأذى في طريق الدعوة بالضرب فقط."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان كل واحد منهم آية في نوع مختلف من الصبر، فنِعموا جميعاً بشهادة ربانية (وكل من الصابرين).",
+    "question_fr": "Quelles sont les catégories de « endurants » dont Dhul-Kifl fut une partie éclatante en rejoignant ce groupe ?",
+    "options_fr": [
+      "La patience face aux bienfaits uniquement, sans gaspillage.",
+      "La patience globale : la patience d'Ayyoub face à l'épreuve, la patience d'Isma'il face au sacrifice de sa vie, et la patience de Dhul-Kifl face à la pénibilité de l'adoration continue (jeûne et prière) et à la répression de la colère (le jugement).",
+      "La patience face à la pauvreté et à la privation matérielle.",
+      "La patience face au tort subi sur le chemin de la prédication, par les coups uniquement."
+    ],
+    "explanation_fr": "Chacun d'eux était un exemple d'un type de patience différent, ils ont donc tous bénéficié d'un témoignage divin : « et tous étaient parmi les endurants »."
+  },
+  {
+    "id": "dhul_kifl_26",
+    "question_ar": "بم يتميز (الغضب) كأكبر صفة حاربها ذو الكفل واستحق تكفله بمنعها الثناء عليه؟",
+    "options_ar": [
+      "الغضب هو أساس القوة العضلية.",
+      "الغضب شعلة من الشيطان تُعمي البصيرة وتفسد القضاء بين الناس وتدمر العلاقات، لذلك كان شرط (ألا تغضب) هو أثقل قيود القضاء العادل.",
+      "الغضب أمر صحي ويجب التعبير عنه دائماً.",
+      "الغضب مستحيل الحدوث للقضاة."
+    ],
+    "correct": 1,
+    "explanation_ar": "في الحديث (ليس الشديد بالصرعة، إنما الشديد الذي يملك نفسه عند الغضب)، وذو الكفل كان قمة الشدة في كبح غضبه.",
+    "question_fr": "Par quoi se caractérise la colère, en tant que plus grand vice combattu par Dhul-Kifl, dont l'engagement à s'en abstenir lui a valu cet éloge ?",
+    "options_fr": [
+      "La colère est le fondement de la force musculaire.",
+      "La colère est une flamme venue du diable qui aveugle le discernement et corrompt le jugement entre les gens, ainsi que les relations ; c'est pourquoi la condition « ne te mets pas en colère » était la contrainte la plus lourde d'un jugement équitable.",
+      "La colère est saine et doit toujours être exprimée.",
+      "La colère est impossible chez les juges."
+    ],
+    "explanation_fr": "Dans le hadith : « Le fort n'est pas celui qui terrasse les autres, mais celui qui se maîtrise lorsqu'il est en colère », et Dhul-Kifl fut le sommet de cette force dans la répression de sa colère."
+  },
+  {
+    "id": "dhul_kifl_27",
+    "question_ar": "كيف وصف النبي أو المَلِك الذي سبقه الشروط التي يجب توفرها في خليفته؟",
+    "options_ar": [
+      "أن يكون ثرياً جداً ليتناسب مع المقام.",
+      "أراد خليفة يتحمل ما كان يتحمله هو من أعباء روحية جسيمة (صوم النهار وقيام الليل الطويل، وكظم الغيظ المطلق أمام خصومات البشر ومكائدهم).",
+      "أن يقاتل بمفرده جيشاً كاملاً.",
+      "أن يسافر لبلاد بعيدة لجلب الكنوز."
+    ],
+    "correct": 1,
+    "explanation_ar": "المقامات الروحية العالية تتطلب شروطاً تعجيزية للعامة، لكنها ممكنة لمن أمده الله بعزم قوي وتوفيق كأبي الكفل.",
+    "question_fr": "Comment le prophète ou le roi qui le précédait décrivit-il les conditions requises chez son successeur ?",
+    "options_fr": [
+      "Qu'il soit très riche pour convenir au rang.",
+      "Il voulait un successeur capable de porter les mêmes lourdes charges spirituelles qu'il portait lui-même (jeûne du jour et longue prière nocturne, et maîtrise absolue de la colère face aux disputes et aux ruses des gens).",
+      "Qu'il combatte seul une armée entière.",
+      "Qu'il voyage vers des pays lointains pour ramener des trésors."
+    ],
+    "explanation_fr": "Les hauts rangs spirituels exigent des conditions exceptionnelles pour le commun des gens, mais elles restent possibles pour celui qu'Allah a doté d'une forte détermination et d'une réussite, comme ce fut le cas pour Dhul-Kifl."
+  },
+  {
+    "id": "dhul_kifl_28",
+    "question_ar": "ماذا كان يفعل إبليس حين يُحدد ذو الكفل موعداً للخصم ليحضر في المجلس ويأخذ حقه؟",
+    "options_ar": [
+      "كان يحضر ويطالب بحقه بأدب.",
+      "كان يتعمد التخلف عن الموعد ليضيع وقت وجهد ذي الكفل، ثم يأتيه فجأة في وقت نومه بحجة أن الخصم تهرب منه.",
+      "كان يسب ذي الكفل في المجلس ويغادره.",
+      "كان يطالب بالمزيد من الأموال كرشوة."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان يبث الأعذار الواهية ويتخلف لتصعيد الضغط النفسي واستنزاف طاقة النبي الصابر تدريجياً.",
+    "question_fr": "Que faisait Iblis lorsque Dhul-Kifl fixait un rendez-vous à l'adversaire pour qu'il vienne à la séance et récupère son droit ?",
+    "options_fr": [
+      "Il venait et réclamait son droit avec courtoisie.",
+      "Il manquait délibérément le rendez-vous pour faire perdre du temps et de l'énergie à Dhul-Kifl, puis venait le trouver soudainement à l'heure de son sommeil, prétextant que l'adversaire s'était dérobé.",
+      "Il insultait Dhul-Kifl en pleine séance et quittait les lieux.",
+      "Il réclamait toujours plus d'argent en guise de pot-de-vin."
+    ],
+    "explanation_fr": "Il multipliait les excuses fallacieuses et manquait les rendez-vous pour intensifier la pression psychologique et épuiser progressivement l'énergie du prophète patient."
+  },
+  {
+    "id": "dhul_kifl_29",
+    "question_ar": "ما هي الحبال التي حاول إبليس رميها على ذي الكفل ليوقعه في شَرَك الغضب؟",
+    "options_ar": [
+      "إغراءات مالية وشهوات محرمة.",
+      "التكرار المُلح والإزعاج المتواصل (الحرمان من النوم) مع التظاهر بالمظلومية الشديدة التي تستدعي التعاطف لكنها تنتهي بالإزعاج المقصود.",
+      "حرض أصدقاءه ضده ليقاطعوه.",
+      "تخويفه بالأسلحة والحيوانات المفترسة."
+    ],
+    "correct": 1,
+    "explanation_ar": "الحرمان من النوم (القيلولة) كان السلاح الأخطر لإبليس لأن الإرهاق الجسدي يُضعف قدرة الإنسان على كظم غيظه.",
+    "question_fr": "Quelles cordes Iblis a-t-il essayé de tendre à Dhul-Kifl pour le faire tomber dans le piège de la colère ?",
+    "options_fr": [
+      "Des tentations financières et des désirs illicites.",
+      "L'insistance répétée et le dérangement continu (la privation de sommeil), tout en feignant une souffrance intense propre à susciter la compassion, mais qui se terminait par un agacement délibéré.",
+      "Il monta ses amis contre lui pour qu'ils le boycottent.",
+      "Il l'effraya avec des armes et des animaux féroces."
+    ],
+    "explanation_fr": "La privation de sommeil (la sieste) fut l'arme la plus dangereuse d'Iblis, car l'épuisement physique affaiblit la capacité de l'homme à maîtriser sa colère."
+  },
+  {
+    "id": "dhul_kifl_30",
+    "question_ar": "حين قال إبليس: (أنت نعم الرجل يا ذا الكفل)، هل كانت مدحة صادقة أم إقراراً بالهزيمة؟",
+    "options_ar": [
+      "مدحة صادقة تمنى بها إبليس أن يُسلم.",
+      "إقرار مرير بهزيمته النكراء أمام ثبات رجل رباني صامد، وتأكيد على أن عباد الله المخلصين ليس للشيطان عليهم سلطان (إلا عبادك منهم المخلصين).",
+      "كان يسخر منه ولم يعترف بالهزيمة قط.",
+      "كانت تعبيراً عن رغبة في الصلح."
+    ],
+    "correct": 1,
+    "explanation_ar": "الشيطان لا يعترف إلا حين ينكسر تماماً، وثبات ذي الكفل كان كسراً حقيقياً لمحاولات الاستفزاز الشيطانية.",
+    "question_fr": "Lorsqu'Iblis dit : « Tu es vraiment un homme excellent, ô Dhul-Kifl », s'agissait-il d'un éloge sincère ou d'un aveu de défaite ?",
+    "options_fr": [
+      "Un éloge sincère, par lequel Iblis espérait qu'il se convertirait.",
+      "Un aveu amer de sa défaite cuisante face à la fermeté d'un homme pieux inébranlable, confirmant que le diable n'a aucun pouvoir sur les serviteurs sincères d'Allah (« sauf Tes serviteurs élus parmi eux »).",
+      "Il se moquait de lui et ne reconnaissait aucune défaite.",
+      "C'était une expression d'un désir de réconciliation."
+    ],
+    "explanation_fr": "Le diable ne reconnaît sa défaite que lorsqu'il est totalement brisé, et la fermeté de Dhul-Kifl fut une véritable rupture face à ses tentatives de provocation diabolique."
+  },
+  {
+    "id": "dhul_kifl_31",
+    "question_ar": "بم وصف الله تعالى العهود في القرآن الكريم، والذي جعل ذا الكفل مثالاً يُحتذى؟",
+    "options_ar": [
+      "أنها كلام متبخر.",
+      "وصي الله باحترام العهود (وأوفوا بالعهد إن العهد كان مسؤولاً) وأنها من صفات المؤمنين الخُلّص (والذين هم لأماناتهم وعهدهم راعون).",
+      "أنه يمكن التراجع عنها بدفع دية مالية بسيطة كل مرة.",
+      "العهود للمسلمين فقط ولا تلزم غيرهم."
+    ],
+    "correct": 1,
+    "explanation_ar": "كان التكفل بالعهد الشاق (الحِلم والعبادة المستمرة) وتنفيذه دون أدنى خلل، نموذجاً ربانياً جسده ذو الكفل في أبهى صورة.",
+    "question_fr": "Comment Allah le Très-Haut a-t-Il qualifié les pactes dans le Coran, ce qui fit de Dhul-Kifl un exemple à suivre ?",
+    "options_fr": [
+      "Qu'ils sont des paroles évanescentes.",
+      "Allah recommande de respecter les pactes (« Et tenez le pacte, car le pacte est une responsabilité ») et qu'ils font partie des qualités des croyants sincères (« et ceux qui sont fidèles à leurs dépôts et à leur pacte »).",
+      "Qu'on peut y renoncer en payant une simple compensation financière à chaque fois.",
+      "Les pactes ne concernent que les musulmans et ne lient pas les autres."
+    ],
+    "explanation_fr": "L'engagement envers un pacte pénible (la maîtrise de soi et l'adoration continue) et son accomplissement sans la moindre faille furent un modèle divin incarné par Dhul-Kifl dans sa plus belle forme."
+  },
+  {
+    "id": "dhul_kifl_32",
+    "question_ar": "كيف كان موقف كبار القوم حينما عُرضت عليهم الشروط الثلاثة لخلافة النبي السابق؟",
+    "options_ar": [
+      "تنافسوا بقوة عليها من أجل المنصب والسلطة.",
+      "أدركوا ثقلها وصعوبتها المتناهية فصمتوا متراجعين ومتهيبين؛ فالانقطاع التام عن الغضب والراحة شبه مستحيل بشرياً.",
+      "رفضوها بحجة أنها شروط غير قانونية.",
+      "ادعوا أنهم ينفذونها فعلاً قبل أن يُطلب منهم."
+    ],
+    "correct": 1,
+    "explanation_ar": "هذا يعكس مصداقية القوم وعلمهم بخطورة المنصب الذي يتطلب إنكاراً شبه كامل للذات.",
+    "question_fr": "Quelle fut l'attitude des notables du peuple lorsque les trois conditions pour succéder au prophète précédent leur furent proposées ?",
+    "options_fr": [
+      "Ils se disputèrent vivement le poste pour le pouvoir.",
+      "Réalisant leur extrême gravité et difficulté, ils se turent, se retirant, intimidés ; car la rupture totale avec la colère et le repos était pratiquement impossible pour l'humain.",
+      "Ils les refusèrent, arguant qu'elles étaient illégales.",
+      "Ils prétendirent déjà les appliquer avant même qu'on le leur demande."
+    ],
+    "explanation_fr": "Cela reflète la sincérité du peuple et sa conscience de la gravité de ce poste, qui exigeait un renoncement presque total à soi-même."
+  },
+  {
+    "id": "dhul_kifl_33",
+    "question_ar": "بماذا امتاز تعامل ذي الكفل مع المتسلل لغرفته (وهو لم يعلم أنه شيطان)؟",
+    "options_ar": [
+      "بالانتقام الشخصي واستدعاء الحراس لضربه وسجنه.",
+      "بالسؤال الهادئ العقلاني: (كيف دخلت؟) والتعامل وفق مقتضيات القضاء العادل رغم التجاوز الشخصي الواضح والتعدي على حرمته وقت الراحة.",
+      "بالخوف والهلع والصراخ.",
+      "بعرض المال عليه ليتركه نائماً."
+    ],
+    "correct": 1,
+    "explanation_ar": "وهذه درجة عظمى من درجات السيطرة على الانفعال (الحِلم)، حيث فرّق بين حقه الشخصي في الراحة والتزامه بوظيفته كملجأ للمظلوم.",
+    "question_fr": "Par quoi le comportement de Dhul-Kifl envers l'intrus dans sa chambre (sans savoir qu'il s'agissait d'un démon) s'est-il distingué ?",
+    "options_fr": [
+      "Par une vengeance personnelle, appelant les gardes pour le frapper et l'emprisonner.",
+      "Par une question calme et rationnelle : « Comment es-tu entré ? », et un traitement conforme aux exigences d'une justice équitable, malgré la transgression personnelle évidente et l'atteinte à son intimité pendant son repos.",
+      "Par la peur, la panique et les cris.",
+      "En lui offrant de l'argent pour qu'il le laisse dormir."
+    ],
+    "explanation_fr": "C'est là un degré suprême de maîtrise de soi (la clémence), où il distingua entre son droit personnel au repos et son engagement envers sa fonction de refuge pour l'opprimé."
+  },
+  {
+    "id": "dhul_kifl_34",
+    "question_ar": "ما الدرس التربوي من قصة كظم الغيظ لذي الكفل وعلاقته بالصحة النفسية؟",
+    "options_ar": [
+      "أن الغضب يريح الأعصاب.",
+      "أن التحكم في الغضب هو الذي يحفظ العقل ويمنع التصرفات المدمرة، وهو جوهر الحلم الذي يكسب الإنسان هيبته وثباته أمام الاستفزاز المستمر.",
+      "الصحة النفسية تتطلب الغضب المستمر.",
+      "أن الإرهاق يبرر جميع ردود الفعل الغاضبة."
+    ],
+    "correct": 1,
+    "explanation_ar": "مدرسة ذي الكفل هي مدرسة (الصلابة النفسية) حيث الإرادة الربانية تقهر ردات الفعل الانفعالية العابرة.",
+    "question_fr": "Quelle est la leçon éducative tirée de la maîtrise de la colère de Dhul-Kifl, en lien avec la santé psychologique ?",
+    "options_fr": [
+      "Que la colère apaise les nerfs.",
+      "Que la maîtrise de la colère préserve la raison et prévient les comportements destructeurs, et constitue l'essence de la clémence qui confère à l'homme prestige et fermeté face à une provocation continue.",
+      "La santé psychologique exige une colère permanente.",
+      "Que la fatigue justifie toutes les réactions coléreuses."
+    ],
+    "explanation_fr": "L'école de Dhul-Kifl est celle de la « solidité psychologique », où la volonté divine surmonte les réactions émotionnelles passagères."
+  },
+  {
+    "id": "dhul_kifl_35",
+    "question_ar": "كيف يُمثل ذو الكفل قدوة للقضاة والمسؤولين في مراكز السلطة؟",
+    "options_ar": [
+      "بأخذ الإجازات المستمرة.",
+      "عبر درسه العظيم: أن القاضي والمسؤول يجب أن يتحلى بأقصى درجات الصبر مع ذوي الحاجات والمظلومين، وألا يحكمه غضب أو هدر لأمانته رغم المعرقلات والتعب الشخصي.",
+      "بمعاقبة أصحاب الاحتياج الملح والصراخ.",
+      "بتحصيل أكبر قدر ممكن من الأموال من المناصب."
+    ],
+    "correct": 1,
+    "explanation_ar": "يمثل المقياس الأعلى للأداء الوظيفي والأخلاقي المرتفع؛ حيث يتغلب فيه نفع الناس على حاجة الجسد الملحة للنوم.",
+    "question_fr": "Comment Dhul-Kifl représente-t-il un modèle pour les juges et les responsables occupant des postes de pouvoir ?",
+    "options_fr": [
+      "En prenant des congés continuels.",
+      "À travers sa grande leçon : le juge et le responsable doivent faire preuve du plus grand degré de patience envers les gens dans le besoin et les opprimés, sans jamais se laisser gouverner par la colère ni négliger leur devoir malgré les obstacles et la fatigue personnelle.",
+      "En punissant les personnes ayant des besoins urgents et qui crient.",
+      "En amassant le plus d'argent possible depuis leur poste."
+    ],
+    "explanation_fr": "Il représente l'étalon suprême de la performance professionnelle et de l'élévation morale, où l'intérêt des gens l'emporte sur le besoin pressant du corps de dormir."
+  },
+  {
+    "id": "dhul_kifl_36",
+    "question_ar": "ما دلالة ذكر (اليسع) مُقترناً مع (ذي الكفل) و (إسماعيل) في سورة ص؟",
+    "options_ar": [
+      "لأنهم عاشوا جميعاً كفراعنة.",
+      "كلاهما (اليسع وذو الكفل) من أنبياء حقبة متقاربة (بني إسرائيل) وكلاهما تمسك بعهد من سبقه (إلياس واليسع)، وكلاهما (من الأخيار) الذين كافحوا من أجل رسالتهم وثبتوا في المحن.",
+      "لأنهم شاركوا في بناء سفينة نوح لاحقاً.",
+      "كلاهما رُفعا للسماء أحياء كعيسى."
+    ],
+    "correct": 1,
+    "explanation_ar": "اليسع ورث إلياس، وذو الكفل ورث نبياً قبله، فكانوا نعم الخُلَفَاء ونعم الأخيار المدافعين عن الرسالة.",
+    "question_fr": "Quelle est la signification de la mention d'al-Yasa' associé à Dhul-Kifl et Isma'il dans la sourate Sad ?",
+    "options_fr": [
+      "Parce qu'ils vécurent tous comme des pharaons.",
+      "Tous deux (al-Yasa' et Dhul-Kifl) sont des prophètes d'une époque rapprochée (les Fils d'Israël), et tous deux se sont attachés au pacte de celui qui les précédait (Ilyas et al-Yasa'), et tous deux font partie « des meilleurs » qui ont lutté pour leur message et sont demeurés fermes dans les épreuves.",
+      "Parce qu'ils ont participé ensemble à la construction de l'arche de Noé plus tard.",
+      "Tous deux furent élevés vivants au ciel comme 'Issa."
+    ],
+    "explanation_fr": "Al-Yasa' hérita d'Ilyas, et Dhul-Kifl hérita d'un prophète qui le précéda ; ils furent donc d'excellents successeurs et d'excellents défenseurs du message."
+  },
+  {
+    "id": "dhul_kifl_37",
+    "question_ar": "ما الذي استنتجه العلماء من قوله (وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ) التي تسبق ذكرهم بآيات؟",
+    "options_ar": [
+      "أنهم سيُعادون للأرض للقتال.",
+      "أن الاصطفاء الإلهي (النبوة) لم يكن مجرد هبة مجردة، بل صاحبتها (خيرية) مطلقة في أخلاقهم وسلوكهم وأعمالهم وتضحياتهم الجليلة، فكانوا خير البشر قاطبة.",
+      "أنهم ليسوا بشراً بل ملائكة مقربون.",
+      "أنهم أُعفوا من العبادات والتكاليف بالكلية."
+    ],
+    "correct": 1,
+    "explanation_ar": "الاصطفاء يُلزم صاحبه بأن يكون قدوة في الخير والصبر (كذي الكفل)، وهكذا يُثبتون جدارتهم بالختم القرآني لهم.",
+    "question_fr": "Qu'ont conclu les savants de la parole d'Allah « Et ils sont auprès de Nous parmi les élus, les meilleurs », qui précède leur mention de quelques versets ?",
+    "options_fr": [
+      "Qu'ils reviendront sur terre pour combattre.",
+      "Que l'élection divine (la prophétie) n'était pas un simple don abstrait, mais s'accompagnait d'une « bonté » absolue dans leur caractère, leur comportement, leurs œuvres et leurs sacrifices magnifiques, faisant d'eux les meilleurs des hommes sans exception.",
+      "Qu'ils ne sont pas des êtres humains mais des anges rapprochés.",
+      "Qu'ils furent dispensés de toute adoration et de toute obligation."
+    ],
+    "explanation_fr": "L'élection oblige celui qui en bénéficie à être un modèle de bonté et de patience (comme Dhul-Kifl), démontrant ainsi qu'ils méritent le sceau coranique qui les honore."
+  },
+  {
+    "id": "dhul_kifl_38",
+    "question_ar": "لماذا تم تسمية المقام أو المزار في بابل بالعراق بـ (ذي الكفل)؟",
+    "options_ar": [
+      "لأنه تكفل ببناء مدينة بابل القديمة.",
+      "عُرف تاريخياً هناك، ويظن بعض المؤرخين واليهود أنه هو النبي (حزقيال) الذي تم سبيه في الأسر البابلي، فدُفن هناك وأصبح مزاراً للمسلمين واليهود تحتبس فيه العهود.",
+      "لأنه هرب واختبأ هناك من فرعون مصر.",
+      "لأنه اكتشف النفط وتكفل بتوزيعه هناك."
+    ],
+    "correct": 1,
+    "explanation_ar": "المزار (الكفل) ارتبط باسمه وبعض صفاته من التكفل، وهو يعكس الاحترام المتوارث لشخصيته في الديانات الإبراهيمية في تلك البقعة.",
+    "question_fr": "Pourquoi le mausolée ou lieu de pèlerinage à Babylone, en Irak, fut-il nommé « Dhul-Kifl » ?",
+    "options_fr": [
+      "Parce qu'il se serait engagé à construire l'ancienne ville de Babylone.",
+      "Il fut historiquement connu à cet endroit, et certains historiens et juifs pensent qu'il s'agit du prophète Ézéchiel, exilé lors de la captivité babylonienne, qui y fut enterré et devint un lieu de pèlerinage pour les musulmans et les juifs.",
+      "Parce qu'il s'y enfuit et s'y cacha du pharaon d'Égypte.",
+      "Parce qu'il y découvrit du pétrole et s'engagea à le distribuer."
+    ],
+    "explanation_fr": "Le mausolée d'« al-Kifl » est associé à son nom et à certaines de ses qualités liées à l'engagement (takaffoul), reflétant le respect hérité de sa personnalité dans les religions abrahamiques de cette région."
+  },
+  {
+    "id": "dhul_kifl_39",
+    "question_ar": "بم ترد القصة أو الرواية على من يزعمون أن الاستفزاز الشديد يُسقط التكليف والأخلاق عن الإنسان؟",
+    "options_ar": [
+      "القصة تؤكد أن الغضب يعفي من المسؤولية.",
+      "ذو الكفل أثبت العكس تماماً؛ فالاستفزاز (تكرر 3 مرات مع حرمان من النوم واختراق للحدود) وبرغم شدته لم يُخرجه عن وقاره وضبط لسانه وأفعاله، فالأخلاق تُختبر وتُثبت جودتها عند أقصى درجات الاستفزاز.",
+      "تتفق معهم وتعاقب ذي الكفل على بروده.",
+      "أن الاستفزاز مقبول إذا كان لغرض الشكوى فقط."
+    ],
+    "correct": 1,
+    "explanation_ar": "معدن الرجال يظهر في الغضب والصدمة الأولى، والأخلاق الربانية لا تسقط بالاستفزاز مهما بلغ مكره وتدبيره.",
+    "question_fr": "Que répond cette histoire ou ce récit à ceux qui prétendent qu'une forte provocation dispense l'être humain de toute obligation morale ?",
+    "options_fr": [
+      "L'histoire confirme que la colère dispense de toute responsabilité.",
+      "Dhul-Kifl prouve exactement le contraire : la provocation (répétée trois fois, avec privation de sommeil et violation de son intimité), malgré son intensité, ne l'a pas fait sortir de sa dignité ni lui a fait perdre le contrôle de sa parole et de ses actes ; l'éthique se vérifie et prouve sa qualité au plus fort de la provocation.",
+      "Elle est d'accord avec eux et punit Dhul-Kifl pour son détachement.",
+      "Que la provocation est acceptable si elle vise seulement à se plaindre."
+    ],
+    "explanation_fr": "Le véritable caractère de l'homme se révèle dans la colère et le choc initial, et la morale divine ne s'effondre pas face à la provocation, quelle que soit la ruse déployée."
+  },
+  {
+    "id": "dhul_kifl_40",
+    "question_ar": "هل كان يُعفى ذو الكفل من صيام النهار بسبب قيامه لليل وقضائه بين الناس؟",
+    "options_ar": [
+      "نعم، كان يفطر لأجل القوة.",
+      "لا، بل كان هذا هو جوهر عهده الشاق (صيام مستمر في النهار، وقيام في الليل) مع التصدي لأعباء المجتمع، وهذا يمثل أعلى مستويات الإرهاق المنضبط شرعياً في الشرائع السابقة.",
+      "كان يُعفى فقط يوم الجمعة.",
+      "لم يكن هناك صيام في شريعته أصلاً."
+    ],
+    "correct": 1,
+    "explanation_ar": "التزامه الصارم بتفاصيل العهد رغم قسوة التعب البدني هو الذي جعله أهلاً للقب والاصطفاء الرباني المتفرد.",
+    "question_fr": "Dhul-Kifl était-il dispensé de jeûner le jour en raison de sa prière nocturne et de son rôle de juge parmi les gens ?",
+    "options_fr": [
+      "Oui, il rompait le jeûne pour préserver sa force.",
+      "Non, c'était au contraire le cœur même de son pacte pénible (jeûne continu le jour, prière la nuit) tout en assumant les charges de la société, représentant le plus haut niveau d'épuisement maîtrisé légalement dans les législations antérieures.",
+      "Il en était dispensé uniquement le vendredi.",
+      "Il n'y avait pas de jeûne dans sa législation."
+    ],
+    "explanation_fr": "Son engagement rigoureux envers les moindres détails de son pacte, malgré la dureté de la fatigue physique, le rendit digne de ce titre et de cette élection divine singulière."
+  },
+  {
+    "id": "dhul_kifl_41",
+    "question_ar": "ما هو السر في تسور إبليس للجدار للدخول من الكوة على ذي الكفل، وماذا يمثل رمزياً؟",
+    "options_ar": [
+      "طريقة للهروب بسرعة.",
+      "رمز للالتفاف الشيطاني وتخطي الحواجز المادية والمنطقية المانعة، ليضرب في عقل الضحية وراحتها بشكل صادم وحي لا يُتوقع، سعياً للإيقاع السريع في فخ الغضب والانفجار.",
+      "كان يبحث عن طعام في المطبخ.",
+      "أراد إثبات قوته البدنية أمام النبي."
+    ],
+    "correct": 1,
+    "explanation_ar": "التسلل للخدور المغلقة فجأة يستثير الغريزة البشرية للدفاع الغاضب عن النفس والمأوى، لكن يظل نبي الله ثابتاً لا يهتز.",
+    "question_fr": "Quel est le secret dans le fait qu'Iblis ait escaladé le mur pour entrer par la lucarne chez Dhul-Kifl, et que représente-t-il symboliquement ?",
+    "options_fr": [
+      "Un moyen de s'enfuir rapidement.",
+      "Un symbole de la ruse diabolique et de sa capacité à franchir les barrières matérielles et logiques, pour frapper l'esprit et le repos de la victime de manière choquante et imprévue, cherchant à la faire tomber rapidement dans le piège de la colère et de l'explosion.",
+      "Il cherchait de la nourriture dans la cuisine.",
+      "Il voulait prouver sa force physique devant le prophète."
+    ],
+    "explanation_fr": "S'introduire soudainement dans une chambre fermée provoque l'instinct humain de défense colérique du soi et du foyer, mais le prophète d'Allah reste ferme et ne vacille pas."
+  },
+  {
+    "id": "dhul_kifl_42",
+    "question_ar": "ما الحكمة المستفادة من كلمة (كفالة) أو (تكفل) في سياق المسؤولية الإنسانية الحديثة؟",
+    "options_ar": [
+      "تهرب من المسؤولية وإلقائها على الآخرين.",
+      "الكفالة هي (الالتزام الجازم)؛ وتعلمنا أن قبول مناصب المسؤولية أو الوعود لا يجب أن يكون طمعاً بل عِظَماً للحمل، وأن الوفاء بها يرفع العبد لدرجات الصابرين والأخيار.",
+      "إكثار الوعود دون تنفيذها لجذب الانتباه.",
+      "الكفالة بالمال المنهوب فقط تُقبل."
+    ],
+    "correct": 1,
+    "explanation_ar": "التكفل (أخذ المسؤولة بصدق) يرفع المجهول إلى مسمّى نبوي مُخلّد كذي الكفل، دليلاً على عظمة الأمانة والوفاء المجتمعي.",
+    "question_fr": "Quelle sagesse tirer du mot « kafala » (engagement, prise en charge) dans le contexte de la responsabilité humaine moderne ?",
+    "options_fr": [
+      "Fuir la responsabilité et la faire porter par autrui.",
+      "La kafala, c'est « l'engagement ferme » ; elle nous enseigne qu'accepter des postes de responsabilité ou des promesses ne doit pas être un acte de convoitise mais une prise de conscience de la lourdeur de la charge, et que tenir cet engagement élève le serviteur aux degrés des endurants et des meilleurs.",
+      "Multiplier les promesses sans les tenir pour attirer l'attention.",
+      "Seule la caution financière volée est acceptée."
+    ],
+    "explanation_fr": "L'engagement (assumer sincèrement une responsabilité) élève l'inconnu jusqu'à un titre prophétique immortel comme Dhul-Kifl, preuve de la grandeur de la fidélité et de l'engagement communautaire."
+  },
+  {
+    "id": "dhul_kifl_43",
+    "question_ar": "إذا كان (بشر) هو اسم ذي الكفل، واللقب (ذو الكفل)، فهل تكرر ذلك لغيره في القرآن؟",
+    "options_ar": [
+      "كلا، هو الوحيد بالقرآن.",
+      "نعم، كما سُمي إسرائيل (يعقوب)، وذي النون (يونس)، والمسيح (عيسى)، فالألقاب النبوية تعكس صفات بارزة للأنبياء غلبت عليهم واشتُهروا وعُرفوا بها.",
+      "الأسماء والألقاب تتطابق دائماً بلا دلالة.",
+      "الألقاب للأنبياء تدل على مدنهم لا صفاتهم."
+    ],
+    "correct": 1,
+    "explanation_ar": "اللقب ذو دلالة عظيمة، فذو الكفل (صاحب الكفالة والحظ الوافر الملتزم) يُعرِّف ببطولته قبل هويته الشخصية.",
+    "question_fr": "Si « Bishr » est le nom de Dhul-Kifl et « Dhul-Kifl » son titre, cela s'est-il répété pour d'autres figures dans le Coran ?",
+    "options_fr": [
+      "Non, il est le seul cas dans le Coran.",
+      "Oui, tout comme Israël fut nommé (Ya'qub), Dhoul-Noun (Younous), et le Messie ('Issa) ; les titres prophétiques reflètent des qualités marquantes qui ont dominé leur identité et par lesquelles ils sont devenus célèbres et connus.",
+      "Les noms et les titres coïncident toujours sans aucune signification.",
+      "Les titres des prophètes désignent toujours leur ville, et non leurs qualités."
+    ],
+    "explanation_fr": "Le titre a une signification immense ; « Dhul-Kifl » (le détenteur de l'engagement et de la large part accordée à celui qui s'y attache) le définit par son exploit avant même son identité personnelle."
+  },
+  {
+    "id": "dhul_kifl_44",
+    "question_ar": "كيف يتوافق وعد (ذو الكفل) بألا يغضب مع طبيعة القضاء في شريعتهم؟",
+    "options_ar": [
+      "القضاء كان يعتمد على الغضب لإخافة الظالمين.",
+      "القضاء يرافقه خصومات وشتائم ولجاج، والغضب فيه يورث الظلم (لا يقضي القاضي بين اثنين وهو غضبان). فكان كظمه للغيظ ضماناً لعدالة ربانية مستقيمة خالية من الهوى.",
+      "القضاء كان فقط للأشخاص الضعفاء الساكتين.",
+      "كان يُحرم عليهم القصاص كلياً."
+    ],
+    "correct": 1,
+    "explanation_ar": "الغضب يحجب بصيرة العدل، فاختيار القاضي (الذي لا يغضب أبداً) هو ضمان للمثالية المطلقة في تطبيق العدالة الإلهية على الأرض.",
+    "question_fr": "Comment la promesse de Dhul-Kifl de ne pas se mettre en colère s'accorde-t-elle avec la nature de la justice dans leur législation ?",
+    "options_fr": [
+      "La justice reposait sur la colère pour effrayer les injustes.",
+      "La justice s'accompagne de disputes, d'insultes et de querelles, et la colère y engendre l'injustice (« le juge ne doit pas juger entre deux personnes alors qu'il est en colère »). Sa maîtrise de la colère garantissait donc une justice divine intègre, exempte de passion.",
+      "La justice était réservée uniquement aux faibles silencieux.",
+      "Le talion leur était totalement interdit."
+    ],
+    "explanation_fr": "La colère voile la clairvoyance de la justice ; choisir un juge « qui ne se met jamais en colère » est donc une garantie de perfection absolue dans l'application de la justice divine sur terre."
+  },
+  {
+    "id": "dhul_kifl_45",
+    "question_ar": "ما الذي استشعرته الملائكة أو الجن في قوة تحمل (ذو الكفل) للمحنة؟",
+    "options_ar": [
+      "استشعروا أنه سيرد بضربهم بسيفه.",
+      "أنه أخذ قوة تحمل (أيوب) لأنه قيل إنه ابنه الذي ورث منه الصبر والتجالد العظيم واستفاد من إرث بيت النبوة العميق الممتلئ باليقين والصبر.",
+      "أنه كان يستخدم آلات سحرية ليقهرهم.",
+      "أنه لا ينام لأنه كان من صنف الملائكة ولم يكن بشراً محتاجاً للنوم."
+    ],
+    "correct": 1,
+    "explanation_ar": "إرث الصبر ينتقل في أسرة الأنبياء (ذرية بعضها من بعض)، فصبر التكفل كان امتداداً لصبر المحنة الأيوبية المجيد.",
+    "question_fr": "Que perçurent les anges ou les démons dans la force de résistance de Dhul-Kifl à l'épreuve ?",
+    "options_fr": [
+      "Ils perçurent qu'il allait les frapper de son épée.",
+      "Qu'il avait hérité de la force de résistance d'Ayyoub, dont on dit qu'il aurait été son fils, ayant ainsi hérité de sa patience et de son endurance extraordinaires, bénéficiant de l'héritage profond de la maison prophétique, empli de certitude et de patience.",
+      "Qu'il utilisait des instruments magiques pour les vaincre.",
+      "Qu'il ne dormait jamais car il appartenait à la catégorie des anges et n'était pas un être humain ayant besoin de sommeil."
+    ],
+    "explanation_fr": "L'héritage de la patience se transmet dans la famille des prophètes (« une descendance les uns des autres »), et la patience de l'engagement fut le prolongement glorieux de la patience de l'épreuve d'Ayyoub."
+  },
+  {
+    "id": "dhul_kifl_46",
+    "question_ar": "في سورة (ص)، جمع الأنبياء الصابرين والمخلصين، وختم بقوله: (هذا ذِكْرٌ). ما معنى ذلك للرسول والمسلمين؟",
+    "options_ar": [
+      "تذكير بأنهم مضوا ولن نستفيد منهم.",
+      "تذكير حي وعبرة باقية، وشرف للنبي ﷺ أن يُقرن بسلسلة الخالدين هؤلاء، ولشحذ همته للتأسي بصبرهم وأخلاقهم وتكفلهم برسالة التوحيد الثقيلة أمام كل الضغوط.",
+      "تنويه بأنه سيكون لهم تماثيل تذكارية لتُعبد.",
+      "أمر بأن تُتخذ قصصهم مجرد أنشودة شعرية تُقرأ للامتاع."
+    ],
+    "correct": 1,
+    "explanation_ar": "القصص القرآني هو رصيد روحي للنبي محمد ﷺ ليصبر كما صبر يعقوب وأيوب وإسماعيل وذو الكفل، ولا يهن.",
+    "question_fr": "Dans la sourate Sad, après avoir rassemblé les prophètes patients et sincères, Allah conclut par « ceci est un rappel ». Que signifie cela pour le Prophète et les musulmans ?",
+    "options_fr": [
+      "Un rappel qu'ils sont passés et que nous n'en tirerons aucun profit.",
+      "Un rappel vivant et une leçon durable, et un honneur pour le Prophète ﷺ d'être associé à cette chaîne de personnages immortels, pour raviver son ardeur à imiter leur patience, leur morale et leur engagement envers le message du monothéisme face à toutes les pressions.",
+      "Une annonce qu'ils auront des statues commémoratives à adorer.",
+      "Un ordre de considérer leurs histoires comme un simple poème récité pour le divertissement."
+    ],
+    "explanation_fr": "Les récits coraniques constituent un capital spirituel pour le prophète Muhammad ﷺ, afin qu'il patiente comme ont patienté Ya'qub, Ayyoub, Isma'il et Dhul-Kifl, et qu'il ne faiblisse pas."
+  },
+  {
+    "id": "dhul_kifl_47",
+    "question_ar": "ما الدرس المستفاد من أن ذا الكفل خُلّد في القرآن بلقبه المشتق من فعله (التكفل) لا باسمه الشخصي (بشر)؟",
+    "options_ar": [
+      "أن الأسماء الشخصية لا قيمة لها في الإسلام مطلقاً",
+      "أن المكانة عند الله تُنال بالعمل والالتزام لا بالنسب والحسب فذو الكفل لم يُذكر بنسبه بل بفعله وهو التكفل والوفاء",
+      "أن الأنبياء لا أسماء حقيقية لهم بل ألقاب فقط",
+      "أن تغيير الاسم يرفع الإنسان عند الله تلقائياً"
+    ],
+    "correct": 1,
+    "explanation_ar": "خُلّد في القرآن بلقبه المشتق من فعله (التكفل والوفاء بالعهد) لا باسمه الشخصي (بشر) ولا بنسبه (ابن أيوب) مما يدل على أن الأعمال والالتزام هي ميزان القرب من الله.",
+    "question_fr": "Quelle leçon tirer du fait que Dhul-Kifl fut immortalisé dans le Coran par son titre dérivé de son action (l'engagement) et non par son nom personnel (Bishr) ?",
+    "options_fr": [
+      "Que les noms personnels n'ont aucune valeur en islam.",
+      "Que la position auprès d'Allah s'obtient par l'action et l'engagement, non par la lignée et le rang social : Dhul-Kifl n'est pas mentionné par sa généalogie mais par son acte, l'engagement et la fidélité.",
+      "Que les prophètes n'ont pas de vrais noms, seulement des titres.",
+      "Que changer de nom élève automatiquement l'homme auprès d'Allah."
+    ],
+    "explanation_fr": "Il fut immortalisé dans le Coran par son titre dérivé de son action (l'engagement et la fidélité au pacte), et non par son nom personnel (Bishr) ni sa généalogie (fils d'Ayyoub), ce qui montre que les œuvres et l'engagement sont la mesure de la proximité avec Allah."
+  },
+  {
+    "id": "dhul_kifl_48",
+    "question_ar": "ماذا تُمثل الشروط الثلاثة التي تكفل بها ذو الكفل (صيام النهار وقيام الليل وعدم الغضب) من حيث أبعاد الانضباط الذاتي؟",
+    "options_ar": [
+      "تمثل شروطاً عشوائية متفرقة لا رابط بينها ولا حكمة من جمعها",
+      "تغطي ثلاثة أبعاد متكاملة: انضباط الجسد بالصيام نهاراً وانضباط الروح بالقيام ليلاً وانضباط النفس بكظم الغيظ في القضاء بين الناس",
+      "تمثل عقوبات فُرضت عليه بسبب ذنب ارتكبه في شبابه",
+      "تخص جانب العبادة فقط ولا علاقة لها بالتعامل مع الخلق"
+    ],
+    "correct": 1,
+    "explanation_ar": "الشروط الثلاثة تُشكل منظومة متكاملة للسيطرة على الذات بجميع أبعادها: الصوم يُهذب الجسد ويكسر شهواته والقيام يصقل الروح ويُقوي الصلة بالله وكظم الغيظ يضبط النفس في معاملة الخلق والحكم بينهم.",
+    "question_fr": "Que représentent les trois conditions auxquelles Dhul-Kifl s'est engagé (jeûne diurne, prière nocturne, absence de colère) en termes de dimensions de la discipline personnelle ?",
+    "options_fr": [
+      "Elles représentent des conditions arbitraires et disparates, sans lien ni sagesse dans leur réunion.",
+      "Elles couvrent trois dimensions complémentaires : la discipline du corps par le jeûne diurne, la discipline de l'âme par la prière nocturne, et la discipline du caractère par la maîtrise de la colère en jugeant entre les gens.",
+      "Elles représentent des punitions qui lui furent imposées pour un péché commis dans sa jeunesse.",
+      "Elles concernent uniquement l'aspect cultuel et n'ont aucun lien avec les relations humaines."
+    ],
+    "explanation_fr": "Les trois conditions forment un système complet de maîtrise de soi dans toutes ses dimensions : le jeûne discipline le corps et brise ses désirs, la prière nocturne affine l'âme et renforce le lien avec Allah, et la maîtrise de la colère discipline le caractère dans le traitement des créatures et le jugement entre elles."
+  },
+  {
+    "id": "dhul_kifl_49",
+    "question_ar": "لماذا ركّز إبليس محاولاته على إفشال شرط (عدم الغضب) تحديداً دون أن يستهدف شرطي الصيام والقيام مباشرة؟",
+    "options_ar": [
+      "لأن الصيام والقيام لا يُهمّان إبليس ولا تأثير لهما في خطته",
+      "لأن الغضب هو أسرع الأبواب لإفساد القضاء وإسقاط الإنسان ولأن الإرهاق الناتج عن الصيام والقيام يُضعف مقاومة الإنسان للغضب فيصبح أسهل استفزازاً",
+      "لأنه لم يكن يعلم بوجود الشرطين الآخرين أصلاً",
+      "لأن الغضب ليس ذنباً في شريعتهم ولا يؤثر في صحة العهد"
+    ],
+    "correct": 1,
+    "explanation_ar": "الغضب هو أخطر المداخل الشيطانية لأنه يُعمي البصيرة ويُفسد الحكم بين الناس، واستغل إبليس بذكاء خبيث الإرهاق المتراكم من الصيام والقيام ليجعل ذا الكفل أكثر عرضة للانفعال والغضب.",
+    "question_fr": "Pourquoi Iblis a-t-il concentré ses tentatives sur l'échec de la condition « ne pas se mettre en colère » précisément, sans viser directement les conditions du jeûne et de la prière ?",
+    "options_fr": [
+      "Parce que le jeûne et la prière n'intéressent pas Iblis et n'ont aucun impact sur son plan.",
+      "Parce que la colère est la porte la plus rapide pour corrompre le jugement et faire chuter l'homme, et parce que la fatigue résultant du jeûne et de la prière affaiblit la résistance humaine à la colère, la rendant plus facile à provoquer.",
+      "Parce qu'il ignorait l'existence des deux autres conditions.",
+      "Parce que la colère n'est pas un péché dans leur législation et n'affecte pas la validité du pacte."
+    ],
+    "explanation_fr": "La colère est la voie diabolique la plus dangereuse car elle aveugle le discernement et corrompt le jugement entre les gens ; Iblis exploita avec une ruse perfide la fatigue cumulée du jeûne et de la prière pour rendre Dhul-Kifl plus vulnérable à la provocation et à la colère."
+  },
+  {
+    "id": "dhul_kifl_50",
+    "question_ar": "ماذا نتعلم من اشتراط العبادة (الصيام والقيام) مع حسن المعاملة (عدم الغضب في القضاء) معاً في عهد ذي الكفل؟",
+    "options_ar": [
+      "أن العبادة وحدها كافية للقيادة الروحية دون الحاجة لحسن الخلق مع الناس",
+      "أن القيادة الروحية تتطلب الجمع بين العبادة الخالصة لله وحسن التعامل مع الناس فلا تكفي واحدة منهما دون الأخرى",
+      "أن حسن المعاملة أهم بكثير من العبادة ويمكن الاستغناء عن الصلاة والصيام",
+      "أن هذه الشروط كانت تعجيزية مستحيلة ولا يُطلب من أحد تطبيقها في حياته"
+    ],
+    "correct": 1,
+    "explanation_ar": "اشتراط العبادة (صيام وقيام) مع حسن المعاملة (عدم الغضب في القضاء بين الناس) يُعلمنا أن الدين لا يقوم بركن واحد بل بالجمع بين حق الله في العبادة وحق الناس في العدل والرفق.",
+    "question_fr": "Que retenons-nous du fait que le pacte de Dhul-Kifl associe l'adoration (jeûne et prière) et le bon comportement (l'absence de colère dans le jugement) ?",
+    "options_fr": [
+      "Que l'adoration seule suffit pour le leadership spirituel, sans besoin de bon caractère envers les gens.",
+      "Que le leadership spirituel exige de réunir l'adoration sincère d'Allah et le bon comportement envers les gens ; l'une ne suffit pas sans l'autre.",
+      "Que le bon comportement est bien plus important que l'adoration, au point de pouvoir se passer de la prière et du jeûne.",
+      "Que ces conditions étaient impossibles à réaliser et que personne n'est censé les appliquer dans sa vie."
+    ],
+    "explanation_fr": "Le fait de réunir l'adoration (jeûne et prière) et le bon comportement (absence de colère en jugeant entre les gens) nous enseigne que la religion ne repose pas sur un seul pilier, mais sur l'union du droit d'Allah dans l'adoration et du droit des gens dans la justice et la bienveillance."
+  }
+]

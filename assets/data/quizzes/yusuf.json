@@ -1,0 +1,1004 @@
+
+[
+  {
+    "id": "yusuf_01",
+    "question_ar": "كيف كان تأويل يوسف لرؤيا الفتيين في السجن؟",
+    "options_ar": [
+      "كلاهما سيُقتل ويُصلب",
+      "كلاهما سيخرجان ويعملان في الحقول",
+      "أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا (الساقي يعود لعمله)، وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِن رَّأْسِهِ (الخباز).",
+      "الخباز سيُعفى عنه والساقي يُسجن مدى الحياة"
+    ],
+    "correct": 2,
+    "explanation_ar": "(يَا صَاحِبَيِ السِّجْنِ أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِن رَّأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ).",
+    "question_fr": "Comment Yusuf interpréta-t-il le rêve des deux jeunes hommes en prison ?",
+    "options_fr": [
+      "Les deux seraient tués et crucifiés",
+      "Les deux sortiraient de prison et travailleraient dans les champs",
+      "L’un de vous servira de nouveau son maître en lui donnant du vin, tandis que l’autre sera crucifié et les oiseaux mangeront de sa tête",
+      "Le boulanger serait gracié et l’échanson resterait en prison toute sa vie"
+    ],
+    "explanation_fr": "Yusuf leur expliqua que l’un des deux retournerait servir son maître en lui donnant du vin, tandis que l’autre serait condamné à être crucifié. Il déclara que l’affaire sur laquelle ils l’interrogeaient était déjà décidée."
+  },
+  {
+    "id": "yusuf_02",
+    "question_ar": "ماذا طلب يوسف من الفتى الذي علم أنه سينجو ويعود للملك؟",
+    "options_ar": [
+      "أن يعطيه نصف راتبه",
+      "أن يرسل له طعاماً فاخراً في السجن",
+      "اذْكُرْنِي عِندَ رَبِّكَ (أي اذكر مظلمتي وقصتي للملك لعله يُخرجني)",
+      "أن يهرب ويهربه معه ليلاً"
+    ],
+    "correct": 2,
+    "explanation_ar": "(وَقَالَ لِلَّذِي ظَنَّ أَنَّهُ نَاجٍ مِّنْهُمَا اذْكُرْنِي عِندَ رَبِّكَ) أخذ بسبب النجاة البشري المتاح دون تعارض مع التوكل.",
+    "question_fr": "Que demanda Yusuf au jeune homme dont il savait qu’il serait sauvé et retournerait auprès du roi ?",
+    "options_fr": [
+      "De lui donner la moitié de son salaire",
+      "De lui envoyer de la nourriture raffinée en prison",
+      "« Mentionne-moi auprès de ton maître », c’est-à-dire raconte mon injustice et mon histoire au roi afin qu’il puisse me faire sortir",
+      "De s’enfuir et de l’emmener avec lui pendant la nuit"
+    ],
+    "explanation_fr": "Yusuf demanda à celui qui allait être sauvé de le mentionner auprès de son maître afin que le roi connaisse son histoire et puisse le faire sortir de prison."
+  },
+  {
+    "id": "yusuf_03",
+    "question_ar": "ماذا حدث بناءً على نسيان الفتى تذكير الملك بيوسف (فَأَنسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ)؟",
+    "options_ar": [
+      "مات يوسف في السجن",
+      "تذكر السجان فجأة وأخرجه",
+      "فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ (زادت مدة بقائه في البلاء ليكتمل تهذيب النبوة من كل تعلق بشري)",
+      "هرب يوسف بنفسه بكسر الباب"
+    ],
+    "correct": 2,
+    "explanation_ar": "(فَأَنسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ) طالت المدة لتربية تعلقه بالله وحده.",
+    "question_fr": "Que se passa-t-il lorsque le jeune homme oublia de rappeler au roi l’affaire de Yusuf ?",
+    "options_fr": [
+      "Yusuf mourut en prison",
+      "Le gardien se souvint soudainement de lui et le libéra",
+      "Il resta donc encore quelques années en prison, prolongeant ainsi son épreuve",
+      "Yusuf s’évada lui-même en cassant la porte"
+    ],
+    "explanation_fr": "Le récit indique que Yusuf resta encore plusieurs années en prison après que le jeune homme eut oublié de le mentionner auprès de son maître."
+  },
+  {
+    "id": "yusuf_04",
+    "question_ar": "ما هي الرؤيا العظيمة التي رآها الملك وأرعبته وعجز كهنته عن تأويلها؟",
+    "options_ar": [
+      "رأى الشمس تسقط في النيل وتختفي",
+      "إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ",
+      "رأى أنه يُقتل بخنجر ذهبي من خادمه",
+      "رأى قصره يهدمه طوفان عظيم"
+    ],
+    "correct": 1,
+    "explanation_ar": "(إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) رؤيا اقتصادية خطيرة هزت الملك.",
+    "question_fr": "Quel grand rêve le roi vit-il, qui l’effraya et dont ses conseillers furent incapables de donner l’interprétation ?",
+    "options_fr": [
+      "Il vit le soleil tomber dans le Nil et disparaître",
+      "Il vit sept vaches grasses mangées par sept vaches maigres, ainsi que sept épis verts et d’autres desséchés",
+      "Il vit son serviteur le tuer avec un poignard en or",
+      "Il vit son palais détruit par une immense inondation"
+    ],
+    "explanation_fr": "Le roi vit sept vaches grasses mangées par sept vaches maigres, ainsi que sept épis verts et d’autres desséchés. Ce rêve annonçait une période économique importante."
+  },
+  {
+    "id": "yusuf_05",
+    "question_ar": "كيف تم تأويل البقرات والسنبلات من قبل يوسف الناسك في سجنه بدقة وعلم رباني؟",
+    "options_ar": [
+      "السمان: حروب انتصار، والعجاف: هزائم",
+      "السمان: سبع سنين زراعية غنية وخضراء (دَأَبًا)، العجاف واليابسات: سبع سنين قحط وجفاف شديد (يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ)",
+      "السمان: أمراض ووباء خفيف، العجاف: شفاء بطيء",
+      "هي مجرد إشارة لسبعة ملوك سيحكمون بعده"
+    ],
+    "correct": 1,
+    "explanation_ar": "(تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا... ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ) أعطاهم تأويلاً وخطة اقتصادية استراتيجية للإنقاذ فوراً.",
+    "question_fr": "Comment Yusuf interpréta-t-il précisément les vaches et les épis grâce à la connaissance qu’Allah lui avait accordée ?",
+    "options_fr": [
+      "Les vaches grasses représentaient sept années de victoire et les maigres sept années de défaite",
+      "Les vaches grasses représentaient sept années agricoles abondantes, tandis que les vaches maigres et les épis desséchés représentaient sept années de sécheresse et de famine",
+      "Les vaches grasses représentaient des maladies légères et les maigres une guérison progressive",
+      "Il s’agissait simplement de sept rois qui régneraient après lui"
+    ],
+    "explanation_fr": "Yusuf expliqua qu’il y aurait sept années d’abondance, suivies de sept années difficiles de famine. Il proposa également une stratégie pour conserver les récoltes pendant les années d’abondance."
+  },
+  {
+    "id": "yusuf_06",
+    "question_ar": "ماذا قال يوسف عندما أرسل الملك رسوله ليخرجه من السجن تكريماً له على التأويل؟",
+    "options_ar": [
+      "خرج مسرعاً وفرحاً بالنجاة بعد السنين الكالحة",
+      "رفض الخروج وطلب البقاء: (ارْجِعْ إِلَىٰ رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ اللَّاتِي قَطَّعْنَ أَيْدِيَهُنَّ) أراد تبرئة ساحته علناً قبل الحرية",
+      "طلب مالاً ليخرج ويقابل الملك",
+      "اشترط أن يعذبوا امرأة العزيز أولاً"
+    ],
+    "correct": 1,
+    "explanation_ar": "كمال العقل وتبرئة العرض؛ رفض حرية المشبوهين، وأراد أن يعلم العالم كله براءته ونقائه (ليعلم أني لم أخنه بالغيب).",
+    "question_fr": "Que dit Yusuf lorsque le roi envoya son messager pour le faire sortir de prison en reconnaissance de son interprétation ?",
+    "options_fr": [
+      "Il sortit rapidement, heureux d’être enfin libéré après toutes ces années difficiles",
+      "Il refusa de sortir immédiatement et demanda : « Retourne auprès de ton maître et demande-lui ce qu’il en est des femmes qui se sont coupé les mains », car il voulait que son innocence soit reconnue publiquement",
+      "Il demanda de l’argent avant de sortir pour rencontrer le roi",
+      "Il exigea que la femme du gouverneur soit d’abord punie"
+    ],
+    "explanation_fr": "Yusuf voulut que son innocence soit clairement établie avant sa libération. Il souhaitait que la vérité soit connue et que son honneur soit préservé."
+  },
+  {
+    "id": "yusuf_07",
+    "question_ar": "من هو النبي العظيم الذي كان نصف جمال البشر مقسوماً له (أُعطي شطر الحسن) في الحديث الشريف؟",
+    "options_ar": [
+      "إدريس عليه السلام",
+      "يوسف عليه السلام، وهو الجمال الذي قطع أيدي نسوة المدينة إعجاباً ودهشة",
+      "موسى عليه السلام",
+      "داود عليه السلام"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال ﷺ في رحلة الإسراء لما رأى يوسف في السماء الثالثة: (فإذا هو قد أُعطي شطر الحُسن).",
+    "question_fr": "Quel grand prophète reçut, selon le hadith, une moitié de la beauté humaine ?",
+    "options_fr": [
+      "Idris, que la paix soit sur lui",
+      "Yusuf, que la paix soit sur lui, dont la beauté émerveilla les femmes de la ville",
+      "Musa, que la paix soit sur lui",
+      "Dawud, que la paix soit sur lui"
+    ],
+    "explanation_fr": "Le Prophète ﷺ a mentionné, lors de son voyage nocturne, qu’il vit Yusuf au troisième ciel et que celui-ci avait reçu une grande part de beauté."
+  },
+  {
+    "id": "yusuf_08",
+    "question_ar": "ماذا رأى يوسف عليه السلام في رؤياه وهو صبي؟",
+    "options_ar": [
+      "رأى سبع بقرات سمان وسبع عجاف",
+      "رأى نهرا من عسل يجري في الصحراء",
+      "رأى أحد عشر كوكبا والشمس والقمر ساجدين له",
+      "رأى طيورا تحمل سنابل خضراء"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ).",
+    "question_fr": "Que vit Yusuf dans son rêve lorsqu’il était encore enfant ?",
+    "options_fr": [
+      "Il vit sept vaches grasses et sept vaches maigres",
+      "Il vit une rivière de miel couler dans le désert",
+      "Il vit onze étoiles, ainsi que le soleil et la lune, prosternés devant lui",
+      "Il vit des oiseaux portant des épis verts"
+    ],
+    "explanation_fr": "Yusuf dit à son père qu’il avait vu onze étoiles, ainsi que le soleil et la lune, se prosterner devant lui."
+  },
+  {
+    "id": "yusuf_09",
+    "question_ar": "ما الذي ترمز إليه الكواكب الأحد عشر في رؤيا يوسف؟",
+    "options_ar": [
+      "أحد عشر عاما من الخصب",
+      "إخوة يوسف الأحد عشر",
+      "أحد عشر قبيلة من بني إسرائيل",
+      "أحد عشر مدينة في مصر"
+    ],
+    "correct": 1,
+    "explanation_ar": "الأحد عشر كوكبا هم إخوة يوسف الأحد عشر، والشمس والقمر أبواه، وقد تحقق ذلك لما سجدوا له في مصر.",
+    "question_fr": "Que représentaient les onze étoiles dans le rêve de Yusuf ?",
+    "options_fr": [
+      "Onze années d’abondance",
+      "Les onze frères de Yusuf",
+      "Onze tribus des Enfants d’Israël",
+      "Onze villes d’Égypte"
+    ],
+    "explanation_fr": "Les onze étoiles représentaient les onze frères de Yusuf. Le soleil et la lune représentaient ses parents, et le rêve se réalisa lorsqu’ils vinrent auprès de lui en Égypte."
+  },
+  {
+    "id": "yusuf_10",
+    "question_ar": "ماذا نصح يعقوب عليه السلام ابنه يوسف بعد سماع رؤياه؟",
+    "options_ar": [
+      "أن يخبر إخوته ليفرحوا معه",
+      "أن يسافر بعيدا عن البيت",
+      "أن ينسى الرؤيا ولا يفكر فيها",
+      "ألا يقص رؤياه على إخوته خشية الحسد"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُّبِينٌ).",
+    "question_fr": "Quel conseil Yaqub donna-t-il à son fils Yusuf après avoir entendu son rêve ?",
+    "options_fr": [
+      "De raconter son rêve à ses frères afin qu’ils se réjouissent avec lui",
+      "De voyager loin de la maison",
+      "D’oublier le rêve et de ne plus y penser",
+      "De ne pas raconter son rêve à ses frères par crainte de leur jalousie"
+    ],
+    "explanation_fr": "Yaqub conseilla à Yusuf de ne pas raconter son rêve à ses frères, par crainte qu’ils ne cherchent à lui nuire."
+  },
+  {
+    "id": "yusuf_11",
+    "question_ar": "ما هي الصفة التي تميزت بها سورة يوسف عن سائر سور القرآن؟",
+    "options_ar": [
+      "هي السورة الوحيدة التي تروي قصة نبي كاملة من البداية للنهاية دون انقطاع",
+      "هي أطول سورة في القرآن",
+      "هي السورة الوحيدة التي لا تذكر اسم الله",
+      "هي السورة الوحيدة المدنية في جزء عم"
+    ],
+    "correct": 0,
+    "explanation_ar": "سورة يوسف هي السورة الوحيدة في القرآن التي تروي قصة نبي واحد كاملة متصلة من أولها إلى آخرها، ووصفها الله بأنها أحسن القصص.",
+    "question_fr": "Quelle particularité distingue la sourate Yusuf des autres sourates du Coran ?",
+    "options_fr": [
+      "C’est la seule sourate qui raconte de manière continue l’histoire complète d’un seul prophète, du début à la fin",
+      "C’est la plus longue sourate du Coran",
+      "C’est la seule sourate qui ne mentionne pas le nom d’Allah",
+      "C’est la seule sourate mecquoise située dans la dernière partie du Coran"
+    ],
+    "explanation_fr": "La sourate Yusuf raconte de manière continue l’histoire d’un seul prophète, du début à la fin, et le Coran la présente comme « le meilleur des récits »."
+  },
+  {
+    "id": "yusuf_12",
+    "question_ar": "ما سبب غيرة إخوة يوسف منه؟",
+    "options_ar": [
+      "لأنه كان أكبرهم سنا وأقواهم",
+      "لأنه كان يملك أموالا كثيرة",
+      "لأنه رفض العمل معهم في الرعي",
+      "لأنهم شعروا بأن أباهم يحبه أكثر منهم"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ).",
+    "question_fr": "Quelle était la cause de la jalousie des frères de Yusuf envers lui ?",
+    "options_fr": [
+      "Parce qu’il était le plus âgé et le plus fort",
+      "Parce qu’il possédait beaucoup d’argent",
+      "Parce qu’il refusait de travailler avec eux comme berger",
+      "Parce qu’ils avaient le sentiment que leur père l’aimait davantage qu’eux"
+    ],
+    "explanation_fr": "Les frères de Yusuf pensaient que leur père l’aimait davantage qu’eux, ainsi que son frère."
+  },
+  {
+    "id": "yusuf_13",
+    "question_ar": "ماذا اقترح بعض الإخوة لفعله بيوسف قبل أن يعدلوا عن القتل؟",
+    "options_ar": [
+      "بيعه لتجار من الشام",
+      "قتله أو إبعاده في أرض بعيدة",
+      "حبسه في بيت مهجور",
+      "إرساله إلى مصر مباشرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْمًا صَالِحِينَ).",
+    "question_fr": "Que proposèrent certains des frères de faire à Yusuf avant de renoncer à le tuer ?",
+    "options_fr": [
+      "Le vendre à des commerçants venant de Syrie",
+      "Le tuer ou l’éloigner dans une terre lointaine",
+      "L’enfermer dans une maison abandonnée",
+      "L’envoyer directement en Égypte"
+    ],
+    "explanation_fr": "Certains frères proposèrent de tuer Yusuf ou de le jeter dans une terre lointaine afin de garder pour eux l’affection de leur père."
+  },
+  {
+    "id": "yusuf_14",
+    "question_ar": "ما البديل الذي اقترحه أحد الإخوة بدلا من قتل يوسف؟",
+    "options_ar": [
+      "تركه في الصحراء وحيدا",
+      "إرساله مع قافلة تجارية",
+      "إلقاؤه في غيابت الجب (قاع البئر)",
+      "إخفاؤه في كهف بعيد"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (قَالَ قَائِلٌ مِّنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِن كُنتُمْ فَاعِلِينَ).",
+    "question_fr": "Quelle alternative l’un des frères proposa-t-il au lieu de tuer Yusuf ?",
+    "options_fr": [
+      "Le laisser seul dans le désert",
+      "L’envoyer avec une caravane commerciale",
+      "Le jeter dans les profondeurs d’un puits",
+      "Le cacher dans une grotte éloignée"
+    ],
+    "explanation_fr": "L’un des frères proposa de ne pas tuer Yusuf mais de le jeter dans les profondeurs d’un puits afin qu’une caravane puisse le retrouver."
+  },
+  {
+    "id": "yusuf_15",
+    "question_ar": "بأي حجة أخذ الإخوة يوسف من أبيهم؟",
+    "options_ar": [
+      "ليلعب ويرتع معهم ويحفظوه",
+      "ليعلموه الصيد والقتال",
+      "ليرعى معهم الغنم في البادية",
+      "ليذهب معهم إلى السوق"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُ لَحَافِظُونَ).",
+    "question_fr": "Sous quel prétexte les frères demandèrent-ils à leur père de leur confier Yusuf ?",
+    "options_fr": [
+      "Pour qu’il joue et profite avec eux, tandis qu’ils veilleraient sur lui",
+      "Pour lui apprendre la chasse et le combat",
+      "Pour qu’il garde les moutons avec eux dans la campagne",
+      "Pour qu’il aille au marché avec eux"
+    ],
+    "explanation_fr": "Les frères demandèrent à leur père de laisser Yusuf partir avec eux afin qu’il joue et profite de leur sortie, en promettant de veiller sur lui."
+  },
+  {
+    "id": "yusuf_16",
+    "question_ar": "ماذا أوحى الله ليوسف وهو في ظلمة البئر؟",
+    "options_ar": [
+      "أن ينادي على القافلة لتنقذه",
+      "أن يصبر حتى يأتيه الموت",
+      "أنه سينبئ إخوته بما فعلوا وهم لا يشعرون",
+      "أن يعفو عن إخوته فورا"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ) فكان الوحي تسلية وتثبيتا لقلب الصبي.",
+    "question_fr": "Que révéla Allah à Yusuf alors qu’il se trouvait dans l’obscurité du puits ?",
+    "options_fr": [
+      "Qu’il devait appeler la caravane pour qu’elle le sauve",
+      "Qu’il devait patienter jusqu’à sa mort",
+      "Qu’il informerait un jour ses frères de ce qu’ils avaient fait sans qu’ils s’en rendent compte",
+      "Qu’il devait immédiatement pardonner à ses frères"
+    ],
+    "explanation_fr": "Allah révéla à Yusuf qu’un jour il informerait ses frères de ce qu’ils avaient fait, alors qu’ils ne s’en rendraient pas compte. Cette révélation fut un réconfort pour lui."
+  },
+  {
+    "id": "yusuf_17",
+    "question_ar": "كيف كشف يعقوب كذب أبنائه حين ادعوا أن الذئب أكل يوسف؟",
+    "options_ar": [
+      "وجد آثار أقدام يوسف في الطريق",
+      "أخبره جبريل عليه السلام بالحقيقة",
+      "سمع صوت يوسف ينادي من البئر",
+      "لاحظ أن القميص سليم بلا تمزيق رغم ادعائهم بالذئب"
+    ],
+    "correct": 3,
+    "explanation_ar": "جاؤوا بقميص يوسف ملطخا بدم كذب لكنه كان سليما بلا تمزيق، ولو أكله ذئب لتمزق القميص، فقال يعقوب: (بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ).",
+    "question_fr": "Comment Yaqub découvrit-il le mensonge de ses fils lorsqu’ils prétendirent que le loup avait mangé Yusuf ?",
+    "options_fr": [
+      "Il trouva les traces de Yusuf sur le chemin",
+      "Jibril lui révéla la vérité",
+      "Il entendit Yusuf appeler depuis le puits",
+      "Il remarqua que la chemise était intacte et ne présentait aucune déchirure malgré leur histoire sur le loup"
+    ],
+    "explanation_fr": "Les frères apportèrent la chemise de Yusuf avec du faux sang, mais elle n’était pas déchirée. Yaqub comprit ainsi que leur récit n’était pas crédible et choisit la patience."
+  },
+  {
+    "id": "yusuf_18",
+    "question_ar": "ما معنى قول يعقوب (فَصَبْرٌ جَمِيلٌ) بعد فقدان يوسف؟",
+    "options_ar": [
+      "صبر لا شكوى فيه إلا لله وحده",
+      "صبر مع كثرة الشكوى للناس",
+      "صبر مؤقت حتى ينتقم من أبنائه",
+      "صبر بمعنى نسيان الأمر تماما"
+    ],
+    "correct": 0,
+    "explanation_ar": "الصبر الجميل هو الذي لا جزع فيه ولا شكوى للخلق، وإنما يشكو العبد إلى الله وحده، كما قال يعقوب: (إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ).",
+    "question_fr": "Que signifie la parole de Yaqub : « Une belle patience » après la disparition de Yusuf ?",
+    "options_fr": [
+      "Une patience sans plainte adressée aux créatures, mais avec une plainte adressée à Allah seul",
+      "Une patience accompagnée de nombreuses plaintes auprès des gens",
+      "Une patience temporaire jusqu’à ce qu’il se venge de ses fils",
+      "Une patience qui signifie oublier complètement ce qui s’est passé"
+    ],
+    "explanation_fr": "La belle patience consiste à supporter l’épreuve sans se plaindre aux gens, tout en se tournant vers Allah. Yaqub dit ainsi qu’il ne se plaint de sa souffrance et de sa tristesse qu’à Allah."
+  },
+  {
+    "id": "yusuf_19",
+    "question_ar": "كيف وصل يوسف من البئر إلى مصر؟",
+    "options_ar": [
+      "مشى وحده عبر الصحراء",
+      "أنقذه أبوه وأرسله مع تاجر",
+      "أرسل الله ملائكة لنقله",
+      "التقطته قافلة مارة حين أدلى واردهم دلوه في البئر"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ قَالَ يَا بُشْرَىٰ هَٰذَا غُلَامٌ).",
+    "question_fr": "Comment Yusuf arriva-t-il du puits jusqu’en Égypte ?",
+    "options_fr": [
+      "Il traversa seul le désert à pied",
+      "Son père le sauva et l’envoya avec un commerçant",
+      "Allah envoya des anges pour le transporter",
+      "Une caravane de passage le trouva lorsque leur porteur d’eau descendit son seau dans le puits"
+    ],
+    "explanation_fr": "Une caravane passa près du puits. Leur porteur d’eau descendit son seau et trouva Yusuf. Ils le recueillirent ensuite et l’emmenèrent avec eux en Égypte."
+  },
+  {
+    "id": "yusuf_20",
+    "question_ar": "بكم بيع يوسف عليه السلام حين باعته القافلة؟",
+    "options_ar": [
+      "بوزنه ذهبا",
+      "بثمن بخس دراهم معدودة",
+      "بألف درهم",
+      "بقطيع من الأغنام"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَشَرَوْهُ بِثَمَنٍ بَخْسٍ دَرَاهِمَ مَعْدُودَةٍ وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ) أي باعوه بثمن قليل.",
+    "question_fr": "À quel prix Yusuf fut-il vendu par la caravane ?",
+    "options_fr": [
+      "Pour son poids en or",
+      "Pour un prix dérisoire, quelques pièces d’argent",
+      "Pour mille dirhams",
+      "Contre un troupeau de moutons"
+    ],
+    "explanation_fr": "Le Coran indique que Yusuf fut vendu pour un prix dérisoire, pour quelques pièces d’argent seulement."
+  },
+  {
+    "id": "yusuf_21",
+    "question_ar": "من الذي اشترى يوسف في مصر؟",
+    "options_ar": [
+      "ملك مصر (الفرعون)",
+      "كاهن المعبد الأكبر",
+      "عزيز مصر وهو وزير الخزانة",
+      "قائد الجيش المصري"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَقَالَ الَّذِي اشْتَرَاهُ مِن مِّصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ) وهو عزيز مصر أي وزيرها أو صاحب خزائنها.",
+    "question_fr": "Qui acheta Yusuf en Égypte ?",
+    "options_fr": [
+      "Le roi d’Égypte",
+      "Le grand prêtre du temple",
+      "L’Aziz d’Égypte, un haut responsable du royaume",
+      "Le chef de l’armée égyptienne"
+    ],
+    "explanation_fr": "Le Coran mentionne l’homme qui acheta Yusuf et demanda à sa femme de bien l’accueillir. Il est appelé « Aziz d’Égypte » dans le récit."
+  },
+  {
+    "id": "yusuf_22",
+    "question_ar": "ماذا قال عزيز مصر لامرأته عن يوسف حين اشتراه؟",
+    "options_ar": [
+      "اجعليه يعمل في الحقول والمزارع",
+      "أكرمي مثواه عسى أن ينفعنا أو نتخذه ولدا",
+      "احبسيه في غرفة حتى يكبر",
+      "علميه الكتابة والحساب"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (أَكْرِمِي مَثْوَاهُ عَسَىٰ أَن يَنفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا) فأكرمه في بيته.",
+    "question_fr": "Que dit l’Aziz d’Égypte à sa femme au sujet de Yusuf lorsqu’il l’acheta ?",
+    "options_fr": [
+      "Fais-le travailler dans les champs et les fermes",
+      "Accueille-le bien ; peut-être nous sera-t-il utile ou l’adopterons-nous comme fils",
+      "Enferme-le dans une chambre jusqu’à ce qu’il grandisse",
+      "Apprends-lui à écrire et à compter"
+    ],
+    "explanation_fr": "L’Aziz demanda à sa femme de bien accueillir Yusuf, espérant qu’il leur serait utile ou qu’ils pourraient le prendre comme fils."
+  },
+  {
+    "id": "yusuf_23",
+    "question_ar": "كيف تحققت رؤيا يوسف التي رآها في صغره؟",
+    "options_ar": [
+      "سجد له إخوته فقط دون أبويه",
+      "سجدت له الشمس والقمر فعلا في السماء",
+      "رأى الرؤيا مرة أخرى في منامه وهو ملك",
+      "رفع أبويه على العرش وخر له أبواه وإخوته الأحد عشر سجدا"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا وَقَالَ يَا أَبَتِ هَٰذَا تَأْوِيلُ رُؤْيَايَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّي حَقًّا).",
+    "question_fr": "Comment le rêve que Yusuf avait vu dans son enfance se réalisa-t-il ?",
+    "options_fr": [
+      "Ses frères seuls se prosternèrent devant lui, sans ses parents",
+      "Le soleil et la lune se prosternèrent réellement devant lui dans le ciel",
+      "Il fit le même rêve une seconde fois lorsqu’il devint roi",
+      "Il plaça ses parents sur le trône et ses parents ainsi que ses onze frères se prosternèrent devant lui"
+    ],
+    "explanation_fr": "Yusuf éleva ses parents sur le trône, puis ses parents et ses onze frères se prosternèrent devant lui. Il comprit alors que son ancien rêve s’était réalisé."
+  },
+  {
+    "id": "yusuf_24",
+    "question_ar": "ماذا قال يوسف لامرأة العزيز حين راودته عن نفسه؟",
+    "options_ar": [
+      "معاذ الله إنه ربي أحسن مثواي",
+      "سأخبر زوجك بما تفعلين",
+      "أنا لا أحبك فاتركيني",
+      "سأهرب من هذا البيت فورا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (قَالَ مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) فلجأ إلى الله واستحضر نعمة سيده عليه.",
+    "question_fr": "Que dit Yusuf à la femme de l’Aziz lorsqu’elle le sollicita ?",
+    "options_fr": [
+      "« Qu’Allah m’en préserve ! C’est mon maître qui m’a bien accueilli »",
+      "« Je raconterai à ton mari ce que tu fais »",
+      "« Je ne t’aime pas, laisse-moi »",
+      "« Je vais immédiatement m’enfuir de cette maison »"
+    ],
+    "explanation_fr": "Yusuf refusa la tentation en cherchant refuge auprès d’Allah et en se rappelant le bien qui lui avait été accordé."
+  },
+  {
+    "id": "yusuf_25",
+    "question_ar": "كيف دل القميص الممزق على براءة يوسف من امرأة العزيز؟",
+    "options_ar": [
+      "كان القميص نظيفا بلا أي أثر",
+      "قد من دبر مما يدل على أن يوسف كان هاربا منها",
+      "قد من قبل مما يدل على أن يوسف هو المعتدي",
+      "كان القميص قد احترق بالنار"
+    ],
+    "correct": 1,
+    "explanation_ar": "شهد شاهد من أهلها: (إِن كَانَ قَمِيصُهُ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ الصَّادِقِينَ) لأن التمزق من الخلف يعني أنه كان يهرب وهي تمسك به.",
+    "question_fr": "Comment la chemise déchirée démontra-t-elle l’innocence de Yusuf face à la femme de l’Aziz ?",
+    "options_fr": [
+      "La chemise était propre et ne portait aucune trace",
+      "Elle était déchirée par l’arrière, ce qui indiquait que Yusuf fuyait devant elle",
+      "Elle était déchirée par l’avant, ce qui indiquait que Yusuf était l’agresseur",
+      "La chemise avait été brûlée par le feu"
+    ],
+    "explanation_fr": "Le témoin de sa famille indiqua que si la chemise était déchirée par l’arrière, alors Yusuf était sincère et elle mentait, car cela indiquait qu’il cherchait à s’éloigner d’elle."
+  },
+  {
+    "id": "yusuf_26",
+    "question_ar": "ماذا فعلت النسوة حين رأين يوسف لأول مرة؟",
+    "options_ar": [
+      "ضحكن وسخرن منه",
+      "هربن خوفا من جماله",
+      "قطعن أيديهن من الدهشة وقلن ما هذا بشرا إن هذا إلا ملك كريم",
+      "بكين على حاله وظلمه"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ).",
+    "question_fr": "Que firent les femmes lorsqu’elles virent Yusuf pour la première fois ?",
+    "options_fr": [
+      "Elles rirent et se moquèrent de lui",
+      "Elles s’enfuirent par crainte de sa beauté",
+      "Elles se coupèrent les mains sous l’effet de leur étonnement et dirent qu’il ne pouvait être qu’un noble ange",
+      "Elles pleurèrent en raison de son état et de l’injustice qu’il subissait"
+    ],
+    "explanation_fr": "Lorsqu’elles virent Yusuf, elles furent tellement impressionnées par sa beauté qu’elles se coupèrent les mains sans s’en rendre compte et dirent qu’il ressemblait à un noble ange."
+  },
+  {
+    "id": "yusuf_27",
+    "question_ar": "بماذا دعا يوسف ربه في ختام قصته بعد أن اجتمع بأهله وتحققت رؤياه؟",
+    "options_ar": [
+      "طلب المزيد من الملك والسلطة",
+      "طلب أن يعاقب الله إخوته على ما فعلوا",
+      "طلب أن يعيش خالدا في مصر",
+      "رب قد آتيتني من الملك وعلمتني من تأويل الأحاديث توفني مسلما وألحقني بالصالحين"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ الْأَحَادِيثِ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ).",
+    "question_fr": "Quelle invocation Yusuf adressa-t-il à son Seigneur à la fin de son histoire, après avoir retrouvé sa famille et vu son rêve se réaliser ?",
+    "options_fr": [
+      "Il demanda davantage de pouvoir et d’autorité",
+      "Il demanda à Allah de punir ses frères pour ce qu’ils avaient fait",
+      "Il demanda à vivre éternellement en Égypte",
+      "« Seigneur, Tu m’as donné une part du royaume et m’as enseigné l’interprétation des récits. Fais-moi mourir soumis à Toi et joins-moi aux vertueux »"
+    ],
+    "explanation_fr": "Yusuf remercia Allah pour le royaume et la connaissance qu’Il lui avait accordés, puis demanda à mourir dans la soumission à Allah et à être rejoint aux vertueux."
+  },
+  {
+    "id": "yusuf_28",
+    "question_ar": "ماذا فضل يوسف على المعصية حين ألح عليه النسوة؟",
+    "options_ar": [
+      "الهروب من مصر كلها",
+      "الذهاب إلى الملك وشكواهن",
+      "السجن كان أحب إليه مما يدعونه إليه",
+      "الاعتزال في الصحراء"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ الْجَاهِلِينَ).",
+    "question_fr": "Qu’est-ce que Yusuf préféra à la désobéissance lorsque les femmes insistèrent auprès de lui ?",
+    "options_fr": [
+      "Fuir complètement l’Égypte",
+      "Aller voir le roi pour se plaindre d’elles",
+      "La prison lui était préférable à ce vers quoi elles l’appelaient",
+      "S’isoler dans le désert"
+    ],
+    "explanation_fr": "Yusuf demanda à Allah de le protéger de leur ruse et déclara que la prison lui était préférable à ce qu’elles lui proposaient."
+  },
+  {
+    "id": "yusuf_29",
+    "question_ar": "ماذا رأى ساقي الملك في منامه حين كان في السجن مع يوسف؟",
+    "options_ar": [
+      "رأى نفسه يعصر خمرا",
+      "رأى نفسه يحمل خبزا فوق رأسه",
+      "رأى نفسه يمشي في حديقة خضراء",
+      "رأى نفسه يركب سفينة في البحر"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا) وهو ساقي الملك الذي فسر له يوسف أنه سيعود لخدمة الملك.",
+    "question_fr": "Que vit l’échanson du roi dans son rêve lorsqu’il était en prison avec Yusuf ?",
+    "options_fr": [
+      "Il se vit presser du raisin pour produire du vin",
+      "Il se vit porter du pain au-dessus de sa tête",
+      "Il se vit marcher dans un jardin verdoyant",
+      "Il se vit naviguer sur un bateau en mer"
+    ],
+    "explanation_fr": "L’échanson vit qu’il pressait du raisin pour servir du vin. Yusuf interpréta ce rêve comme le retour de l’échanson au service du roi."
+  },
+  {
+    "id": "yusuf_30",
+    "question_ar": "ماذا رأى خباز الملك في منامه حين كان في السجن مع يوسف؟",
+    "options_ar": [
+      "رأى نفسه يسقي الملك شرابا",
+      "رأى نفسه يحمل فوق رأسه خبزا تأكل الطير منه",
+      "رأى نفسه يطير في السماء",
+      "رأى نفسه يعبر نهر النيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ) وفسره يوسف بأنه سيصلب وتأكل الطير من رأسه.",
+    "question_fr": "Que vit le boulanger du roi dans son rêve lorsqu’il était en prison avec Yusuf ?",
+    "options_fr": [
+      "Il se vit servir une boisson au roi",
+      "Il se vit porter du pain au-dessus de sa tête et les oiseaux en manger",
+      "Il se vit voler dans le ciel",
+      "Il se vit traverser le Nil"
+    ],
+    "explanation_fr": "Le boulanger vit qu’il portait du pain au-dessus de sa tête et que les oiseaux en mangeaient. Yusuf interpréta ce rêve comme l’annonce de sa condamnation."
+  },
+  {
+    "id": "yusuf_31",
+    "question_ar": "بماذا دعا يوسف صاحبيه في السجن قبل أن يفسر رؤياهما؟",
+    "options_ar": [
+      "دعاهما للهروب من السجن معه",
+      "دعاهما للثورة على الملك الظالم",
+      "دعاهما لتعلم الطبخ والخبز",
+      "دعاهما إلى التوحيد وعبادة الله الواحد القهار"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ) فاغتنم الفرصة للدعوة إلى الله.",
+    "question_fr": "À quoi Yusuf appela-t-il ses deux compagnons de prison avant d’interpréter leurs rêves ?",
+    "options_fr": [
+      "À s’évader de prison avec lui",
+      "À se révolter contre le roi injuste",
+      "À apprendre la cuisine et la boulangerie",
+      "À croire en l’unicité d’Allah et à adorer Allah, l’Unique et le Tout-Puissant"
+    ],
+    "explanation_fr": "Yusuf profita de l’occasion pour les appeler à l’unicité d’Allah et à l’adoration du Dieu Unique avant de répondre à leurs demandes concernant leurs rêves."
+  },
+  {
+    "id": "yusuf_32",
+    "question_ar": "كم سنة لبث يوسف في السجن بعد أن أنساه الساقي؟",
+    "options_ar": [
+      "سنة واحدة فقط",
+      "عشرين سنة كاملة",
+      "بضع سنين (قيل من ثلاث إلى تسع سنوات)",
+      "أربعين سنة"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (فَلَبِثَ فِي السِّجْنِ بِضْعَ سِنِينَ) والبضع في اللغة من ثلاث إلى تسع.",
+    "question_fr": "Combien de temps Yusuf resta-t-il en prison après que l’échanson l’eut oublié ?",
+    "options_fr": [
+      "Une seule année",
+      "Vingt années complètes",
+      "Quelques années, estimées selon certaines explications entre trois et neuf ans",
+      "Quarante ans"
+    ],
+    "explanation_fr": "Le Coran indique que Yusuf resta en prison « quelques années ». Le terme arabe « bid‘ » est généralement compris comme désignant un nombre compris entre trois et neuf."
+  },
+  {
+    "id": "yusuf_33",
+    "question_ar": "ماذا قال حاشية الملك وكهنته حين سألهم عن تفسير رؤيا البقرات والسنبلات؟",
+    "options_ar": [
+      "فسروها بدقة وأصابوا",
+      "قالوا هي بشارة بالنصر في الحرب",
+      "قالوا لا نعرف تفسيرها لكنها بشارة خير",
+      "قالوا هي أضغاث أحلام ولم يستطيعوا تأويلها"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (قَالُوا أَضْغَاثُ أَحْلَامٍ وَمَا نَحْنُ بِتَأْوِيلِ الْأَحْلَامِ بِعَالِمِينَ) فعجزوا عن تفسيرها.",
+    "question_fr": "Que dirent les conseillers du roi lorsqu’il leur demanda l’interprétation du rêve des vaches et des épis ?",
+    "options_fr": [
+      "Ils l’interprétèrent correctement",
+      "Ils dirent qu’il annonçait une victoire dans une guerre",
+      "Ils dirent qu’ils ne connaissaient pas son interprétation mais qu’il annonçait un bien",
+      "Ils dirent que ce n’étaient que des rêves confus et qu’ils ne savaient pas les interpréter"
+    ],
+    "explanation_fr": "Les conseillers du roi déclarèrent qu’il s’agissait de rêves confus et qu’ils ne possédaient pas la connaissance nécessaire pour les interpréter."
+  },
+  {
+    "id": "yusuf_34",
+    "question_ar": "من الذي تذكر يوسف في السجن وأخبر الملك عنه لتفسير الرؤيا؟",
+    "options_ar": [
+      "خباز الملك الذي نجا",
+      "حارس السجن",
+      "ساقي الملك الذي نجا وعاد لخدمته",
+      "زوجة العزيز"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُم بِتَأْوِيلِهِ فَأَرْسِلُونِ) وهو الساقي الذي أنساه الشيطان ذكر يوسف.",
+    "question_fr": "Qui se souvint de Yusuf en prison et parla de lui au roi pour interpréter le rêve ?",
+    "options_fr": [
+      "Le boulanger du roi qui avait été sauvé",
+      "Le gardien de la prison",
+      "L’échanson du roi qui avait été sauvé et avait repris son service",
+      "La femme de l’Aziz"
+    ],
+    "explanation_fr": "L’échanson qui avait été sauvé se souvint de Yusuf et proposa au roi de lui demander l’interprétation du rêve."
+  },
+  {
+    "id": "yusuf_35",
+    "question_ar": "ما الخطة الاقتصادية التي قدمها يوسف مع تفسير رؤيا الملك؟",
+    "options_ar": [
+      "الزراعة المكثفة سبع سنين وتخزين الحبوب في سنابلها ثم سبع سنين قحط",
+      "بناء سدود على النيل لمنع الفيضان",
+      "التجارة مع الدول المجاورة وتصدير القمح",
+      "هجرة الناس إلى أرض أكثر خصوبة"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِي سُنبُلِهِ) ثم (ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ).",
+    "question_fr": "Quel plan économique Yusuf proposa-t-il avec l’interprétation du rêve du roi ?",
+    "options_fr": [
+      "Cultiver intensivement pendant sept années, conserver les récoltes dans leurs épis, puis se préparer à sept années de famine",
+      "Construire des barrages sur le Nil pour empêcher les inondations",
+      "Commercer avec les pays voisins et exporter du blé",
+      "Faire migrer la population vers une terre plus fertile"
+    ],
+    "explanation_fr": "Yusuf conseilla de cultiver pendant sept années d’abondance et de conserver une grande partie des récoltes dans leurs épis afin de disposer de réserves pendant les sept années difficiles."
+  },
+  {
+    "id": "yusuf_36",
+    "question_ar": "ماذا وعد يوسف بعد سنوات القحط السبع في تفسيره لرؤيا الملك؟",
+    "options_ar": [
+      "ستستمر المجاعة إلى الأبد",
+      "سيأتي طوفان يغرق مصر",
+      "ثم يأتي عام فيه يغاث الناس وفيه يعصرون",
+      "ستتحول الأرض إلى صحراء قاحلة"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (ثُمَّ يَأْتِي مِن بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ) فبشر بانتهاء القحط.",
+    "question_fr": "Que devait-il se passer après les sept années de famine selon l’interprétation de Yusuf ?",
+    "options_fr": [
+      "La famine continuerait pour toujours",
+      "Une inondation viendrait submerger l’Égypte",
+      "Une année viendrait durant laquelle les gens recevraient de la pluie et presseraient leurs récoltes",
+      "La terre deviendrait un désert aride"
+    ],
+    "explanation_fr": "Yusuf annonça qu’après les sept années difficiles viendrait une année durant laquelle les gens recevraient de nouveau des ressources et pourraient presser leurs récoltes."
+  },
+  {
+    "id": "yusuf_37",
+    "question_ar": "ماذا اعترفت امرأة العزيز في النهاية أمام الملك؟",
+    "options_ar": [
+      "أن يوسف هو من راودها عن نفسها",
+      "أنها لا تعرف يوسف ولم تره قط",
+      "أن الخادمات هن من افتتن به لا هي",
+      "الآن حصحص الحق أنا راودته عن نفسه وإنه لمن الصادقين"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (قَالَتِ امْرَأَتُ الْعَزِيزِ الْآنَ حَصْحَصَ الْحَقُّ أَنَا رَاوَدتُّهُ عَن نَّفْسِهِ وَإِنَّهُ لَمِنَ الصَّادِقِينَ) فاعترفت ببراءته.",
+    "question_fr": "Qu’avoua finalement la femme de l’Aziz devant le roi ?",
+    "options_fr": [
+      "Que Yusuf avait essayé de la séduire",
+      "Qu’elle ne connaissait pas Yusuf et ne l’avait jamais vu",
+      "Que les servantes étaient celles qui avaient été attirées par lui, et non elle",
+      "« Maintenant, la vérité est apparue : c’est moi qui ai voulu le séduire, et il fait partie des véridiques »"
+    ],
+    "explanation_fr": "La femme de l’Aziz reconnut finalement que Yusuf était innocent et qu’elle était celle qui avait tenté de le séduire."
+  },
+  {
+    "id": "yusuf_38",
+    "question_ar": "ماذا قال الملك ليوسف بعد أن كلمه وأعجب بحكمته؟",
+    "options_ar": [
+      "سأجعلك قائدا لجيشي",
+      "عد إلى أهلك في كنعان",
+      "إنك اليوم لدينا مكين أمين",
+      "سأعطيك قصرا وأموالا كثيرة"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (وَقَالَ الْمَلِكُ ائْتُونِي بِهِ أَسْتَخْلِصْهُ لِنَفْسِي فَلَمَّا كَلَّمَهُ قَالَ إِنَّكَ الْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ).",
+    "question_fr": "Que dit le roi à Yusuf après lui avoir parlé et avoir apprécié sa sagesse ?",
+    "options_fr": [
+      "Je ferai de toi le chef de mon armée",
+      "Retourne auprès de ta famille à Canaan",
+      "« Aujourd’hui, tu occupes auprès de nous une position importante et tu es digne de confiance »",
+      "Je te donnerai un palais et beaucoup d’argent"
+    ],
+    "explanation_fr": "Après avoir parlé avec Yusuf, le roi reconnut sa position importante et sa fiabilité."
+  },
+  {
+    "id": "yusuf_39",
+    "question_ar": "أي منصب طلب يوسف من الملك بعد خروجه من السجن؟",
+    "options_ar": [
+      "منصب قاضي القضاة",
+      "منصب خزائن الأرض وقال إنه حفيظ عليم",
+      "منصب قائد الحرس الملكي",
+      "منصب كبير الكهنة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ إِنِّي حَفِيظٌ عَلِيمٌ) طلبه ليس طمعا بل لتنفيذ الخطة الإلهية.",
+    "question_fr": "Quel poste Yusuf demanda-t-il au roi après sa sortie de prison ?",
+    "options_fr": [
+      "Le poste de juge suprême",
+      "La responsabilité des réserves du pays, en déclarant qu’il était gardien et connaisseur",
+      "Le poste de chef de la garde royale",
+      "Le poste de grand prêtre"
+    ],
+    "explanation_fr": "Yusuf demanda à être chargé des réserves du pays et indiqua qu’il était digne de confiance et compétent pour cette responsabilité."
+  },
+  {
+    "id": "yusuf_40",
+    "question_ar": "ماذا قال يوسف لإخوته حين عفا عنهم بعد أن كشف هويته؟",
+    "options_ar": [
+      "سأعاقبكم على ما فعلتم بي",
+      "لن أسامحكم حتى يسامحكم أبي",
+      "اخرجوا من مصر ولا تعودوا أبدا",
+      "لا تثريب عليكم اليوم يغفر الله لكم"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ) فعفا عفوا مطلقا ودعا لهم بالمغفرة.",
+    "question_fr": "Que dit Yusuf à ses frères lorsqu’il leur pardonna après leur avoir révélé son identité ?",
+    "options_fr": [
+      "Je vous punirai pour ce que vous m’avez fait",
+      "Je ne vous pardonnerai pas tant que notre père ne vous aura pas pardonnés",
+      "Quittez l’Égypte et ne revenez jamais",
+      "« Aucun reproche ne vous sera fait aujourd’hui. Qu’Allah vous pardonne »"
+    ],
+    "explanation_fr": "Yusuf pardonna à ses frères sans leur adresser de reproche et demanda à Allah de leur pardonner."
+  },
+  {
+    "id": "yusuf_41",
+    "question_ar": "ماذا اشترط يوسف على إخوته حين جاؤوا لمصر أول مرة لشراء الطعام؟",
+    "options_ar": [
+      "أن يدفعوا ضعف الثمن",
+      "أن يخبروه بأسرار أرض كنعان",
+      "أن يأتوه بأخيهم من أبيهم (بنيامين)",
+      "أن يعتذروا عن ذنبهم القديم"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (ائْتُونِي بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ) أي بنيامين شقيق يوسف من أمه، وكان يريد أن يراه ويضمه إليه.",
+    "question_fr": "Quelle condition Yusuf imposa-t-il à ses frères lorsqu’ils vinrent en Égypte pour acheter de la nourriture la première fois ?",
+    "options_fr": [
+      "Payer le double du prix",
+      "Lui révéler les secrets du pays de Canaan",
+      "Lui amener leur frère du même père, Binyamin",
+      "S’excuser pour leur ancienne faute"
+    ],
+    "explanation_fr": "Yusuf leur demanda de revenir avec leur frère du même père, Binyamin, afin de pouvoir le voir et l’accueillir auprès de lui."
+  },
+  {
+    "id": "yusuf_42",
+    "question_ar": "ما دلالة القميص الثالث في قصة يوسف؟",
+    "options_ar": [
+      "حمل الشفاء ليعقوب حين ألقي على وجهه فارتد بصيرا",
+      "كان دليلا على غنى يوسف في مصر",
+      "كان هدية من الملك ليعقوب",
+      "كان رمزا للملك والسلطة"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا) فالقميص الثالث حمل الشفاء بعد أن حمل الأول الكذب والثاني البراءة.",
+    "question_fr": "Quelle est la signification de la troisième chemise dans l’histoire de Yusuf ?",
+    "options_fr": [
+      "Elle apporta la guérison à Yaqub lorsqu’elle fut placée sur son visage et qu’il retrouva la vue",
+      "Elle était une preuve de la richesse de Yusuf en Égypte",
+      "Elle était un cadeau du roi destiné à Yaqub",
+      "Elle symbolisait le pouvoir et le royaume"
+    ],
+    "explanation_fr": "Yusuf demanda à ses frères d’emporter sa chemise et de la placer sur le visage de leur père afin qu’il retrouve la vue."
+  },
+  {
+    "id": "yusuf_43",
+    "question_ar": "ماذا أسر يوسف لأخيه بنيامين حين آواه إليه في مصر؟",
+    "options_ar": [
+      "أخبره بخطة الانتقام من الإخوة",
+      "طلب منه أن يهرب معه إلى كنعان",
+      "قال له إني أنا أخوك فلا تبتئس",
+      "أخبره أنه ملك مصر الحقيقي"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (فَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ آوَىٰ إِلَيْهِ أَخَاهُ قَالَ إِنِّي أَنَا أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَعْمَلُونَ).",
+    "question_fr": "Que dit Yusuf en secret à son frère Binyamin lorsqu’il l’accueillit auprès de lui en Égypte ?",
+    "options_fr": [
+      "Il lui parla de son plan pour se venger de leurs frères",
+      "Il lui demanda de s’enfuir avec lui vers Canaan",
+      "« Je suis ton frère, ne sois donc pas attristé par ce qu’ils faisaient »",
+      "Il lui révéla qu’il était le véritable roi d’Égypte"
+    ],
+    "explanation_fr": "Yusuf révéla discrètement à Binyamin son identité et le rassura en lui disant de ne pas être attristé par ce que leurs frères avaient fait."
+  },
+  {
+    "id": "yusuf_44",
+    "question_ar": "ما هو صواع الملك الذي وضعه يوسف في رحل بنيامين؟",
+    "options_ar": [
+      "سيف الملك المرصع بالجواهر",
+      "خاتم الملك الذهبي",
+      "تاج الملك الفضي",
+      "كأس الملك المستخدم للكيل"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ * قَالُوا وَأَقْبَلُوا عَلَيْهِم مَّاذَا تَفْقِدُونَ * قَالُوا نَفْقِدُ صُوَاعَ الْمَلِكِ) وهو الكأس الذي يكال به.",
+    "question_fr": "Qu’était le « suwa‘ » du roi que Yusuf plaça dans les bagages de Binyamin ?",
+    "options_fr": [
+      "L’épée du roi incrustée de pierres précieuses",
+      "L’anneau d’or du roi",
+      "La couronne d’argent du roi",
+      "La coupe du roi utilisée pour mesurer"
+    ],
+    "explanation_fr": "Le récit mentionne le « suwa‘ du roi », présenté ici comme une coupe utilisée pour mesurer."
+  },
+  {
+    "id": "yusuf_45",
+    "question_ar": "ماذا حدث لعيني يعقوب عليه السلام من كثرة البكاء على يوسف؟",
+    "options_ar": [
+      "لم يتأثر بصره أبدا",
+      "ابيضت عيناه من الحزن فأصبح كفيفا",
+      "ضعف بصره قليلا فقط",
+      "فقد السمع من كثرة البكاء"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا أَسَفَىٰ عَلَىٰ يُوسُفَ وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ) فعمي من شدة الحزن والبكاء.",
+    "question_fr": "Qu’arriva-t-il aux yeux de Yaqub à force de pleurer Yusuf ?",
+    "options_fr": [
+      "Sa vue ne fut jamais affectée",
+      "Ses yeux blanchirent de tristesse et il devint aveugle",
+      "Sa vue diminua légèrement seulement",
+      "Il perdit l’ouïe à force de pleurer"
+    ],
+    "explanation_fr": "Le Coran rapporte que ses yeux blanchirent sous l’effet de sa tristesse et de son chagrin intense après la disparition de Yusuf."
+  },
+  {
+    "id": "yusuf_46",
+    "question_ar": "ماذا عرض الإخوة على يوسف حين احتجز بنيامين بتهمة السرقة؟",
+    "options_ar": [
+      "عرضوا دفع فدية كبيرة",
+      "هددوا بالحرب على مصر",
+      "طلبوا أن يأخذ أحدهم مكانه لأن له أبا شيخا كبيرا",
+      "عرضوا البقاء جميعا في مصر"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (قَالُوا يَا أَيُّهَا الْعَزِيزُ إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ).",
+    "question_fr": "Que proposèrent les frères à Yusuf lorsqu’il retint Binyamin après l’accusation de vol ?",
+    "options_fr": [
+      "Ils proposèrent de payer une importante rançon",
+      "Ils menacèrent de faire la guerre à l’Égypte",
+      "Ils demandèrent que l’un d’eux prenne sa place, car leur père était âgé",
+      "Ils proposèrent de rester tous en Égypte"
+    ],
+    "explanation_fr": "Les frères demandèrent que l’un d’eux soit retenu à la place de Binyamin, en rappelant que leur père était âgé et très attaché à lui."
+  },
+  {
+    "id": "yusuf_47",
+    "question_ar": "كيف عاد البصر ليعقوب عليه السلام بعد سنوات من العمى؟",
+    "options_ar": [
+      "شفاه طبيب مصري بدواء خاص",
+      "دعا الله فشفاه دون سبب مادي",
+      "ألقوا قميص يوسف على وجهه فارتد بصيرا",
+      "عاد بصره تدريجيا مع مرور الوقت"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (فَلَمَّا أَن جَاءَ الْبَشِيرُ أَلْقَاهُ عَلَىٰ وَجْهِهِ فَارْتَدَّ بَصِيرًا قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّي أَعْلَمُ مِنَ اللَّهِ مَا لَا تَعْلَمُونَ).",
+    "question_fr": "Comment Yaqub retrouva-t-il la vue après plusieurs années de cécité ?",
+    "options_fr": [
+      "Un médecin égyptien le soigna avec un médicament spécial",
+      "Il invoqua Allah et fut guéri sans cause matérielle",
+      "La chemise de Yusuf fut placée sur son visage et il retrouva la vue",
+      "Sa vue revint progressivement avec le temps"
+    ],
+    "explanation_fr": "Lorsque le messager apporta la chemise de Yusuf, elle fut placée sur le visage de Yaqub et, selon le récit coranique, il retrouva la vue."
+  },
+  {
+    "id": "yusuf_48",
+    "question_ar": "ماذا أمر يعقوب أبناءه حين عادوا بدون بنيامين؟",
+    "options_ar": [
+      "أن يذهبوا فيتحسسوا من يوسف وأخيه ولا ييأسوا من روح الله",
+      "أن ينسوا يوسف وبنيامين ويعيشوا حياتهم",
+      "أن يحاربوا عزيز مصر لاسترداد بنيامين",
+      "أن يبقوا في كنعان ولا يعودوا لمصر أبدا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ).",
+    "question_fr": "Que demanda Yaqub à ses fils lorsqu’ils revinrent sans Binyamin ?",
+    "options_fr": [
+      "D’aller rechercher Yusuf et son frère et de ne pas désespérer de la miséricorde d’Allah",
+      "D’oublier Yusuf et Binyamin et de continuer leur vie",
+      "De combattre l’Aziz d’Égypte pour récupérer Binyamin",
+      "De rester à Canaan et de ne plus retourner en Égypte"
+    ],
+    "explanation_fr": "Yaqub leur demanda de repartir à la recherche de Yusuf et de son frère et leur rappela de ne pas désespérer de la miséricorde et du soulagement venant d’Allah."
+  },
+  {
+    "id": "yusuf_49",
+    "question_ar": "بماذا استجدى الإخوة يوسف في زيارتهم الأخيرة لمصر؟",
+    "options_ar": [
+      "طلبوا أن يجعلهم وزراء معه",
+      "طلبوا أن يعيد لهم بنيامين فقط",
+      "عرضوا أنفسهم عبيدا له",
+      "قالوا مسنا وأهلنا الضر وجئنا ببضاعة مزجاة فأوف لنا الكيل"
+    ],
+    "correct": 3,
+    "explanation_ar": "قال تعالى: (يَا أَيُّهَا الْعَزِيزُ مَسَّنَا وَأَهْلَنَا الضُّرُّ وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ فَأَوْفِ لَنَا الْكَيْلَ وَتَصَدَّقْ عَلَيْنَا).",
+    "question_fr": "Que demandèrent les frères à Yusuf lors de leur dernière visite en Égypte ?",
+    "options_fr": [
+      "Ils demandèrent à devenir ses ministres",
+      "Ils demandèrent seulement qu’on leur rende Binyamin",
+      "Ils proposèrent de devenir ses serviteurs",
+      "Ils dirent que le malheur les avait touchés, qu’ils avaient apporté une marchandise de faible valeur et lui demandèrent de leur donner leur mesure complète"
+    ],
+    "explanation_fr": "Les frères expliquèrent que la difficulté les avait touchés, qu’ils avaient apporté une marchandise de faible valeur et demandèrent à l’Aziz de leur accorder la mesure complète et de leur faire une faveur."
+  },
+  {
+    "id": "yusuf_50",
+    "question_ar": "بأي عبارة كشف يوسف عن هويته لإخوته؟",
+    "options_ar": [
+      "قال هل علمتم ما فعلتم بيوسف وأخيه إذ أنتم جاهلون",
+      "قال أنا الصبي الذي رميتموه في البئر",
+      "قال أنا ابن يعقوب النبي",
+      "قال انظروا إلى وجهي جيدا تعرفوني"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَاهِلُونَ * قَالُوا أَإِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا يُوسُفُ وَهَٰذَا أَخِي).",
+    "question_fr": "Par quelle phrase Yusuf révéla-t-il son identité à ses frères ?",
+    "options_fr": [
+      "« Savez-vous ce que vous avez fait à Yusuf et à son frère lorsque vous étiez ignorants ? »",
+      "« Je suis l’enfant que vous avez jeté dans le puits »",
+      "« Je suis le fils du prophète Yaqub »",
+      "« Regardez bien mon visage et vous me reconnaîtrez »"
+    ],
+    "explanation_fr": "Yusuf leur demanda s’ils se souvenaient de ce qu’ils avaient fait à Yusuf et à son frère. Ils comprirent alors son identité, et il leur révéla : « Je suis Yusuf, et voici mon frère. »"
+  }
+]
+

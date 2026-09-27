@@ -1,0 +1,1002 @@
+[
+{
+"id": "shuaib_01",
+"question_ar": "إلى أي قوم أُرسل نبي الله شعيب عليه السلام؟",
+"options_ar": [
+"إلى أقوام متعددة في العراق",
+"إلى مدين (وأصحاب الأيكة)، وهم قُبيلة عربية سكنت شمال غرب الجزيرة العربية بقرب خليج العقبة",
+"إلى قبيلة جرهم بمكة المشرفة",
+"إلى مدينة قرطاج في شمال أفريقيا"
+],
+"correct": 1,
+"explanation_ar": "(وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا) ومدين هي المدينة والقبيلة معاً، وعُرفوا أيضاً بأصحاب الأيكة (الشجرة الملتفة).",
+"question_fr": "À quel peuple le prophète Shuʿayb عليه السلام a-t-il été envoyé ?",
+"options_fr": [
+"À plusieurs peuples en Irak",
+"Aux habitants de Madyan et aux Gens de l'Aïka, une tribu arabe installée au nord-ouest de la péninsule Arabique, près du golfe d'Aqaba",
+"À la tribu de Jurhum à La Mecque",
+"À la ville de Carthage en Afrique du Nord"
+],
+"explanation_fr": "Le Coran dit : « Et aux Madyanites, leur frère Shuʿayb ». Madyan désigne à la fois le peuple et son territoire. Ils sont également appelés les Gens de l'Aïka, en référence aux arbres touffus de leur région."
+},
+{
+"id": "shuaib_02",
+"question_ar": "بماذا لُقب شعيب عليه السلام لفصاحته البالغة وحسن بيانه في دعوة ومجادلة قومه بالحجة؟",
+"options_ar": [
+"سيد الدعاة والمرسلين",
+"خطيب الأنبياء (وهو لقب مشهور له عند المفسرين لبراعته في الحوار وإقامة الحجج الدامغة)",
+"فصيح العرب العاربة",
+"حكيم مدين الأكبر"
+],
+"correct": 1,
+"explanation_ar": "يُلقب بـ(خطيب الأنبياء) لقدرته العظيمة على الحِجاج والجدال بالتي هي أحسن والبيان المشرق المنطقي الذي ظهر جلياً في قصته القرآنية.",
+"question_fr": "Quel surnom est attribué au prophète Shuʿayb عليه السلام en raison de son éloquence et de la qualité de son argumentation ?",
+"options_fr": [
+"Le maître des prédicateurs et des messagers",
+"L'orateur des prophètes, un surnom célèbre chez les exégètes en raison de son talent dans le dialogue et l'argumentation",
+"L'orateur des anciens Arabes",
+"Le grand sage de Madyan"
+],
+"explanation_fr": "Il est surnommé « l'orateur des prophètes » en raison de sa grande capacité à argumenter avec sagesse, à dialoguer de la meilleure manière et à présenter des arguments clairs et logiques."
+},
+{
+"id": "shuaib_03",
+"question_ar": "ما هي الجريمة الاقتصادية الكبرى التي اشتهر بها قوم شعيب بجانب كفرهم بالله؟",
+"options_ar": [
+"تزوير العملات الذهبية للرومان",
+"تَطْفِيفُ الْمِكْيَالِ وَالْمِيزَانِ (كانوا يبخسون الناس أشياءهم ويغشون في البيع والشراء عبر الموازين)",
+"احتكار تجارة الأخشاب العالمية في مينائهم",
+"نهب غنائم الحروب دون تقسيمها بالعدل"
+],
+"correct": 1,
+"explanation_ar": "(وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ) كانت السرقة التجارية طبعاً متأصلاً في اقتصادهم.",
+"question_fr": "Quelle était la principale faute économique du peuple de Shuʿayb en plus de leur mécréance ?",
+"options_fr": [
+"Falsifier les monnaies d'or romaines",
+"Tricher dans les mesures et les balances, en lésant les gens lors des ventes et des achats",
+"Monopoliser le commerce mondial du bois dans leur port",
+"Voler les butins de guerre sans les partager équitablement"
+],
+"explanation_fr": "Le Coran leur ordonne de respecter les mesures et les balances avec équité et de ne pas diminuer les droits des gens. La fraude commerciale était devenue une pratique répandue dans leur économie."
+},
+{
+"id": "shuaib_04",
+"question_ar": "كيف كان يستقبل قوم شعيب القوافل التجارية المارة بمدينتهم (وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ...)؟",
+"options_ar": [
+"يقدمون لهم الضيافة ثم يفرضون ضرائب خيالية لا تُحتمل",
+"يُوعِدُونَ وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ (كانوا يقطعون الطريق للسلب، ويقعدون لترهيب من يريد الذهاب لسماع دعوة شعيب)",
+"يرفضون بيع الطعام والشراب لهم إلا بالذهب الخالص",
+"يستخدمونهم في بناء معابدهم كعبيد قسراً"
+],
+"correct": 1,
+"explanation_ar": "جمعوا بين قطع الطريق المادي (السلب) وقطع الطريق الروحي الإيماني (تخويف وتهديد من يريد الاستماع للرسول).",
+"question_fr": "Comment le peuple de Shuʿayb accueillait-il les caravanes commerciales qui traversaient leur région ?",
+"options_fr": [
+"Ils leur offraient l'hospitalité puis leur imposaient des taxes exorbitantes",
+"Ils menaçaient les gens et les détournaient du chemin d'Allah, notamment en attaquant les voyageurs et en intimidant ceux qui voulaient écouter l'appel de Shuʿayb",
+"Ils refusaient de leur vendre de la nourriture et des boissons sauf contre de l'or pur",
+"Ils les forçaient à travailler comme esclaves à la construction de leurs temples"
+],
+"explanation_fr": "Ils combinaient le fait de couper les routes physiquement par le vol et l'intimidation avec le fait de détourner les gens du chemin de la foi en menaçant ceux qui voulaient écouter le messager."
+},
+{
+"id": "shuaib_05",
+"question_ar": "ما هو المبدأ الاقتصادي الذي أعلنه شعيب (بقيتُ الله خير لكم...)؟",
+"options_ar": [
+"بَقِيَّتُ اللَّهِ خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ ۚ وَمَا أَنَا عَلَيْكُم بِحَفِيظٍ (الربح الحلال القليل الباقي أفضل من الكثير الزائل من الغش)",
+"أن تتركوا جزءاً من مزارعكم لله بلا حصاد",
+"أن تعطوا بقية أموالكم كلها للفقراء دفعة واحدة",
+"بقية عمركم في الطاعة خير من شبابكم في المعصية"
+],
+"correct": 0,
+"explanation_ar": "(بَقِيَّتُ اللَّهِ خَيْرٌ لَّكُمْ) ما يبقيه الله لكم من ربح حلال بعد إيفاء الكيل والميزان، هو خير مآلاً وأعظم بركة من أموال الغش الخبيثة.",
+"question_fr": "Quel principe économique Shuʿayb a-t-il enseigné lorsqu'il a dit que « ce qu'Allah vous laisse est meilleur pour vous » ?",
+"options_fr": [
+"Ce qu'Allah vous laisse est meilleur pour vous si vous êtes croyants : un bénéfice licite, même moindre, est meilleur qu'un gain important obtenu par la fraude",
+"Laisser une partie de vos terres à Allah sans les récolter",
+"Donner immédiatement tout l'argent restant aux pauvres",
+"Consacrer le reste de votre vie à l'obéissance plutôt que votre jeunesse à la désobéissance"
+],
+"explanation_fr": "Ce qu'Allah laisse comme bénéfice licite après avoir respecté les mesures et les balances est meilleur et plus béni que l'argent obtenu par la fraude."
+},
+{
+"id": "shuaib_06",
+"question_ar": "بماذا امتازت دعوة شعيب عليه السلام في حواره مع قومه من حيث الأسلوب؟",
+"options_ar": [
+"كانت دعوته قاسية وعنيفة من اللحظة الأولى للرد على استكبارهم",
+"امتازت بالرفق واللين والمجادلة بالتي هي أحسن، واستخدام نداءات التحبب مثل (يا قومِ) ومخاطبة العقل والمنطق",
+"اقتصرت على التهديد بالعذاب فقط دون تقديم حجج منطقية",
+"اكتفى بإرسال رسائل مكتوبة لهم دون مواجهة"
+],
+"correct": 1,
+"explanation_ar": "لذلك لُقب بـ(خطيب الأنبياء) لأن حواره راقٍ جداً، يجمع بين المودة في النداء وقوة الحجة وبرودة الأعصاب في الرد على سفههم.",
+"question_fr": "Quelle caractéristique distinguait la manière dont Shuʿayb عليه السلام s'adressait à son peuple ?",
+"options_fr": [
+"Son appel était dur et violent dès le début face à leur arrogance",
+"Son appel était marqué par la douceur, la bienveillance et le dialogue de la meilleure manière, avec des expressions affectueuses comme « Ô mon peuple » et des arguments rationnels",
+"Il se limitait à les menacer du châtiment sans présenter d'arguments",
+"Il se contentait de leur envoyer des messages écrits sans leur parler directement"
+],
+"explanation_fr": "C'est notamment pour cette qualité de dialogue qu'il est surnommé « l'orateur des prophètes ». Son discours associait bienveillance, force de l'argumentation et maîtrise de soi."
+},
+{
+"id": "shuaib_07",
+"question_ar": "كيف كان موقف قوم شعيب من المؤمنين الضعفاء الذين استجابوا لدعوته؟",
+"options_ar": [
+"تركوهم في شأنهم طالما أنهم لا يتدخلون في التجارة",
+"كانوا يتوعدونهم ويصدونهم عن سبيل الله ويبغونها عوجاً، محاولين إعادتهم للوثنية والفساد",
+"عينوهم في مناصب تجارية لتقريبهم",
+"طردوهم فوراً خارج مدين إلى الصحراء"
+],
+"correct": 1,
+"explanation_ar": "(وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ) كانوا يرهبون كل من يميل لدعوة شعيب.",
+"question_fr": "Quelle était l'attitude du peuple de Shuʿayb envers les croyants faibles qui avaient répondu à son appel ?",
+"options_fr": [
+"Ils les laissaient tranquilles tant qu'ils ne se mêlaient pas au commerce",
+"Ils les menaçaient, les détournaient du chemin d'Allah et cherchaient à les ramener à l'idolâtrie et à la corruption",
+"Ils leur donnaient des postes commerciaux pour les rapprocher d'eux",
+"Ils les expulsaient immédiatement de Madyan vers le désert"
+],
+"explanation_fr": "Ils intimidaient ceux qui se rapprochaient de l'appel de Shuʿayb et cherchaient à les détourner du chemin d'Allah."
+},
+{
+"id": "shuaib_08",
+"question_ar": "ماذا اقترح شعيب كحل سلمي للفصل بين الطائفتين (المؤمنة والكافرة) إن أصروا على العناد؟",
+"options_ar": [
+"أن يقسموا المدينة قسمين ولا يختلطوا",
+"أن يقاتلوا بعضهم البعض حتى يفنى أحد الفريقين",
+"فَاصْبِرُوا حَتَّىٰ يَحْكُمَ اللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ الْحَاكِمِينَ (دعاهم لانتظار حكم الله الفاصل وعدم التعجل)",
+"أن يدفعوا الجزية للمؤمنين مقابل البقاء"
+],
+"correct": 2,
+"explanation_ar": "(وَإِن كَانَ طَائِفَةٌ مِّنكُمْ آمَنُوا بِالَّذِي أُرْسِلْتُ بِهِ وَطَائِفَةٌ لَّمْ يُؤْمِنُوا فَاصْبِرُوا حَتَّى يَحْكُمَ اللَّهُ بَيْنَنَا).",
+"question_fr": "Quelle solution pacifique Shuʿayb proposa-t-il entre les deux groupes, croyants et mécréants, s'ils persistaient dans leur refus ?",
+"options_fr": [
+"Diviser la ville en deux parties et ne plus se mélanger",
+"Se combattre jusqu'à ce que l'un des deux groupes disparaisse",
+"Patienter jusqu'à ce qu'Allah juge entre eux, sans chercher à précipiter le jugement",
+"Faire payer une taxe aux croyants en échange du droit de rester"
+],
+"explanation_fr": "Shuʿayb les invita à patienter jusqu'au jugement d'Allah entre eux : si certains croyaient et d'autres refusaient, ils devaient attendre le jugement d'Allah."
+},
+{
+"id": "shuaib_09",
+"question_ar": "لماذا سمي عذاب قوم شعيب (أو بعضهم كالمرسلين لأصحاب الأيكة) بـ(عذاب يوم الظلة)؟",
+"options_ar": [
+"لأنهم اختبؤوا في ظلال الكهوف هرباً من الطوفان",
+"لأن الله سلط عليهم حراً شديداً لا تنفع معه ظلال البيوت، ثم أرسل سحابة (ظلة) فلما اجتمعوا تحتها طلباً للبرد، أمطرت عليهم ناراً فأحرقتهم",
+"لأنهم عُذبوا في ظلام دامس لا يرون فيه بعضهم",
+"لأنهم تحولوا إلى ظلال خفيفة وطيرتّهُم الرّياح"
+],
+"correct": 1,
+"explanation_ar": "عذاب شديد مناسب لخيانتهم الخفية تحت ظل الأسواق؛ سلّط الله عليهم حراً قاتلاً، ولما ظنوا أن السحابة غوث ورحمة، كانت هي العذاب العظيم.",
+"question_fr": "Pourquoi le châtiment de certains peuples associés à Shuʿayb est-il appelé « le châtiment du Jour de l'Ombre » ?",
+"options_fr": [
+"Parce qu'ils se sont cachés dans des grottes pour échapper au déluge",
+"Parce qu'Allah leur a imposé une chaleur intense, puis une nuée leur a fourni une ombre apparente. Lorsqu'ils se sont rassemblés dessous pour chercher du soulagement, le châtiment les a atteints",
+"Parce qu'ils ont été châtiés dans une obscurité totale",
+"Parce qu'ils sont devenus des ombres légères emportées par le vent"
+],
+"explanation_fr": "Allah leur imposa une chaleur intense. Lorsqu'ils pensèrent que la nuée était un secours et une miséricorde, elle devint au contraire la cause de leur châtiment."
+},
+{
+"id": "shuaib_10",
+"question_ar": "ما الذي يمكن استنتاجه من قصة شعيب بخصوص العلاقة بين الأخلاق وقوانين السوق؟",
+"options_ar": [
+"السوق تحكمه المصلحة المادية البحتة ولا دخل للأخلاق فيه",
+"ارتباط الإيمان الوثيق بالأخلاق والتعاملات المالية؛ الغش والنصب التجاري (التطفيف) هو من كبائر الذنوب التي تستوجب غضب الله وهلاك الأمم",
+"يجوز الغش قليلًا إذا كانت هناك حاجة لذلك",
+"لا تُعاقب الأمم إلا على الشرك فقط بغض النظر عن ظلمهم الاقتصادي"
+],
+"correct": 1,
+"explanation_ar": "القرآن يجعل التوازن والصلاح الاقتصادي والعدل (أوفوا الكيل والميزان بالقسط) جزءاً لا يتجزأ من التوحيد والإيمان والإصلاح المجتمعي.",
+"question_fr": "Que peut-on déduire de l'histoire de Shuʿayb concernant le lien entre la morale et les règles du marché ?",
+"options_fr": [
+"Le marché est uniquement régi par l'intérêt matériel et la morale n'y a aucune place",
+"La foi est étroitement liée à la morale et aux transactions financières ; la fraude commerciale et la tricherie dans les mesures font partie des grands péchés",
+"Une petite fraude est permise lorsqu'elle est nécessaire",
+"Les peuples ne sont punis que pour l'associationnisme, indépendamment de leurs injustices économiques"
+],
+"explanation_fr": "Le Coran associe l'équilibre, la justice économique et le respect des mesures à la foi et à la réforme de la société."
+},
+{
+"id": "shuaib_11",
+"question_ar": "كيف يدل الرد المتهكم (أَصَلَاتُكَ تَأْمُرُكَ...) على طبيعة صلاة شعيب عليه السلام وتأثيرها؟",
+"options_ar": [
+"أن صلاته كانت صلاة حقيقية مؤثرة في حياته وتصرفاته وأخلاقه، ولم تكن مجرد طقس شكلي، بل دافعاً للعدل ومحاربة الفساد الاقتصادي.",
+"أن صلاته كانت تمنعه من العمل التجاري تماماً.",
+"أنهم فهموا الصلاة على أنها تسلط سياسي بحت.",
+"أنهم كانوا يغارون من كثرة صلاته فقط."
+],
+"correct": 0,
+"explanation_ar": "القوم أدركوا أن(صلاة شعيب) هي المحرك الأساسي لأوامره ونواهيه العادلة، وهذا هو الجوهر الحقيقي للصلاة المقبولة: أن تنهى عن الفحشاء والمنكر وتأمر بالمعروف في كل مناحي الحياة.",
+"question_fr": "Que révèle leur remarque moqueuse « Ta prière t'ordonne-t-elle… » sur la prière de Shuʿayb عليه السلام et son influence ?",
+"options_fr": [
+"Sa prière était une véritable prière qui influençait sa vie, ses actes et son comportement ; elle n'était pas un simple rituel, mais l'encourageait à défendre la justice et à combattre la corruption économique",
+"Sa prière l'empêchait complètement de travailler dans le commerce",
+"Ils considéraient la prière comme une forme de domination politique",
+"Ils étaient simplement jaloux du nombre de ses prières"
+],
+"explanation_fr": "Son peuple avait compris que la prière de Shuʿayb influençait ses ordres et ses interdictions. Elle représente ici une foi qui se reflète dans le comportement et dans la lutte contre le mal."
+},
+{
+"id": "shuaib_12",
+"question_ar": "بماذا امتاز شعيب كداعية في تعامله مع تهديدات قومه المادية (لَنُخْرِجَنَّكَ... لَرَجَمْنَاكَ)؟",
+"options_ar": [
+"بردود الفعل الانفعالية العنيفة وطلب الهلاك لهم فوراً.",
+"بالثبات والصبر والردود المنطقية التي تتجاهل التهديد المادي وتذكرهم بقوة الله الأعلى (أرهطي أعز عليكم من الله؟).",
+"بالتراجع الجزئي عن مطالبه الاقتصادية حقناً للدماء.",
+"بالهروب فوراً من القرية خوفاً من رجمهم."
+],
+"correct": 1,
+"explanation_ar": "الداعية الواثق (إني على بينة من ربي) لا يهزه التهديد الجسدي، بل يوظفه لإظهار هشاشة الكافرين وضعفهم أمام الله، فكان شعيب مضرب المثل في الشجاعة والمنطق.",
+"question_fr": "Par quelle attitude Shuʿayb عليه السلام s'est-il distingué face aux menaces matérielles de son peuple ?",
+"options_fr": [
+"Par des réactions violentes et la demande immédiate de leur destruction",
+"Par la fermeté, la patience et des réponses logiques rappelant que la puissance d'Allah est supérieure à toute force humaine",
+"En abandonnant une partie de ses revendications économiques pour éviter les conflits",
+"En fuyant immédiatement la ville par peur de leurs menaces"
+],
+"explanation_fr": "Le prédicateur sûr de sa foi ne se laisse pas déstabiliser par les menaces. Shuʿayb répondit avec fermeté et logique en rappelant la puissance d'Allah."
+},
+{
+"id": "shuaib_13",
+"question_ar": "ما الذي نفهمه من تحذير شعيب (ويا قوم لا يجرمنكم شقاقي أن يصيبكم...)؟",
+"options_ar": [
+"لا يحملنكم مخالفتي وبغضكم الشخصي لي على التمادي في المعصية حتى يصيبكم مثل ما أصاب الأمم المكذبة السابقة.",
+"لا تشقوا علي في الطلبات التجارية فتفلسوا.",
+"لا ترفضوا الصلاة معي في معبدي.",
+"لا تشقوا صفوف المصلين في مدينتكم."
+],
+"correct": 0,
+"explanation_ar": "الشقاق هو الخصومة والعناد. حذرهم من أن يتحول الخلاف الشخصي المستكبر إلى سبب للهلاك كما هلك قوم نوح وهود وصالح ولوط.",
+"question_fr": "Que faut-il comprendre de l'avertissement de Shuʿayb : « Que votre opposition à moi ne vous pousse pas à subir… » ?",
+"options_fr": [
+"Que leur opposition et leur haine personnelle envers lui ne devaient pas les pousser à persister dans le péché jusqu'à subir un sort semblable à celui des peuples précédemment démentis",
+"Qu'ils ne devaient pas lui imposer trop de demandes commerciales",
+"Qu'ils ne devaient pas refuser de prier avec lui dans son lieu de prière",
+"Qu'ils ne devaient pas perturber les rangs des fidèles dans leur ville"
+],
+"explanation_fr": "L'opposition et l'entêtement ne devaient pas transformer un désaccord personnel en cause de persistance dans le péché et de destruction, comme cela arriva à d'autres peuples avant eux."
+},
+{
+"id": "shuaib_14",
+"question_ar": "هل آمن كل أتباع شعيب من قومه؟",
+"options_ar": [
+"آمنوا جميعاً في النهاية خوفاً من الظلة.",
+"لم يؤمن أحد سوى عائلته الصغيرة.",
+"آمنت (طائفة) منهم فقط (وَإِن كَانَ طَائِفَةٌ مِّنكُمْ آمَنُوا... وطائفة لم يؤمنوا)، والمؤمنون نُجوا برحمة الله من العذاب العظيم.",
+"آمنت قبيلة الأيكة وكفرت مدين."
+],
+"correct": 2,
+"explanation_ar": "نجى الله شعيباً والذين آمنوا معه (طائفة المؤمنين المستضعفين) برحمة منه، وأهلك الملأ والمستكبرين من قومه.",
+"question_fr": "Tous les membres du peuple de Shuʿayb ont-ils cru en son message ?",
+"options_fr": [
+"Oui, ils ont tous cru à la fin par peur du châtiment de l'Ombre",
+"Personne n'a cru à part sa petite famille",
+"Seule une partie d'entre eux a cru, tandis qu'une autre a refusé, et les croyants ont été sauvés par la miséricorde d'Allah",
+"Les Gens de l'Aïka ont cru tandis que Madyan a refusé"
+],
+"explanation_fr": "Allah sauva Shuʿayb et ceux qui avaient cru avec lui par Sa miséricorde, tandis que les dirigeants arrogants de son peuple furent frappés par le châtiment."
+},
+{
+"id": "shuaib_15",
+"question_ar": "لماذا تم تسمية (عذاب يوم الظلة) بأنه (عذاب يوم عظيم) عند أصحاب الأيكة؟",
+"options_ar": [
+"لأنهم دُفنوا فيه أحياء تحت الأرض العظيمة.",
+"لأنه جمع بين شدة الحر والخناق، ثم الخديعة بالظل الموهوم، ثم المطر الناري والرجفة المهلكة في يوم واحد.",
+"لأنه استمر لشهور طويلة هلكوا فيها ببطء عظيم.",
+"لأنه دمر أموالهم فقط وتركهم فقراء عظماء في البؤس."
+],
+"correct": 1,
+"explanation_ar": "كان عذاباً محيطاً ومتدرجاً في الألم النفسي والجسدي، حيث استُدرجوا للظل بحثاً عن النجاة فكان حتفهم تحته.",
+"question_fr": "Pourquoi le châtiment du Jour de l'Ombre est-il décrit comme un « grand jour de châtiment » pour les Gens de l'Aïka ?",
+"options_fr": [
+"Parce qu'ils furent enterrés vivants sous une immense étendue de terre",
+"Parce qu'il réunit une chaleur intense, l'espoir trompeur de trouver de l'ombre, puis le châtiment et la secousse destructrice",
+"Parce qu'il dura plusieurs mois et qu'ils périrent lentement",
+"Parce qu'il détruisit uniquement leurs richesses et les laissa dans la pauvreté"
+],
+"explanation_fr": "Le châtiment fut intense et progressif : ils cherchèrent refuge sous l'ombre en pensant y trouver le salut, mais celle-ci devint au contraire le lieu de leur châtiment."
+},
+{
+"id": "shuaib_16",
+"question_ar": "ما هو الدرس المستفاد من نصيحة شعيب (ويا قوم استغفروا ربكم ثم توبوا إليه...)؟",
+"options_ar": [
+"أن الاستغفار والتوبة الصادقة يجلبان محبة الله ورحمته (إِنَّ رَبِّي رَحِيمٌ وَدُودٌ) ويرفعان العذاب حتى عن المجرمين إذا صدقوا.",
+"أن التوبة تكفي دون إرجاع أموال الناس المسروقة.",
+"أن يدفعوا أموالاً لشعيب كفارة عن ذنوبهم.",
+"أن يهاجروا من مدين ليستغفروا في مكة."
+],
+"correct": 0,
+"explanation_ar": "(إِنَّ رَبِّي رَحِيمٌ وَدُودٌ) فتح لهم باب الأمل وذكّرهم بمحبة الله (الودود) للتائبين رغم كل جرائمهم الاقتصادية والكفرية لو أرادوا النجاة.",
+"question_fr": "Quelle leçon peut-on tirer du conseil de Shuʿayb : « Ô mon peuple, demandez pardon à votre Seigneur puis repentez-vous auprès de Lui » ?",
+"options_fr": [
+"Le repentir sincère et la demande de pardon attirent la miséricorde et l'amour d'Allah, et peuvent éloigner le châtiment lorsque le repentir est sincère",
+"Le repentir suffit même sans rendre l'argent volé aux gens",
+"Ils devaient donner de l'argent à Shuʿayb comme expiation de leurs péchés",
+"Ils devaient quitter Madyan et demander pardon à La Mecque"
+],
+"explanation_fr": "Shuʿayb leur rappela qu'Allah est Miséricordieux et Aimant, ouvrant ainsi la porte de l'espoir et du repentir malgré leurs fautes."
+},
+{
+"id": "shuaib_17",
+"question_ar": "كيف وصف الملأ رسولهم بأنه (ضعيف) (وإنا لنراك فينا ضعيفاً)؟",
+"options_ar": [
+"كان مريضاً جسديًا لا يقوى على المشي.",
+"الضعف هنا بمعنى أنه كان من عشيرة أو بطن أقل قوة في القبيلة، أو ليس له قوة مادية وعصبية تحميه لولا احترامهم الشكلي لبقية رهطه الكفار.",
+"كان يبكي دائماً أمامهم فظنوه ضعيفاً.",
+"كان لا يحسن الكلام والمجادلة."
+],
+"correct": 1,
+"explanation_ar": "الاستضعاف الاجتماعي أو القبلي. الكفار يقيسون الرجال بالقوة العضلية والمالية والعشائرية، ولا يرون قوة الإيمان والرسالة التي لا تُقهر.",
+"question_fr": "Que voulaient dire les notables lorsqu'ils décrivaient Shuʿayb comme « faible » ?",
+"options_fr": [
+"Il était physiquement malade et ne pouvait pas marcher",
+"Ils considéraient qu'il disposait de peu de soutien tribal et de peu de force matérielle ou sociale pour le protéger",
+"Il pleurait constamment devant eux et ils le considéraient donc comme faible",
+"Il ne savait pas parler ni argumenter"
+],
+"explanation_fr": "Il s'agissait d'une forme de faiblesse sociale ou tribale. Ils mesuraient la force par le pouvoir matériel et tribal et ne reconnaissaient pas la force de la foi et du message."
+},
+{
+"id": "shuaib_18",
+"question_ar": "بماذا تُعرف قصة شعيب في تعزيز مفهوم (الحلال المبروك)؟",
+"options_ar": [
+"بمبدأ التوفير وتقليل النفقات اليومية.",
+"بمبدأ (بَقِيَّتُ اللَّهِ خَيْرٌ لَّكُمْ)، فما يتبقى من الربح بعد أداء الحقوق وترك الغش يطرح الله فيه البركة والخير الدائم، عكس الحرام الزائل.",
+"بمبدأ استخراج الكنوز المدفونة في الأرض.",
+"بمبدأ الهجرة للتجارة في بلاد أخرى."
+],
+"correct": 1,
+"explanation_ar": "البركة في القليل الحلال خير من الكثرة الممحوقة بالحرام والغش والاحتيال (يمحق الله الربا ويربي الصدقات).",
+"question_fr": "Comment l'histoire de Shuʿayb renforce-t-elle la notion de gain licite et béni ?",
+"options_fr": [
+"Par le principe d'économiser et de réduire les dépenses quotidiennes",
+"Par le principe selon lequel ce qu'Allah laisse comme bénéfice licite est meilleur : le gain restant après avoir respecté les droits et abandonné la fraude peut être béni et durable",
+"Par le principe de chercher des trésors enfouis dans la terre",
+"Par le principe de voyager dans d'autres pays pour faire du commerce"
+],
+"explanation_fr": "Un petit gain licite et béni est meilleur qu'une grande richesse entachée par la fraude, la tricherie et l'illicite."
+},
+{
+"id": "shuaib_19",
+"question_ar": "ما هي الحالة التي (أصبحوا فيها جاثمين) في ديارهم؟",
+"options_ar": [
+"بنو فيها قصوراً عظيمة واستقروا فيها.",
+"هلكوا هامدين، سقطوا على وجوههم أو ركبهم لا حراك فيهم بعد الرجفة والصيحة المؤلمة، فأصبحت ديارهم قبوراً لهم.",
+"ناموا نوماً عميقاً هرباً من الحر.",
+"سجدوا لله تائبين في آخر لحظة."
+],
+"correct": 1,
+"explanation_ar": "الصيحة القوية والرجفة تذهل العقول وتميت الأبدان في مكانها (جاثمين) دون قدرة حتى على الفرار أو الصراخ.",
+"question_fr": "Que signifie le fait qu'ils soient devenus « gisant dans leurs demeures » ?",
+"options_fr": [
+"Ils y construisirent de grands palais et s'y installèrent",
+"Ils périrent et restèrent immobiles dans leurs demeures après la secousse et le cri terrifiant",
+"Ils dormirent profondément pour fuir la chaleur",
+"Ils se prosternèrent devant Allah en se repentant au dernier moment"
+],
+"explanation_fr": "La secousse et le cri les frappèrent dans leurs demeures, les laissant sans mouvement et incapables de fuir."
+},
+{
+"id": "shuaib_20",
+"question_ar": "كيف يتوافق ختام قصة شعيب بـ (ألا بعداً لمدين) مع ختام قصة ثمود؟",
+"options_ar": [
+"كلاهما هلك بالغرق فاستويا في العذاب.",
+"كلاهما كانا جيرانًا وتزاوجا قبل الهلاك.",
+"كلاهما كان من العرب الأوائل، وكلاهما استكبر في الأرض، وعٌذبا بصيحة ورجفة مباغتة، فاستحقا الطرد والدعاء بالبعد كأمة ظالمة متشابهة الأفعال والمآل.",
+"شعيب وصالح كانا أخوين وبلدتهما واحدة."
+],
+"correct": 2,
+"explanation_ar": "(كَمَا بَعِدَتْ ثَمُودُ) تشابه في العناد والاستكبار التجاري والمالي، فتشابها في نوع العقوبة السماوية ونهاية المحو العنيف.",
+"question_fr": "Quel parallèle peut-on faire entre la fin de l'histoire de Shuʿayb et celle de Thamud ?",
+"options_fr": [
+"Les deux peuples furent détruits par une inondation",
+"Ils étaient voisins et se marièrent entre eux avant leur destruction",
+"Les deux étaient des peuples arabes anciens, tous deux arrogants et désobéissants, et ils subirent un châtiment soudain ; leur fin est présentée comme celle de peuples injustes",
+"Shuʿayb et Salih étaient frères et vivaient dans la même ville"
+],
+"explanation_fr": "La fin de Madyan est rapprochée de celle de Thamud : tous deux ont persisté dans l'entêtement et l'injustice avant de subir le châtiment d'Allah."
+},
+{
+"id": "shuaib_21",
+"question_ar": "من أي ذرية كان شعيب عليه السلام؟",
+"options_ar": [
+"من ذرية نوح عليه السلام مباشرة",
+"من ذرية إبراهيم عليه السلام",
+"من ذرية داود عليه السلام",
+"من ذرية إسماعيل عليه السلام حصرا"
+],
+"correct": 1,
+"explanation_ar": "شعيب عليه السلام من ذرية إبراهيم عليه السلام، وهذا ما رجحه أهل العلم والسير.",
+"question_fr": "De quelle descendance le prophète Shuʿayb عليه السلام était-il issu ?",
+"options_fr": [
+"De la descendance directe de Noé عليه السلام",
+"De la descendance d'Abraham عليه السلام",
+"De la descendance de David عليه السلام",
+"Exclusivement de la descendance d'Ismaël عليه السلام"
+],
+"explanation_fr": "Selon l'avis retenu par de nombreux savants et historiens, Shuʿayb عليه السلام était issu de la descendance d'Abraham عليه السلام."
+},
+{
+"id": "shuaib_22",
+"question_ar": "ما العلاقة المرجحة بين شعيب عليه السلام وموسى عليه السلام حسب ما أشار إليه القرآن في سورة القصص؟",
+"options_ar": [
+"كان شعيب معلما لموسى في الكتابة والقراءة",
+"كان شعيب عما لموسى من جهة أمه",
+"يرجح أنه صهر موسى (أبو زوجته) الذي أشار إليه القرآن في سورة القصص",
+"كان شعيب جارا لموسى في مصر"
+],
+"correct": 2,
+"explanation_ar": "يرجح كثير من المفسرين أن شعيب عليه السلام هو الرجل الصالح في مدين الذي زوج موسى ابنته كما جاء في سورة القصص.",
+"question_fr": "Quelle relation est généralement proposée entre Shuʿayb عليه السلام et Musa عليه السلام selon l'allusion du Coran dans la sourate Al-Qasas ?",
+"options_fr": [
+"Shuʿayb était son professeur d'écriture et de lecture",
+"Shuʿayb était son oncle maternel",
+"Il est souvent considéré comme le beau-père de Musa, c'est-à-dire le père de son épouse, mentionné dans la sourate Al-Qasas",
+"Shuʿayb était son voisin en Égypte"
+],
+"explanation_fr": "De nombreux exégètes considèrent que Shuʿayb عليه السلام était l'homme pieux de Madyan qui donna sa fille en mariage à Musa عليه السلام, comme rapporté dans la sourate Al-Qasas."
+},
+{
+"id": "shuaib_23",
+"question_ar": "أين كانت تقع مدين التي أرسل إليها شعيب عليه السلام؟",
+"options_ar": [
+"في جنوب العراق قرب البصرة",
+"في شمال غرب الجزيرة العربية قرب خليج العقبة",
+"في وسط بلاد الشام قرب دمشق",
+"في شرق مصر قرب وادي النيل"
+],
+"correct": 1,
+"explanation_ar": "كانت مدين تقع شمال غرب الجزيرة العربية قرب خليج العقبة، وكانت مركزا تجاريا مهما على طرق القوافل.",
+"question_fr": "Où se trouvait Madyan, vers laquelle Shuʿayb عليه السلام fut envoyé ?",
+"options_fr": [
+"Dans le sud de l'Irak, près de Bassora",
+"Au nord-ouest de la péninsule Arabique, près du golfe d'Aqaba",
+"Au centre du Levant, près de Damas",
+"À l'est de l'Égypte, près de la vallée du Nil"
+],
+"explanation_fr": "Madyan se trouvait au nord-ouest de la péninsule Arabique, près du golfe d'Aqaba, et constituait un important centre commercial sur les routes caravanières."
+},
+{
+"id": "shuaib_24",
+"question_ar": "ما معنى كلمة (الأيكة) في وصف أصحاب الأيكة الذين دعاهم شعيب؟",
+"options_ar": [
+"البئر العميقة",
+"الجبل العالي الشاهق",
+"الغابة الكثيفة (الشجرة الملتفة)",
+"السوق التجاري الكبير"
+],
+"correct": 2,
+"explanation_ar": "الأيكة تعني الغابة الكثيفة أو الشجر الملتف الكثيف، ولذلك سموا بأصحاب الأيكة نسبة إلى المكان الذي كانوا يعيشون فيه.",
+"question_fr": "Que signifie le mot « Al-Aïka » dans l'expression « les Gens de l'Aïka » ?",
+"options_fr": [
+"Le puits profond",
+"La haute montagne",
+"La forêt dense ou les arbres touffus et entrelacés",
+"Le grand marché commercial"
+],
+"explanation_fr": "Al-Aïka désigne une forêt dense ou un endroit rempli d'arbres touffus. Ils furent donc appelés les Gens de l'Aïka en référence au lieu où ils vivaient."
+},
+{
+"id": "shuaib_25",
+"question_ar": "في أي سور من القرآن الكريم وردت قصة شعيب عليه السلام مع قومه؟",
+"options_ar": [
+"البقرة والمائدة والنساء",
+"الأعراف وهود والشعراء",
+"يس والرحمن والواقعة",
+"الكهف ومريم وطه"
+],
+"correct": 1,
+"explanation_ar": "وردت قصة شعيب عليه السلام بالتفصيل في سور الأعراف وهود والشعراء، وأشير إليه في سور أخرى.",
+"question_fr": "Dans quelles sourates du Coran l'histoire de Shuʿayb عليه السلام avec son peuple est-elle principalement rapportée ?",
+"options_fr": [
+"Al-Baqara, Al-Ma'ida et An-Nisa",
+"Al-A'raf, Hud et Ash-Shu'ara",
+"Ya-Sin, Ar-Rahman et Al-Waqi'a",
+"Al-Kahf, Maryam et Ta-Ha"
+],
+"explanation_fr": "L'histoire de Shuʿayb عليه السلام est notamment détaillée dans les sourates Al-A'raf, Hud et Ash-Shu'ara, et il est mentionné dans d'autres passages."
+},
+{
+"id": "shuaib_26",
+"question_ar": "ما الذي كان يميز مدين اقتصاديا مما جعل الغش التجاري فيها أشد خطورة؟",
+"options_ar": [
+"كانت مدينة زراعية صغيرة معزولة",
+"كانت مركزا تجاريا مهما على طرق القوافل",
+"كانت مدينة صناعية تصنع الأسلحة",
+"كانت ميناء بحريا لصيد الأسماك"
+],
+"correct": 1,
+"explanation_ar": "كانت مدين مركزا تجاريا مهما على طرق القوافل، مما جعل الغش في الموازين والمكاييل يؤثر على التجارة والمسافرين بشكل واسع.",
+"question_fr": "Quelle caractéristique économique de Madyan rendait la fraude commerciale particulièrement importante ?",
+"options_fr": [
+"C'était une petite ville agricole isolée",
+"C'était un important centre commercial situé sur les routes caravanières",
+"C'était une ville industrielle qui fabriquait des armes",
+"C'était un port maritime spécialisé dans la pêche"
+],
+"explanation_fr": "Madyan était un important centre commercial situé sur les routes des caravanes. La fraude dans les poids et les mesures pouvait donc affecter de nombreux commerçants et voyageurs."
+},
+{
+"id": "shuaib_27",
+"question_ar": "ما الرابط الذي أقامه شعيب عليه السلام بين التوحيد والعدل الاقتصادي في دعوته؟",
+"options_ar": [
+"أن العدل الاقتصادي يزيد الأرباح فقط دون علاقة بالدين",
+"أن الغش في الميزان ينبع من غياب مراقبة الله، فربط التوحيد بالعدل في المعاملات",
+"أن التوحيد يعني ترك التجارة والتفرغ للعبادة",
+"أن العدل الاقتصادي واجب حكومي لا علاقة له بالإيمان"
+],
+"correct": 1,
+"explanation_ar": "ربط شعيب بين التوحيد والعدل الاقتصادي لأن الغش في الميزان ينبع من غياب الشعور بمراقبة الله، فمن آمن بالله حقا لا يغش في معاملاته.",
+"question_fr": "Quel lien Shuʿayb عليه السلام établissait-il entre l'unicité d'Allah et la justice économique ?",
+"options_fr": [
+"La justice économique augmente seulement les bénéfices et n'a aucun rapport avec la religion",
+"La fraude dans les balances vient de l'absence de conscience de la surveillance d'Allah ; il liait donc l'unicité d'Allah à la justice dans les transactions",
+"L'unicité d'Allah signifie abandonner le commerce et se consacrer uniquement au culte",
+"La justice économique est uniquement une obligation gouvernementale sans rapport avec la foi"
+],
+"explanation_fr": "Shuʿayb liait l'unicité d'Allah à la justice économique : celui qui croit véritablement en Allah doit agir avec honnêteté dans ses transactions."
+},
+{
+"id": "shuaib_28",
+"question_ar": "ماذا قال شعيب عليه السلام لقومه حين ذكرهم بنعمة الله عليهم وحذرهم من كفرانها؟",
+"options_ar": [
+"إني أراكم في ضعف وأخاف عليكم عذاب يوم قريب",
+"إني أراكم بخير وإني أخاف عليكم عذاب يوم محيط",
+"إني أراكم في غفلة وإني أخاف عليكم عذاب يوم شديد",
+"إني أراكم في جهل وإني أخاف عليكم عذاب يوم مهين"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى على لسان شعيب: (إِنِّي أَرَاكُم بِخَيْرٍ وَإِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ) أي أنتم في نعمة ورخاء فلا تكفروها بالظلم والغش.",
+"question_fr": "Que dit Shuʿayb عليه السلام à son peuple lorsqu'il lui rappelle les bienfaits d'Allah et l'avertit de ne pas les nier ?",
+"options_fr": [
+"Je vous vois dans la faiblesse et je crains pour vous le châtiment d'un jour proche",
+"Je vous vois dans le bien-être et je crains pour vous le châtiment d'un jour qui vous entourera",
+"Je vous vois dans l'insouciance et je crains pour vous le châtiment d'un jour terrible",
+"Je vous vois dans l'ignorance et je crains pour vous le châtiment d'un jour humiliant"
+],
+"explanation_fr": "Shuʿayb leur rappelle qu'ils sont dans une situation favorable et qu'ils ne doivent pas répondre à cette grâce par l'injustice et la fraude."
+},
+{
+"id": "shuaib_29",
+"question_ar": "بماذا وصف قوم شعيب نبيهم حين اتهموه بالسحر في سورة الشعراء؟",
+"options_ar": [
+"إنما أنت من الكاذبين",
+"إنما أنت من المسحرين",
+"إنما أنت من الضالين",
+"إنما أنت من المجانين"
+],
+"correct": 1,
+"explanation_ar": "قال أصحاب الأيكة لشعيب: (إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ) أي أنت مسحور أو ممن تكرر عليه السحر حتى أثر في عقلك.",
+"question_fr": "Comment le peuple de Shuʿayb le décrivit-il lorsqu'il l'accusa de magie dans la sourate Ash-Shuʿara ?",
+"options_fr": [
+"Tu fais partie des menteurs",
+"Tu fais partie de ceux qui sont ensorcelés",
+"Tu fais partie des égarés",
+"Tu fais partie des fous"
+],
+"explanation_fr": "Les Gens de l'Aïka dirent à Shuʿayb qu'il faisait partie des personnes ensorcelées, mettant ainsi en doute sa mission et son message."
+},
+{
+"id": "shuaib_30",
+"question_ar": "ما الحالة الجسدية التي ذكرها المفسرون عن شعيب عليه السلام والتي استغلها قومه للتقليل من شأنه؟",
+"options_ar": [
+"كان أعرج لا يستطيع المشي",
+"كان كفيف البصر",
+"كان أصم لا يسمع",
+"كان قصير القامة جدا"
+],
+"correct": 1,
+"explanation_ar": "ذكر المفسرون أن شعيب عليه السلام كان كفيف البصر، وقد استغل قومه ذلك ووصفوه بالضعف: (وَإِنَّا لَنَرَاكَ فِينَا ضَعِيفًا).",
+"question_fr": "Quelle caractéristique physique certains exégètes ont-ils mentionnée à propos de Shuʿayb عليه السلام et que son peuple utilisait pour le rabaisser ?",
+"options_fr": [
+"Il était boiteux et ne pouvait pas marcher",
+"Il était aveugle",
+"Il était sourd",
+"Il était très petit"
+],
+"explanation_fr": "Certains exégètes ont rapporté que Shuʿayb عليه السلام était aveugle et que son peuple utilisait cette caractéristique pour le considérer comme faible."
+},
+{
+"id": "shuaib_31",
+"question_ar": "ماذا قال شعيب عليه السلام ردا على تهديد قومه بالرجم لولا رهطه؟",
+"options_ar": [
+"قال: إني سأرحل عنكم إلى بلاد أخرى",
+"قال: أرهطي أعز عليكم من الله واتخذتموه وراءكم ظهريا",
+"قال: إن رهطي سيحمونني منكم بالقوة",
+"قال: سأدعو عليكم بالهلاك العاجل"
+],
+"correct": 1,
+"explanation_ar": "رد شعيب ردا بليغا قائلا: (أَرَهْطِي أَعَزُّ عَلَيْكُم مِّنَ اللَّهِ وَاتَّخَذْتُمُوهُ وَرَاءَكُمْ ظِهْرِيًّا) أي تخافون عشيرتي ولا تخافون الله العظيم.",
+"question_fr": "Que répondit Shuʿayb عليه السلام lorsque son peuple le menaça de le lapider sans la protection de son clan ?",
+"options_fr": [
+"Il dit : Je partirai vers une autre région",
+"Il dit : Mon clan est-il plus important pour vous qu'Allah, au point de Le reléguer derrière vous ?",
+"Il dit : Mon clan me protégera de vous par la force",
+"Il dit : Je demanderai immédiatement votre destruction"
+],
+"explanation_fr": "Shuʿayb leur répondit en leur faisant remarquer qu'ils craignaient son clan alors qu'ils ne craignaient pas Allah, le Tout-Puissant."
+},
+{
+"id": "shuaib_32",
+"question_ar": "ما معنى قول شعيب: (وَمَا أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَا أَنْهَاكُمْ عَنْهُ)؟",
+"options_ar": [
+"أنه لا يريد أن يختلف معهم في الرأي السياسي",
+"أنه لا يريد أن يفعل ما ينهاهم عنه، فهو قدوة بفعله قبل قوله",
+"أنه يريد أن يخالفهم في كل شيء من باب العناد",
+"أنه مستعد للتنازل عن بعض مطالبه الدينية"
+],
+"correct": 1,
+"explanation_ar": "أراد شعيب أن يوضح لقومه أنه لا يفعل ما ينهاهم عنه، فهو صادق في دعوته ويطبقها على نفسه أولا، والقدوة الحسنة تسبق الكلمة.",
+"question_fr": "Que signifie la parole de Shuʿayb : « Je ne veux pas faire ce que je vous interdis » ?",
+"options_fr": [
+"Il ne veut pas être en désaccord avec eux sur le plan politique",
+"Il ne veut pas faire lui-même ce qu'il leur interdit ; il est un modèle par ses actes avant ses paroles",
+"Il veut s'opposer à eux en toute chose par entêtement",
+"Il est prêt à abandonner certaines de ses exigences religieuses"
+],
+"explanation_fr": "Shuʿayb voulait montrer à son peuple qu'il appliquait lui-même ce qu'il enseignait. Il appelait donc à la réforme par ses paroles et par son propre comportement."
+},
+{
+"id": "shuaib_33",
+"question_ar": "بماذا هدد قوم شعيب نبيهم والمؤمنين معه في سورة الأعراف؟",
+"options_ar": [
+"بالقتل والسجن المؤبد",
+"بالإخراج من القرية أو العودة إلى ملتهم",
+"بمصادرة أموالهم وتجارتهم",
+"بإحراق بيوتهم ومزارعهم"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى: (لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذِينَ آمَنُوا مَعَكَ مِن قَرْيَتِنَا أَوْ لَتَعُودُنَّ فِي مِلَّتِنَا) فخيروهم بين الطرد أو الردة عن الإيمان.",
+"question_fr": "Par quoi le peuple de Shuʿayb menaça-t-il le prophète et les croyants avec lui dans la sourate Al-A'raf ?",
+"options_fr": [
+"Par la mort et l'emprisonnement à vie",
+"Par l'expulsion de la ville ou le retour à leur ancienne religion",
+"Par la confiscation de leurs biens et de leur commerce",
+"Par l'incendie de leurs maisons et de leurs terres"
+],
+"explanation_fr": "Ils les menacèrent de les expulser de leur ville ou de les forcer à revenir à leur ancienne religion."
+},
+{
+"id": "shuaib_34",
+"question_ar": "ماذا كان رد شعيب عليه السلام على تهديدهم بإعادته إلى ملتهم الكافرة؟",
+"options_ar": [
+"قال: سأفكر في عرضكم وأرد عليكم غدا",
+"قال: أولو كنا كارهين (أي حتى لو كرهنا ذلك تجبروننا عليه؟) ثم بين أنه لن يعود إليها بعد أن نجاه الله منها",
+"قال: سأعود إلى ملتكم حقنا للدماء",
+"قال: لا أبالي بتهديدكم فأنا أقوى منكم"
+],
+"correct": 1,
+"explanation_ar": "أنكر شعيب فكرة العودة للكفر قائلا: (أَوَلَوْ كُنَّا كَارِهِينَ) ثم بين أن العودة للكفر بعد نجاة الله منه تكون افتراء على الله.",
+"question_fr": "Comment Shuʿayb عليه السلام répondit-il à la menace de le faire revenir à leur religion mécréante ?",
+"options_fr": [
+"Il dit : Je réfléchirai à votre proposition et je vous répondrai demain",
+"Il dit : Même si nous la détestons, voudriez-vous nous y contraindre ? Puis il expliqua qu'il ne reviendrait pas au kufr après qu'Allah l'en eut sauvé",
+"Il dit : Je reviendrai à votre religion pour éviter les effusions de sang",
+"Il dit : Vos menaces ne m'importent pas car je suis plus fort que vous"
+],
+"explanation_fr": "Shuʿayb refusa clairement l'idée de retourner à la mécréance après qu'Allah l'en avait sauvé et considéra un tel retour comme une grave injustice envers la vérité."
+},
+{
+"id": "shuaib_35",
+"question_ar": "ما صفة الله التي ذكرها شعيب حين دعا قومه للاستغفار والتوبة في سورة هود؟",
+"options_ar": [
+"إن ربي قوي شديد العقاب",
+"إن ربي رحيم ودود",
+"إن ربي سميع بصير",
+"إن ربي غفور حليم"
+],
+"correct": 1,
+"explanation_ar": "قال شعيب: (وَاسْتَغْفِرُوا رَبَّكُمْ ثُمَّ تُوبُوا إِلَيْهِ إِنَّ رَبِّي رَحِيمٌ وَدُودٌ) فذكر صفة الود والرحمة ليفتح لهم باب الأمل في المغفرة.",
+"question_fr": "Quelles qualités d'Allah Shuʿayb mentionna-t-il lorsqu'il invita son peuple à demander pardon et à se repentir ?",
+"options_fr": [
+"Mon Seigneur est Puissant et sévère dans le châtiment",
+"Mon Seigneur est Miséricordieux et Aimant",
+"Mon Seigneur entend tout et voit tout",
+"Mon Seigneur est Pardonneur et Indulgent"
+],
+"explanation_fr": "Shuʿayb rappela que son Seigneur est Miséricordieux et Aimant, ouvrant ainsi à son peuple une porte d'espoir vers le pardon."
+},
+{
+"id": "shuaib_36",
+"question_ar": "كيف جمع قوم شعيب بين نوعين من قطع الطريق؟",
+"options_ar": [
+"قطع طريق البر وقطع طريق البحر",
+"قطع الطريق المادي بالسلب والنهب، وقطع الطريق الروحي بصد الناس عن سبيل الله ودعوة شعيب",
+"قطع طريق الحجاج وقطع طريق التجار فقط",
+"قطع الطريق نهارا وقطع الطريق ليلا بأساليب مختلفة"
+],
+"correct": 1,
+"explanation_ar": "جمعوا بين قطع الطريق المادي (السلب والنهب) وقطع الطريق الروحي الإيماني بتخويف وتهديد من يريد الاستماع لدعوة شعيب والإيمان به.",
+"question_fr": "Comment le peuple de Shuʿayb combinait-il deux formes de « couper la route » ?",
+"options_fr": [
+"En bloquant les routes terrestres et maritimes",
+"En attaquant et volant les voyageurs tout en détournant les gens du chemin d'Allah et de l'appel de Shuʿayb",
+"En bloquant uniquement les routes des pèlerins et des commerçants",
+"En bloquant les routes le jour et la nuit avec des méthodes différentes"
+],
+"explanation_fr": "Ils combinaient le vol et les attaques contre les voyageurs avec l'intimidation de ceux qui voulaient écouter l'appel de Shuʿayb et croire en lui."
+},
+{
+"id": "shuaib_37",
+"question_ar": "ما أول ما دعا إليه شعيب عليه السلام قومه قبل الحديث عن العدل الاقتصادي؟",
+"options_ar": [
+"ترك قطع الطريق والسلب",
+"عبادة الله وحده وتوحيده (يا قوم اعبدوا الله ما لكم من إله غيره)",
+"إصلاح العلاقات الاجتماعية بين القبائل",
+"بناء المساجد والمعابد لعبادة الله"
+],
+"correct": 1,
+"explanation_ar": "بدأ شعيب دعوته بالتوحيد أولا: (يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ) ثم انتقل لإصلاح المعاملات، جامعا بين إصلاح العقيدة وإصلاح المجتمع.",
+"question_fr": "À quoi Shuʿayb عليه السلام appela-t-il d'abord son peuple avant de parler de justice économique ?",
+"options_fr": [
+"À abandonner le brigandage et le vol",
+"À adorer Allah Seul et à reconnaître Son unicité : « Ô mon peuple, adorez Allah, vous n'avez pas d'autre divinité que Lui »",
+"À améliorer les relations sociales entre les tribus",
+"À construire des mosquées et des temples pour adorer Allah"
+],
+"explanation_fr": "Shuʿayb commença par l'appel à l'unicité d'Allah, puis aborda la réforme des transactions, reliant ainsi la réforme de la foi à celle de la société."
+},
+{
+"id": "shuaib_38",
+"question_ar": "ماذا قال شعيب عليه السلام حين بين لقومه مصدر ثقته ويقينه في دعوته؟",
+"options_ar": [
+"قال: إني أوتيت من المال والقوة ما لم تؤتوا",
+"قال: إني على بينة من ربي ورزقني منه رزقا حسنا",
+"قال: إني أعلم من الكتب ما لا تعلمون",
+"قال: إني رأيت في المنام ما سيحل بكم"
+],
+"correct": 1,
+"explanation_ar": "قال شعيب: (إِنِّي عَلَىٰ بَيِّنَةٍ مِّن رَّبِّي وَرَزَقَنِي مِنْهُ رِزْقًا حَسَنًا) فبين أن دعوته قائمة على برهان من الله وأن رزقه حلال طيب لا يحتاج للغش.",
+"question_fr": "Que dit Shuʿayb عليه السلام pour expliquer la source de sa confiance et de sa certitude dans son appel ?",
+"options_fr": [
+"Allah m'a donné plus de richesse et de force qu'à vous",
+"Je m'appuie sur une preuve venant de mon Seigneur et Il m'a accordé une bonne subsistance",
+"Je connais des livres que vous ne connaissez pas",
+"J'ai vu en rêve ce qui vous arrivera"
+],
+"explanation_fr": "Shuʿayb expliqua que son appel reposait sur une preuve venant d'Allah et que sa subsistance était bonne et licite, sans avoir besoin de fraude."
+},
+{
+"id": "shuaib_39",
+"question_ar": "ما نوع العذاب الذي أصاب أهل مدين كما ورد في سورة الأعراف؟",
+"options_ar": [
+"الطوفان والغرق",
+"الرجفة (الزلزال العنيف)",
+"الريح الصرصر العاتية",
+"الخسف بهم في الأرض"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى في سورة الأعراف: (فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ) والرجفة هي الزلزال الشديد العنيف.",
+"question_fr": "Quel châtiment frappa les habitants de Madyan selon la sourate Al-A'raf ?",
+"options_fr": [
+"Le déluge et la noyade",
+"La secousse, c'est-à-dire un violent tremblement de terre",
+"Un vent violent et glacial",
+"L'enfouissement dans la terre"
+],
+"explanation_fr": "La sourate Al-A'raf mentionne la secousse qui les frappa et les laissa immobiles dans leurs demeures. La « rajfa » désigne une violente secousse."
+},
+{
+"id": "shuaib_40",
+"question_ar": "ما الذي ظنه قوم شعيب حين رأوا السحابة السوداء قبل عذاب يوم الظلة؟",
+"options_ar": [
+"ظنوها علامة على قدوم جيش عدو",
+"ظنوها تحمل المطر والغوث من الحر الشديد ففرحوا واجتمعوا تحتها",
+"ظنوها دخانا من بركان قريب",
+"ظنوها ظلمة من كسوف الشمس"
+],
+"correct": 1,
+"explanation_ar": "سلط الله عليهم حرا شديدا أولا، فلما ظهرت السحابة ظنوها رحمة وغوثا من الحر فاجتمعوا تحتها طلبا للظل والبرد، لكنها أمطرت عليهم نارا.",
+"question_fr": "Que pensèrent les Gens de l'Aïka en voyant la nuée avant le châtiment du Jour de l'Ombre ?",
+"options_fr": [
+"Ils pensèrent qu'elle annonçait l'arrivée d'une armée ennemie",
+"Ils pensèrent qu'elle apporterait la pluie et un soulagement contre la forte chaleur, alors ils se rassemblèrent sous elle",
+"Ils pensèrent qu'il s'agissait de fumée provenant d'un volcan proche",
+"Ils pensèrent qu'il s'agissait de l'obscurité causée par une éclipse"
+],
+"explanation_fr": "Allah leur imposa d'abord une forte chaleur. Lorsqu'une nuée apparut, ils pensèrent qu'elle apporterait un soulagement et se rassemblèrent sous elle, mais le châtiment les atteignit."
+},
+{
+"id": "shuaib_41",
+"question_ar": "ما الترتيب الذي ذكره بعض المفسرين لعذاب أصحاب الأيكة؟",
+"options_ar": [
+"الريح ثم الطوفان ثم البرد",
+"الحر الشديد أولا ثم الظلة (السحابة) ثم الرجفة والصيحة",
+"الظلام ثم الزلزال ثم الحريق",
+"البرد القارس ثم الثلج ثم الخسف"
+],
+"correct": 1,
+"explanation_ar": "ذكر المفسرون أن الله جمع عليهم أنواعا من العذاب: بدأ بالحر الشديد الذي لا تنفع معه الظلال، ثم الظلة التي أمطرت نارا، ثم الرجفة والصيحة.",
+"question_fr": "Quel ordre de châtiment certains exégètes ont-ils mentionné pour les Gens de l'Aïka ?",
+"options_fr": [
+"Le vent, puis le déluge, puis le froid",
+"Une chaleur intense, puis la nuée, puis la secousse et le cri",
+"L'obscurité, puis le tremblement de terre, puis l'incendie",
+"Un froid intense, puis la neige, puis l'enfouissement dans la terre"
+],
+"explanation_fr": "Certains exégètes ont mentionné plusieurs formes de châtiment : une forte chaleur, puis la nuée, puis la secousse et le cri."
+},
+{
+"id": "shuaib_42",
+"question_ar": "ماذا قال شعيب عليه السلام بعد هلاك قومه حين تولى عنهم حزينا؟",
+"options_ar": [
+"يا قوم لقد حذرتكم فلم تسمعوا فهذا جزاؤكم",
+"يا قوم لقد أبلغتكم رسالات ربي ونصحت لكم فكيف آسى على قوم كافرين",
+"يا قوم لقد ظلمتموني وظلمتم أنفسكم",
+"يا قوم ليتكم آمنتم قبل فوات الأوان"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى: (فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَاتِ رَبِّي وَنَصَحْتُ لَكُمْ فَكَيْفَ آسَىٰ عَلَىٰ قَوْمٍ كَافِرِينَ) فتولى حزينا لكنه أدى ما عليه من البلاغ والنصح.",
+"question_fr": "Que dit Shuʿayb عليه السلام après la destruction de son peuple lorsqu'il se détourna d'eux avec tristesse ?",
+"options_fr": [
+"Ô mon peuple, je vous avais avertis mais vous n'avez pas écouté ; voilà votre récompense",
+"Ô mon peuple, je vous ai transmis les messages de mon Seigneur et je vous ai conseillé ; comment pourrais-je alors m'attrister pour un peuple mécréant ?",
+"Ô mon peuple, vous m'avez fait du tort ainsi qu'à vous-mêmes",
+"Ô mon peuple, si seulement vous aviez cru avant qu'il ne soit trop tard"
+],
+"explanation_fr": "Shuʿayb avait transmis le message et donné ses conseils. Il avait donc accompli sa responsabilité malgré le refus de son peuple."
+},
+{
+"id": "shuaib_43",
+"question_ar": "ماذا يعني قوله تعالى (الَّذِينَ كَذَّبُوا شُعَيْبًا كَأَن لَّمْ يَغْنَوْا فِيهَا)؟",
+"options_ar": [
+"أن المكذبين أصبحوا فقراء لا مال لهم",
+"أن المكذبين هلكوا وأصبحوا كأنهم لم يقيموا ولم يعيشوا في تلك الديار قط",
+"أن المكذبين هاجروا من ديارهم ولم يعودوا",
+"أن المكذبين نسوا ما كان لديهم من نعم"
+],
+"correct": 1,
+"explanation_ar": "(كَأَن لَّمْ يَغْنَوْا فِيهَا) أي كأنهم لم يقيموا في تلك الديار ولم يعمروها، فقد محاهم العذاب كأن لم يكونوا، وهذا يدل على شدة الهلاك.",
+"question_fr": "Que signifie le verset : « Ceux qui avaient traité Shuʿayb de menteur, c'était comme s'ils n'avaient jamais vécu dans ces demeures » ?",
+"options_fr": [
+"Les négateurs étaient devenus pauvres et n'avaient plus de biens",
+"Ils avaient péri, au point de donner l'impression de n'avoir jamais vécu dans ces demeures",
+"Ils avaient émigré de leurs terres et n'y étaient jamais revenus",
+"Ils avaient oublié les bienfaits dont ils disposaient"
+],
+"explanation_fr": "L'expression signifie qu'ils périrent et disparurent de leurs demeures comme s'ils n'y avaient jamais vécu. Elle montre l'ampleur de leur destruction."
+},
+{
+"id": "shuaib_44",
+"question_ar": "كيف استخدم شعيب عليه السلام أسلوب التذكير بالأمم السابقة في تحذير قومه؟",
+"options_ar": [
+"ذكرهم بقصة آدم وحواء فقط",
+"ذكرهم بقوم نوح وقوم هود وقوم صالح وقوم لوط وما أصابهم من العذاب",
+"ذكرهم بقصص الملوك والحكام الظالمين",
+"ذكرهم بعذاب الآخرة فقط دون ذكر أمم سابقة"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى على لسان شعيب: (وَيَا قَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِي أَن يُصِيبَكُم مِّثْلُ مَا أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَالِحٍ وَمَا قَوْمُ لُوطٍ مِّنكُم بِبَعِيدٍ).",
+"question_fr": "Comment Shuʿayb عليه السلام utilisa-t-il le rappel des peuples précédents pour avertir son peuple ?",
+"options_fr": [
+"Il leur rappela uniquement l'histoire d'Adam et Hawwa",
+"Il leur rappela le peuple de Noé, de Hud, de Salih et de Lot ainsi que les châtiments qui les avaient frappés",
+"Il leur raconta les histoires de rois et de dirigeants injustes",
+"Il leur parla uniquement du châtiment de l'au-delà"
+],
+"explanation_fr": "Shuʿayb leur rappela le sort des peuples de Noé, Hud, Salih et Lot afin qu'ils tirent une leçon de leurs histoires."
+},
+{
+"id": "shuaib_45",
+"question_ar": "ما معنى قول شعيب عن قوم لوط: (وَمَا قَوْمُ لُوطٍ مِّنكُم بِبَعِيدٍ)؟",
+"options_ar": [
+"أن قوم لوط كانوا يسكنون بعيدا عن مدين جغرافيا",
+"أنهم قريبون منكم زمانا ومكانا فهلاكهم حديث العهد وآثاره ظاهرة، فاعتبروا",
+"أن قوم لوط كانوا من أقارب أهل مدين بالنسب",
+"أن أهل مدين كانوا يزورون ديار قوم لوط سنويا"
+],
+"correct": 1,
+"explanation_ar": "أراد شعيب تنبيههم بأن هلاك قوم لوط كان قريبا منهم زمانا ومكانا، فآثار الدمار كانت ظاهرة لهم وقريبة العهد، ليكون ذلك عبرة وموعظة.",
+"question_fr": "Que signifie la parole de Shuʿayb concernant le peuple de Lot : « Le peuple de Lot n'est pas loin de vous » ?",
+"options_fr": [
+"Le peuple de Lot vivait géographiquement très loin de Madyan",
+"Leur destruction était proche dans le temps et dans l'espace, et ses traces étaient encore connues, afin qu'ils en tirent une leçon",
+"Le peuple de Lot était apparenté aux habitants de Madyan",
+"Les habitants de Madyan visitaient chaque année le territoire du peuple de Lot"
+],
+"explanation_fr": "Shuʿayb leur rappela que la destruction du peuple de Lot était proche dans le temps et l'espace et que ses traces pouvaient encore être connues, afin qu'ils prennent cela comme avertissement."
+},
+{
+"id": "shuaib_46",
+"question_ar": "ما الأمر الذي أكده شعيب عليه السلام حين قال: (إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ)؟",
+"options_ar": [
+"أنه يريد أن يصبح حاكما على مدين لإصلاحها سياسيا",
+"أن مراده ليس سوى الإصلاح بقدر استطاعته، وتوفيقه من الله وحده",
+"أنه سيصلح الموازين والمكاييل بيده بنفسه",
+"أنه يسعى لجمع المال الحلال لنفسه وعائلته فقط"
+],
+"correct": 1,
+"explanation_ar": "قال شعيب: (إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ) فبين أن هدفه الإصلاح فقط وأن التوفيق من الله.",
+"question_fr": "Que voulait confirmer Shuʿayb عليه السلام lorsqu'il dit : « Je ne veux que la réforme, autant que je le peux » ?",
+"options_fr": [
+"Qu'il voulait devenir dirigeant de Madyan pour la réformer politiquement",
+"Que son seul objectif était de réformer autant qu'il le pouvait et que sa réussite ne dépendait que d'Allah",
+"Qu'il allait lui-même réparer toutes les balances et les mesures",
+"Qu'il cherchait uniquement à accumuler des richesses licites pour lui et sa famille"
+],
+"explanation_fr": "Shuʿayb expliqua que son objectif était uniquement la réforme et que sa réussite et son soutien venaient d'Allah."
+},
+{
+"id": "shuaib_47",
+"question_ar": "ما الأمر الذي أضافه أصحاب الأيكة في استهزائهم بشعيب ولم يذكره أهل مدين؟",
+"options_ar": [
+"اتهموه بالجنون",
+"اتهموه بالسحر فقالوا: إنما أنت من المسحرين",
+"اتهموه بالكذب على الملوك",
+"اتهموه بالسرقة من أموالهم"
+],
+"correct": 1,
+"explanation_ar": "أصحاب الأيكة وصفوا شعيب بأنه من المسحرين كما جاء في سورة الشعراء: (إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ)، وهذا الوصف لم يرد عن أهل مدين.",
+"question_fr": "Quelle accusation les Gens de l'Aïka ajoutèrent-ils dans leurs moqueries envers Shuʿayb, contrairement aux habitants de Madyan ?",
+"options_fr": [
+"Ils l'accusèrent de folie",
+"Ils l'accusèrent d'être ensorcelé et dirent qu'il faisait partie des ensorcelés",
+"Ils l'accusèrent de mentir aux rois",
+"Ils l'accusèrent de voler leurs biens"
+],
+"explanation_fr": "Les Gens de l'Aïka le décrivirent comme faisant partie des personnes ensorcelées, comme mentionné dans la sourate Ash-Shuʿara."
+},
+{
+"id": "shuaib_48",
+"question_ar": "ما الكلمة التي استخدمها القرآن لوصف ميزان العدل الذي أمر به شعيب أصحاب الأيكة؟",
+"options_ar": [
+"الميزان الكبير",
+"القسطاس المستقيم",
+"المكيال الوافر",
+"الصنجة الصحيحة"
+],
+"correct": 1,
+"explanation_ar": "قال تعالى في سورة الشعراء: (وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ) والقسطاس هو الميزان العادل الدقيق المستقيم.",
+"question_fr": "Quel terme le Coran utilise-t-il pour désigner la balance juste que Shuʿayb ordonna aux Gens de l'Aïka d'utiliser ?",
+"options_fr": [
+"La grande balance",
+"La balance juste et précise",
+"La mesure abondante",
+"Le poids correct"
+],
+"explanation_fr": "Le Coran mentionne le « qistâs al-mustaqîm », c'est-à-dire une balance juste, précise et correcte."
+},
+{
+"id": "shuaib_49",
+"question_ar": "كيف يبدأ الظلم الاقتصادي حسب ما نفهمه من قصة شعيب عليه السلام؟",
+"options_ar": [
+"يبدأ كبيرا ثم يتقلص مع الوقت",
+"يبدأ صغيرا بنقص المكيال والميزان ثم يتضخم حتى يفسد المجتمع بأكمله",
+"يبدأ من الحكام ولا علاقة للتجار به",
+"يبدأ فجأة دون مقدمات أو تدرج"
+],
+"correct": 1,
+"explanation_ar": "من دروس قصة شعيب أن الظلم الاقتصادي يبدأ صغيرا كنقص المكيال والميزان، ثم يتضخم ويتراكم حتى يفسد المنظومة الاقتصادية والاجتماعية كاملة.",
+"question_fr": "Comment l'injustice économique peut-elle commencer selon la leçon tirée de l'histoire de Shuʿayb عليه السلام ?",
+"options_fr": [
+"Elle commence de manière importante puis diminue avec le temps",
+"Elle peut commencer par une petite fraude dans les mesures et les balances, puis s'étendre jusqu'à corrompre toute la société",
+"Elle commence uniquement chez les dirigeants et n'a aucun rapport avec les commerçants",
+"Elle apparaît soudainement sans aucune progression"
+],
+"explanation_fr": "L'histoire de Shuʿayb enseigne que l'injustice économique peut commencer par de petites fraudes dans les mesures et les balances, puis s'étendre jusqu'à affecter toute la société."
+},
+{
+"id": "shuaib_50",
+"question_ar": "ما العبارة التي قالها شعيب عليه السلام معبرا عن توكله على الله حين اشتد أذى قومه؟",
+"options_ar": [
+"ربي انصرني على القوم الظالمين",
+"حسبي الله عليه توكلت",
+"ربي أدخلني مدخل صدق",
+"ربي لا تذرني فردا وأنت خير الوارثين"
+],
+"correct": 1,
+"explanation_ar": "قال شعيب: (حَسْبِيَ اللَّهُ عَلَيْهِ تَوَكَّلْتُ) أي الله كافيني وعليه اعتمادي، وهذه العبارة تعبر عن أعلى درجات التوكل والثقة بالله.",
+"question_fr": "Quelle expression Shuʿayb عليه السلام utilisa-t-il pour exprimer sa confiance en Allah lorsque les nuisances de son peuple s'intensifièrent ?",
+"options_fr": [
+"Seigneur, aide-moi contre les injustes",
+"Allah me suffit, c'est en Lui que je place ma confiance",
+"Seigneur, fais-moi entrer par une entrée véridique",
+"Seigneur, ne me laisse pas seul, Tu es le meilleur des héritiers"
+],
+"explanation_fr": "Shuʿayb exprima son entière confiance en Allah en affirmant qu'Allah lui suffisait et qu'il plaçait sa confiance en Lui."
+}
+]

@@ -1,0 +1,1002 @@
+[
+{
+"id": "salih_01",
+"question_ar": "إلى أي قوم أُرسل صالح عليه السلام؟",
+"question_fr": "À quel peuple le prophète Ṣāliḥ (paix sur lui) fut-il envoyé ?",
+"options_ar": [
+"قوم مدين المطففين",
+"قوم ثمود أصحاب الحجر",
+"قوم عاد الثانية",
+"قوم تبع"
+],
+"options_fr": [
+"Au peuple de Madyan, connu pour tricher dans les mesures",
+"Au peuple de Thamûd, habitants d'Al-Hijr",
+"Au second peuple de ‘Âd",
+"Au peuple de Tubba‘"
+],
+"correct": 1,
+"explanation_ar": "(وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَالِحًا).",
+"explanation_fr": "Allah dit : « Et aux Thamûd, leur frère Ṣāliḥ. »"
+},
+{
+"id": "salih_02",
+"question_ar": "بماذا اشتُهر قوم ثمود وأين سكنوا؟",
+"question_fr": "Par quoi le peuple de Thamûd était-il connu et où vivait-il ?",
+"options_ar": [
+"نحتوا الجبال بيوتاً (الحجر بمَدائن صالح حاليا بالسعودية)",
+"بناء السفن والأساطيل في اليمن",
+"بناء الأهرامات والزراعة بمصر",
+"سكنوا الصحراء في الخيام فقط"
+],
+"options_fr": [
+"Ils taillaient des maisons dans les montagnes (Al-Hijr, correspondant aujourd'hui à Madâ'in Ṣâliḥ en Arabie saoudite)",
+"Ils construisaient des navires et des flottes au Yémen",
+"Ils construisaient des pyramides et pratiquaient l'agriculture en Égypte",
+"Ils vivaient uniquement dans des tentes dans le désert"
+],
+"correct": 0,
+"explanation_ar": "(وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ) وكانوا ينحتون من الجبال بيوتاً آمنين.",
+"explanation_fr": "Allah dit : « Et les Thamûd qui taillaient le roc dans la vallée. » Ils creusaient des maisons dans les montagnes et y vivaient en sécurité."
+},
+{
+"id": "salih_03",
+"question_ar": "ماذا طلب قوم ثمود كمعجزة من نبيهم صالح؟",
+"question_fr": "Quel miracle le peuple de Thamûd demanda-t-il à leur prophète Ṣāliḥ ?",
+"options_ar": [
+"أن ينزل لهم مائدة من السماء",
+"أن يشق لهم البحر الأحمر ليعبروا",
+"أن يخرج لهم ناقة عشراء (حامل) عظيمة من صخرة صماء",
+"أن يشفي أمراضهم الخطيرة"
+],
+"options_fr": [
+"Qu'une table garnie descende du ciel",
+"Qu'il fende la mer Rouge afin qu'ils puissent la traverser",
+"Qu'une grande chamelle pleine sorte d'un rocher massif",
+"Qu'il guérisse leurs maladies graves"
+],
+"correct": 2,
+"explanation_ar": "طلبوا أن تتحول الصخرة الجبلية الصماء أمامهم إلى ناقة حية وحامل، فأخرجها الله لهم كما اشترطوا.",
+"explanation_fr": "Ils demandèrent que le rocher massif devant eux donne naissance à une chamelle vivante et pleine. Allah la fit apparaître comme ils l'avaient demandé."
+},
+{
+"id": "salih_04",
+"question_ar": "ما هو التحذير الذي وجهه صالح عليه السلام لقومه بخصوص الناقة؟",
+"question_fr": "Quel avertissement Ṣāliḥ (paix sur lui) donna-t-il à son peuple concernant la chamelle ?",
+"options_ar": [
+"أن يتركوها تأكل وتشرب وألا يمسوها بسوء",
+"أن يأخذوها ويحملوا عليها بضائعهم",
+"أن يذبحوها في يوم العيد فداءً",
+"أن يجعلوها في معبدهم للعبادة"
+],
+"options_fr": [
+"De la laisser manger et boire et de ne lui faire aucun mal",
+"De la prendre pour transporter leurs marchandises",
+"De l'abattre le jour de la fête en sacrifice",
+"De la placer dans leur temple pour l'adorer"
+],
+"correct": 0,
+"explanation_ar": "(هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً ۖ فَذَرُوهَا تَأْكُلْ فِي أَرْضِ اللَّهِ وَلَا تَمَسُّوهَا بِسُوءٍ).",
+"explanation_fr": "Il leur dit : « Voici la chamelle d'Allah, un signe pour vous. Laissez-la manger sur la terre d'Allah et ne lui faites aucun mal. »"
+},
+{
+"id": "salih_05",
+"question_ar": "كيف كانت القسمة في الماء بين قوم ثمود والناقة المعجزة؟",
+"question_fr": "Comment l'eau était-elle répartie entre le peuple de Thamûd et la chamelle miraculeuse ?",
+"options_ar": [
+"لها شرب يومين ولهم يوم",
+"كلهم يشربون معاً في نفس الوقت بسلام",
+"لها شِرب يوْمٍ ولهم شِرب يوْمٍ معلوم",
+"الناقة لا تشرب الماء أبداً"
+],
+"options_fr": [
+"Elle avait droit à l'eau pendant deux jours et eux pendant un jour",
+"Ils buvaient tous ensemble au même moment",
+"Elle avait droit à l'eau un jour et eux un autre jour déterminé",
+"La chamelle ne buvait jamais d'eau"
+],
+"correct": 2,
+"explanation_ar": "(قَالَ هَٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ).",
+"explanation_fr": "Allah dit : « Voici une chamelle : elle a son tour pour boire, et vous avez un tour fixé pour boire. »"
+},
+{
+"id": "salih_06",
+"question_ar": "ماذا كان موقف قوم ثمود من صالح قبل أن يرسل إليهم يدعوهم؟",
+"question_fr": "Quelle était l'opinion du peuple de Thamûd au sujet de Ṣāliḥ avant qu'il ne les appelle à Allah ?",
+"options_ar": [
+"كانوا يكرهونه بشدة لأمانته",
+"كانوا يتوقعون منه الخير والعقل والزعامة (قَالُوا يَا صَالِحُ قَدْ كُنتَ فِينَا مَرْجُوًّا قَبْلَ هَٰذَا)",
+"كانوا يجهلونه لأنه من قرية أخرى",
+"كانوا يعتبرونه ساحراً كاذباً منذ الطفولة"
+],
+"options_fr": [
+"Ils le détestaient fortement à cause de son honnêteté",
+"Ils espéraient de lui le bien, la sagesse et le leadership",
+"Ils ne le connaissaient pas car il venait d'un autre village",
+"Ils le considéraient comme un faux sorcier depuis son enfance"
+],
+"correct": 1,
+"explanation_ar": "كان أعقلهم وأفضلهم نسباً وكانوا يرجون أن يصبح سيدهم، فصدمهم حين دعاهم للتوحيد وتسفيه أصنامهم.",
+"explanation_fr": "Il était considéré comme l'un des plus sages et des meilleurs parmi eux, et ils espéraient qu'il devienne leur chef. Ils furent donc surpris lorsqu'il les appela au monothéisme et leur demanda d'abandonner leurs idoles."
+},
+{
+"id": "salih_07",
+"question_ar": "من الذي تولى كبر وعقر (ذبح) الناقة؟",
+"question_fr": "Qui prit l'initiative d'abattre la chamelle ?",
+"options_ar": [
+"ملكهم المتوج شخصياً",
+"مجموعة من الأطفال جهلاً",
+"أشقى القوم (أشقاها - قدار بن سالف)",
+"سبعة رجال من أضعف القوم"
+],
+"options_fr": [
+"Leur roi lui-même",
+"Un groupe d'enfants par ignorance",
+"Le plus misérable d'entre eux (Qudâr ibn Sâlif)",
+"Sept hommes parmi les plus faibles du peuple"
+],
+"correct": 2,
+"explanation_ar": "(إِذِ انبَعَثَ أَشْقَاهَا) وهو أشقى الأولين الذي أقدم بجرأة على كسر أمر الله وعقر الناقة.",
+"explanation_fr": "Allah dit : « Lorsque le plus misérable d'entre eux se leva. » Il prit l'initiative de transgresser l'ordre d'Allah et d'abattre la chamelle."
+},
+{
+"id": "salih_08",
+"question_ar": "لماذا عاقب الله كل القوم (فدمدم عليهم ربهم) بينما الذي باشر قتل الناقة شخص واحد أو تسعة؟",
+"question_fr": "Pourquoi Allah châtia-t-Il tout le peuple alors qu'une seule personne, soutenue par d'autres, avait directement participé à l'abattage de la chamelle ?",
+"options_ar": [
+"لأنهم جميعاً تآمروا ورضوا ووافقوا المباشر بل وحرضوه",
+"لأن الله يعاقب الجماعة بذنب الفرد دائماً",
+"لأنهم كانوا نائمين وقتل الناقة لم يوقظهم",
+"هذا لم يحدث، العذاب كان للقتلة التسعة فقط"
+],
+"options_fr": [
+"Parce qu'ils avaient tous conspiré, approuvé l'acte et encouragé celui qui l'avait commis",
+"Parce qu'Allah punit toujours un groupe pour le péché d'un seul individu",
+"Parce qu'ils dormaient et n'avaient pas été réveillés",
+"Cela ne s'est pas produit : seuls les neuf meurtriers furent châtiés"
+],
+"correct": 0,
+"explanation_ar": "(فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِم رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا) نسب الجمع للعقر لرضاهم وشراكتهم في القرار المؤيد للقتل.",
+"explanation_fr": "Le Coran attribue l'acte au groupe car ils l'avaient approuvé et avaient participé à la décision de tuer la chamelle."
+},
+{
+"id": "salih_09",
+"question_ar": "كم شخصاً (رهط) في المدينة كان يفسد في الأرض وتآمروا على قتل صالح؟",
+"question_fr": "Combien de personnes complotaient dans la ville contre Ṣāliḥ et semaient la corruption ?",
+"options_ar": [
+"ثلاثة رهط",
+"عشرة رجال",
+"تسعة رهط يفسدون في الأرض ولا يصلحون",
+"المدينة بأكملها"
+],
+"options_fr": [
+"Trois hommes",
+"Dix hommes",
+"Neuf hommes qui semaient la corruption sur terre et ne réformaient rien",
+"Toute la ville"
+],
+"correct": 2,
+"explanation_ar": "(وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ).",
+"explanation_fr": "Allah dit : « Et il y avait dans la ville neuf hommes qui semaient la corruption sur terre et n'amélioraient rien. »"
+},
+{
+"id": "salih_10",
+"question_ar": "ماذا كانت خطة التسعة رهط لقتل صالح عليه السلام كما تذكر سورة النمل (قَالُوا تَقَاسَمُوا بِاللَّهِ ...)؟",
+"question_fr": "Quel était le plan des neuf hommes pour tuer Ṣāliḥ, selon la sourate An-Naml ?",
+"options_ar": [
+"لنهربن في الليل تاركين له القرية",
+"لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ",
+"لندسون له السم في طعامه نهاراً",
+"لنحرقه حياً في محرقة عامة"
+],
+"options_fr": [
+"Fuir la nuit en lui laissant le village",
+"L'attaquer de nuit, lui et sa famille, puis nier avoir été présents auprès de ses proches",
+"Mettre du poison dans sa nourriture pendant la journée",
+"Le brûler publiquement"
+],
+"correct": 1,
+"explanation_ar": "تآمروا على اغتياله ليلاً ثم ادعاء البراءة أمام أقاربه (وَمَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ).",
+"explanation_fr": "Ils complotèrent pour l'attaquer de nuit, puis prétendre devant ses proches qu'ils n'avaient rien vu et n'étaient pas impliqués."
+},
+{
+"id": "salih_11",
+"question_ar": "بماذا توعد صالح عليه السلام قومه مباشرة بعد أن عقروا الناقة وتحدوه (فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ)؟",
+"question_fr": "Que dit Ṣāliḥ à son peuple après qu'ils eurent abattu la chamelle et désobéi à l'ordre de leur Seigneur ?",
+"options_ar": [
+"تمتعوا في داركم سبعة أيام",
+"تمتعوا في داركم ثلاثة أيام ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
+"استعدوا للصيحة غداً فجراً",
+"لن أعذركم بعد اليوم وعذابكم اقترب"
+],
+"options_fr": [
+"Profitez de vos maisons pendant sept jours",
+"Profitez de vos maisons pendant trois jours : telle est une promesse qui ne sera pas démentie",
+"Préparez-vous au cri dès demain à l'aube",
+"Je ne vous pardonnerai plus et votre châtiment approche"
+],
+"correct": 1,
+"explanation_ar": "(فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ).",
+"explanation_fr": "Il leur annonça : « Profitez de vos maisons pendant trois jours. Voilà une promesse qui ne sera pas démentie. »"
+},
+{
+"id": "salih_12",
+"question_ar": "كيف وقع العذاب على التسعة رهط الذين دبروا الاغتيال؟",
+"question_fr": "Comment le châtiment toucha-t-il les neuf hommes qui avaient comploté contre Ṣāliḥ ?",
+"options_ar": [
+"دُمروا مع بقية القوم في نهاية الأيام الثلاثة",
+"دمّرهم الله هم ومكرهم قبل البقية (فَدَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ) أرسل عليهم حجارة أهلكتهم فوراً بحسب بعض التفاسير",
+"أمسكهم صالح والملائكة وضربوهم",
+"انشقت الأرض وابتلعت التسعة فقط"
+],
+"options_fr": [
+"Ils furent détruits avec le reste du peuple à la fin des trois jours",
+"Allah détruisit leur complot et les détruisit avec leur peuple ; certaines exégèses mentionnent un châtiment qui les atteignit rapidement",
+"Ṣāliḥ et les anges les capturèrent",
+"La terre se fendit et engloutit uniquement les neuf hommes"
+],
+"correct": 1,
+"explanation_ar": "(فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ) عجل لهم العذاب قبل الباقين أو دمرهم بالصيحة جميعاً.",
+"explanation_fr": "Allah dit : « Regarde donc quelle fut la conséquence de leur ruse : Nous les détruisîmes, eux et leur peuple, tous ensemble. »"
+},
+{
+"id": "salih_13",
+"question_ar": "ما طبيعة العذاب الذي استحقه قوم ثمود المهلك للديار؟",
+"question_fr": "Quelle fut la nature du châtiment qui frappa le peuple de Thamûd ?",
+"options_ar": [
+"صيحة (ورجفة) قطعت قلوبهم وأبادتهم وهم في بيوتهم الآمنة",
+"ريح صرصر عاتية كسرت الجبال",
+"طوفان غطى الجبال العالية",
+"نار نزلت من السماء أحرقت زرعهم وبيوتهم"
+],
+"options_fr": [
+"Un cri et un tremblement qui les frappèrent alors qu'ils étaient dans leurs maisons",
+"Un vent violent qui brisa les montagnes",
+"Une inondation qui recouvrit les hautes montagnes",
+"Un feu descendu du ciel qui brûla leurs cultures et leurs maisons"
+],
+"correct": 0,
+"explanation_ar": "(فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ) وفي آيات أخرى أخذتهم (الصيحة).",
+"explanation_fr": "Allah dit : « Le tremblement les saisit et ils se retrouvèrent gisants dans leurs demeures. » D'autres versets mentionnent également le cri."
+},
+{
+"id": "salih_14",
+"question_ar": "ماذا قال صالح عليه السلام لقومه بعد أن أُهلكوا وهو يراهم صرعى؟",
+"question_fr": "Que dit Ṣāliḥ à son peuple après leur destruction ?",
+"options_ar": [
+"يا قوم قد أرسلت لكم الناقة فقهرتموها",
+"يا قوم لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُم وَلَٰكِن لَّا تُحِبُّونَ النَّاصِحِينَ",
+"يا قوم اعذروني لم أستطع إجباركم",
+"لم ينطق بكلمة بل بكى وذهب مع المؤمنين"
+],
+"options_fr": [
+"Ô mon peuple, je vous ai envoyé la chamelle mais vous l'avez vaincue",
+"Ô mon peuple, je vous ai transmis le message de mon Seigneur et je vous ai conseillé, mais vous n'aimez pas les conseillers",
+"Ô mon peuple, excusez-moi, je n'ai pas pu vous forcer",
+"Il ne dit rien et partit simplement avec les croyants"
+],
+"correct": 1,
+"explanation_ar": "(فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ النَّاصِحِينَ).",
+"explanation_fr": "Il leur dit : « Ô mon peuple, je vous ai transmis le message de mon Seigneur et je vous ai conseillé, mais vous n'aimez pas les conseillers. »"
+},
+{
+"id": "salih_15",
+"question_ar": "لماذا لم تكن بيوتهم المنحوتة في الجبل قادرة على حمايتهم من العذاب؟",
+"question_fr": "Pourquoi leurs maisons taillées dans les montagnes ne purent-elles pas les protéger du châtiment ?",
+"options_ar": [
+"لأن العذاب جاءهم من الباب الرئيسي",
+"لأن الصيحة كانت إلهية تخترق الصخور وتزلزل القلوب والأجساد، فلا درع يقي العذاب الإلهي",
+"لأن الجبل انهار على بيوتهم بالكامل كزلزال",
+"لأنهم خرجوا لاستقبال العذاب بأنفسهم خارج البيوت"
+],
+"options_fr": [
+"Parce que le châtiment entra par la porte principale",
+"Parce que le châtiment divin ne pouvait être empêché par leurs demeures fortifiées",
+"Parce que la montagne s'effondra entièrement sur leurs maisons",
+"Parce qu'ils sortirent eux-mêmes pour affronter le châtiment"
+],
+"correct": 1,
+"explanation_ar": "البيوت المحصنة (آمنين) في ظاهر الأمر لم تغن عنهم شيئاً أمام عذاب الله، فالصيحة رجفت قلوبهم في عقر ديارهم.",
+"explanation_fr": "Leurs maisons apparemment fortifiées ne leur furent d'aucune utilité face au châtiment d'Allah. Le cri les atteignit au cœur même de leurs demeures."
+},
+{
+"id": "salih_16",
+"question_ar": "ماذا قال صالح لقومه عندما سألوه أن يعبُدوا ما يعبد آباؤهم؟",
+"question_fr": "Que répondit Ṣāliḥ à son peuple lorsqu'ils voulurent suivre la religion de leurs ancêtres ?",
+"options_ar": [
+"هذا شرك وظلم عظيم",
+"قال (يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ ۖ هُوَ أَنشَأَكُم مِّنَ الْأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا)",
+"قال أطيعوا آلهتكم يومين في الأسبوع",
+"قال اتركوا عبادة الآباء فقط ولكم الخيار"
+],
+"options_fr": [
+"C'est de l'associationnisme et une grande injustice",
+"Ô mon peuple, adorez Allah ; vous n'avez aucune autre divinité que Lui. Il vous a créés de la terre et vous y a établis",
+"Adorez vos divinités deux jours par semaine",
+"Abandonnez seulement le culte des ancêtres, puis choisissez librement"
+],
+"correct": 1,
+"explanation_ar": "(هُوَ أَنشَأَكُم مِّنَ الْأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا فَاسْتَغْفِرُوهُ ثُمَّ تُوبُوا إِلَيْهِ ۚ إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ).",
+"explanation_fr": "Il les appela à adorer Allah seul, à Lui demander pardon et à revenir vers Lui, car son Seigneur est proche et répond aux invocations."
+},
+{
+"id": "salih_17",
+"question_ar": "كيف كان استخراج الناقة من الصخرة اختباراً دقيقاً (فتنة) لهم؟",
+"question_fr": "Pourquoi l'apparition de la chamelle depuis le rocher constituait-elle une épreuve pour eux ?",
+"options_ar": [
+"الناقة كانت صغيرة ومريضة فاستخفوا بها",
+"لأنها اشترطت شرب ماء العيون كل يوم وهي ضخمة (إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ)",
+"لأنها كانت تأكل كل زرعهم ولم تشرب البئر",
+"لأنها لا لون لها فاحتاروا فيها"
+],
+"options_fr": [
+"Parce que la chamelle était petite et malade",
+"Parce qu'elle avait un jour déterminé pour boire l'eau, constituant ainsi une épreuve pour eux",
+"Parce qu'elle mangeait toutes leurs cultures sans boire au puits",
+"Parce qu'elle n'avait aucune couleur et les intriguait"
+],
+"correct": 1,
+"explanation_ar": "(إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ) لأن تقاسم الماء ومراعاة قدسية الناقة كان صعباً على كبرهم وطمعهم.",
+"explanation_fr": "Allah dit qu'Il envoyait la chamelle comme une épreuve pour eux. Le partage de l'eau et le respect de cette preuve divine étaient difficiles pour leur orgueil et leur avidité."
+},
+{
+"id": "salih_18",
+"question_ar": "كيف تعامل القوم مع الناقة في بداية أُيام المهلة قبل عقرها؟",
+"question_fr": "Comment le peuple se comporta-t-il avec la chamelle au début, avant de l'abattre ?",
+"options_ar": [
+"استقبلوها واهتموا بها",
+"استفادوا من لبنها في يوم شربها لكنهم تذمروا من منعها لماء البئر يومها",
+"ضربوها منذ أول يوم",
+"باعوها لقبيلة مجاورة"
+],
+"options_fr": [
+"Ils l'accueillirent et prirent soin d'elle",
+"Ils profitèrent de son lait le jour où elle buvait, mais se plaignirent de son droit à l'eau ce jour-là",
+"Ils la frappèrent dès le premier jour",
+"Ils la vendirent à une tribu voisine"
+],
+"correct": 1,
+"explanation_ar": "تشير التفاسير إلى أنهم كانوا يشربون لبنها حين ترده، ولكن استثقلوا حقها في الماء وتآمروا على عقرها.",
+"explanation_fr": "Les exégèses indiquent qu'ils buvaient son lait lorsqu'elle avait son tour, mais qu'ils trouvèrent difficile de respecter son droit à l'eau et complotèrent finalement pour l'abattre."
+},
+{
+"id": "salih_19",
+"question_ar": "هل ذكر القرآن الكريم قصة الجُرو (ابن الناقة) بشكل مفصل ومصيره الصريح؟",
+"question_fr": "Le Coran mentionne-t-il en détail l'histoire et le destin du petit de la chamelle ?",
+"options_ar": [
+"نعم، ذُكر أنه تحول إلى صخرة بأمر الله",
+"لا، التفاصيل المفصلة مثل اختفائه في الجبل ورغائه وردت في الأثر والتفاسير وغير مفصلة بالقرآن العظيم",
+"نعم، عُقر الجرو قبل أمه",
+"ذُكر أنه نجا وركب مع صالح وعاد للمؤمنين"
+],
+"options_fr": [
+"Oui, il est mentionné qu'il devint un rocher par ordre d'Allah",
+"Non, les détails comme sa disparition dans la montagne et ses cris apparaissent dans certains récits et exégèses, mais ne sont pas détaillés dans le Coran",
+"Oui, le petit fut abattu avant sa mère",
+"Il est mentionné qu'il survécut et partit avec Ṣāliḥ et les croyants"
+],
+"correct": 1,
+"explanation_ar": "الحبكة القرآنية ركزت على الناقة الأم (ناقة الله) ولم تدخل في تفاصيل الجرو التي اشتهرت في الإسرائيليات والتفاسير.",
+"explanation_fr": "Le récit coranique se concentre sur la chamelle elle-même et ne détaille pas le destin de son petit, dont certains détails apparaissent dans des récits et des exégèses."
+},
+{
+"id": "salih_20",
+"question_ar": "ما هي الحجة التي استخدمها زعماء ثمود ضد المستضعفين الذين آمنوا بصالح؟",
+"question_fr": "Que répondirent les dirigeants de Thamûd aux personnes faibles qui avaient cru en Ṣāliḥ ?",
+"options_ar": [
+"قالوا: (أَتَعْلَمُونَ أَنَّ صَالِحًا مُّرْسَلٌ مِّن رَّبِّهِ)",
+"سخروا منهم وقالوا: (إِنَّا بِالَّذِي آمَنتُم بِهِ كَافِرُونَ)",
+"طردوهم من مزارعهم",
+"قتلوهم قبل الناقة"
+],
+"options_fr": [
+"Ils dirent : « Savez-vous que Ṣāliḥ est envoyé par son Seigneur ? »",
+"Ils se moquèrent d'eux et dirent : « Nous, nous ne croyons pas à ce en quoi vous croyez. »",
+"Ils les chassèrent de leurs terres",
+"Ils les tuèrent avant l'apparition de la chamelle"
+],
+"correct": 1,
+"explanation_ar": "(قَالَ الْمَلَأُ الَّذِينَ اسْتَكْبَرُوا مِن قَوْمِهِ لِلَّذِينَ اسْتُضْعِفُوا... قَالُوا إِنَّا بِالَّذِي آمَنتُم بِهِ كَافِرُونَ).",
+"explanation_fr": "Les notables orgueilleux de son peuple dirent aux croyants : « Nous ne croyons pas en ce en quoi vous avez cru. »"
+},
+{
+"id": "salih_21",
+"question_ar": "كيف كان موقف قوم ثمود من نعيمهم (الزرع والنخل والعيون) قبل العذاب، وماذا نصحهم صالح؟",
+"question_fr": "Quelle était l'attitude du peuple de Thamûd envers leurs bienfaits avant le châtiment, et que leur conseilla Ṣāliḥ ?",
+"options_ar": [
+"أتتركون في ما هاهنا آمنين في جنات وعيون (أنكر عليهم الركون للدنيا ونسيان المنعم)",
+"زادهم نعيمهم طاعة وشكراً لكنهم أشركوا خفية",
+"كان نعيمهم قليلاً فشكوا لصالح الفقر",
+"قال لهم صالح: اجمعوا لي من ثماركم كي أدعو لكم بالبقاء"
+],
+"options_fr": [
+"Êtes-vous laissés ici en sécurité, au milieu de jardins et de sources ? Il leur reprocha de s'attacher aux biens de ce monde et d'oublier le Bienfaiteur",
+"Leurs bienfaits augmentèrent leur obéissance et leur gratitude, mais ils associèrent secrètement",
+"Leurs bienfaits étaient faibles et ils se plaignirent de leur pauvreté",
+"Ṣāliḥ leur demanda de lui apporter leurs fruits afin qu'il prie pour leur survie"
+],
+"correct": 0,
+"explanation_ar": "(أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ * فِي جَنَّاتٍ وَعُيُونٍ * وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ).",
+"explanation_fr": "Il leur rappela les jardins, les sources, les cultures et les palmiers dont ils bénéficiaient, les appelant à ne pas oublier Allah, le Bienfaiteur."
+},
+{
+"id": "salih_22",
+"question_ar": "بماذا وصف الله طلع النخل (الجزء الذي يثمر) عند قوم ثمود؟",
+"question_fr": "Comment Allah décrivit-Il les fruits des palmiers du peuple de Thamûd ?",
+"options_ar": [
+"طلعها نضيد (تتراكم ثماره بكثافة)",
+"طلعها هضيم (لين ومتراص ومكتنز لكثرته وجودته)",
+"طلعها حصيد (محصود مبكراً)",
+"طلعها عقيم (فاسد وبلا ثمر)"
+],
+"options_fr": [
+"Leurs fruits étaient disposés en rangs serrés",
+"Leurs fruits étaient tendres, abondants et bien développés",
+"Leurs fruits étaient récoltés très tôt",
+"Leurs fruits étaient stériles et sans production"
+],
+"correct": 1,
+"explanation_ar": "وصف جمال ونضج ثمارهم بقوله (وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ).",
+"explanation_fr": "Allah décrit la beauté et l'abondance de leurs cultures et de leurs palmiers en disant que leurs fruits étaient « hadîm », c'est-à-dire tendres et abondants."
+},
+{
+"id": "salih_23",
+"question_ar": "ماذا قال صالح (عليه السلام) لقومه ردًا على التبجح بالقوة ونحت الجبال وفرهها (فارهين)؟",
+"question_fr": "Que dit Ṣāliḥ à son peuple en réponse à leur fierté concernant leur force et leurs constructions ?",
+"options_ar": [
+"أنتم خير القوم بناءً ومهارة فاشكروا",
+"فَاتَّقُوا اللَّهَ وَأَطِيعُونِ * وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ (لا تطيعوا قادة الإسراف والفساد)",
+"ابنوا لي قصراً بينها",
+"احرسوها من جيوش الأعداء"
+],
+"options_fr": [
+"Vous êtes les meilleurs bâtisseurs, alors soyez reconnaissants",
+"Craignez Allah, obéissez-moi et ne suivez pas les ordres des gens qui commettent des excès et la corruption",
+"Construisez-moi un palais parmi eux",
+"Protégez-les contre les armées ennemies"
+],
+"correct": 1,
+"explanation_ar": "كان رده وتوجيهه نحو التقوى ومخالفة أمر المسرفين الفاسدين: (وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ).",
+"explanation_fr": "Il les orienta vers la piété et leur demanda de ne pas suivre les gens qui commettaient des excès et répandaient la corruption."
+},
+{
+"id": "salih_24",
+"question_ar": "عندما قال الكفار لصالح إنما أنت من المسحرين (المسحورين المخدوعين)، ماذا كانوا يعنون؟",
+"question_fr": "Que voulaient dire les mécréants lorsqu'ils dirent à Ṣāliḥ : « Tu n'es qu'un homme comme nous » ?",
+"options_ar": [
+"أنت بشر عادي تأكل الطعام وتشرب (المسحر لها علاقة بالسَّحَر وهو الرئة أو الأكل كالبشر)",
+"أنت ساحر عظيم تخدعنا بعصاك",
+"لقد وضعنا لك السحر في الشراب فجُننت",
+"أن الملائكة سحرتك"
+],
+"options_fr": [
+"Tu es un être humain ordinaire qui mange et boit comme nous",
+"Tu es un grand sorcier qui nous trompe avec ton bâton",
+"Nous avons mis de la magie dans ta boisson et tu es devenu fou",
+"Les anges t'ont ensorcelé"
+],
+"correct": 0,
+"explanation_ar": "المسحرين: من السَّحَر أي الرئة، أي أنت بشر مقهور تأكل وتشرب مثلنا ولست ملكاً.",
+"explanation_fr": "Le terme employé renvoie à l'idée d'un être humain qui possède ce qui caractérise les humains, notamment le fait de manger et de boire, et non un ange."
+},
+{
+"id": "salih_25",
+"question_ar": "كیف خُتمت قصة ثمود في سورة الشمس؟ (فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا ...)",
+"question_fr": "Comment l'histoire de Thamûd se termine-t-elle dans la sourate Ash-Shams ?",
+"options_ar": [
+"فدمرها على رؤوسهم تدميراً",
+"وَلَا يَخَافُ عُقْبَاهَا (سوّى العذاب عليهم جميعاً من غير محاباة أو خوف من عواقب العذاب)",
+"ونجا الله الذين آمنوا منها بأعجوبة",
+"وظلت عبرة للمتقين إلى يوم الدين"
+],
+"options_fr": [
+"Il les détruisit complètement",
+"Et Il ne craignait pas les conséquences de cela : le châtiment les atteignit tous sans distinction",
+"Allah sauva miraculeusement tous ceux qui avaient cru",
+"Ils restèrent une leçon pour les pieux jusqu'au Jour dernier"
+],
+"correct": 1,
+"explanation_ar": "عدالة الله نافذة وبطشه لا يُعقب بمحاسب، (فَسَوَّاهَا وَلَا يَخَافُ عُقْبَاهَا).",
+"explanation_fr": "Le verset souligne que le décret d'Allah s'accomplit sans qu'Il craigne les conséquences de Son châtiment."
+},
+{
+"id": "salih_26",
+"question_ar": "ما هو دور الناقة الآية كما جاء في سورة القمر (إِنَّا مُرْسِلُو النَّاقَةِ فِتْنَةً لَّهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْ)؟",
+"question_fr": "Quel était le rôle de la chamelle comme signe, selon la sourate Al-Qamar ?",
+"options_ar": [
+"طردت الوحوش من المدينة بقدرتها",
+"كانت وسيلة امتحان واختبار لمدى طاعتهم واستجابتهم للقسمة",
+"كانت تزرع لهم الأرض لتغنيهم عن الفتنة",
+"جاءت لتحمي صالحاً من الاغتيال طوال اليوم"
+],
+"options_fr": [
+"Elle chassait les animaux sauvages de la ville",
+"Elle constituait une épreuve permettant de tester leur obéissance et leur respect du partage de l'eau",
+"Elle cultivait leurs terres pour les libérer de toute difficulté",
+"Elle était venue protéger Ṣāliḥ d'une tentative d'assassinat"
+],
+"correct": 1,
+"explanation_ar": "فتنة اختبار ليُعلم من يتبع وصية النبي فيعدل في الماء أم يدفعه طمعه وكبره لقتلها.",
+"explanation_fr": "La chamelle était une épreuve destinée à montrer qui respecterait la recommandation du prophète concernant le partage de l'eau et qui laisserait son orgueil et son avidité l'emporter."
+},
+{
+"id": "salih_27",
+"question_ar": "كيف أخبر الله نبيه بطبيعة قوم ثمود وكيف سينسون العهد (وَنَبِّئْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ)؟",
+"question_fr": "Comment Allah expliqua-t-Il à Son prophète le partage de l'eau entre Thamûd et la chamelle ?",
+"options_ar": [
+"الشرب محتضَر (مُحضر بيومه، يحضره صاحبه في نوبته)",
+"الماء سيكون مسموماً بنِصفه",
+"أن البئر ستجف بعد أسبوع حفلهم",
+"سوف تحشرج الناقة وقت الشرب وتموت"
+],
+"options_fr": [
+"Chaque tour d'eau devait être respecté le jour prévu",
+"La moitié de l'eau serait empoisonnée",
+"Le puits s'assécherait après une semaine",
+"La chamelle mourrait au moment de boire"
+],
+"correct": 0,
+"explanation_ar": "(كُلُّ شِرْبٍ مُّحْتَضَرٌ) أي كلٌ يحضر نصيبه من الماء في يومه المعلوم (الناقة يوماً ولهم يوماً).",
+"explanation_fr": "Chaque partie devait avoir son tour déterminé pour accéder à l'eau : un jour pour la chamelle et un jour pour le peuple."
+},
+{
+"id": "salih_28",
+"question_ar": "ماذا فعل قوم ثمود بعدما تعاهدوا على عقر الناقة (فَنَادَوْا صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ)؟",
+"question_fr": "Que fit l'homme chargé d'abattre la chamelle après leur décision ?",
+"options_ar": [
+"تعاطى (تناول السيف بجرأة وتجاسر على الذبح) فعقر الناقة",
+"تعاطى شرب الخمر ليسكر ثم يعقرها دون خوف",
+"عطاهم مالاً (تعاطى المال) ليعقروها نيابة عنه",
+"ندم وصاح عاليا قبل العقر لكنه أُجبر"
+],
+"options_fr": [
+"Il prit son arme avec audace et abattit la chamelle",
+"Il but de l'alcool avant de l'abattre",
+"Il leur donna de l'argent pour qu'ils l'abattent à sa place",
+"Il regretta son acte avant de l'abattre mais fut forcé"
+],
+"correct": 0,
+"explanation_ar": "(فَتَعَاطَىٰ) من الجرأة والتناول الصارم لفعل الجريمة دون مبالاة بوعيد النبوة.",
+"explanation_fr": "Le terme indique qu'il s'engagea avec audace dans l'acte, sans tenir compte de l'avertissement du prophète."
+},
+{
+"id": "salih_29",
+"question_ar": "كيف عبر القرآن عن ندم قوم ثمود بعد قتل الناقة ورؤيتهم نُذر العذاب اقتربت؟",
+"question_fr": "Comment le Coran décrit-il le regret du peuple de Thamûd après l'abattage de la chamelle ?",
+"options_ar": [
+"هربوا فوراً إلى الجبال خارج مدينتهم كفعل هود",
+"فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ (عندما أيقنوا بهلاكهم ولكن التوبة لا تنفع حينها)",
+"لم يندموا بل تحدوا الله أن يأتيهم بالمزيد",
+"أرسلوا لصالح وفداً للصلح معه والمؤمنين"
+],
+"options_fr": [
+"Ils s'enfuirent immédiatement vers les montagnes",
+"Ils l'abattirent puis devinrent regrettants lorsqu'ils comprirent leur situation",
+"Ils ne regrettèrent rien et défièrent Allah",
+"Ils envoyèrent une délégation à Ṣāliḥ pour demander la paix"
+],
+"correct": 1,
+"explanation_ar": "(فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ) الندم الأخير حيث لا رجعة في القرار ولا تقبل التوبة أمام نزول العقاب الحتمي الموعود.",
+"explanation_fr": "Allah dit : « Ils l'abattirent et devinrent alors repentants. » Il s'agit du regret venant après la certitude du châtiment annoncé."
+},
+{
+"id": "salih_30",
+"question_ar": "ما الذي كان يميّز بناء ثمود للبيوت (وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ)؟",
+"question_fr": "Qu'est-ce qui caractérisait les constructions du peuple de Thamûd ?",
+"options_ar": [
+"كانت مبنية من ذهب خالص منقوش",
+"النحت بمهارة شديدة وتكبر وأشر (قوة مع بطر)، دون حاجة فعلية للحفظ بل للتفاخر",
+"نحتوها لتكون أهرامات صغيرة كالفراعنة",
+"بنوا قلاعاً فوق السحاب بوضع الحجر تلو الحجر"
+],
+"options_fr": [
+"Elles étaient construites en or pur décoré",
+"Ils les taillaient avec une grande habileté, accompagnée d'orgueil et de fierté excessive",
+"Ils les sculptaient sous forme de petites pyramides",
+"Ils construisaient des forteresses au-dessus des nuages"
+],
+"correct": 1,
+"explanation_ar": "النحت كان بقوة ومهارة فائقة مع بطر الخيلاء والفراغ (فارهين): أشرون مرحون بطرون في أمن تام.",
+"explanation_fr": "Ils avaient une grande maîtrise de la taille de la pierre, mais cette puissance était accompagnée d'orgueil et d'excès."
+},
+{
+"id": "salih_31",
+"question_ar": "كيف واجه صالح عليه السلام استعجال قومه بالعذاب واستهزاءهم بالوعيد؟",
+"question_fr": "Comment Ṣāliḥ répondit-il lorsque son peuple se moqua de l'avertissement et demanda précipitamment le châtiment ?",
+"options_ar": [
+"بكى وترك القرية فوراً",
+"قَالَ يَا قَوْمِ لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ ۖ لَوْلَا تَسْتَغْفِرُونَ اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+"دعا الله أن يرسل ناراً من السماء",
+"طالبهم ببناء سور لحماية المدينة"
+],
+"options_fr": [
+"Il pleura et quitta immédiatement la ville",
+"Ô mon peuple, pourquoi demandez-vous le mal avant le bien ? Pourquoi ne demandez-vous pas pardon à Allah afin que vous receviez Sa miséricorde ?",
+"Il demanda à Allah d'envoyer un feu du ciel",
+"Il leur demanda de construire un mur pour protéger la ville"
+],
+"correct": 1,
+"explanation_ar": "(لِمَ تَسْتَعْجِلُونَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ) الأنبياء يحبون لقومهم الرحمة، فعاتبهم على استعجال العذاب (السيئة) بدل استعجال التوبة والمغفرة (الحسنة).",
+"explanation_fr": "Les prophètes souhaitaient la miséricorde pour leur peuple. Ṣāliḥ leur reprocha donc de demander le châtiment au lieu de se hâter vers le repentir et le pardon."
+},
+{
+"id": "salih_32",
+"question_ar": "ماذا كان رد قوم ثمود الأعمى على نصح صالح بطلب الرحمة والاستغفار؟",
+"question_fr": "Quelle fut la réponse du peuple de Thamûd à l'appel de Ṣāliḥ à demander miséricorde et pardon ?",
+"options_ar": [
+"فكروا في الأمر وصاموا ثلاثة أيام",
+"قَالُوا اطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ ۚ (تشاءمنا منك ومن أتباعك واعتبرناكم سبب انقطاع المطر والمصائب)",
+"رجموه بالحجارة حتى ترك مدينتهم",
+"حرقوا مزرعة صالح بالكامل كإنذار"
+],
+"options_fr": [
+"Ils réfléchirent et jeûnèrent pendant trois jours",
+"Ils dirent : « Nous voyons en toi et en ceux qui t'accompagnent un mauvais présage »",
+"Ils le lapidèrent jusqu'à ce qu'il quitte leur ville",
+"Ils brûlèrent entièrement la ferme de Ṣāliḥ"
+],
+"correct": 1,
+"explanation_ar": "(قَالُوا اطَّيَّرْنَا بِكَ) التطير هو التشاؤم؛ كلما أصابهم قحط أو سوء نسبوه لشؤم صالح ودعوته.",
+"explanation_fr": "Le terme « tatayyur » signifie le fait de considérer quelqu'un ou quelque chose comme un mauvais présage. Ils attribuaient leurs difficultés à Ṣāliḥ et à son appel."
+},
+{
+"id": "salih_33",
+"question_ar": "بماذا أجابهم صالح بحسم على خرافة تشاؤمهم به وبرسالته؟",
+"question_fr": "Que répondit Ṣāliḥ à leur superstition concernant sa personne et son message ?",
+"options_ar": [
+"قال: الشؤم في الأصنام وليس فينا",
+"قَالَ طَائِرُكُمْ عِندَ اللَّهِ ۖ بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ (حظكم ونصيبكم من الخير والشر بقضاء الله وقدره، وأنتم مبتلون)",
+"قال: سأرحل عنكم لتزدهروا",
+"دعا فيهم بمرض الطاعون فوراً"
+],
+"options_fr": [
+"Le mauvais présage vient des idoles, pas de nous",
+"Votre sort est auprès d'Allah ; vous êtes plutôt un peuple soumis à l'épreuve",
+"Je partirai afin que votre situation s'améliore",
+"Il demanda immédiatement qu'une épidémie les frappe"
+],
+"correct": 1,
+"explanation_ar": "(قَالَ طَائِرُكُمْ عِندَ اللَّهِ) أي ما يصيبكم من قدر فهو عند الله وبأمره بسبب كفركم، وأنتم تفتنون أي تبتلون بالخير والشر كاختبار.",
+"explanation_fr": "Ṣāliḥ leur rappela que leur destinée était auprès d'Allah et qu'ils étaient éprouvés par le bien et le mal, plutôt que d'accuser son message."
+},
+{
+"id": "salih_34",
+"question_ar": "من كان المحرك الرئيسي للإفساد والمؤامرات في مدينة الحجر (قوم ثمود) كما حكى القرآن؟",
+"question_fr": "Qui était à l'origine des principales actions de corruption et des complots dans la ville d'Al-Hijr ?",
+"options_ar": [
+"امرأة غنية تملك كل البساتين",
+"تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ (تسعة رجال من كبار المجرمين في المدينة يقودون الفساد)",
+"جيش من ألف فارس أجنبي يحكمهم",
+"ملك ظالم يستعبد الناس في المناجم"
+],
+"options_fr": [
+"Une femme riche possédant tous les jardins",
+"Neuf hommes qui semaient la corruption sur terre et ne réformaient rien",
+"Une armée étrangère de mille cavaliers",
+"Un roi injuste qui réduisait les gens en esclavage dans les mines"
+],
+"correct": 1,
+"explanation_ar": "(وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ) هؤلاء التسعة كانوا عصابة الإجرام وقادة الكفر الذين دبروا قتله.",
+"explanation_fr": "Le Coran mentionne neuf hommes qui semaient la corruption dans la ville et qui complotèrent contre Ṣāliḥ."
+},
+{
+"id": "salih_35",
+"question_ar": "كيف خطط هؤلاء التسعة رهط للتخلص من صالح وأهله المؤمنين بشكل دموي وجبان؟",
+"question_fr": "Comment ces neuf hommes complotèrent-ils contre Ṣāliḥ et sa famille ?",
+"options_ar": [
+"قَالُوا تَقَاسَمُوا بِاللَّهِ لَنُبَيِّتَنَّهُ وَأَهْلَهُ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِ مَا شَهِدْنَا مَهْلِكَ أَهْلِهِ وَإِنَّا لَصَادِقُونَ",
+"طالبوا بنفي صالح من المدينة علناً في الساحة",
+"أشعلوا النار في الوادي الخصب بأكمله",
+"سرقوا أموال المعبد ليلاً واتهموه بها"
+],
+"options_fr": [
+"Ils jurèrent par Allah de l'attaquer de nuit avec sa famille, puis de nier devant ses proches avoir été présents",
+"Ils demandèrent publiquement son expulsion de la ville",
+"Ils mirent le feu à toute la vallée fertile",
+"Ils volèrent l'argent du temple et l'accusèrent du vol"
+],
+"correct": 0,
+"explanation_ar": "خطة الاغتيال المبيّت: (لَنُبَيِّتَنَّهُ) نهجم عليه ليلاً فنقتله وقرابته، ثم نقسم بالله العظيم لأوليائه أننا لم نحضر مكان الجريمة للهروب من الثأر الدموي.",
+"explanation_fr": "Ils préparèrent une attaque nocturne contre Ṣāliḥ et ses proches, puis prévoyaient de nier leur présence afin d'éviter les conséquences de leur acte."
+},
+{
+"id": "salih_36",
+"question_ar": "كيف أبطل الله مكر هؤلاء التسعة القتلة الذين أرادوا التبيت بصالح ليلاً (وَمَكَرُوا مَكْرًا ...)؟",
+"question_fr": "Comment Allah déjoua-t-Il le complot des neuf hommes contre Ṣāliḥ ?",
+"options_ar": [
+"وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ * فَانظُرْ كَيْفَ كَانَ عَاقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَاهُمْ وَقَوْمَهُمْ أَجْمَعِينَ (عاجلهم بالعذاب قبل تنفيذ جريمتهم)",
+"أرسل الله ملائكة تقاتلهم بالسيوف علناً",
+"هرب صالح قبلها بليلة إلى مكة",
+"كشف الحراس خطتهم وأعدموهم في السوق"
+],
+"options_fr": [
+"Allah déjoua leur complot et les détruisit avec leur peuple avant qu'ils n'accomplissent leur projet",
+"Allah envoya des anges les combattre publiquement",
+"Ṣāliḥ s'enfuit à La Mecque la veille",
+"Les gardes découvrirent leur plan et les exécutèrent sur le marché"
+],
+"correct": 0,
+"explanation_ar": "مكر الله: استدراجهم وعقوبتهم من حيث لا يشعرون. فبينما هم يخططون للفتك بصالح، نزل عليهم وعلى من أيدهم الدمار الشامل.",
+"explanation_fr": "Alors qu'ils complotaient contre Ṣāliḥ, leur plan fut déjoué et le châtiment les atteignit avec ceux qui les soutenaient."
+},
+{
+"id": "salih_37",
+"question_ar": "ماذا ترك الله في أماكنهم شاهدًا على سوء عاقبة المكر والإفساد (فَتِلْكَ بُيُوتُهُمْ...)؟",
+"question_fr": "Que resta-t-il de leurs demeures comme témoignage de la conséquence de leur corruption ?",
+"options_ar": [
+"قلاعاً حصينة تتحدى الزمن",
+"خَاوِيَةً بِمَا ظَلَمُوا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَعْلَمُونَ (مدمرة مقفرة فارغة رغم نحتها القوي في الصخور)",
+"تحولت لغابات مليئة بالأشجار والأنهار",
+"دُفنت بالكامل تحت رمال الربع الخالي العميقة"
+],
+"options_fr": [
+"Des forteresses solides défiant le temps",
+"Des demeures vides à cause de leur injustice, malgré leur construction solide dans la roche",
+"Elles devinrent des forêts pleines d'arbres et de rivières",
+"Elles furent entièrement ensevelies sous les sables du désert"
+],
+"correct": 1,
+"explanation_ar": "(فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوا) تركها الله أطلالاً وآثاراً (مدائن صالح) ليتعظ بها اللاحقون المارون بها.",
+"explanation_fr": "Allah laissa leurs demeures vides et abandonnées comme un rappel pour ceux qui passeraient par ces lieux et méditeraient sur leur destin."
+},
+{
+"id": "salih_38",
+"question_ar": "ماذا قال صالح متحسراً مودعاً قومه الكافرين بعد نزول الصيحة التي حصدت أرواحهم؟",
+"question_fr": "Que dit Ṣāliḥ à son peuple après leur destruction ?",
+"options_ar": [
+"اليوم انتصرت عليكم بقوة ربي",
+"يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ النَّاصِحِينَ",
+"لن أعود لهذا الوادي الملعون أبداً",
+"هذا جزاء من يقتل ناقة الله البريئة"
+],
+"options_fr": [
+"Aujourd'hui j'ai triomphé de vous par la puissance de mon Seigneur",
+"Ô mon peuple, je vous ai transmis le message de mon Seigneur et je vous ai conseillé, mais vous n'aimez pas les conseillers",
+"Je ne reviendrai jamais dans cette vallée",
+"Voilà la récompense de celui qui tue la chamelle d'Allah"
+],
+"correct": 1,
+"explanation_ar": "(فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ...) نداء بعد الهلاك يبين أن القلوب المريضة تكره النصح الخالص، وهو من باب أداء الأمانة التام.",
+"explanation_fr": "Il leur rappela qu'il leur avait transmis le message de son Seigneur et leur avait donné des conseils sincères, accomplissant ainsi sa mission."
+},
+{
+"id": "salih_39",
+"question_ar": "أين تقع ديار قوم ثمود التي أشار إليها القرآن وما زالت آثارها باقية حتى اليوم وتُعرف باسم (مدائن صالح)؟",
+"question_fr": "Où se trouvent les anciennes demeures du peuple de Thamûd, aujourd'hui connues sous le nom de Madâ'in Ṣâliḥ ?",
+"options_ar": [
+"في أقصى جنوب اليمن قرب حضرموت",
+"في شمال غرب شبه الجزيرة العربية (محافظة العلا بالسعودية قريباً من الشام)",
+"في وسط سيناء بمصر",
+"في وادي الرافدين بالعراق القديم"
+],
+"options_fr": [
+"À l'extrême sud du Yémen, près de l'Hadramaout",
+"Dans le nord-ouest de la péninsule Arabique, dans la région d'Al-‘Ulâ en Arabie saoudite",
+"Au centre du Sinaï en Égypte",
+"Dans l'ancienne Mésopotamie en Irak"
+],
+"correct": 1,
+"explanation_ar": "تقع في (الحِجْر) وهو موقع أثري عظيم في العلا شمال غرب المملكة العربية السعودية، مر به النبي محمد ﷺ في غزوة تبوك.",
+"explanation_fr": "Elles se trouvent à Al-Hijr, dans la région d'Al-‘Ulâ au nord-ouest de l'Arabie saoudite. Le prophète Muhammad ﷺ passa par cette région lors de l'expédition de Tabûk."
+},
+{
+"id": "salih_40",
+"question_ar": "ما الذي جعل قوم ثمود يعتدون على الناقة رغم تحذير صالح الشديد ونظام القسمة (وَلَا تَمَسُّوهَا بِسُوءٍ...)؟",
+"question_fr": "Qu'est-ce qui poussa le peuple de Thamûd à s'en prendre à la chamelle malgré l'avertissement de Ṣāliḥ et le partage de l'eau ?",
+"options_ar": [
+"الجوع الشديد في سنة القحط",
+"استكبارهم وعنادهم، وضيقهم من استهلاكها للماء في يومها، وتصميم المفسدين التسعة على تحدي الآية الإلهية",
+"خوفهم من أن تلتهم أطفالهم لضخامتها",
+"هجوم قبيلة مجاورة لسرقتها فقتلوها لئلا تؤخذ"
+],
+"options_fr": [
+"Une forte famine",
+"Leur orgueil et leur entêtement, leur mécontentement concernant son accès à l'eau et la détermination des neuf corrupteurs à défier le signe divin",
+"La peur qu'elle mange leurs enfants à cause de sa taille",
+"La peur qu'une tribu voisine la vole"
+],
+"correct": 1,
+"explanation_ar": "كان العقر قراراً شقياً بدافع الكبر والتحدي المباشر لدعوة صالح المستمرة وللقضاء على الآية التي تقلق طغيانهم.",
+"explanation_fr": "L'abattage de la chamelle résulta de leur orgueil, de leur entêtement et de leur volonté de défier le message de Ṣāliḥ et le signe qui leur avait été donné."
+},
+{
+"id": "salih_41",
+"question_ar": "ماذا كانت الناقة تُقدّم لقوم ثمود في اليوم الذي تشرب فيه من البئر وحدها؟",
+"question_fr": "Que fournissait la chamelle au peuple de Thamûd le jour où elle avait son tour de boire au puits ?",
+"options_ar": [
+"كانت تحمل أثقالهم وبضائعهم بين القرى المجاورة",
+"كانت تُعطيهم من لبنها ما يكفيهم جميعاً فكانت بركة ورحمة حتى من الناحية المادية",
+"كانت تحرس مزارعهم من الحيوانات المفترسة ليلاً",
+"لم تكن تُقدم لهم شيئاً بل كانت عبئاً ثقيلاً عليهم فقط"
+],
+"options_fr": [
+"Elle transportait leurs marchandises entre les villages",
+"Elle leur fournissait suffisamment de lait pour tous, constituant ainsi une source de bienfait",
+"Elle protégeait leurs fermes contre les animaux sauvages",
+"Elle ne leur apportait aucun avantage et n'était qu'un fardeau"
+],
+"correct": 1,
+"explanation_ar": "الناقة لم تكن مجرد آية ومعجزة فحسب بل كانت أيضاً مصدر نفع وخير لهم، إذ كانت تُعطيهم من لبنها ما يكفي القوم جميعاً في يوم شربها.",
+"explanation_fr": "La chamelle n'était pas seulement un signe miraculeux : elle leur apportait également un bienfait concret en leur donnant suffisamment de lait le jour où elle avait son tour."
+},
+{
+"id": "salih_42",
+"question_ar": "بماذا ذكّر صالح عليه السلام قومه ثمود ليحثّهم على شكر الله واتّباع دعوته للتوحيد؟",
+"question_fr": "Par quels bienfaits Ṣāliḥ rappela-t-il au peuple de Thamûd de remercier Allah et de suivre son appel au monothéisme ?",
+"options_ar": [
+"أنهم أقوى أمم الأرض جميعاً في ذلك الزمان",
+"أن الله جعلهم خلفاء من بعد عاد وبوّأهم في الأرض يتخذون من سهولها قصوراً وينحتون الجبال بيوتاً",
+"أن جيرانهم من القبائل سيغزونهم حتماً إن لم يؤمنوا",
+"أن مواشيهم وأنعامهم ستنفق وتهلك إن ظلوا على الكفر"
+],
+"options_fr": [
+"Qu'ils étaient le peuple le plus puissant de la terre à cette époque",
+"Qu'Allah les avait établis après le peuple de ‘Âd et leur avait donné une terre où ils construisaient des palais dans les plaines et des maisons dans les montagnes",
+"Que les tribus voisines les attaqueraient s'ils ne croyaient pas",
+"Que leur bétail mourrait s'ils persistaient dans la mécréance"
+],
+"correct": 1,
+"explanation_ar": "(وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِن بَعْدِ عَادٍ وَبَوَّأَكُمْ فِي الْأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا) ذكّرهم بنعمة الاستخلاف والتمكين في الأرض.",
+"explanation_fr": "Il leur rappela qu'Allah les avait établis sur la terre après ‘Âd et leur avait accordé la capacité de construire des palais dans les plaines et des maisons dans les montagnes."
+},
+{
+"id": "salih_43",
+"question_ar": "ماذا حدث لوجوه قوم ثمود خلال الأيام الثلاثة التي أمهلهم الله إياها قبل نزول العذاب المُهلك؟",
+"question_fr": "Que serait-il arrivé, selon certains récits, aux visages du peuple de Thamûd durant les trois jours de délai avant le châtiment ?",
+"options_ar": [
+"لم يتغير فيهم شيء وعاشوا حياتهم الطبيعية حتى الصيحة",
+"اصفرّت وجوههم في اليوم الأول واحمرّت في الثاني واسودّت في الثالث كعلامات متدرجة",
+"أُصيبوا بمرض جلدي ظاهر انتشر في أبدانهم فقط",
+"نمت في وجوههم شعور بيضاء كثيفة غريبة كعلامة على العذاب"
+],
+"options_fr": [
+"Rien ne changea et ils vécurent normalement jusqu'au cri",
+"Leurs visages devinrent jaunes le premier jour, rouges le deuxième et noirs le troisième, selon certains récits",
+"Ils furent touchés uniquement par une maladie de peau visible",
+"Des poils blancs poussèrent sur leurs visages comme signe du châtiment"
+],
+"correct": 1,
+"explanation_ar": "كانت هذه العلامات المتدرجة في تغير ألوان الوجوه إنذاراً ربانياً أخيراً يؤكد وعد صالح لهم بأن العذاب قادم لا محالة بعد ثلاثة أيام.",
+"explanation_fr": "Selon certains récits rapportés dans les exégèses, ces changements progressifs de couleur constituaient un dernier avertissement avant le châtiment."
+},
+{
+"id": "salih_44",
+"question_ar": "ما هو موقف أكثر قوم ثمود من الناقة المعجزة بعد أن رأوها تخرج من الصخرة الصماء أمام أعينهم؟",
+"question_fr": "Quelle fut l'attitude de la majorité du peuple de Thamûd après avoir vu la chamelle sortir du rocher ?",
+"options_ar": [
+"آمنوا جميعاً في البداية ثم ارتدوا بعد أسبوع واحد",
+"لم يؤمن إلا القليل منهم واستكبر أكثرهم وبقوا على شركهم وعنادهم رغم وضوح الآية",
+"آمن نصفهم بالضبط وكفر النصف الآخر بالتساوي",
+"آمنوا كلهم لكنهم عقروا الناقة بسبب الجوع الشديد الذي أصابهم"
+],
+"options_fr": [
+"Ils crurent tous au début puis renièrent leur foi après une semaine",
+"Seul un petit nombre crut, tandis que la majorité resta dans l'orgueil, l'associationnisme et l'entêtement malgré le signe évident",
+"La moitié crut exactement et l'autre moitié mécrut",
+"Ils crurent tous mais abattirent la chamelle à cause d'une grande famine"
+],
+"correct": 1,
+"explanation_ar": "المعجزات وحدها لا تكفي لهداية من أعمى الله قلبه بكبره وعناده، فالناقة خرجت أمامهم حية من صخرة صماء فلم يؤمن إلا القليل منهم.",
+"explanation_fr": "Le récit souligne que le miracle ne suffit pas à guider ceux qui persistent dans l'orgueil et l'entêtement. Seul un petit nombre crut."
+},
+{
+"id": "salih_45",
+"question_ar": "كم نوعاً من المساكن كان لقوم ثمود كما ذُكر في القرآن في قوله (تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًا)؟",
+"question_fr": "Combien de types d'habitations le peuple de Thamûd possédait-il selon le Coran ?",
+"options_ar": [
+"نوع واحد فقط وهو بيوت الجبال المنحوتة في الصخر",
+"نوعان: قصور في السهول المنبسطة وبيوت منحوتة في الجبال الصلبة",
+"ثلاثة أنواع تشمل الخيام في الصحراء إلى جانب القصور والمنحوتات",
+"كانوا بدواً رحّلاً لا مساكن ثابتة لهم أصلاً"
+],
+"options_fr": [
+"Un seul type : des maisons taillées dans les montagnes",
+"Deux types : des palais dans les plaines et des maisons taillées dans les montagnes",
+"Trois types, incluant des tentes dans le désert",
+"Ils étaient nomades et n'avaient aucune habitation fixe"
+],
+"correct": 1,
+"explanation_ar": "أنعم الله عليهم بالقدرة على بناء نوعين عظيمين من المساكن: قصور فخمة في الأراضي السهلة المنبسطة وبيوت محفورة بمهارة فائقة في الصخر الصلب.",
+"explanation_fr": "Allah leur avait accordé la capacité de construire deux types d'habitations : des palais dans les plaines et des maisons habilement taillées dans la roche."
+},
+{
+"id": "salih_46",
+"question_ar": "كيف نجّى الله صالحاً عليه السلام والمؤمنين معه من العذاب كما جاء في سورة هود؟",
+"question_fr": "Comment Allah sauva-t-Il Ṣāliḥ et les croyants avec lui du châtiment, selon la sourate Hûd ?",
+"options_ar": [
+"هاجروا بأنفسهم دون أمر إلهي قبل سنوات من وقوع العذاب",
+"نجّاهم الله برحمة منه قبل نزول العذاب ومن خزي يومئذ (فَلَمَّا جَاءَ أَمْرُنَا نَجَّيْنَا صَالِحًا وَالَّذِينَ آمَنُوا مَعَهُ بِرَحْمَةٍ مِّنَّا)",
+"رفعهم الله إلى السماء كما رفع عيسى عليه السلام",
+"حماهم الله داخل بيوتهم المنحوتة بينما أهلك الباقين حولهم"
+],
+"options_fr": [
+"Ils émigrèrent de leur propre initiative plusieurs années avant le châtiment",
+"Allah les sauva par Sa miséricorde avant le châtiment et les préserva de l'humiliation de ce jour",
+"Allah les éleva au ciel comme Jésus",
+"Allah les protégea dans leurs maisons taillées dans la roche"
+],
+"correct": 1,
+"explanation_ar": "النجاة كانت رحمة خاصة من الله لصالح ومن آمن معه، أخرجهم من بين القوم قبل نزول الصيحة المدمرة وحفظهم من خزي ذلك اليوم العظيم.",
+"explanation_fr": "Leur salut fut une miséricorde particulière d'Allah envers Ṣāliḥ et ceux qui avaient cru avec lui. Allah les préserva avant que le châtiment n'atteigne le peuple."
+},
+{
+"id": "salih_47",
+"question_ar": "ما هي المواصفات الدقيقة التي اشترطها قوم ثمود في الناقة المعجزة التي طلبوها من صالح لإثبات نبوّته؟",
+"question_fr": "Quelles caractéristiques précises le peuple de Thamûd aurait-il demandées pour la chamelle miraculeuse afin de tester la véracité de Ṣāliḥ ?",
+"options_ar": [
+"أي ناقة عادية تخرج من أي مكان في الوادي دون شرط",
+"ناقة عُشراء (حامل في شهرها العاشر) عظيمة الخلق تخرج من صخرة صماء بعينها أشاروا إليها",
+"ناقة بيضاء اللون تطير في الهواء وتحمل الناس فوق الجبال",
+"ناقة ذهبية اللون تتكلم بلسان عربي وتُخبرهم بالغيب"
+],
+"options_fr": [
+"N'importe quelle chamelle ordinaire sortant de n'importe quel endroit de la vallée",
+"Une grande chamelle pleine, au dixième mois, qui sortirait d'un rocher précis qu'ils avaient désigné",
+"Une chamelle blanche capable de voler et de transporter les gens au-dessus des montagnes",
+"Une chamelle dorée parlant arabe et connaissant l'invisible"
+],
+"correct": 1,
+"explanation_ar": "اشترطوا مواصفات دقيقة ظنوا أنها تعجيزية: ناقة عشراء ضخمة كاملة الخلق تخرج من صخرة صماء محددة، فاستجاب الله لدعاء صالح وأخرجها كما طلبوا تماماً.",
+"explanation_fr": "Selon les récits rapportés, ils demandèrent des caractéristiques qu'ils pensaient impossibles : une grande chamelle pleine sortant d'un rocher précis. Allah fit apparaître le signe demandé."
+},
+{
+"id": "salih_48",
+"question_ar": "ما هو الدرس العظيم المستفاد من عقر قُدار للناقة وحده ثم هلاك قوم ثمود بأكملهم بالعذاب؟",
+"question_fr": "Quelle leçon peut-on tirer du fait que Qudâr abattit la chamelle alors que tout le peuple de Thamûd fut ensuite châtié ?",
+"options_ar": [
+"أن العقاب الجماعي غير عادل في جميع الأحوال والأزمان",
+"أن رضا الإنسان بالمنكر يجعله شريكاً في الذنب، فقُدار عقر الناقة وحده لكن العذاب أهلك القوم جميعاً لرضاهم وتحريضهم",
+"أن الله يعاقب البريء مع المذنب عشوائياً بلا تمييز",
+"أن من لم يُشارك في العقر كان عليه الهجرة فقط دون الحاجة للإيمان"
+],
+"options_fr": [
+"Que la punition collective est toujours injuste",
+"Que l'approbation d'un acte répréhensible peut rendre une personne responsable de ce qu'elle approuve ; Qudâr abattit la chamelle, tandis que le peuple l'approuva et l'encouragea",
+"Qu'Allah punit au hasard les innocents avec les coupables",
+"Que ceux qui ne participèrent pas à l'abattage devaient seulement émigrer"
+],
+"correct": 1,
+"explanation_ar": "نسب القرآن فعل العقر للجميع بصيغة الجمع (فَعَقَرُوهَا) لأنهم رضوا وحرّضوا ووافقوا المُباشر، وهذا درس عظيم في المسؤولية الجماعية عن المنكر.",
+"explanation_fr": "Le Coran attribue l'acte au groupe au pluriel car ils l'avaient approuvé et encouragé. Le récit met ainsi en évidence la responsabilité liée à l'approbation du mal."
+},
+{
+"id": "salih_49",
+"question_ar": "ما الدرس المستفاد من إمهال الله لقوم ثمود ثلاثة أيام قبل إنزال العذاب عليهم (تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ)؟",
+"question_fr": "Quelle leçon peut-on tirer du délai de trois jours accordé au peuple de Thamûd avant le châtiment ?",
+"options_ar": [
+"أن الله تردد في معاقبتهم ثم حسم أمره بعد ثلاثة أيام",
+"أن الله يُمهل ولا يُهمل فأمهلهم فرصة أخيرة للتوبة لكنه لم يُسقط عنهم العقاب بعد انقضاء المهلة",
+"أن الأيام الثلاثة كانت مجرد مصادفة وليست مهلة مقصودة من الله",
+"أن العذاب تأخر لأن الملائكة لم تكن مستعدة لتنفيذه في ذلك الوقت"
+],
+"options_fr": [
+"Qu'Allah hésita à les punir puis prit Sa décision après trois jours",
+"Qu'Allah accorde un délai sans négliger les actes : Il leur accorda un dernier délai, mais le châtiment annoncé demeura après son expiration",
+"Que les trois jours étaient une simple coïncidence",
+"Que le châtiment fut retardé parce que les anges n'étaient pas prêts"
+],
+"correct": 1,
+"explanation_ar": "الإمهال سنة إلهية تُظهر عدل الله ورحمته، فيعطي الفرصة الأخيرة للتوبة والرجوع لكنه لا يترك الظالمين المعاندين بلا حساب ولا عقاب.",
+"explanation_fr": "Le délai accordé montre la possibilité du repentir et le fait que le châtiment annoncé n'est pas annulé simplement par l'écoulement du temps."
+},
+{
+"id": "salih_50",
+"question_ar": "لماذا أبقى الله آثار ديار ثمود المدمّرة ظاهرة في الأرض ولم يطمسها كما جاء في القرآن الكريم؟",
+"question_fr": "Pourquoi Allah a-t-Il laissé visibles les traces des demeures détruites de Thamûd ?",
+"options_ar": [
+"لأن الصخور كانت صلبة جداً يستحيل تدميرها بالكامل حتى بالصيحة",
+"ليجعلها آية بيّنة وعبرة للعقلاء والمارّين بها (وَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ)",
+"لأن الصيحة أصابت أجسادهم فقط ولم تمس مبانيهم وقصورهم",
+"لتكون مزاراً سياحياً ترفيهياً للأمم اللاحقة فحسب"
+],
+"options_fr": [
+"Parce que les rochers étaient trop solides pour être entièrement détruits",
+"Afin d'en faire un signe évident et une leçon pour les gens doués de raison et ceux qui passent par ces lieux",
+"Parce que le cri ne toucha que leurs corps et pas leurs bâtiments",
+"Pour en faire uniquement une destination touristique pour les générations suivantes"
+],
+"correct": 1,
+"explanation_ar": "ترك الله آثار ثمود (مدائن صالح في العلا) عبرة حية باقية لكل من يمر بها ويتفكر في مصير الطغاة، فهي دليل مادي شاهد على عاقبة التكذيب والكبر.",
+"explanation_fr": "Allah a laissé les traces de Thamûd comme une leçon durable pour ceux qui passent par ces lieux et méditent sur le destin de ceux qui ont rejeté le message et persisté dans l'orgueil."
+}
+]

@@ -1,0 +1,375 @@
+{
+  "app": {
+    "name": "Olten",
+    "subtitle": "Sur les traces des prophètes"
+  },
+
+  "splash": {
+    "learn_discover_grow": "Apprends, découvre, grandis",
+    "with_their_stories": "avec leurs histoires"
+  },
+
+  "common": {
+    "start": "Commencer"
+  },
+
+  "onboarding": {
+    "slides": {
+      "stories": {
+        "title": "Les histoires des prophètes",
+        "subtitle": "Une source de sagesse et de lumière",
+        "description": "Découvrez les histoires des prophètes à travers une bibliothèque riche et interactive. Apprenez leurs enseignements, testez vos connaissances et relevez des défis passionnants !"
+      },
+      "quiz": {
+        "title": "Quiz et défis",
+        "subtitle": "Apprends en t’amusant",
+        "description": "Teste tes connaissances en solo ou affronte tes amis en direct grâce au mode 1 contre 1, et suis ta progression étape par étape."
+      },
+      "offline": {
+        "title": "Disponible hors ligne",
+        "subtitle": "Apprends où que tu sois",
+        "description": "Télécharge les fiches, l’audio et les illustrations pour continuer à apprendre même sans connexion internet."
+      }
+    },
+    "start": "Commencer l’aventure",
+    "next": "Suivant",
+    "skip": "Passer"
+  },
+
+  "home": {
+    "tabs": {
+      "stories": "Histoires",
+      "quran": "Coran",
+      "online": "En ligne",
+      "settings": "Paramètres"
+    },
+    "quiz": "Quiz",
+    "challenges": "Défis",
+    "discover_learn": "Découvre & Apprends",
+    "see_all": "Voir tout",
+    "greeting": "Bonjour ! 👋",
+    "hero_description": "Prêt à découvrir les histoires des prophètes et à relever de nouveaux défis ?",
+    "stories": "Histoires",
+    "stories_description": "Plonge dans les récits fascinants des prophètes.",
+    "progress": "Ma progression",
+    "continue_learning": "Continue ton apprentissage",
+    "play_online": "Jouer en ligne",
+    "online": "En ligne",
+    "online_description": "Affronte d'autres joueurs en temps réel !",
+    "quote": "« Et rappelle, car le rappel profite aux croyants. »",
+    "quote_reference": "Sourate Adh-Dhâriyât (51:55)",
+    "coming_soon": "Cette page sera disponible prochainement."
+  },
+
+  "register": {
+    "title": "Créer un compte",
+    "subtitle": "Rejoins Olten pour continuer ton apprentissage",
+    "fields": {
+      "fullName": "Nom complet",
+      "email": "Adresse e-mail",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe"
+    },
+    "buttons": {
+      "register": "S'inscrire"
+    },
+    "socialDivider": "Ou s'inscrire avec",
+    "loginPrompt": "Vous avez déjà un compte ? ",
+    "login": "Se connecter",
+    "validation": {
+      "nameRequired": "Veuillez saisir votre nom",
+      "nameShort": "Nom trop court",
+      "emailRequired": "Veuillez saisir votre email",
+      "emailInvalid": "Email invalide",
+      "passwordRequired": "Veuillez saisir un mot de passe",
+      "passwordShort": "6 caractères minimum",
+      "confirmPasswordRequired": "Veuillez confirmer votre mot de passe",
+      "passwordMismatch": "Les mots de passe ne correspondent pas"
+    },
+    "snackbar": {
+      "emailConfirmation": "Compte créé. Vérifie ton adresse e-mail avant de te connecter.",
+      "googleStarted": "Connexion Google lancée...",
+      "appleStarted": "Connexion Apple lancée..."
+    },
+    "errors": {
+      "accountCreationFailed": "Impossible de créer le compte.",
+      "registrationFailed": "Échec de l'inscription :",
+      "googleFailed": "Impossible de continuer avec Google.",
+      "appleFailed": "Impossible de continuer avec Apple.",
+      "emailAlreadyUsed": "Cette adresse e-mail est déjà utilisée.",
+      "passwordInvalid": "Le mot de passe n'est pas valide.",
+      "emailInvalid": "Adresse e-mail invalide."
+    }
+  },
+
+  "login": {
+    "title": "Bon retour !",
+    "subtitle": "Connecte-toi pour continuer ton apprentissage",
+    "fields": {
+      "email": "Adresse e-mail",
+      "password": "Mot de passe"
+    },
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "buttons": {
+      "login": "Se connecter"
+    },
+    "socialDivider": "Ou se connecter avec",
+    "registerPrompt": "Vous n'avez pas de compte ? ",
+    "register": "Créer un compte",
+    "validation": {
+      "emailRequired": "Veuillez saisir votre email",
+      "emailInvalid": "Email invalide",
+      "passwordRequired": "Veuillez saisir votre mot de passe",
+      "passwordShort": "6 caractères minimum"
+    },
+    "snackbar": {
+      "googleStarted": "Connexion Google lancée...",
+      "appleStarted": "Connexion Apple lancée..."
+    },
+    "errors": {
+      "userNotFound": "Utilisateur introuvable.",
+      "loginFailed": "Échec de la connexion :",
+      "googleFailed": "Impossible de continuer avec Google.",
+      "appleFailed": "Impossible de continuer avec Apple.",
+      "invalidCredentials": "Email ou mot de passe incorrect.",
+      "emailNotConfirmed": "Confirme ton adresse e-mail avant de te connecter.",
+      "tooManyAttempts": "Trop de tentatives. Réessaie plus tard."
+    }
+  },
+
+  "forgotPassword": {
+    "title": "Mot de passe oublié ?",
+    "subtitle": "Entre ton adresse e-mail et nous t'enverrons un lien pour réinitialiser ton mot de passe.",
+    "fields": {
+      "email": "Adresse e-mail"
+    },
+    "buttons": {
+      "reset": "Réinitialiser le mot de passe"
+    },
+    "backToLogin": "Retour à la connexion",
+    "validation": {
+      "emailRequired": "Veuillez saisir votre email",
+      "emailInvalid": "Email invalide"
+    },
+    "success": "Un lien de réinitialisation a été envoyé à votre adresse e-mail.",
+    "errors": {
+      "general": "Une erreur est survenue :"
+    }
+  },
+
+  "profile": {
+    "title": "Paramètres",
+    "sections": {
+      "preferences": "Préférences",
+      "about": "À propos"
+    },
+    "language": {
+      "title": "Langue",
+      "french": "Français",
+      "arabic": "العربية",
+      "choose": "Choisir la langue"
+    },
+    "notifications": "Notifications",
+    "appearance": "Apparence",
+    "aboutOlten": "À propos de Olten",
+    "privacy": "Confidentialité",
+    "guest": "Invité",
+    "defaultUser": "Utilisateur Olten",
+    "guestProgress": "Progression locale non synchronisée",
+    "connectedAccount": "Compte Olten connecté",
+    "createAccount": "Créer un compte",
+    "login": "Se connecter",
+    "continueAsGuest": "Continuer en invité",
+    "logout": "Se déconnecter",
+    "loggingOut": "Déconnexion...",
+    "chooseAvatar": "Choisir un avatar",
+    "customizeProfile": "Personnalisez votre profil Olten",
+    "loggedOut": "Vous êtes déconnecté.",
+    "logoutError": "Impossible de se déconnecter.",
+    "themeSaveError": "Impossible d’enregistrer le mode d’apparence.",
+    "avatarSavedLocally": "Avatar enregistré localement.",
+    "version": "Sur les traces des prophètes · v1.0.0"
+  },
+
+  "tabs": {
+    "home": "Accueil",
+    "stories": "Histoires",
+    "quran": "Coran",
+    "online": "En ligne",
+    "settings": "Paramètres"
+  },
+
+  "prophet_details": {
+    "prophet_number": "PROPHÈTE {}",
+    "stories": "Histoires",
+    "references": "Références",
+    "lessons": "Leçons",
+    "about": "À propos",
+    "story": "Histoire {}",
+    "quran_references": "Références coraniques",
+    "lessons_to_remember": "Leçons à retenir",
+
+    "quiz": {
+      "title": "Quiz",
+      "subtitle": "Teste tes connaissances",
+      "level": "Niveau {}",
+      "completed_count": "{} / {}",
+      "completed_badge": "10/10",
+      "questions_completed": "{} questions • Niveau terminé",
+      "questions_best": "{} questions • Meilleur score : {}/{}",
+      "questions_unlock_next": "{} questions • Obtiens 10/10 pour débloquer le suivant",
+      "locked": "Termine le niveau précédent avec 10/10"
+    },
+
+    "pdf": {
+      "success": "Le PDF a été généré avec succès.",
+      "error": "Impossible de générer le PDF.",
+      "generating": "Génération du PDF...",
+      "download": "Télécharger en PDF"
+    },
+
+    "empty_stories": "Aucune histoire disponible.",
+
+    "errors": {
+      "data": "Impossible de charger les données.",
+      "not_found": "Prophète introuvable."
+    }
+  },
+
+  "prophets": {
+    "title": "Les prophètes",
+    "count": "{} prophètes",
+    "discover_story": "Découvrir son histoire",
+    "level": "Niveau {}",
+    "progress": "Progression",
+
+    "errors": {
+      "load": "Impossible de charger les prophètes.",
+      "title": "Une erreur est survenue.",
+      "not_found": "Prophète introuvable."
+    },
+
+    "empty": "Aucun prophète disponible."
+  },
+
+  "quiz": {
+    "title": "Quiz des prophètes",
+    "prophets_count": "{} prophètes à découvrir",
+    "locked_message": "Termine le niveau précédent avec 10/10 pour débloquer celui-ci.",
+    "empty_prophets": "Aucun prophète disponible.",
+    "no_quiz_for_prophet": "Aucun quiz disponible pour ce prophète.",
+    "levels_count": "{} niveaux",
+    "unlocked_count": "{} débloqués",
+    "progress": "Progression",
+    "completed_percent": "{}% terminé",
+    "choose_level": "Choisis ton niveau",
+
+    "level": "Niveau {}",
+    "questions": "{} questions",
+    "completed": "Terminé",
+    "question": "Question",
+
+    "result_title": "Résultat du quiz",
+    "bravo": "Bravo !",
+    "well_played": "Bien joué !",
+    "you_got": "Tu as obtenu",
+    "your_result": "Voici ton résultat",
+    "level_completed": "Tu as terminé ce niveau.",
+    "keep_going": "Continue tes efforts pour progresser",
+
+    "level_2_unlocked": "Le niveau 2 est maintenant débloqué.",
+    "next_level_unlocked": "Le niveau suivant est maintenant débloqué.",
+    "score_to_unlock": "Obtiens 10/10 pour débloquer le niveau suivant.",
+
+    "replay": "Rejouer",
+    "try_again": "Réessayer",
+    "view_correction": "Voir la correction",
+    "back_to_levels": "Retour aux niveaux"
+  },
+
+  "quiz_play": {
+    "title": "Quiz",
+    "solo": "Quiz solo",
+    "level": "Niveau {}",
+    "empty_questions": "Aucune question disponible pour ce niveau.",
+    "validate": "Valider",
+    "see_result": "Voir le résultat",
+    "next_question": "Question suivante",
+    "correct": "Bonne réponse !",
+    "correct_answer": "Voici la bonne réponse."
+  },
+  "multiplayer": {
+    "title": "Quiz en ligne",
+    "subtitle": "Affrontez un autre joueur",
+    "searching": "Recherche d'un adversaire...",
+    "find_opponent": "Trouver un adversaire",
+    "searching_description": "Nous recherchons un joueur disponible.",
+    "find_opponent_description": "Affrontez un joueur aléatoire pendant 3 minutes.",
+    "search": "Jouer en ligne",
+    "cancel": "Annuler",
+    "mode": "Mode de jeu",
+    "random_match": "Match aléatoire",
+    "random_match_description": "Un adversaire disponible sera choisi automatiquement.",
+    "friend": "Jouer avec un ami",
+    "create_private": "Créer une partie privée",
+    "join_private": "Rejoindre avec un code",
+    "private_created": "Partie privée créée",
+    "share_code": "Partagez ce code avec votre ami",
+    "waiting_friend": "En attente de votre ami...",
+    "close": "Fermer",
+    "code_hint": "Code de la partie",
+    "join": "Rejoindre",
+    "joining": "Connexion à la partie",
+    "you": "Vous",
+    "opponent": "Adversaire",
+    "quiz": "Quiz en ligne",
+    "draw": "Match nul",
+    "you_win": "Vous avez gagné !",
+    "you_lose": "Vous avez perdu",
+    "final_score": "Score final",
+    "back": "Retour",
+    "no_questions": "Aucune question disponible.",
+    "info": "Les questions sont sélectionnées parmi tous les prophètes. La partie dure 3 minutes.",
+    "wins": "victoires",
+    "wins_to_next": "victoires pour le niveau suivant"
+  },
+
+  "online_quiz": "Quiz en ligne",
+  "online_challenge": "Défi en ligne",
+  "online_challenge_description": "Affrontez d'autres joueurs et progressez dans les niveaux.",
+  "your_level": "Votre niveau",
+  "level_beginner": "Débutant",
+  "level_intermediate": "Intermédiaire",
+  "level_advanced": "Avancé",
+  "level_expert": "Expert",
+  "level_master": "Maître",
+  "maximum_level": "Niveau maximum atteint",
+  "wins_to_next_level": "Encore {} victoire(s) pour passer au niveau suivant",
+  "random_match": "Match aléatoire",
+  "random_match_description": "Affrontez automatiquement un joueur du niveau {}.",
+  "questions": "questions",
+  "cancel_search": "Annuler la recherche",
+  "find_opponent": "Trouver un adversaire",
+  "searching_opponent": "Recherche d'un adversaire...",
+  "play_with_friend": "Jouer avec un ami",
+  "same_level_friend": "Seuls les amis en ligne du même niveau peuvent jouer.",
+  "no_friends_available": "Aucun ami disponible pour le moment.",
+  "offline": "Hors ligne",
+  "play": "Jouer",
+  "question": "Question",
+  "question_counter": "Question {} / {}",
+  "you": "Vous",
+  "opponent": "Adversaire",
+  "level_short": "Niveau {}",
+  "online": "En ligne",
+  "no_questions": "Aucune question disponible.",
+  "draw": "Égalité",
+  "victory": "Victoire !",
+  "defeat": "Défaite",
+  "your_score": "Votre score",
+  "finish": "Terminer"
+
+
+
+}

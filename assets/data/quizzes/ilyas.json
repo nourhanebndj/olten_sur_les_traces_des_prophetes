@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ilyas_01",
+    "question_ar": "ما هو أقوى دليل من القرآن على نبوة إلياس ورسالته؟",
+    "options_ar": ["ورود اسمه في قصة أصحاب الكهف.", "قوله تعالى بصريح العبارة: (وَإِنَّ إِلْيَاسَ لَمِنَ الْمُرْسَلِينَ).", "عدم وجود آية بل حديث نبوي فقط.", "أنه مذكور كملك من الملوك العادلين وليس رسولاً."],
+    "correct": 1,
+    "explanation_ar": "نص القرآن بوضوح على أنه (من المرسلين) في سورة الصافات، وثبتت حجته في الدعوة.",
+    "question_fr": "Quelle est la preuve coranique la plus forte de la prophétie et de la mission d'Ilyas ?",
+    "options_fr": ["La mention de son nom dans l'histoire des Compagnons de la Caverne", "La parole explicite d'Allah : « Et Ilyas était certes du nombre des envoyés »", "L'absence de verset, seul un hadith prophétique l'atteste", "Il est mentionné comme un roi juste, non comme un messager"],
+    "explanation_fr": "Le Coran précise clairement qu'il était « du nombre des envoyés » dans la sourate as-Saffat, confirmant ainsi son argument dans la prédication."
+  },
+  {
+    "id": "ilyas_02",
+    "question_ar": "ما اسم الصنم العظيم الذي كان قوم إلياس يعبدونه باستماتة وتركوا الله لأجله؟",
+    "options_ar": ["هبل، الصنم القرشي المشهور.", "بَعْلاً (أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ)، وهو صنم عظيم من ذهب كان يُعبد في الشام.", "ود وسواع ويغوث ويعوق ونسرا.", "مناة الثالثة الأخرى ومكانها بالطائف."],
+    "correct": 1,
+    "explanation_ar": "(بعل) كان صنماً مشهوراً، ومدينة (بعلبك) اللبنانية يُقال أنها سُميت نسبة إليه لاعتكافهم عليه.",
+    "question_fr": "Quel est le nom de la grande idole que le peuple d'Ilyas adorait avec acharnement, délaissant Allah pour elle ?",
+    "options_fr": ["Hubal, la célèbre idole des Quraych", "Ba'l (« Invoquerez-vous Ba'l et délaisserez-vous le Meilleur des créateurs ? »), une grande idole d'or adorée au Cham", "Wadd, Suwa', Yaghuth, Ya'uq et Nasr", "Manat, la troisième, dont le lieu était à Ta'if"],
+    "explanation_fr": "« Ba'l » était une idole célèbre, et l'on dit que la ville libanaise de Baalbek tire son nom de son culte assidu."
+  },
+  {
+    "id": "ilyas_03",
+    "question_ar": "كيف استنكر إلياس على قومه عبادة هذا الصنم (بعل) بأسلوب التوحيد الصافي؟",
+    "options_ar": ["طلب منهم أن يشركوا الله مع الصنم بالتساوي.", "قال: (اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ) مذكراً إياهم بخالقهم الأول وخالق أجدادهم، ومستهجناً تركهم لـ (أحسن الخالقين) لأجل جماد.", "أمرهم بأن يصنعوا صنماً أكبر منه.", "وعدهم بالمال إن حطموا الصنم طوعاً."],
+    "correct": 1,
+    "explanation_ar": "الدعوة للتوحيد تقتضي إبطال الشرك بالمحاجة العقلية: كيف تعبدون مصمتاً وتتركون الخالق الرازق، رب الماضي والحاضر!",
+    "question_fr": "Comment Ilyas a-t-il dénoncé, dans un pur esprit d'unicité divine, l'adoration de cette idole (Ba'l) par son peuple ?",
+    "options_fr": ["Il leur demanda d'associer Allah à l'idole à parts égales", "Il dit : « Allah, votre Seigneur et le Seigneur de vos ancêtres », leur rappelant leur Créateur premier et celui de leurs aïeux, dénonçant l'abandon du « Meilleur des créateurs » pour un objet inerte", "Il leur ordonna de fabriquer une idole encore plus grande", "Il leur promit de l'argent s'ils brisaient volontairement l'idole"],
+    "explanation_fr": "Appeler à l'unicité exige de réfuter l'association par l'argument rationnel : comment adorer un objet solide et délaisser le Créateur nourricier, Seigneur du passé et du présent !"
+  },
+  {
+    "id": "ilyas_04",
+    "question_ar": "ماذا كان رد فعل قوم إلياس تجاه دعوته العقلانية النبيلة للتوحيد؟",
+    "options_ar": ["استجابوا فوراً وحطموا البعل بأيديهم.", "فكذبوه، فحكم الله عليهم بالهلاك والحساب العسير: (فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ) أي سيُحضرون جميعاً في العذاب يوم القيامة.", "طلبوا منه مهلة سنة للتفكير فيها.", "جعلوه حاكماً عليهم مكافأة للصدق."],
+    "correct": 1,
+    "explanation_ar": "التكذيب هو دأب المشركين المتشبثين بآلهتهم المادية، وعقوبة هذا العناد هي (الإحضار) القسري للعذاب الأليم.",
+    "question_fr": "Quelle fut la réaction du peuple d'Ilyas face à son noble appel rationnel à l'unicité ?",
+    "options_fr": ["Ils répondirent immédiatement et brisèrent Ba'l de leurs mains", "Ils le traitèrent de menteur, et Allah les condamna à la perdition et à un jugement sévère : « Ils le traitèrent de menteur ; ils seront donc du nombre de ceux qu'on amènera [au châtiment] »", "Ils lui demandèrent un délai d'un an pour réfléchir", "Ils le firent roi sur eux en récompense de sa sincérité"],
+    "explanation_fr": "Le rejet fut la constante des associateurs attachés à leurs divinités matérielles ; la sanction de cet entêtement est cet « amènement » forcé vers le châtiment douloureux."
+  },
+  {
+    "id": "ilyas_05",
+    "question_ar": "مَنْ الذي استثناه الله من عذاب وثنية قوم إلياس (المحضرين للعذاب)؟",
+    "options_ar": ["العبيد والخدم في معبد الصنم.", "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ. (وهم القلة المؤمنة التي صدقت إلياس وأخلصوا لله، فنجاهم الله من عذاب الدنيا والآخرة).", "الأغنياء الذين دفعوا الفدية للنبي.", "النساء والأطفال جميعاً دون استثناء."],
+    "correct": 1,
+    "explanation_ar": "الاستثناء دائماً لأهل التوحيد (المُخلَصين)؛ فالله لا يهلك مؤمناً مع المكذبين في نزول العقاب الشامل.",
+    "question_fr": "Qui Allah a-t-Il exclu du châtiment infligé au peuple idolâtre d'Ilyas ?",
+    "options_fr": ["Les esclaves et serviteurs du temple de l'idole", "« Excepté les serviteurs élus d'Allah » (la minorité croyante qui crut Ilyas et Lui fut sincèrement dévouée ; Allah les sauva du châtiment d'ici-bas et de l'au-delà)", "Les riches ayant payé une rançon au prophète", "Toutes les femmes et tous les enfants, sans exception"],
+    "explanation_fr": "L'exception revient toujours aux gens du monothéisme (les « élus ») ; Allah n'anéantit jamais un croyant avec les négateurs lors du châtiment collectif."
+  },
+  {
+    "id": "ilyas_06",
+    "question_ar": "ما الذي تركه الله لإلياس كنهاية مشرفة لسيرته ولتضحيته بدعوة المكذبين؟",
+    "options_ar": ["كنوزاً عظيمة تحت جبل الطور.", "وَتَرَكْنَا عَلَيْهِ فِي الْآخِرِينَ. (أبقى الله ثناءً عطراً وذكراً جميلاً له في الأجيال اللاحقة وفي كل الأمم المتعاقبة حتى يوم القيامة).", "ترك له ذرية تحكم الأرض كالملوك.", "ترك له كتاباً كبيراً يُقرأ مثل التوراة."],
+    "correct": 1,
+    "explanation_ar": "الثناء الحسن في التاريخ هو جزاء رباني للأنبياء (كما قال إبراهيم: واجعل لي لسان صدق في الآخرين).",
+    "question_fr": "Qu'a laissé Allah à Ilyas, comme conclusion honorable de sa vie et récompense de son sacrifice dans la prédication ?",
+    "options_fr": ["D'immenses trésors sous le mont Tur", "« Et Nous perpétuâmes son [renom] dans la postérité » (Allah lui préserva un bel éloge et un souvenir glorieux à travers les générations et les nations successives jusqu'au Jour de la Résurrection)", "Une descendance régnant sur la terre comme des rois", "Un grand livre à lire, comme la Torah"],
+    "explanation_fr": "Le bel éloge dans l'histoire est une récompense divine accordée aux prophètes (comme Ibrahim le demanda : « Accorde-moi une réputation glorieuse dans la postérité »)."
+  },
+  {
+    "id": "ilyas_07",
+    "question_ar": "بم سلم الله عز وجل على إلياس في القرآن الكريم؟",
+    "options_ar": ["سلام على المخلصين.", "سَلَامٌ عَلَىٰ إِلْ يَاسِينَ. وهي لغة أو قراءة في اسم (إلياس)، كالفرق بين سيناء وسينين، أو هي جمع لمن كان على دين إلياس.", "سلام على آل داود.", "سلام على بعلبك والمؤمنين."],
+    "correct": 1,
+    "explanation_ar": "التحية الإلهية (إل ياسين) ختام عظيم لمجاهدة هذا النبي، وتتويج لرسالته بسلام الله عليه في العالمين.",
+    "question_fr": "Par quelle formule Allah a-t-Il salué Ilyas dans le noble Coran ?",
+    "options_fr": ["« Paix sur les élus »", "« Paix sur Il-Yasîn » — variante orale ou lecture du nom « Ilyas » (comme la différence entre Sinaa' et Sinîn), ou pluriel désignant ceux qui suivaient sa religion", "« Paix sur la maison de Dawud »", "« Paix sur Baalbek et les croyants »"],
+    "explanation_fr": "La salutation divine « Il-Yasîn » couronne magnifiquement le combat de ce prophète et son message, scellés par la paix d'Allah dans l'univers."
+  },
+  {
+    "id": "ilyas_08",
+    "question_ar": "كيف ختم الله الثناء على إلياس في نهاية الآيات المتعلقة به في سورة الصافات؟",
+    "options_ar": ["قال: إنه كان من الملوك الجبارين القاسين.", "إِنَّ كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ * إِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِنِينَ. (وسام الإحسان والإيمان الكامل).", "قال إنه أخطأ في الدعوة ولكن غُفر له سريعا.", "قال إنه لم يصبر على أذى قومه بل هرب فوراً."],
+    "correct": 1,
+    "explanation_ar": "هذه الجملة التكريمية تتكرر مع الأنبياء المُجِدّين الصابرين (نوح، إبراهيم، موسى، إلياس) تقديراً لإحسانهم المنهجي.",
+    "question_fr": "Comment Allah conclut-Il l'éloge d'Ilyas à la fin des versets qui lui sont consacrés dans la sourate as-Saffat ?",
+    "options_fr": ["Il dit : « Il était un roi tyrannique et sévère »", "« C'est ainsi que Nous récompensons les bienfaisants. Il était certes du nombre de Nos serviteurs croyants » (distinction de la bienfaisance et de la foi parfaite)", "Il dit qu'il commit une erreur dans sa prédication, vite pardonnée", "Il dit qu'il ne supporta pas les épreuves de son peuple et s'enfuit aussitôt"],
+    "explanation_fr": "Cette formule d'honneur se répète pour les prophètes zélés et endurants (Nuh, Ibrahim, Moussa, Ilyas), en reconnaissance de leur bienfaisance constante."
+  },
+  {
+    "id": "ilyas_09",
+    "question_ar": "في سورة الأنعام، مع من ذُكر إلياس جنباً إلى جنب؟",
+    "options_ar": ["مع إدريس وهود ذوي القوة العاتية.", "مقروناً بزكريا ويحيى وعيسى وإلياس (كلٌّ من الصالحين). وهم زمرة الأنبياء الزهّاد الذين لم يكن لهم ملك طاعن ولا ثروة كبيرة.", "مع داود وسليمان الملوك الجبارين.", "مع آدم ونوح والجيل الأول فقط."],
+    "correct": 1,
+    "explanation_ar": "هم خط من خطوط النبوة يمتاز بالزهد والتقشف ومواجهة الانحراف الديني العقدي الداخلي أكثر من الصراع العسكري.",
+    "question_fr": "Dans la sourate al-An'am, avec qui Ilyas est-il mentionné ?",
+    "options_fr": ["Avec Idris et Hud, dotés d'une grande force", "Associé à Zakariyya, Yahya, Aïssa et Ilyas (« tous, parmi les vertueux »), ce groupe de prophètes austères n'ayant ni royaume conquérant ni grande richesse", "Avec Dawud et Suleyman, rois puissants", "Avec Adam et Nuh, la première génération uniquement"],
+    "explanation_fr": "Ils forment une lignée prophétique caractérisée par l'ascétisme et la sobriété, s'opposant davantage à la déviation doctrinale interne qu'au conflit militaire."
+  },
+  {
+    "id": "ilyas_10",
+    "question_ar": "ماذا كان موقف ملوك بني إسرائيل في زمن إلياس من الدين الصحيح حسب الروايات التفسيرية؟",
+    "options_ar": ["كانوا حُماة للدين وللتوراة الصافية.", "أغلبهم فتنوا بعبادة الأوثان (كالملك آخاب) لإرضاء زوجاتهم الوثنيات أو لترسيخ ملكهم، فجاء إلياس ثائراً للتوحيد ليُحذر الملوك والقوم معاً.", "كانوا لا يتدخلون في الدين أبداً.", "كانوا يعبدون الكواكب بعيداً عن صنم البعل."],
+    "correct": 1,
+    "explanation_ar": "النبي يقف عادة ضد فساد السلطة المتحالفة مع فساد العقيدة (كهنة الصنم)، وهذا هو جوهر صراع إلياس.",
+    "question_fr": "Quelle était l'attitude des rois des Fils d'Israël à l'époque d'Ilyas envers la vraie religion, selon les récits exégétiques ?",
+    "options_fr": ["Ils étaient les gardiens de la religion et de la Torah pure", "La plupart furent séduits par l'adoration des idoles (comme le roi Achab), pour satisfaire leurs épouses païennes ou consolider leur pouvoir ; Ilyas se dressa alors en défenseur de l'unicité pour avertir rois et peuple", "Ils ne s'ingéraient jamais dans les affaires religieuses", "Ils adoraient les astres, loin de l'idole Ba'l"],
+    "explanation_fr": "Le prophète se dresse généralement contre la corruption du pouvoir alliée à la corruption de la croyance (les prêtres de l'idole), ce qui est au cœur du combat d'Ilyas."
+  },
+  {
+    "id": "ilyas_11",
+    "question_ar": "بم تدل عبارة (أحسن الخالقين) التي قالها إلياس لقومه عن الله تعالى؟",
+    "options_ar": ["أن هناك آلهة كثيرة تخلق بشكل حقيقي والله أحسنها.", "المعنى: أحسن الصانعين المبدعين، فلا خالق حقيقي إلا هو. والصنم (بعل) لا يصنع شيئاً بل هو مجرد حجر أو ذهب مصنوع صُورياً لا قدرة له.", "أن الله هو الخالق الثاني وليس الأول.", "أن الكون يخلقه مجموعة من الخالقين بالشورى."],
+    "correct": 1,
+    "explanation_ar": "الخلق يطلق في اللغة على الصنع الدقيق والتقدير (كخلق عيسى من الطين كهيئة الطير)، والله هو الخالق الأوحد المطلق.",
+    "question_fr": "Que signifie l'expression « le Meilleur des créateurs », employée par Ilyas pour désigner Allah ?",
+    "options_fr": ["Qu'il existe plusieurs divinités qui créent réellement, Allah étant la meilleure", "Le sens est : le meilleur des façonneurs créatifs, car nul Créateur réel n'existe hormis Lui ; l'idole (Ba'l) ne crée rien, elle n'est qu'une pierre ou un métal façonné, sans aucun pouvoir", "Qu'Allah est le second créateur et non le premier", "Que l'univers est créé par un collège de créateurs délibérant ensemble"],
+    "explanation_fr": "En arabe, « khalq » désigne une création précise et mesurée (comme la figure d'oiseau qu'Aïssa façonna d'argile) ; Allah est le Créateur unique et absolu."
+  },
+  {
+    "id": "ilyas_12",
+    "question_ar": "ما هي الحجة المركزية لإلياس في تفنيد عبادة الأصنام (اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ)؟",
+    "options_ar": ["أن الصنم جديد جداً لم يُستعمل قبلاً.", "الارتباط التاريخي والوجودي؛ فالله خالقكم الآن، وهو الذي خلق آباءكم قبل أن يُصنع هذا الصنم، فكيف تعبدون المستحدث الميت وتتركون الخالق الأول الأزلي!", "أن الصنم القديم أجمل من الجديد الصغير.", "أن الأجداد كانوا يكرهون الأصنام بدون سبب."],
+    "correct": 1,
+    "explanation_ar": "ضربة عقلية للمقلدين: إن كنتم تقلدون آباءكم الجدد في الصنم، فالله هو رب آبائكم القدامى الفاتحين الأوائل، فهو أحق بالتبعية الدائمة.",
+    "question_fr": "Quel est l'argument central d'Ilyas pour réfuter l'adoration des idoles (« Allah, votre Seigneur et le Seigneur de vos ancêtres ») ?",
+    "options_fr": ["Que l'idole est trop récente pour avoir été utilisée auparavant", "Le lien historique et existentiel : Allah est votre Créateur aujourd'hui, et Il a créé vos ancêtres avant même que cette idole ne soit fabriquée — comment adorer une nouveauté inerte et délaisser le Créateur premier et éternel !", "Que l'ancienne idole était plus belle que la nouvelle, plus petite", "Que les ancêtres détestaient les idoles sans raison"],
+    "explanation_fr": "Un coup porté aux imitateurs : si vous imitez vos pères récents dans le culte de l'idole, Allah est le Seigneur de vos plus anciens ancêtres, fondateurs premiers — Il est donc bien plus digne d'un attachement perpétuel."
+  },
+  {
+    "id": "ilyas_13",
+    "question_ar": "هل تذكر القصة القرآنية تفاصيل عذاب قوم إلياس كما فصلت عذاب عاد وثمود؟",
+    "options_ar": ["نعم، ذُكر أنهم هلكوا بالريح الحمراء العاصفة.", "لا، بل اكتفى القرآن بالوعد المخيف الأكيد: (فَإِنَّهُمْ لَمُحْضَرُونَ).. فهم محتجزون يوم القيامة لعذاب مهين مؤكد، وأخفى تفاصيل خروج إلياس ونجاته اختصاراً للب الإيمان.", "نعم، هلكوا بطوفان صغير كالذي نزل بقوم نوح.", "تم إغراقهم بالبحر كفرعون في الشام."],
+    "correct": 1,
+    "explanation_ar": "القرآن يركز على (العبرة)، والوعيد بـ (محضرون) يكفي لبيان الخسران العظيم، دون تشتيت الانتباه بالتفاصيل الجانبية العذاب المادي.",
+    "question_fr": "Le récit coranique détaille-t-il le châtiment du peuple d'Ilyas, comme il l'a fait pour les 'Ad et les Thamud ?",
+    "options_fr": ["Oui, il est mentionné qu'ils périrent par un vent rouge et violent", "Non, le Coran se contente de l'annonce certaine et redoutable : « ils seront donc amenés [au châtiment] » — retenus pour un châtiment humiliant certain au Jour de la Résurrection, laissant de côté les détails du départ et du salut d'Ilyas, au profit de l'essentiel de la foi", "Oui, ils périrent dans un petit déluge, comme celui du peuple de Nuh", "Ils furent noyés en mer, comme Pharaon au Cham"],
+    "explanation_fr": "Le Coran met l'accent sur « la leçon » ; l'avertissement « amenés [au châtiment] » suffit à exprimer l'immense perte, sans détourner l'attention vers des détails secondaires sur le châtiment matériel."
+  },
+  {
+    "id": "ilyas_14",
+    "question_ar": "وفقاً للقصص الإسرائيلي وبعض المفسرين الأوائل كابن عباس، ماذا فعل إلياس لما اشتد عليه أذى المكذبين وبحثوا عن قتله؟",
+    "options_ar": ["شكّل جيشاً سرياً وهاجم معبد الصنم ليلاً فحطمه.", "هرب واختبأ في الكهوف والمغارات بالجبال لسنوات ليعبد الله آمناً، وكان الله يرزقه بالطير أو غيرها (فترة زهد وصبر في سبيل الرسالة).", "سافر لمصر وعاش في أحضان بقايا الفراعنة.", "تنازل عن الدعوة وعاد لحياة الرعي البسيطة."],
+    "correct": 1,
+    "explanation_ar": "الفرار بالدين من بطش الطغاة سُنة نبوية (كفرار موسى لمدين)، للاحتفاظ بنواة الإيمان حتى تتغير الظروف.",
+    "question_fr": "Selon les récits israélites et certains premiers exégètes comme Ibn Abbas, que fit Ilyas lorsque la persécution des négateurs s'intensifia et qu'ils cherchèrent à le tuer ?",
+    "options_fr": ["Il forma une armée secrète et attaqua de nuit le temple de l'idole pour le détruire", "Il s'enfuit et se cacha des années dans des grottes montagneuses pour adorer Allah en sécurité, nourri miraculeusement par des oiseaux ou autres (période d'ascèse et de patience au service de sa mission)", "Il partit en Égypte vivre auprès des vestiges des pharaons", "Il abandonna sa prédication et reprit une vie simple de berger"],
+    "explanation_fr": "Fuir avec sa foi loin de la tyrannie est une tradition prophétique (comme la fuite de Moussa vers Madyan), pour préserver le noyau de la foi jusqu'à un changement de circonstances."
+  },
+  {
+    "id": "ilyas_15",
+    "question_ar": "كيف يرى المفسرون العلاقة بين إلياس عليه السلام وإدريس عليه السلام؟",
+    "options_ar": ["أنهما شخص واحد تماماً باختلاف الاسم في لغات قديمة (كما نُقل عن ابن مسعود وغيره).", "كانا إخوة من أب واحد وأم واحدة.", "أنهما عاشا في نفس العصر وتصارعا على النبوة.", "إدريس كان تلميذه."],
+    "correct": 0,
+    "explanation_ar": "هناك رأي ذكره بعض الصحابة كابن مسعود وابن عباس أن إلياس هو إدريس، ولكن الرأي الراجح عند المحققين كابن كثير أنهما نبيان مختلفان زماناً ومكاناً.",
+    "question_fr": "Comment les exégètes considèrent-ils le rapport entre Ilyas et Idris ?",
+    "options_fr": ["Qu'ils sont une seule et même personne, sous un nom différent dans d'anciennes langues (comme rapporté d'Ibn Mas'ud et d'autres)", "Qu'ils étaient frères, de même père et de même mère", "Qu'ils vécurent à la même époque et se disputèrent la prophétie", "Qu'Idris était son disciple"],
+    "explanation_fr": "Certains compagnons, comme Ibn Mas'ud et Ibn Abbas, ont avancé qu'Ilyas serait Idris ; mais l'avis privilégié par des vérificateurs comme Ibn Kathir est qu'il s'agit de deux prophètes distincts, différents par le temps et le lieu."
+  },
+  {
+    "id": "ilyas_16",
+    "question_ar": "كيف يُقرأ اسم (بعل) في قوله تعالى (أتدعون بعلًا) في بعض المعاني اللغوية المتداولة وقتها؟",
+    "options_ar": ["يُقصد به البعل أي (الزوج) أو (الرب الخالق)، فقد أطلقوا هذا الوصف العظيم على صنمهم تعظيماً له كأنه رب الأرباب.", "يُقصد به المطر الخفيف.", "يُقصد به نوع من الشجر.", "يُقصد به نوع من النحل الجبلي."],
+    "correct": 0,
+    "explanation_ar": "البعل في لغتهم كان يرمز للصنم الأكبر، كما يعني في أصل اللغة (الرب والمالك)، فنهاهم عن إطلاق صفة الربوبية على مخلوق حجر.",
+    "question_fr": "Que désignait le mot « Ba'l » dans « Invoquerez-vous Ba'l ? », selon certains sens linguistiques en usage à l'époque ?",
+    "options_fr": ["Il désigne « l'époux » ou « le Seigneur créateur » — ils appliquaient cette grande qualification à leur idole, la glorifiant comme le seigneur des seigneurs", "Il désigne une pluie légère", "Il désigne une espèce d'arbre", "Il désigne une espèce d'abeille de montagne"],
+    "explanation_fr": "« Ba'l » symbolisait la plus grande idole dans leur langue, signifiant aussi originellement « le seigneur et le maître » ; Ilyas leur interdit d'attribuer la seigneurie à une créature de pierre."
+  },
+  {
+    "id": "ilyas_17",
+    "question_ar": "بم توعد إلياس قومه إن استمروا على شركهم بالبعل حسب القصص التي تُروى؟",
+    "options_ar": ["توعدهم بزلزال يبتلع بلدتهم.", "دعا عليهم بأن يمسك الله عنهم المطر (فأصابهم القحط والجفاف لثلاث سنوات) حتى أكلوا الجيف والكلاب.", "توعدهم بجيش من الغرباء يسبيهم.", "دعا الله أن يمسخهم قردة."],
+    "correct": 1,
+    "explanation_ar": "تذكر التفاسير أن عقوبتهم الدنيوية كانت القحط والجوع الشديد (انقطاع المطر) لعلهم يرجعون إلى التوحيد، لكنهم تمادوا.",
+    "question_fr": "De quoi Ilyas menaça-t-il son peuple s'il persistait dans son culte de Ba'l, selon les récits rapportés ?",
+    "options_fr": ["Il les menaça d'un tremblement de terre engloutissant leur cité", "Il pria Allah de retenir la pluie (ils subirent alors sécheresse et famine pendant trois ans, jusqu'à manger charognes et chiens)", "Il les menaça d'une armée étrangère qui les réduirait en captivité", "Il pria Allah de les transformer en singes"],
+    "explanation_fr": "Les exégèses rapportent que leur châtiment terrestre fut la sécheresse et la famine sévère (interruption de la pluie), dans l'espoir qu'ils reviennent à l'unicité — mais ils persistèrent."
+  },
+  {
+    "id": "ilyas_18",
+    "question_ar": "ما الذي كان من نتائج فترة (القحط) التي حذرهم منها إلياس، وكيف كان يعيش هو؟",
+    "options_ar": ["مات هو أيضاً جوعاً معهم.", "تخفى في الجبال وكان الله يرسل له طعامه برزق عجيب من الغربان أو بأيدي المؤمنين المخلصين، فبقي آمناً وخرجوا هم هالكين في الجدب.", "طلب اللجوء لملك مصر ليعطيه قمحاً.", "تنازل عن نبوته وعمل كبائع قمح."],
+    "correct": 1,
+    "explanation_ar": "سنة الله لحفظ أنبيائه، فالرزق يصلهم حيثما انعدم للناس. (عباد الله المخلصين) محفوظة أرواحهم.",
+    "question_fr": "Quelle fut la conséquence de la période de sécheresse dont Ilyas les avait avertis, et comment vivait-il lui-même ?",
+    "options_fr": ["Il mourut lui aussi de faim avec eux", "Il se cacha dans les montagnes, où Allah lui envoyait miraculeusement sa subsistance, par des corbeaux ou par la main de croyants sincères ; il resta ainsi en sécurité tandis qu'eux périrent dans la famine", "Il demanda refuge au roi d'Égypte pour obtenir du blé", "Il renonça à sa prophétie et devint marchand de blé"],
+    "explanation_fr": "C'est une loi divine de préservation de Ses prophètes : la subsistance leur parvient là où elle fait défaut aux hommes ; la vie des « serviteurs élus d'Allah » est préservée."
+  },
+  {
+    "id": "ilyas_19",
+    "question_ar": "في سورة الصافات، تُختم قصص بعض الرسل بجمل متطابقة. من هم الأنبياء الذين خُتمت قصصهم بـ (سلام على...)؟",
+    "options_ar": ["هود وصالح وشعيب.", "نوح، إبراهيم، موسى وهارون، وإلياس.", "سليمان وداود فقط.", "موسى وعيسى فقط."],
+    "correct": 1,
+    "explanation_ar": "الصافات تُرسخ منهج تكريم (المحسنين): سلام على نوح في العالمين، سلام على إبراهيم، سلام على موسى وهارون، سلام على إل ياسين.",
+    "question_fr": "Dans la sourate as-Saffat, plusieurs récits de messagers se terminent par une formule identique. Quels prophètes voient leur récit clos par « Paix sur... » ?",
+    "options_fr": ["Hud, Salih et Shu'ayb", "Nuh, Ibrahim, Moussa et Haroun, et Ilyas", "Suleyman et Dawud uniquement", "Moussa et Aïssa uniquement"],
+    "explanation_fr": "As-Saffat consacre le principe d'honneur des bienfaisants : « Paix sur Nuh, dans tout l'univers », « Paix sur Ibrahim », « Paix sur Moussa et Haroun », « Paix sur Il-Yasîn »."
+  },
+  {
+    "id": "ilyas_20",
+    "question_ar": "ماذا نتعلم من محاججة إلياس: (وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ * اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ)؟",
+    "options_ar": ["أن الأجداد كانوا دائماً على حق ويجب تقليدهم.", "التدرج العقلي: من إثبات الخلق المطلق (أحسن الخالقين) إلى إثبات الربوبية الخاصة (ربكم) ثم ضرب عمق التاريخ الوثني (ورب آبائكم) لنسف ذريعة (وجدنا آباءنا).", "أن الآباء الأولين كانوا آلهة صغيرة.", "الدعوة إلى تقديس الآباء."],
+    "correct": 1,
+    "explanation_ar": "خطاب متدرج وقوي يهدم أسس التقليد الأعمى الموروث، ويربط العقل بالخالق الأول للأجيال كلها.",
+    "question_fr": "Que peut-on tirer de l'argumentation d'Ilyas : « Et vous délaissez le Meilleur des créateurs, Allah, votre Seigneur et le Seigneur de vos premiers ancêtres » ?",
+    "options_fr": ["Que les ancêtres avaient toujours raison et devaient être imités", "Une progression logique : de l'affirmation de la création absolue (« Meilleur des créateurs ») à l'affirmation de la seigneurie propre (« votre Seigneur »), puis en remontant l'histoire du polythéisme (« et le Seigneur de vos ancêtres ») pour anéantir l'excuse « nous avons trouvé nos ancêtres [ainsi] »", "Que les premiers ancêtres étaient de petites divinités", "Un appel à sanctifier les ancêtres"],
+    "explanation_fr": "Un discours progressif et puissant, qui démolit les fondements de l'imitation aveugle héritée et relie la raison au Créateur premier de toutes les générations."
+  },
+  {
+    "id": "ilyas_21",
+    "question_ar": "ماذا يعني الاستثناء في قوله (إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ) فيما يخص الآخرة؟",
+    "options_ar": ["سيدخلون الجنة بأموالهم.", "أنهم الوحيدون الذين لا يُحضرون في سلاسل العذاب والمحاسبة المهينة العسيرة يوم القيامة مع قومهم المكذبين لـ (إلياس)، بل في مأمن ورحمة.", "أنهم سيغزون قومهم الكفار يوم القيامة.", "يُحضرون لكن بدون غل أو سلاسل."],
+    "correct": 1,
+    "explanation_ar": "(الإحضار) في القرآن إذا أُطلق مقترناً بالتكذيب يعني جلبهم ذليلين للعذاب، والمخلصون مستثنون من هذا الموقف المرعب نهائياً.",
+    "question_fr": "Que signifie l'exception dans « excepté les serviteurs élus d'Allah » concernant l'au-delà ?",
+    "options_fr": ["Qu'ils entreront au Paradis grâce à leurs biens", "Qu'ils sont les seuls à ne pas être amenés enchaînés pour un châtiment humiliant au Jour de la Résurrection, contrairement au peuple qui traita Ilyas de menteur, mais plutôt en sécurité et sous la miséricorde", "Qu'ils combattront leur peuple mécréant au Jour de la Résurrection", "Ils seront amenés, mais sans chaînes ni entraves"],
+    "explanation_fr": "Dans le Coran, « amener » associé au rejet signifie être traîné humiliamment vers le châtiment ; les élus en sont définitivement exclus."
+  },
+  {
+    "id": "ilyas_22",
+    "question_ar": "كيف ذُكر إلياس في سورة الأنعام مع الأنبياء (وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّ مِّنَ الصَّالِحِينَ)؟",
+    "options_ar": ["هذه الزمرة اتصفت بالزهد الشديد في الدنيا ومواجهة الملوك الطغاة لإنكار الانحراف (زكريا ويحيى وعيسى مع ملوك اليهود، وإلياس مع حماة البعل).", "لأنهم جميعاً بنوا الكعبة وسكنوا مكة المكرمة.", "أعطاهم الله ملكاً كملك سليمان ولم يغتزوا.", "طالبوا بأن تصنع تماثيل لهم كقدوة للمؤمنين."],
+    "correct": 0,
+    "explanation_ar": "القرآن يجمع نظائر الأنبياء بطريقة بديعة؛ هؤلاء الأربعة يجمعهم (الزهد، كثرة العبادة، التبتل، ومجابهة الفساد العقدي لملوك زمانهم بلا جيوش جرارة).",
+    "question_fr": "Comment Ilyas est-il mentionné dans la sourate al-An'am, aux côtés de « Zakariyya, Yahya, Aïssa et Ilyas, tous parmi les vertueux » ?",
+    "options_fr": ["Ce groupe se caractérisait par un grand ascétisme et l'affrontement de rois tyranniques pour dénoncer la déviation (Zakariyya, Yahya et Aïssa face aux rois juifs, Ilyas face aux gardiens de Ba'l)", "Parce qu'ils bâtirent tous la Ka'ba et vécurent à La Mecque", "Allah leur accorda un royaume comme celui de Suleyman, sans qu'ils s'en glorifient", "Ils demandèrent que des statues soient faites d'eux comme modèles pour les croyants"],
+    "explanation_fr": "Le Coran réunit merveilleusement des prophètes semblables : ces quatre partagent l'ascétisme, l'abondance de l'adoration, le détachement et l'affrontement de la corruption doctrinale des rois de leur temps, sans armées imposantes."
+  },
+  {
+    "id": "ilyas_23",
+    "question_ar": "في سياق العقوبة، فإنه (فَإِنَّهُمْ لَمُحْضَرُونَ). بمَ يفترق قوم إلياس عن قوم هود وصالح وعاد؟",
+    "options_ar": ["رُفعوا إلى السماء.", "أقوام الأنبياء السابقين ذكر القرآن كيفية هلاكهم الدنيوي المروع (ريح، صيحة، طوفان)، أما قوم إلياس فذُكر الوعيد الأخروي القاطع (الإحضار) دون الجزم بهلاك استئصالي دنيوي كامل مماثل بالقرآن.", "عوقبوا بالخسف.", "نجوا جميعاً."],
+    "correct": 1,
+    "explanation_ar": "يترك القرآن أحياناً ذكر العذاب الدنيوي ليركز على العذاب الأكبر والأشد وهو عقاب الآخرة الذي لا مفر منه.",
+    "question_fr": "Dans le contexte du châtiment (« ils seront donc amenés »), en quoi le peuple d'Ilyas diffère-t-il de ceux de Hud, Salih et des 'Ad ?",
+    "options_fr": ["Ils furent élevés au ciel", "Pour les peuples des prophètes précédents, le Coran précise le mode terrible de leur destruction terrestre (vent, cri, déluge) ; pour le peuple d'Ilyas, seul l'avertissement définitif de l'au-delà (« amenés ») est cité, sans affirmation d'une destruction terrestre totale et immédiate équivalente dans le Coran", "Ils furent punis par l'engloutissement", "Ils furent tous sauvés"],
+    "explanation_fr": "Le Coran laisse parfois de côté le châtiment terrestre pour se concentrer sur le châtiment le plus grand et le plus sévère : celui de l'au-delà, auquel nul n'échappe."
+  },
+  {
+    "id": "ilyas_24",
+    "question_ar": "ما الرأي القائل بأن (اليسع) كان وصيّ إلياس وتلميذه في الدعوة؟",
+    "options_ar": ["كانا مختلفين ولم يلتقيا قط.", "أن اليسع آمن بإلياس وصحبه في غربته ودعوته وتخفيه، ولما ارتفع إلياس أو مات، أسند الله النبوة لليسع ليُكمل تطهير بني إسرائيل من رجس البعل والأصنام.", "أنه كان منافساً له على النبوة.", "صنع تمثالاً لإلياس بعد موته."],
+    "correct": 1,
+    "explanation_ar": "سلسلة متصلة من هداة تمُرّسوا على الدعوة وسط المعاناة. فاليسع ورث التركة الروحية الصعبة من إلياس بجد.",
+    "question_fr": "Quel est l'avis selon lequel al-Yasa' fut le successeur et disciple d'Ilyas dans la prédication ?",
+    "options_fr": ["Ils étaient distincts et ne se rencontrèrent jamais", "Al-Yasa' crut en Ilyas, l'accompagna dans son exil, sa prédication et sa clandestinité ; et lorsque Ilyas fut élevé ou mourut, Allah confia la prophétie à al-Yasa' pour achever de purifier les Fils d'Israël de la souillure de Ba'l et des idoles", "Il fut son rival dans la prophétie", "Il fit une statue d'Ilyas après sa mort"],
+    "explanation_fr": "Une chaîne ininterrompue de guides forgés par la prédication dans l'épreuve : al-Yasa' hérita avec sérieux du lourd héritage spirituel d'Ilyas."
+  },
+  {
+    "id": "ilyas_25",
+    "question_ar": "في أي سورة من القرآن الكريم وردت القصة التفصيلية لنبي الله إلياس عليه السلام؟",
+    "options_ar": ["سورة البقرة.", "سورة الصافات.", "سورة الكهف.", "سورة مريم."],
+    "correct": 1,
+    "explanation_ar": "قصة إلياس التفصيلية مذكورة في سورة الصافات من الآية 123 إلى الآية 132، وفيها دعوته لقومه وتكذيبهم له وتكريم الله له بالسلام.",
+    "question_fr": "Dans quelle sourate du Coran figure le récit détaillé du prophète Ilyas ?",
+    "options_fr": ["La sourate al-Baqara", "La sourate as-Saffat", "La sourate al-Kahf", "La sourate Maryam"],
+    "explanation_fr": "Le récit détaillé d'Ilyas figure dans la sourate as-Saffat, des versets 123 à 132, relatant sa prédication, le rejet de son peuple, et son honneur par la salutation divine."
+  },
+  {
+    "id": "ilyas_26",
+    "question_ar": "كم عدد الآيات التي خصصها القرآن الكريم لقصة إلياس عليه السلام في سورة الصافات؟",
+    "options_ar": ["ثلاث آيات فقط.", "عشرون آية كاملة.", "عشر آيات (من الآية 123 إلى الآية 132).", "خمس عشرة آية."],
+    "correct": 2,
+    "explanation_ar": "قصة إلياس في سورة الصافات تمتد عشر آيات فقط، وهي من أقصر قصص الأنبياء في القرآن الكريم، لكنها تحمل دروساً بالغة العمق والتأثير.",
+    "question_fr": "Combien de versets le Coran consacre-t-il au récit d'Ilyas dans la sourate as-Saffat ?",
+    "options_fr": ["Seulement trois versets", "Vingt versets complets", "Dix versets (du 123 au 132)", "Quinze versets"],
+    "explanation_fr": "Le récit d'Ilyas dans as-Saffat s'étend sur seulement dix versets, l'un des plus brefs récits prophétiques du Coran, mais porteur de leçons d'une grande profondeur et portée."
+  },
+  {
+    "id": "ilyas_27",
+    "question_ar": "ما هو أول خطاب وجهه إلياس عليه السلام إلى قومه كما حكاه القرآن الكريم؟",
+    "options_ar": ["قال لهم: إني رسول من رب العالمين فأطيعون.", "قال لهم: (أَلَا تَتَّقُونَ)، داعياً إياهم إلى تقوى الله عز وجل قبل كل شيء.", "قال لهم: أعطوني أموالكم وأنا أهديكم سبيل الرشاد.", "قال لهم: اتبعوني أجعلكم ملوكاً على الأرض كلها."],
+    "correct": 1,
+    "explanation_ar": "بدأ إلياس خطابه بالدعوة إلى التقوى (ألا تتقون)، وهذا منهج نبوي متكرر يُقدّم خشية الله ومراقبته على تفصيل الحجج الأخرى.",
+    "question_fr": "Quel fut le premier discours qu'Ilyas adressa à son peuple, selon le Coran ?",
+    "options_fr": ["Il leur dit : Je suis un messager du Seigneur des mondes, obéissez-moi donc", "Il leur dit : « Ne craindrez-vous donc pas [Allah] ? », les appelant avant tout à la piété envers Allah", "Il leur dit : Donnez-moi vos biens et je vous guiderai vers le droit chemin", "Il leur dit : Suivez-moi et je ferai de vous des rois sur toute la terre"],
+    "explanation_fr": "Ilyas commença son discours par un appel à la piété (« Ne craindrez-vous donc pas ? »), méthode prophétique récurrente qui privilégie la crainte révérencielle d'Allah avant tout autre argument."
+  },
+  {
+    "id": "ilyas_28",
+    "question_ar": "من أي ذرية كان إلياس عليه السلام وفقاً لكثير من المفسرين والمؤرخين المسلمين؟",
+    "options_ar": ["من ذرية نوح عليه السلام مباشرة دون واسطة.", "من ذرية هارون بن عمران أخي موسى عليهما السلام.", "من ذرية داود عليه السلام ملك بني إسرائيل.", "من ذرية إسماعيل بن إبراهيم عليهما السلام."],
+    "correct": 1,
+    "explanation_ar": "ذكر كثير من المفسرين أن إلياس من نسل هارون أخي موسى عليهما السلام، وهو من سلسلة الأنبياء المتعاقبين الذين بُعثوا في بني إسرائيل لإصلاحهم.",
+    "question_fr": "De quelle lignée descendait Ilyas, selon de nombreux exégètes et historiens musulmans ?",
+    "options_fr": ["Directement de Nuh, sans intermédiaire", "De la descendance de Haroun fils d'Imran, frère de Moussa", "De la descendance de Dawud, roi des Fils d'Israël", "De la descendance d'Isma'il fils d'Ibrahim"],
+    "explanation_fr": "De nombreux exégètes rapportent qu'Ilyas descendait de Haroun, frère de Moussa, faisant partie de la chaîne successive de prophètes envoyés aux Fils d'Israël pour les réformer."
+  },
+  {
+    "id": "ilyas_29",
+    "question_ar": "في كم سورة من سور القرآن الكريم ذُكر اسم إلياس عليه السلام صراحة؟",
+    "options_ar": ["في سورة واحدة فقط هي سورة الأنعام.", "في أربع سور متفرقة في القرآن.", "في سورتين هما: سورة الصافات وسورة الأنعام.", "في ثلاث سور من القرآن."],
+    "correct": 2,
+    "explanation_ar": "ذُكر إلياس باسمه صراحة في سورتين: في الصافات (الآية 123) حيث وردت قصته التفصيلية، وفي الأنعام (الآية 85) حيث عُدّ مع زمرة الأنبياء الصالحين.",
+    "question_fr": "Dans combien de sourates du Coran le nom d'Ilyas est-il explicitement mentionné ?",
+    "options_fr": ["Une seule sourate, al-An'am", "Quatre sourates dispersées dans le Coran", "Deux sourates : as-Saffat et al-An'am", "Trois sourates du Coran"],
+    "explanation_fr": "Ilyas est explicitement nommé dans deux sourates : as-Saffat (verset 123), où figure son récit détaillé, et al-An'am (verset 85), où il est compté parmi le groupe des prophètes vertueux."
+  },
+  {
+    "id": "ilyas_30",
+    "question_ar": "ما الذي ذكرته بعض الروايات الإسلامية عن مصير إلياس عليه السلام في نهاية حياته الدنيوية؟",
+    "options_ar": ["أنه قُتل على يد قومه المشركين وصُلب علانية.", "أنه غرق في البحر أثناء فراره من بطشهم.", "أن الله رفعه إلى السماء كما رفع عيسى وإدريس عليهم السلام.", "أنه عاش ألف سنة ثم مات موتاً طبيعياً في بلاده."],
+    "correct": 2,
+    "explanation_ar": "وردت روايات إسلامية تذكر أن الله رفع إلياس إلى السماء كما رفع عيسى وإدريس عليهم السلام، وإن كانت هذه الروايات ليست قطعية الثبوت عند جميع العلماء.",
+    "question_fr": "Que rapportent certains récits islamiques sur le destin final d'Ilyas ?",
+    "options_fr": ["Qu'il fut tué par son peuple polythéiste et crucifié publiquement", "Qu'il se noya en mer en fuyant leur persécution", "Qu'Allah l'éleva au ciel, comme Il éleva Aïssa et Idris", "Qu'il vécut mille ans puis mourut naturellement dans son pays"],
+    "explanation_fr": "Des récits islamiques rapportent qu'Allah éleva Ilyas au ciel, comme Il éleva Aïssa et Idris, bien que ces récits ne soient pas d'une authenticité formelle unanimement reconnue par les savants."
+  },
+  {
+    "id": "ilyas_31",
+    "question_ar": "ما الذي ورد في بعض الآثار عن لقاء إلياس بالخضر عليهما السلام؟",
+    "options_ar": ["أنهما تخاصما على ميراث أرض في فلسطين.", "أنهما يلتقيان كل عام في موسم الحج وفقاً لبعض الآثار.", "أن الخضر رفض لقاء إلياس وتجنبه طوال حياته.", "أنهما لم يعش أحدهما في زمن الآخر أبداً."],
+    "correct": 1,
+    "explanation_ar": "ورد في بعض الآثار أن إلياس والخضر عليهما السلام يلتقيان كل عام في موسم الحج، وإن كان المحققون من العلماء اختلفوا في ثبوت ذلك.",
+    "question_fr": "Que rapportent certaines traditions sur la rencontre entre Ilyas et al-Khidr ?",
+    "options_fr": ["Qu'ils se disputèrent un héritage de terre en Palestine", "Qu'ils se rencontrent chaque année lors du pèlerinage, selon certaines traditions", "Qu'al-Khidr refusa de rencontrer Ilyas et l'évita toute sa vie", "Qu'aucun des deux n'a jamais vécu à l'époque de l'autre"],
+    "explanation_fr": "Certaines traditions rapportent qu'Ilyas et al-Khidr se rencontrent chaque année lors du pèlerinage, bien que les savants vérificateurs divergent sur l'authenticité de ce fait."
+  },
+  {
+    "id": "ilyas_32",
+    "question_ar": "في أي منطقة جغرافية قام إلياس عليه السلام بدعوته وفقاً لأقوال المفسرين؟",
+    "options_ar": ["في جزيرة العرب وبلاد اليمن.", "في بلاد الشام وتحديداً في منطقة لبنان الحالية وما حولها.", "في مصر وشمال أفريقيا.", "في العراق وبلاد ما بين النهرين."],
+    "correct": 1,
+    "explanation_ar": "كانت دعوة إلياس في بلاد الشام وتحديداً في المنطقة المعروفة اليوم بلبنان، حيث مدينة بعلبك التي سُميت نسبة إلى صنم البعل الذي كان يُعبد فيها.",
+    "question_fr": "Dans quelle région géographique Ilyas mena-t-il sa prédication, selon les exégètes ?",
+    "options_fr": ["Dans la péninsule Arabique et le Yémen", "Au Cham, précisément dans la région correspondant aujourd'hui au Liban et ses environs", "En Égypte et en Afrique du Nord", "En Irak, en Mésopotamie"],
+    "explanation_fr": "La prédication d'Ilyas se déroula au Cham, précisément dans la région aujourd'hui connue sous le nom de Liban, où se trouve la ville de Baalbek, nommée d'après l'idole Ba'l qui y était adorée."
+  },
+  {
+    "id": "ilyas_33",
+    "question_ar": "ما هو الاسم الذي يُعرف به إلياس عليه السلام في التوراة والكتب السماوية السابقة؟",
+    "options_ar": ["دانيال النبي.", "إيليا، وهو من أعظم الأنبياء في التراث الإسرائيلي.", "حزقيال النبي.", "أشعياء النبي."],
+    "correct": 1,
+    "explanation_ar": "إلياس عليه السلام يُعرف في التوراة باسم إيليا، وقد ذُكر ذلك في قصته حيث قيل: إلياس عليه السلام (إيليا في التوراة).",
+    "question_fr": "Sous quel nom Ilyas est-il connu dans la Torah et les Écritures antérieures ?",
+    "options_fr": ["Le prophète Daniel", "Élie (Élia), l'un des plus grands prophètes de la tradition israélite", "Le prophète Ézéchiel", "Le prophète Isaïe"],
+    "explanation_fr": "Ilyas est connu dans la Torah sous le nom d'Élie, comme le confirme son récit : « Ilyas (Élie dans la Torah) »."
+  },
+  {
+    "id": "ilyas_34",
+    "question_ar": "ما معنى كلمة (تَذَرُونَ) في قوله تعالى: (أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ)؟",
+    "options_ar": ["تعبدون وتتقربون إليه بالقرابين.", "تخافون وترتعدون من بطشه.", "تتركون وتهجرون عبادته سبحانه.", "تذكرون وتحمدون على نعمه."],
+    "correct": 2,
+    "explanation_ar": "(تذرون) معناها تتركون وتهجرون، فإلياس استنكر عليهم أنهم يدعون صنماً ميتاً لا ينفع ويتركون عبادة الله الحي الذي هو أحسن الخالقين.",
+    "question_fr": "Que signifie le mot « tadharûn » dans « Invoquerez-vous Ba'l et délaisserez-vous le Meilleur des créateurs ? »",
+    "options_fr": ["Vous adorez et vous rapprochez de Lui par des offrandes", "Vous craignez et tremblez devant sa puissance", "Vous laissez et abandonnez Son adoration, Gloire à Lui", "Vous vous souvenez et Le louez pour Ses bienfaits"],
+    "explanation_fr": "« Tadharûn » signifie « vous laissez et abandonnez » ; Ilyas leur reprochait d'invoquer une idole morte et inutile tout en délaissant l'adoration du Dieu vivant, le Meilleur des créateurs."
+  },
+  {
+    "id": "ilyas_35",
+    "question_ar": "في أي سورتين من القرآن الكريم ورد ذكر اليسع عليه السلام الذي خلف إلياس في الدعوة؟",
+    "options_ar": ["سورة البقرة وسورة آل عمران.", "سورة الأنعام وسورة ص.", "سورة النساء وسورة المائدة.", "سورة يوسف وسورة الرعد."],
+    "correct": 1,
+    "explanation_ar": "ذُكر اليسع عليه السلام في سورة الأنعام (الآية 86) وسورة ص (الآية 48)، وهو النبي الذي أكمل مسيرة إلياس في دعوة بني إسرائيل إلى التوحيد.",
+    "question_fr": "Dans quelles deux sourates du Coran al-Yasa', successeur d'Ilyas dans la prédication, est-il mentionné ?",
+    "options_fr": ["Al-Baqara et Al-Imran", "Al-An'am et Sad", "An-Nisa et al-Ma'ida", "Yusuf et ar-Ra'd"],
+    "explanation_fr": "Al-Yasa' est mentionné dans la sourate al-An'am (verset 86) et la sourate Sad (verset 48) ; il est le prophète qui poursuivit l'œuvre d'Ilyas dans l'appel des Fils d'Israël à l'unicité."
+  },
+  {
+    "id": "ilyas_36",
+    "question_ar": "ما الذي يدل عليه افتتاح إلياس دعوته بعبارة (أَلَا تَتَّقُونَ) من حيث المنهج الدعوي النبوي؟",
+    "options_ar": ["أنه كان يخوّف قومه بالقتل والعقاب البدني.", "أن تأسيس التقوى ومراقبة الله في القلوب هو الخطوة الأولى في الإصلاح قبل تفصيل الأوامر والنواهي.", "أنه لم يكن متأكداً من رسالته وكان يسألهم الرأي.", "أنه كان يستجدي عطفهم وشفقتهم عليه."],
+    "correct": 1,
+    "explanation_ar": "التقوى هي أساس كل إصلاح ديني واجتماعي، فالنبي يبدأ بزرع الوازع الداخلي ومراقبة الله في القلوب أولاً، ثم ينتقل لتفنيد الباطل وبيان الحق.",
+    "question_fr": "Que révèle l'ouverture par Ilyas de sa prédication avec « Ne craindrez-vous donc pas ? » sur la méthode prophétique de prédication ?",
+    "options_fr": ["Qu'il effrayait son peuple par la menace du meurtre et du châtiment physique", "Que fonder la piété et la conscience d'Allah dans les cœurs est la première étape de la réforme, avant le détail des commandements et interdits", "Qu'il n'était pas certain de sa mission et sollicitait leur avis", "Qu'il implorait leur compassion et leur pitié"],
+    "explanation_fr": "La piété est le fondement de toute réforme religieuse et sociale ; le prophète commence par instaurer la conscience intérieure d'Allah dans les cœurs, avant de réfuter le faux et d'exposer le vrai."
+  },
+  {
+    "id": "ilyas_37",
+    "question_ar": "كيف يختلف أسلوب إلياس عليه السلام في مواجهة الأصنام عن أسلوب إبراهيم عليه السلام؟",
+    "options_ar": ["إلياس حطم الأصنام بيديه بينما إبراهيم اكتفى بالوعظ اللفظي.", "كلاهما استخدم نفس الأسلوب تماماً دون أي اختلاف.", "إبراهيم حطم الأصنام فعلياً بالفأس، بينما إلياس واجه قومه بالحجة اللفظية والمناظرة العقلية دون تحطيم مادي مذكور في القرآن.", "إلياس استعان بجيش كبير لتحطيم معبد البعل عنوة."],
+    "correct": 2,
+    "explanation_ar": "إبراهيم عليه السلام جمع بين الحجة العقلية وتحطيم الأصنام بيده فعلياً، بينما إلياس ركّز على المحاجة العقلية اللفظية في إنكار عبادة البعل كما ورد في القرآن.",
+    "question_fr": "En quoi l'approche d'Ilyas face aux idoles diffère-t-elle de celle d'Ibrahim ?",
+    "options_fr": ["Ilyas brisa les idoles de ses mains, tandis qu'Ibrahim se contenta d'un discours oral", "Les deux utilisèrent exactement la même méthode, sans aucune différence", "Ibrahim brisa réellement les idoles à la hache, tandis qu'Ilyas affronta son peuple par l'argument verbal et le débat rationnel, sans destruction matérielle mentionnée dans le Coran", "Ilyas fit appel à une grande armée pour détruire de force le temple de Ba'l"],
+    "explanation_fr": "Ibrahim réunit l'argument rationnel et la destruction physique des idoles de sa propre main, tandis qu'Ilyas se concentra, selon le Coran, sur l'argumentation verbale et rationnelle pour dénoncer le culte de Ba'l."
+  },
+  {
+    "id": "ilyas_38",
+    "question_ar": "ما الفرق بين قراءة (الْمُخْلَصِينَ) بفتح اللام وقراءة (الْمُخْلِصِينَ) بكسر اللام في الآية الكريمة؟",
+    "options_ar": ["لا فرق بينهما في المعنى إطلاقاً وهما مترادفتان.", "بالفتح: الذين اختارهم الله واصطفاهم لنفسه. وبالكسر: الذين أخلصوا عبادتهم لله بإرادتهم. والقراءتان يكمل معناهما بعضه بعضاً.", "بالفتح تعني الأغنياء من القوم فقط.", "بالكسر تعني الملوك والحكام دون غيرهم."],
+    "correct": 1,
+    "explanation_ar": "المُخلَصين بفتح اللام اسم مفعول يدل على أن الله هو الذي أخلصهم واصطفاهم، والمُخلِصين بكسرها اسم فاعل يدل على إخلاصهم الذاتي لله، والقراءتان تتكاملان في المعنى.",
+    "question_fr": "Quelle est la différence entre les deux lectures possibles du mot « al-mukhlasîn » (élus) et « al-mukhlisîn » (sincères) dans le verset ?",
+    "options_fr": ["Aucune différence de sens, ce sont des synonymes parfaits", "La première forme désigne ceux qu'Allah a choisis et élus pour Lui-même ; la seconde désigne ceux qui ont voué leur adoration à Allah de leur propre volonté ; les deux lectures se complètent dans le sens", "La première forme désigne seulement les riches du peuple", "La seconde forme désigne uniquement les rois et gouvernants"],
+    "explanation_fr": "« Al-mukhlasîn » (voyelle a) est un participe passif indiquant qu'Allah Lui-même les a élus et choisis ; « al-mukhlisîn » (voyelle i) est un participe actif indiquant leur propre sincérité envers Allah ; les deux lectures se complètent."
+  },
+  {
+    "id": "ilyas_39",
+    "question_ar": "ما الذي يميز قصة إلياس عن بقية قصص الأنبياء من حيث بنيتها في القرآن الكريم؟",
+    "options_ar": ["أنها أطول قصة نبوية وأكثرها تفصيلاً في القرآن كله.", "أنها من أقصر القصص النبوية في القرآن، إذ اختصرها الله في عشر آيات مركزة على جوهر الدعوة والعاقبة.", "أنها تتكرر حرفياً في عشرين سورة مختلفة.", "أنها الوحيدة التي فيها حوار مطول بين النبي وقومه."],
+    "correct": 1,
+    "explanation_ar": "قصة إلياس من أقصر القصص النبوية في القرآن (عشر آيات)، وهذا الاختصار يدل على أن القرآن يركز على العبرة والدرس لا على السرد التاريخي المطول.",
+    "question_fr": "Qu'est-ce qui distingue le récit d'Ilyas des autres récits prophétiques dans la structure du Coran ?",
+    "options_fr": ["C'est le plus long récit prophétique et le plus détaillé de tout le Coran", "C'est l'un des plus brefs récits prophétiques du Coran, Allah l'ayant résumé en dix versets centrés sur l'essence de la prédication et son issue", "Il se répète littéralement dans vingt sourates différentes", "C'est le seul comportant un long dialogue entre le prophète et son peuple"],
+    "explanation_fr": "Le récit d'Ilyas est l'un des plus brefs du Coran (dix versets), cette concision montrant que le Coran privilégie la leçon et l'enseignement plutôt que le récit historique détaillé."
+  },
+  {
+    "id": "ilyas_40",
+    "question_ar": "ما الدور الذي لعبه بعض ملوك بني إسرائيل الفاسدين في انتشار عبادة البعل وفقاً للروايات التفسيرية؟",
+    "options_ar": ["حاربوا عبادة البعل بكل قوتهم ونجحوا في القضاء عليها.", "لم يكن لهم أي علاقة بانتشار الوثنية في بني إسرائيل.", "تحالف بعضهم مع كهنة البعل وشجعوا عبادته لأسباب سياسية وبتأثير زوجاتهم الوثنيات من الأقوام المجاورة.", "كانوا يعبدون النجوم والكواكب حصراً دون الأصنام المادية."],
+    "correct": 2,
+    "explanation_ar": "تذكر الروايات التفسيرية أن بعض ملوك بني إسرائيل انجرفوا نحو عبادة البعل بتأثير زوجاتهم الوثنيات من الشعوب المجاورة، وتحالفوا مع كهنة الصنم لتثبيت سلطتهم.",
+    "question_fr": "Quel rôle certains rois corrompus des Fils d'Israël ont-ils joué dans la propagation du culte de Ba'l, selon les récits exégétiques ?",
+    "options_fr": ["Ils combattirent le culte de Ba'l de toutes leurs forces et réussirent à l'éradiquer", "Ils n'eurent aucun rapport avec la propagation du paganisme chez les Fils d'Israël", "Certains s'allièrent aux prêtres de Ba'l et encouragèrent son culte pour des raisons politiques, sous l'influence de leurs épouses païennes issues de peuples voisins", "Ils adoraient exclusivement les astres, à l'exclusion des idoles matérielles"],
+    "explanation_fr": "Les récits exégétiques rapportent que certains rois des Fils d'Israël furent entraînés vers le culte de Ba'l sous l'influence de leurs épouses païennes des peuples voisins, s'alliant aux prêtres de l'idole pour consolider leur pouvoir."
+  },
+  {
+    "id": "ilyas_41",
+    "question_ar": "ما أعظم درس يستفاد من ثبات إلياس وحده في مواجهة مجتمع بأكمله انغمس في عبادة الأصنام؟",
+    "options_ar": ["أن الإنسان يجب أن ينعزل عن المجتمع ولا يخالط الناس أبداً.", "أن الحق لا يُقاس بكثرة الأتباع، والثبات على التوحيد واجب ولو كان المؤمن وحيداً بين الناس.", "أن الأنبياء كانوا يملكون قوة جسدية خارقة تحميهم من بطش الناس.", "أنه لا جدوى من الدعوة إذا لم يستجب لها أغلب القوم."],
+    "correct": 1,
+    "explanation_ar": "من أعظم دروس قصة إلياس أن قلة الأتباع لا تعني فشل الرسالة، فالعبرة بالثبات على الحق والصدع به مهما كان عدد المستجيبين قليلاً.",
+    "question_fr": "Quelle est la plus grande leçon tirée de la persévérance d'Ilyas, seul, face à une société entière plongée dans l'idolâtrie ?",
+    "options_fr": ["Que l'homme doit s'isoler de la société et ne jamais fréquenter les gens", "Que la vérité ne se mesure pas au nombre de partisans, et que la constance dans l'unicité est un devoir, même seul parmi les hommes", "Que les prophètes possédaient une force physique surnaturelle les protégeant de la violence des hommes", "Qu'il est inutile de prêcher si la majorité du peuple ne répond pas"],
+    "explanation_fr": "L'une des plus grandes leçons du récit d'Ilyas est que le petit nombre de partisans ne signifie pas l'échec du message ; ce qui compte est la constance dans la vérité et sa proclamation, quel que soit le nombre de ceux qui répondent."
+  },
+  {
+    "id": "ilyas_42",
+    "question_ar": "ما دلالة وصف الله تعالى لإلياس بأنه (مِنْ عِبَادِنَا الْمُؤْمِنِينَ) في ختام قصته بسورة الصافات؟",
+    "options_ar": ["أنه كان رجلاً ضعيفاً مقهوراً لا حيلة له.", "أن أعلى مقام يبلغه الإنسان هو مقام العبودية لله والإيمان الصادق به، وهذا الوصف شهادة ربانية بكمال إيمان إلياس.", "أن الإيمان وحده لا يكفي دون امتلاك السلطة والملك.", "أنه كان عبداً مملوكاً لأحد ملوك بني إسرائيل."],
+    "correct": 1,
+    "explanation_ar": "وصف (من عبادنا المؤمنين) هو أرفع وسام إلهي، إذ نسب الله إلياس إلى نفسه بالعبودية وشهد له بالإيمان الراسخ الكامل، وهو غاية ما يتمناه كل مسلم.",
+    "question_fr": "Quelle est la portée de la description d'Ilyas par Allah comme « du nombre de Nos serviteurs croyants », à la fin de son récit dans as-Saffat ?",
+    "options_fr": ["Qu'il était un homme faible et impuissant, sans aucun recours", "Que le plus haut rang que puisse atteindre l'homme est celui de la servitude envers Allah et de la foi sincère en Lui, cette description étant un témoignage divin de la perfection de la foi d'Ilyas", "Que la foi seule ne suffit pas sans pouvoir ni royaume", "Qu'il était un esclave appartenant à l'un des rois des Fils d'Israël"],
+    "explanation_fr": "La description « du nombre de Nos serviteurs croyants » est la plus haute distinction divine, Allah rattachant Ilyas à Lui-même par la servitude et témoignant de sa foi ferme et complète — le but ultime de tout musulman."
+  },
+  {
+    "id": "ilyas_43",
+    "question_ar": "كيف تتناسب قصة إلياس عليه السلام مع الموضوع العام لسورة الصافات؟",
+    "options_ar": ["سورة الصافات تتحدث عن أحكام المواريث والمعاملات المالية فقط.", "سورة الصافات تعرض نماذج متعددة من الأنبياء الذين كُذّبوا ثم نصرهم الله وأهلك أعداءهم، وقصة إلياس نموذج واضح لهذا النمط.", "لا توجد أي علاقة بين قصة إلياس وموضوع سورة الصافات.", "سورة الصافات لا تذكر أي نبي سوى إلياس وحده."],
+    "correct": 1,
+    "explanation_ar": "سورة الصافات تسرد قصص عدة أنبياء منهم نوح وإبراهيم وموسى وإلياس ولوط ويونس، لترسيخ سنة إلهية واحدة: أن المكذبين يُعاقبون والمحسنين يُكرمون وينصرهم الله.",
+    "question_fr": "Comment le récit d'Ilyas s'articule-t-il avec le thème général de la sourate as-Saffat ?",
+    "options_fr": ["As-Saffat traite uniquement des lois de l'héritage et des transactions financières", "As-Saffat présente plusieurs exemples de prophètes traités de menteurs, qu'Allah secourut en anéantissant leurs ennemis, et le récit d'Ilyas en est une illustration claire", "Il n'existe aucun rapport entre le récit d'Ilyas et le thème de la sourate as-Saffat", "As-Saffat ne mentionne aucun prophète hormis Ilyas"],
+    "explanation_fr": "As-Saffat relate les récits de plusieurs prophètes — Nuh, Ibrahim, Moussa, Ilyas, Lut, Yunus — pour établir une même loi divine : les négateurs sont châtiés, les bienfaisants sont honorés et secourus par Allah."
+  },
+  {
+    "id": "ilyas_44",
+    "question_ar": "ما نوع الاستفهام في قوله تعالى على لسان إلياس: (أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ)؟",
+    "options_ar": ["استفهام حقيقي يبحث فيه إلياس عن معلومة لا يعرفها.", "استفهام إنكاري توبيخي، يُنكر عليهم فعلهم الشنيع ويوبخهم على ترك الخالق وعبادة المخلوق.", "استفهام تعجبي محض دون أي قصد للتوبيخ أو الإنكار.", "أمر مباشر بتحطيم الصنم فوراً دون نقاش."],
+    "correct": 1,
+    "explanation_ar": "الاستفهام هنا إنكاري توبيخي، يهدف إلى تقريع القوم وتوبيخهم على فعلهم المنكر في عبادة صنم لا ينفع ولا يضر وترك عبادة الخالق الحقيقي.",
+    "question_fr": "Quelle est la nature de l'interrogation dans la parole d'Ilyas : « Invoquerez-vous Ba'l et délaisserez-vous le Meilleur des créateurs ? » ?",
+    "options_fr": ["Une interrogation réelle, où Ilyas cherche une information qu'il ignore", "Une interrogation de blâme et de réprobation, dénonçant leur acte odieux et les blâmant d'avoir délaissé le Créateur pour adorer une créature", "Une interrogation purement admirative, sans intention de blâme ou de réprobation", "Un ordre direct de briser l'idole immédiatement, sans débat"],
+    "explanation_fr": "Il s'agit ici d'une interrogation de blâme et de réprobation, visant à réprimander le peuple pour son acte répréhensible d'adorer une idole inutile et de délaisser l'adoration du véritable Créateur."
+  },
+  {
+    "id": "ilyas_45",
+    "question_ar": "ماذا يُستفاد من ذكر إلياس في سورة الأنعام مع زكريا ويحيى وعيسى عليهم السلام؟",
+    "options_ar": ["أن إلياس جاء بعد عيسى عليه السلام من حيث الترتيب الزمني.", "أنهم جميعاً عاشوا في مدينة القدس في نفس العصر.", "أن هؤلاء الأنبياء يشتركون في صفات الزهد والتبتل والصبر على الأذى ومواجهة الانحراف العقدي بالحكمة.", "أن ترتيبهم في الآية عشوائي لا يحمل أي دلالة."],
+    "correct": 2,
+    "explanation_ar": "القرآن يجمع الأنبياء المتشابهين في صفاتهم ومنهجهم، وهؤلاء الأربعة اشتركوا في الزهد والتبتل والصبر ومجابهة الانحراف العقدي داخل بني إسرائيل.",
+    "question_fr": "Que peut-on tirer de la mention d'Ilyas dans la sourate al-An'am aux côtés de Zakariyya, Yahya et Aïssa ?",
+    "options_fr": ["Qu'Ilyas vint après Aïssa dans l'ordre chronologique", "Qu'ils vécurent tous à Jérusalem à la même époque", "Que ces prophètes partagent des traits communs d'ascétisme, de dévotion, d'endurance face aux épreuves et de confrontation sage à la déviation doctrinale", "Que leur ordre dans le verset est arbitraire et sans signification"],
+    "explanation_fr": "Le Coran réunit des prophètes aux traits et méthodes similaires ; ces quatre-là partagent l'ascétisme, la dévotion, l'endurance et l'affrontement de la déviation doctrinale au sein des Fils d'Israël."
+  },
+  {
+    "id": "ilyas_46",
+    "question_ar": "لماذا لم يُفصّل القرآن الكريم عقوبة قوم إلياس الدنيوية كما فصّل عقوبات أقوام أخرى كعاد وثمود؟",
+    "options_ar": ["لأن قوم إلياس لم يرتكبوا أي ذنب يستحق العقاب.", "لأن القرآن أراد التركيز على العبرة الأخروية وأن عذاب الآخرة أشد وأبقى، فاكتفى بالوعيد: (فَإِنَّهُمْ لَمُحْضَرُونَ).", "لأن قصة إلياس خيالية وليست حقيقية.", "لأن العرب في زمن النبي محمد كانوا يعرفون كل التفاصيل مسبقاً."],
+    "correct": 1,
+    "explanation_ar": "تركيز القرآن على الوعيد الأخروي (فإنهم لمحضرون) يُعلّم أن الخسارة الحقيقية ليست في عذاب الدنيا بل في عذاب الآخرة الذي لا مفر منه ولا نهاية له.",
+    "question_fr": "Pourquoi le Coran n'a-t-il pas détaillé le châtiment terrestre du peuple d'Ilyas comme il l'a fait pour d'autres peuples, tels les 'Ad et les Thamud ?",
+    "options_fr": ["Parce que le peuple d'Ilyas n'a commis aucun péché méritant châtiment", "Parce que le Coran a voulu insister sur la leçon de l'au-delà, sachant que le châtiment de l'au-delà est plus sévère et plus durable, se contentant de l'avertissement : « ils seront donc amenés [au châtiment] »", "Parce que le récit d'Ilyas est fictif et non réel", "Parce que les Arabes du temps du Prophète Muhammad connaissaient déjà tous les détails"],
+    "explanation_fr": "L'accent mis par le Coran sur l'avertissement de l'au-delà enseigne que la véritable perte ne réside pas dans le châtiment terrestre, mais dans celui de l'au-delà, auquel nul n'échappe et qui n'a pas de fin."
+  },
+  {
+    "id": "ilyas_47",
+    "question_ar": "ما دلالة قوله تعالى (إِنَّا كَذَلِكَ نَجْزِي الْمُحْسِنِينَ) بعد ذكر السلام على إلياس عليه السلام؟",
+    "options_ar": ["أن هذا الجزاء والتكريم خاص بإلياس وحده دون سائر الخلق.", "أن هذا التكريم الإلهي (الثناء الحسن والسلام والذكر الجميل) سنة ربانية عامة لكل محسن يثبت على الحق ويصبر في سبيل الله.", "أن المحسنين سيُعاقبون مثل المسيئين بلا تفريق.", "أن الإحسان المقصود هنا هو الصدقة المالية فحسب."],
+    "correct": 1,
+    "explanation_ar": "الآية تُعمّم قاعدة التكريم الإلهي: كل من أحسن في طاعة الله وصبر على دعوته وثبت على الحق فله نصيب من هذا الجزاء العظيم والذكر الحسن في الأجيال اللاحقة.",
+    "question_fr": "Quelle est la portée de la parole d'Allah « C'est ainsi que Nous récompensons les bienfaisants » après la salutation adressée à Ilyas ?",
+    "options_fr": ["Que cette récompense et cet honneur sont exclusifs à Ilyas seul, à l'exclusion de toute autre créature", "Que cet honneur divin (bel éloge, salutation et souvenir glorieux) est une loi divine générale pour tout bienfaisant qui persévère dans la vérité et endure pour la cause d'Allah", "Que les bienfaisants seront punis comme les malfaisants, sans distinction", "Que la bienfaisance ici visée se limite à l'aumône financière"],
+    "explanation_fr": "Ce verset généralise le principe de l'honneur divin : quiconque fait le bien dans l'obéissance à Allah, endure pour Sa prédication et reste ferme dans la vérité, a part à cette immense récompense et à ce bel héritage dans la postérité."
+  },
+  {
+    "id": "ilyas_48",
+    "question_ar": "ما الحكمة من ذكر إلياس ضمن سلسلة الأنبياء في القرآن رغم قصر قصته مقارنة بقصص موسى وإبراهيم؟",
+    "options_ar": ["لا حكمة واضحة من ذلك وإنما جاء ذكره عرضاً.", "لأنه كان أغنى أنبياء بني إسرائيل وأكثرهم ملكاً.", "لإثبات أن كل نبي له دوره الجوهري في سلسلة الهداية مهما قلّ أتباعه، ولتعليم المسلمين أن مواجهة الشرك واجبة في كل زمان.", "لمجرد ملء الفراغ بين قصتي موسى ويونس في سورة الصافات."],
+    "correct": 2,
+    "explanation_ar": "ذكر إلياس يؤكد أن لكل نبي مكانته في سلسلة الهداية الربانية، وأن رسالة التوحيد ومحاربة الشرك سلسلة متصلة عبر جميع الأنبياء بلا انقطاع.",
+    "question_fr": "Quelle est la sagesse de la mention d'Ilyas dans la chaîne des prophètes du Coran, malgré la brièveté de son récit comparé à ceux de Moussa et Ibrahim ?",
+    "options_fr": ["Il n'y a aucune sagesse claire, sa mention est incidente", "Parce qu'il était le plus riche des prophètes des Fils d'Israël et le plus puissant en royaume", "Pour établir que chaque prophète a un rôle essentiel dans la chaîne du guidage, quel que soit le nombre de ses partisans, et pour enseigner aux musulmans que la lutte contre le polythéisme est un devoir en toute époque", "Simplement pour combler l'espace entre les récits de Moussa et de Yunus dans as-Saffat"],
+    "explanation_fr": "La mention d'Ilyas confirme que chaque prophète a sa place dans la chaîne du guidage divin, et que le message de l'unicité et le combat contre le polythéisme forment une chaîne ininterrompue à travers tous les prophètes."
+  },
+  {
+    "id": "ilyas_49",
+    "question_ar": "ما الذي يُفهم من إرسال الله أنبياء كثيرين إلى بني إسرائيل ومنهم إلياس عليه السلام؟",
+    "options_ar": ["أن بني إسرائيل كانوا أفضل الأمم فلا يحتاجون للتصحيح.", "أن الله أهمل باقي الأمم واهتم ببني إسرائيل فقط.", "أن بني إسرائيل كانوا أكثر الأمم تعرضاً للانحراف المتكرر عن التوحيد، فتتابعت فيهم الرسل لإصلاحهم مرة بعد أخرى.", "أن بني إسرائيل طلبوا من الله إرسال الأنبياء بأنفسهم في كل مرة."],
+    "correct": 2,
+    "explanation_ar": "كثرة الأنبياء المبعوثين في بني إسرائيل تدل على كثرة انحرافاتهم واحتياجهم المستمر للتصحيح والإصلاح، وإلياس كان حلقة مهمة في هذه السلسلة الطويلة.",
+    "question_fr": "Que comprendre du fait qu'Allah ait envoyé de nombreux prophètes aux Fils d'Israël, dont Ilyas ?",
+    "options_fr": ["Que les Fils d'Israël étaient la meilleure des nations et n'avaient pas besoin de correction", "Qu'Allah négligea les autres nations pour ne se soucier que des Fils d'Israël", "Que les Fils d'Israël étaient la nation la plus sujette aux déviations répétées de l'unicité, si bien que les messagers se succédèrent pour les réformer encore et encore", "Que les Fils d'Israël demandaient eux-mêmes à Allah d'envoyer des prophètes à chaque fois"],
+    "explanation_fr": "La multiplicité des prophètes envoyés aux Fils d'Israël témoigne de la fréquence de leurs déviations et de leur besoin constant de correction et de réforme ; Ilyas fut un maillon important de cette longue chaîne."
+  },
+  {
+    "id": "ilyas_50",
+    "question_ar": "أي العبارات التالية تُلخص أبرز ما يتعلمه المسلم المعاصر من قصة إلياس عليه السلام؟",
+    "options_ar": ["أن الإنسان يجب أن يتبع ما عليه أغلبية الناس حتى لو خالف الحق.", "أن الهروب من المسؤولية والسكوت عن المنكر هو الحل الأسلم.", "أن الإنكار على المنكر والصدع بالحق واجب ولو وقف المرء وحيداً، وأن الله يُكرم الثابتين على التوحيد بالذكر الحسن والسلام منه سبحانه.", "أن قلة أتباع الداعية دليل قاطع على أنه على باطل."],
+    "correct": 2,
+    "explanation_ar": "قصة إلياس تعلّم المسلم المعاصر الشجاعة في قول الحق والثبات على التوحيد وعدم الانجرار خلف الأكثرية إذا كانت على ضلال، وأن الله لا يُضيع أجر المحسنين.",
+    "question_fr": "Laquelle de ces affirmations résume le mieux ce que le musulman contemporain retient du récit d'Ilyas ?",
+    "options_fr": ["Que l'homme doit suivre la majorité, même si elle s'oppose à la vérité", "Que fuir la responsabilité et se taire face au mal est la solution la plus sûre", "Que dénoncer le mal et proclamer la vérité est un devoir, même seul, et qu'Allah honore ceux qui restent fermes dans l'unicité par un bel éloge et Sa propre salutation", "Que le petit nombre de partisans d'un prédicateur est une preuve certaine qu'il est dans l'erreur"],
+    "explanation_fr": "Le récit d'Ilyas enseigne au musulman contemporain le courage de dire la vérité, la fermeté dans l'unicité et le refus de suivre la majorité lorsqu'elle est dans l'égarement — et qu'Allah ne laisse jamais perdre la récompense des bienfaisants."
+  }
+]

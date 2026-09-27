@@ -1,0 +1,1002 @@
+[
+{
+"id": "sulaiman_01",
+"question_ar": "ما معنى قوله تعالى: (وَوَرِثَ سُلَيْمَانُ دَاوُودَ)؟",
+"options_ar": [
+"ورث منه أمواله الخاصة وعقاراته فقط.",
+"ورث النبوة والعلم والحكمة والملك (وهي وراثة معنوية وقيادية)، لأن الأنبياء لا يُورَثون مالاً، بل ما تركوه صدقة.",
+"ورث منه سيفه ودرعه في القتال.",
+"ورث منه زعم بني إسرائيل فقط دون النبوة."
+],
+"correct": 1,
+"explanation_ar": "في الحديث الشريف: (نحن معشر الأنبياء لا نورث، ما تركنا صدقة). فوراثة سليمان لداود كانت في حمل راية النبوة والعلم والمُلك وإدارة شؤون الأمة.",
+"question_fr": "Que signifie le verset : « Et Salomon hérita de David » ?",
+"options_fr": [
+"Il hérita uniquement de ses biens personnels et de ses propriétés.",
+"Il hérita de la prophétie, du savoir, de la sagesse et du pouvoir, une succession spirituelle et de direction, car les prophètes ne laissent pas leurs biens en héritage.",
+"Il hérita de son épée et de son armure de combat.",
+"Il hérita uniquement de la direction des Enfants d’Israël, sans la prophétie."
+],
+"explanation_fr": "Selon le hadith : « Nous, les prophètes, ne laissons pas d’héritage ; ce que nous laissons est une aumône. » L’héritage de Salomon de David concernait donc la prophétie, le savoir, le pouvoir et la direction de la communauté."
+},
+{
+"id": "sulaiman_02",
+"question_ar": "ما هو الدعاء العظيم الذي دعا به سليمان ربه واستُجيب له فجعله مَلِكاً لا مثيل له؟",
+"options_ar": [
+"رَبِّ اغْفِرْ لِي وَهَبْ لِي عُمْراً طَوِيلاً لَا يَفْنَى.",
+"قَالَ رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي ۖ إِنَّكَ أَنتَ الْوَهَّابُ.",
+"طلب أن يملك كنوز الأرض والذهب المخبأ في البحار.",
+"دعا أن يهلك أعداءه بصاعقة من السماء."
+],
+"correct": 1,
+"explanation_ar": "طلب مُلكاً فريداً معجزاً لا يصل إليه أحد بعده، ليكون دليلاً قاطعاً على نبوته، فاستجاب الله له وسخر له قوى لم تُسخر لبشر.",
+"question_fr": "Quelle grande invocation Salomon adressa-t-il à son Seigneur, qui fut exaucée et lui donna un royaume incomparable ?",
+"options_fr": [
+"« Seigneur, pardonne-moi et accorde-moi une longue vie qui ne finira jamais. »",
+"« Seigneur, pardonne-moi et accorde-moi un royaume tel que personne après moi n’en aura de semblable. Tu es certes le Grand Donateur. »",
+"Il demanda de posséder les trésors de la terre et l’or caché dans les mers.",
+"Il demanda que ses ennemis soient détruits par une foudre venant du ciel."
+],
+"explanation_fr": "Il demanda un royaume exceptionnel et miraculeux, sans équivalent après lui. Allah exauça sa demande et lui accorda des pouvoirs extraordinaires."
+},
+{
+"id": "sulaiman_03",
+"question_ar": "كيف سخر الله الريح لسليمان عليه السلام؟",
+"options_ar": [
+"كانت تدفع سفنه فقط في البحر.",
+"سخرها الله (عَاصِفَةً تَجْرِي بِأَمْرِهِ) وأيضاً (رُخَاءً حَيْثُ أَصَابَ) أي تهب بقوة أو بلين حسب رغبته، وتقطع مسافة شهر في الصباح وشهر في المساء (غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ).",
+"كانت تعصف بأعدائه وتدمر منازلهم فقط.",
+"لم تُسخر له الريح بل سُخرت لداود."
+],
+"correct": 1,
+"explanation_ar": "كان يُحمل هو وحاشيته وجنوده على بساط الريح السريع جداً لتفقد أطراف مملكته الشاسعة بأمر الله وبسرعة تقطع مسافات شهور في ساعات.",
+"question_fr": "Comment Allah a-t-Il soumis le vent à Salomon ?",
+"options_fr": [
+"Il servait uniquement à pousser ses navires sur la mer.",
+"Allah le lui soumit, parfois avec force et parfois avec douceur selon son ordre. Il parcourait en une matinée et une soirée la distance d’un mois de voyage.",
+"Il servait uniquement à attaquer ses ennemis et à détruire leurs maisons.",
+"Le vent n’a pas été soumis à Salomon mais à David."
+],
+"explanation_fr": "Salomon, son entourage et ses armées étaient transportés par le vent très rapide, par la permission d’Allah, ce qui lui permettait de parcourir d’immenses distances en peu de temps."
+},
+{
+"id": "sulaiman_04",
+"question_ar": "ماذا كان يعمل (الجن والشياطين) في مملكة سليمان العظيمة تحت إمرته الباطشة؟",
+"options_ar": [
+"كانوا يقرؤون معه الزبور في المحاريب.",
+"سخرهم الله للبناء والغوص: (يَعْمَلُونَ لَهُ مَا يَشَاءُ مِن مَّحَارِيبَ وَتَمَاثِيلَ وَجِفَانٍ كَالْجَوَابِ وَقُدُورٍ رَّاسِيَاتٍ) ومن يعصمه يُعذب: (وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ).",
+"كانوا يعلمونه السحر وتغليب العقول.",
+"لم يكونوا يعملون بل كانوا محبوسين طوال الوقت."
+],
+"correct": 1,
+"explanation_ar": "شُغل الجن بالأعمال الشاقة كبناء المعابد الضخمة (المحاريب) والقصور والغوص لاستخراج اللؤلؤ، وكانوا مقيدين بالأصفاد (مقرنين في الأصفاد).",
+"question_fr": "Que faisaient les djinns et les démons dans le royaume de Salomon sous son autorité ?",
+"options_fr": [
+"Ils récitaient avec lui les Psaumes dans les lieux de prière.",
+"Allah les soumit à ses ordres pour la construction et la plongée. Ils construisaient notamment des sanctuaires, des récipients immenses et d’autres ouvrages, et ceux qui désobéissaient étaient châtiés.",
+"Ils lui enseignaient la magie et comment tromper les esprits.",
+"Ils ne travaillaient pas et étaient constamment emprisonnés."
+],
+"explanation_fr": "Les djinns accomplissaient des travaux importants pour Salomon, notamment la construction et la plongée pour extraire des richesses de la mer. Certains étaient maintenus sous contrôle et soumis à ses ordres."
+},
+{
+"id": "sulaiman_05",
+"question_ar": "ما الحدث الطريف والمذهل الذي وقع يوم تفقَّد سليمان جيشه الضخم المكون من (الجن والإنس والطير) في وادي النمل؟",
+"options_ar": [
+"أن الجيوش تفرقت بسبب عاصفة رملية.",
+"سَمِعَ وافترض نملة تُحذر رفيقاتها: (يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ وَهُمْ لَا يَشْعُرُونَ).",
+"أن النمل هاجم جيشه وصدهم عن المسير.",
+"أن الطيور حملت الدواب وطارت بها."
+],
+"correct": 1,
+"explanation_ar": "سليمان الذي أُوتي (منطق الطير) فهم أيضاً لغة النمل الخفية والموجات الصوتية الدقيقة، وعلم أنها حذرت قومها خوفاً من السحق غیر المتعمد.",
+"question_fr": "Quel événement étonnant se produisit lorsque Salomon inspecta son immense armée composée de djinns, d’humains et d’oiseaux dans la vallée des fourmis ?",
+"options_fr": [
+"Les armées se dispersèrent à cause d’une tempête de sable.",
+"Il entendit une fourmi avertir ses compagnes : « Ô fourmis, entrez dans vos demeures afin que Salomon et ses armées ne vous écrasent pas sans s’en rendre compte. »",
+"Les fourmis attaquèrent son armée et l’empêchèrent d’avancer.",
+"Les oiseaux transportèrent les animaux et s’envolèrent avec eux."
+],
+"explanation_fr": "Allah avait accordé à Salomon la compréhension du langage des oiseaux et lui permit également de comprendre la fourmi qui avertissait son peuple par crainte d’un dommage involontaire."
+},
+{
+"id": "sulaiman_06",
+"question_ar": "كيف كانت ردة فعل سليمان عند سماعه لنداء النملة وخوفها من جيشه العرمرم؟",
+"options_ar": [
+"أمر جنوده بسحق الوادي تعمداً لإظهار قوته.",
+"تَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا ودعا ربه: (رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ... وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ).",
+"أمر بجمع النمل ليأخذه معه لقصره.",
+"غضب من تحذيرها واعتبره إهانة لرحمة جيشه."
+],
+"correct": 1,
+"explanation_ar": "ضحك إعجاباً من فصاحتها وتفقدها لجنودها، وتذكر نعمة الله العظيمة عليه بالفهم، فكان رده هو التواضع المطلق لله.",
+"question_fr": "Quelle fut la réaction de Salomon lorsqu’il entendit la fourmi avertir son peuple de son immense armée ?",
+"options_fr": [
+"Il ordonna à ses soldats d’écraser volontairement la vallée pour montrer sa puissance.",
+"Il sourit avec amusement à ses paroles et invoqua Allah en Lui demandant de l’aider à être reconnaissant pour Ses bienfaits.",
+"Il ordonna de rassembler les fourmis pour les emmener dans son palais.",
+"Il se mit en colère contre son avertissement et le considéra comme une offense."
+],
+"explanation_fr": "Salomon sourit devant les paroles de la fourmi, puis se rappela le grand bienfait d’Allah qui lui avait permis de comprendre les créatures. Il répondit par l’humilité et la gratitude."
+},
+{
+"id": "sulaiman_07",
+"question_ar": "في يوم من الأيام، تفقد سليمان جنوده من الطيور فافتقد طائراً بعينه، فمن هو؟",
+"options_ar": [
+"النسر الملكي الأكبر.",
+"الهدهد: (وَتَفَقَّدَ الطَّيْرَ فَقَالَ مَا لِيَ لَا أَرَى الْهُدْهُدَ أَمْ كَانَ مِنَ الْغَائِبِينَ).",
+"الغراب الذي يُخبر بالغيبيات.",
+"الحمامة البيضاء طير السلام."
+],
+"correct": 1,
+"explanation_ar": "سليمان كان قائداً عسكرياً محنكاً يتفقد أدق تفاصيل جيشه، فلاحظ غياب مجند صغير (الهدهد) الذي كان دليله للماء.",
+"question_fr": "Un jour, Salomon inspecta ses troupes d’oiseaux et remarqua l’absence d’un oiseau. Lequel ?",
+"options_fr": [
+"Le grand aigle royal.",
+"La huppe : « Pourquoi ne vois-je pas la huppe ? Serait-elle parmi les absents ? »",
+"Le corbeau qui connaissait les choses cachées.",
+"La colombe blanche, symbole de paix."
+],
+"explanation_fr": "Salomon surveillait attentivement son armée et remarqua l’absence de la huppe, qui jouait notamment le rôle d’éclaireur et de guide vers l’eau."
+},
+{
+"id": "sulaiman_08",
+"question_ar": "بماذا توعد سليمان (الهدهد) الغائب إن لم يأتِ بعذر قوي مقبول لغيابه عن الطابور العسكري؟",
+"options_ar": [
+"بحبسه في قفص ذهبي مدى الحياة.",
+"لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا (قيل بنتف ريشه) أَوْ لَأَذْبَحَنَّهُ أَوْ لَيَأْتِيَنِّي بِسُلْطَانٍ مُّبِينٍ (عذر واضح وقوي لغيابه).",
+"بطرده من سرب الطيور ومنعه من الأكل.",
+"بألا يستمع لغنائه أبداً بعد اليوم."
+],
+"correct": 1,
+"explanation_ar": "الضبط والربط العسكري في جيش سليمان كان صارماً حتى مع الحشرات والطيور؛ الغياب بلا إذن يستوجب العقاب الرادع إلا في الضرورة.",
+"question_fr": "De quoi Salomon menaça-t-il la huppe si elle ne présentait pas une excuse valable pour son absence ?",
+"options_fr": [
+"De l’emprisonner dans une cage en or pour toute sa vie.",
+"De lui infliger un châtiment sévère ou de la tuer, à moins qu’elle ne lui apporte une preuve claire justifiant son absence.",
+"De la chasser de la troupe des oiseaux et de lui interdire de manger.",
+"De ne plus jamais écouter son chant."
+],
+"explanation_fr": "La discipline dans l’armée de Salomon était rigoureuse. L’absence devait être justifiée, sauf lorsqu’une raison importante et valable était présentée."
+},
+{
+"id": "sulaiman_09",
+"question_ar": "ما هو (النبأ اليقين) المرعب عَقَدِيًا ولَاقَظَ انتباه الهدهد الموحد في مملكة سبأ باليمن؟",
+"options_ar": [
+"أنه وجد قوماً يمتلكون ذهباً أكثر من سليمان.",
+"أنه وجد امرأة تملكهم (بلقيس) وأوتيت من كل شيء ولها عرش عظيم، والأدهى: (وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ اللَّهِ...!).",
+"أنه اكتشف جيشاً يزحف لغزو فلسطين ومملكة سليمان.",
+"أنهم يبنون أهرامات أعلى من محاريب سليمان."
+],
+"correct": 1,
+"explanation_ar": "الذي أثار استنكار الهدهد الشديد وغيظه ليس قوتهم، بل الانحلال العقدي والفطري المريع: السجود للشمس المخلوقة المخضوعة وترك الله العظيم.",
+"question_fr": "Quelle nouvelle importante et grave sur le plan religieux attira l’attention de la huppe dans le royaume de Saba au Yémen ?",
+"options_fr": [
+"Elle avait trouvé un peuple possédant plus d’or que Salomon.",
+"Elle avait trouvé une femme, Bilqis, qui régnait sur ce peuple, possédait un grand trône et avait reçu de nombreuses richesses. Surtout, elle avait constaté que cette femme et son peuple se prosternaient devant le soleil au lieu d’Allah.",
+"Elle avait découvert une armée avançant pour envahir la Palestine et le royaume de Salomon.",
+"Ils construisaient des pyramides plus hautes que les constructions de Salomon."
+],
+"explanation_fr": "Ce qui choqua la huppe n’était pas la puissance de ce peuple, mais le fait qu’il adorait le soleil, une créature, au lieu d’adorer Allah."
+},
+{
+"id": "sulaiman_10",
+"question_ar": "كيف رد سليمان العادل الحكيم على إدعاء الهدهد الخطير قبل أن يحكم؟",
+"options_ar": [
+"كذّبه فوراً لأنه طائر صغير لا يُعتد بكلامه.",
+"أرسل طيوراً أخرى لتقتله بتهمة الخيانة.",
+"تأكد منه بالتثبت العلمي الدقيق: (قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ الْكَاذِبِينَ) وأرسله بكتاب ليختبر رد فعل القوم.",
+"صدقه فوراً وجهز الجيش للغزو المباشر."
+],
+"correct": 2,
+"explanation_ar": "منهج نبوي رفيع في الإدارة والقضاء: عدم تصديق الروايات فوراً دون تثبت واختبار عملي (سننظر).",
+"question_fr": "Comment le sage Salomon réagit-il à l’affirmation importante de la huppe avant de prendre une décision ?",
+"options_fr": [
+"Il la traita immédiatement de menteuse parce qu’elle était un petit oiseau.",
+"Il envoya d’autres oiseaux pour la tuer pour trahison.",
+"Il vérifia soigneusement l’information : « Nous allons voir si tu as dit vrai ou si tu fais partie des menteurs », puis lui confia une lettre pour observer la réaction du peuple.",
+"Il la crut immédiatement et prépara son armée pour une invasion."
+],
+"explanation_fr": "La leçon est de ne pas accepter immédiatement une information sans la vérifier. Salomon demanda une vérification concrète avant de tirer une conclusion."
+},
+{
+"id": "sulaiman_11",
+"question_ar": "ماذا احتوى كتاب (رسالة) سليمان الذي ألقاه الهدهد إلى ملكة سبأ؟",
+"options_ar": [
+"طلباً بتبادل التجارة وإرسال كنوز الذهب والفضة.",
+"رسالة قصيرة حاسمة وحازمة: (إِنَّهُ مِن سُلَيْمَانَ وَإِنَّهُ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ * أَلَّا تَعْلُوا عَلَيَّ وَأْتُونِي مُسْلِمِينَ).",
+"قصيدة شعرية يمدح فيها عرشها العظيم.",
+"تهديداً بقتل الأطفال والنساء إن لم يستسلموا."
+],
+"correct": 1,
+"explanation_ar": "رسالة (موجزة بليغة): بدأت بالبسملة تيمناً وتعريفاً بالإله الحقيقي، وأمرتها بنبذ الكبر والاستسلام للتوحيد فوراً (وائتوني مسلمين).",
+"question_fr": "Que contenait la lettre de Salomon que la huppe remit à la reine de Saba ?",
+"options_fr": [
+"Une demande d’échange commercial et d’envoi de trésors en or et en argent.",
+"Un message court, clair et ferme : « Elle vient de Salomon et elle commence au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Ne vous élevez pas contre moi et venez à moi soumis à Allah. »",
+"Un poème faisant l’éloge de son grand trône.",
+"Une menace de tuer les enfants et les femmes s’ils ne se soumettaient pas."
+],
+"explanation_fr": "La lettre était courte et éloquente. Elle commençait par la basmala et appelait la reine à abandonner l’orgueil et à se soumettre à Allah."
+},
+{
+"id": "sulaiman_12",
+"question_ar": "كيف تعاملت ملكة سبأ (بلقيس) مع رسالة سليمان المفاجئة، وماذا قالت لمستشاريها؟",
+"options_ar": [
+"أمرت بتمزيق الرسالة وقتل الهدهد.",
+"عقلت وحكمت الشورى قائلة: (يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ... مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ) فاحترمت الرسالة واستشارت قادة جيشها.",
+"أعلنت إسلامها بمفردها فور القراءة.",
+"تجاهلتها ورمتها في النار كأن شيئاً لم يحدث."
+],
+"correct": 1,
+"explanation_ar": "كانت ملكة حكيمة ديمقراطية (ما كنت قاطعة أمراً حتى تشهدون)، ولم تتفرد بالرد رغم هيبة الرسول ووصفها للكتاب بأنه (كريم).",
+"question_fr": "Comment la reine de Saba, Bilqis, réagit-elle à la lettre inattendue de Salomon et que dit-elle à ses conseillers ?",
+"options_fr": [
+"Elle ordonna de déchirer la lettre et de tuer la huppe.",
+"Elle fit preuve de sagesse et consulta ses conseillers : « Je ne prendrai aucune décision avant que vous ne soyez présents. » Elle respecta la lettre et demanda l’avis de ses dirigeants.",
+"Elle annonça immédiatement sa conversion sans consulter personne.",
+"Elle l’ignora et la jeta au feu."
+],
+"explanation_fr": "Bilqis consulta son entourage avant de prendre une décision. Elle ne répondit pas précipitamment malgré l’importance de la lettre et qualifia celle-ci de « noble »."
+},
+{
+"id": "sulaiman_13",
+"question_ar": "ماذا كان رد (قادة الجيش) في سبأ المستعدين للمواجهة العسكرية بعد قراءة رسالة سليمان؟",
+"options_ar": [
+"خافوا وطلبوا منها الاستسلام خوفاً من الجن.",
+"أظهروا القوة المادية: (نَحْنُ أُولُو قُوَّةٍ وَأُولُو بَأْسٍ شَدِيدٍ وَالْأَمْرُ إِلَيْكِ فَانظُرِي مَاذَا تَأْمُرِينَ) أي نحن مستعدون للحرب إن أمرتِ.",
+"نصحوها بالانتحار الجماعي لحفظ الكرامة.",
+"وافقوا على دفع الجزية دون قتال."
+],
+"correct": 1,
+"explanation_ar": "الجيش ينظر للأمور بعدسة القوة العسكرية فقط، لكنها كمَلِكة سياسية كانت تنظر للعواقب الأبعد ولحماية دولتها من الدمار المريع.",
+"question_fr": "Quelle fut la réponse des chefs de l’armée de Saba après avoir lu la lettre de Salomon ?",
+"options_fr": [
+"Ils eurent peur et lui demandèrent de se soumettre par crainte des djinns.",
+"Ils affirmèrent leur puissance militaire : « Nous sommes forts et redoutables au combat, et la décision t’appartient ; vois ce que tu ordonnes. »",
+"Ils lui conseillèrent de mettre fin à ses jours pour préserver son honneur.",
+"Ils acceptèrent de payer un tribut sans combattre."
+],
+"explanation_fr": "Les chefs militaires raisonnaient principalement en termes de puissance et de confrontation. Bilqis, elle, réfléchissait également aux conséquences pour son royaume."
+},
+{
+"id": "sulaiman_14",
+"question_ar": "ماذا رأت بلقيس العاقلة بعد استعراض جيشها لقوته، وما خطتها لـ (لاختبار) نوايا سليمان؟",
+"options_ar": [
+"أمرت بالهجوم المباغت على جيش سليمان.",
+"أدركت أن (إِنَّ الْمُلُوكَ إِذَا دَخَلُوا قَرْيَةً أَفْسَدُوهَا)، فقررت إرسال (هدية عظيمة) مع رُسُلِها لترى إن كان مَلِكاً طالبَ مال (فيُرتشى بالهدية) أم نبياً طالباً للحق.",
+"قررت الهروب إلى حصون الإسكندر الأكبر.",
+"طلبت منه أن يأتي هو للقائها بمفرده كشرط لإسلامها."
+],
+"correct": 1,
+"explanation_ar": "سياسة جس النبض: الهدية السخية ستكشف معدنه الرخيص المتكالب على المادة، أو مبادئه النبوية العليا.",
+"question_fr": "Après avoir constaté la puissance de son armée, quelle stratégie Bilqis choisit-elle pour tester les intentions de Salomon ?",
+"options_fr": [
+"Elle ordonna une attaque surprise contre l’armée de Salomon.",
+"Elle estima que les rois peuvent causer de grands dégâts lorsqu’ils entrent dans une ville. Elle décida donc d’envoyer un grand cadeau pour voir si Salomon recherchait les richesses ou s’il était un prophète appelant à la vérité.",
+"Elle décida de fuir vers les forteresses d’Alexandre le Grand.",
+"Elle lui demanda de venir seul la rencontrer comme condition pour sa conversion."
+],
+"explanation_fr": "Bilqis voulut tester les intentions de Salomon en lui envoyant un cadeau important. Sa réaction devait montrer s’il recherchait les richesses ou s’il poursuivait une mission spirituelle."
+},
+{
+"id": "sulaiman_15",
+"question_ar": "كيف استقبل سليمان هدية بلقيس ورُسُلها المُحملين بالذهب النفيس؟",
+"options_ar": [
+"فرح بها وأقام مأدبة عظيمة لسفرائها.",
+"غضب واعتبرها رشوة للإنقاص من رسالته: (أَتُمِدُّونَنِ بِمَالٍ فَمَا آتَانِيَ اللَّهُ خَيْرٌ مِّمَّا آتَاكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ) ورفضها بقوة وتهديد.",
+"أخذ النصف ووزعه على الفقراء في القدس.",
+"أمر الجن بتخريب هديتهم وتحويلها تراباً."
+],
+"correct": 1,
+"explanation_ar": "النبي لا يُرتشى، وهو يملك في خزائنه أضعاف ما يملكون (لأن الله سخر له قوى طبيعية عظمى)، لذا رفض المداهنة وتمسك بالمبدأ (ائتوني مسلمين).",
+"question_fr": "Comment Salomon accueillit-il le cadeau de Bilqis et ses messagers chargés d’or précieux ?",
+"options_fr": [
+"Il en fut heureux et organisa un grand banquet pour ses ambassadeurs.",
+"Il le refusa fermement, considérant qu’il ne pouvait pas remplacer son message : « Me donnez-vous des richesses ? Ce qu’Allah m’a donné est meilleur que ce qu’Il vous a donné. »",
+"Il en prit la moitié et la distribua aux pauvres de Jérusalem.",
+"Il ordonna aux djinns de détruire le cadeau et de le transformer en poussière."
+],
+"explanation_fr": "Salomon ne cherchait pas les richesses. Il refusa le cadeau et maintint son appel à la soumission à Allah."
+},
+{
+"id": "sulaiman_16",
+"question_ar": "بماذا توعد سليمان السفراء لتبليغه لملكتهم بعد رفضه القاطع للهدية؟",
+"options_ar": [
+"بأنه سيقطع عنهم ماء النيل والمطر.",
+"ارْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَا أَذِلَّةً وَهُمْ صَاغِرُونَ (حرب كاسحة وجيش لا يُقهر لسحق كبريائهم الوثني).",
+"بحرق كامل مزارعهم وبناء سور حولهم.",
+"بنفيهم إلى أرض بابل واستعبادهم."
+],
+"correct": 1,
+"explanation_ar": "هذا تهديد القوي الواثق بـ (جنوده من الإنس والجن والطير) الذين يستحيل للجيوش البشرية العادية التصدي لهم.",
+"question_fr": "Que demanda Salomon aux messagers de transmettre à leur reine après avoir refusé catégoriquement le cadeau ?",
+"options_fr": [
+"Qu’il couperait leur eau et leurs pluies.",
+"« Retournez auprès d’eux. Nous viendrons avec des armées auxquelles ils ne pourront pas résister et nous les ferons sortir de leur pays humiliés. »",
+"Qu’il brûlerait toutes leurs terres agricoles et construirait un mur autour d’eux.",
+"Qu’il les exilerait à Babylone et les réduirait en esclavage."
+],
+"explanation_fr": "Salomon leur fit savoir qu’il disposait d’une puissance considérable et qu’il ne cherchait pas à négocier sa mission contre des richesses."
+},
+{
+"id": "sulaiman_17",
+"question_ar": "عندما علم سليمان بقدوم بلقيس وقومها (مسلمين مستسلمين)، ماذا طلب من ملأه وحاشيته العجيبة إظهاراً للمعجزة قبل وصولها؟",
+"options_ar": [
+"أن يفرشوا الأرض بالورد الأحمر ترحيباً.",
+"قَالَ يَا أَيُّهَا الْمَلَأُ أَيُّكُمْ يَأْتِينِي بِعَرْشِهَا قَبْلَ أَن يَأْتُونِي مُسْلِمِينَ (ليريهم آية باهرة على قدرته النبوية وسيطرته حتى على ملكها المحصن عن بعد).",
+"أن يبنوا سداً ليحجبوا مياه البحر عنها.",
+"أن يقتلوا حراسها ويأسروها وحدها."
+],
+"correct": 1,
+"explanation_ar": "عرشها كان عظيماً (ولها عرش عظيم) ومغلقاً في حراسة مشددة باليمن، فطلب جلب هذا البناء المادي الضخم لبيت المقدس (آلاف الكيلومترات) كزلزال نفسي لها.",
+"question_fr": "Lorsque Salomon apprit que Bilqis et son peuple allaient venir soumis à Allah, que demanda-t-il à son entourage avant son arrivée ?",
+"options_fr": [
+"De couvrir le sol de roses rouges pour l’accueillir.",
+"« Ô notables, lequel d’entre vous peut m’apporter son trône avant qu’ils ne viennent à moi soumis à Allah ? »",
+"De construire un barrage pour bloquer l’eau de la mer.",
+"De tuer ses gardes et de la capturer seule."
+],
+"explanation_fr": "Salomon demanda que le trône de Bilqis lui soit apporté avant son arrivée, afin de lui montrer un signe extraordinaire du pouvoir qu’Allah lui avait accordé."
+},
+{
+"id": "sulaiman_18",
+"question_ar": "من أول من بادر باستطاعته جلب عرش بلقيس، وما المدة التي اقترحها؟",
+"options_ar": [
+"وزيره الأول، في غضون شهر.",
+"عِفْرِيتٌ مِّنَ الْجِنِّ (من أشد الجن قوة وتمرداً) وقال: (أَنَا آتِيكَ بِهِ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ)، أي قبل أن تنهي مجلس حكمك المعتاد في ذلك اليوم الممتد.",
+"طيور العقاب، في غضون أسبوع واحد.",
+"رياح الصبا السريعة، في غضون ساعة من الزمن."
+],
+"correct": 1,
+"explanation_ar": "العفريت يمتلك قدرة مذهلة، فيستطيع قطع المسافة وحمل العرش الضخم من اليمن للشام قبل الزوال والانصراف الدائم من المجلس.",
+"question_fr": "Qui fut le premier à proposer de transporter le trône de Bilqis, et dans quel délai ?",
+"options_fr": [
+"Son premier ministre, en un mois.",
+"Un ifrit parmi les djinns, qui dit : « Je te l’apporterai avant que tu ne te lèves de ta place », c’est-à-dire avant la fin de ton assemblée.",
+"Les aigles, en une semaine.",
+"Les vents rapides, en une heure."
+],
+"explanation_fr": "L’ifrit proposa de transporter le trône sur une grande distance avant que Salomon ne termine son assemblée."
+},
+{
+"id": "sulaiman_19",
+"question_ar": "من الذي فاق العفريت في سرعته الخارقة، وماذا قال لسليمان في اللحظة الحاسمة؟",
+"options_ar": [
+"الهدهد، قال إنه سيجني قطعه بريشه في لحظة.",
+"الَّذِي عِندَهُ عِلْمٌ مِّنَ الْكِتَابِ (وهو عبد صالح من الإنس أو مَلَك أو هو سليمان نفسه وفق تفاسير) قال: (أَنَا آتِيكَ بِهِ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ) أي قبل أن تفتح عينك وتغمضها!",
+"الجن الأحمر المكبل بالحديد السحري المتفرد.",
+"الملك ميكائيل ونقله بعاصفة هوائية مدمرة."
+],
+"correct": 1,
+"explanation_ar": "العلم بالاسم الأعظم والمعرفة الإلهية المكنونة تتفوق على القوة الجسدية (طاقة العفاريت)، فتم طي المكان والزمان بلحظة البصر (في أجزاء من الثانية) واستقر العرش أمامه.",
+"question_fr": "Qui dépassa l’ifrit par sa rapidité extraordinaire et que dit-il à Salomon ?",
+"options_fr": [
+"La huppe, qui dit qu’elle pourrait le transporter avec ses ailes en un instant.",
+"Celui qui possédait une connaissance du Livre, qui dit : « Je te l’apporterai avant que ton regard ne revienne vers toi », c’est-à-dire en un instant.",
+"Un djinn rouge attaché par des chaînes magiques.",
+"L’ange Mikaël, qui le transporta dans une violente tempête."
+],
+"explanation_fr": "Celui qui possédait une connaissance du Livre accomplit ce que l’ifrit avait proposé encore plus rapidement, et le trône se retrouva devant Salomon en un instant."
+},
+{
+"id": "sulaiman_20",
+"question_ar": "كيف كان تعبير سليمان لما تفاجأ بـ (العرش مستقراً عنده) بلمح البصر دون أي اهتزاز بفضل العلم الإلهي؟",
+"options_ar": [
+"افتخر بعبقريته وطغى وتكبر على جنوده.",
+"قَالَ (هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ)، نسب الفضل المذهل لله فوراً خوفاً من فتنة التمكين، وأيقن أنه محض ابتلاء بالشكر.",
+"كافأ العبد الذي جلبه بأطنان من الذهب وسواري الملك.",
+"أمر بتدمير العرش كنوع من الازدراء بالقوى الوثنية."
+],
+"correct": 1,
+"explanation_ar": "هذه هي نفسية الأنبياء: كلما عظمت لهم الكرامات والمعجزات (كطي الأرض للعرش)، ازدادوا تواضعاً ورأوا فيها اختباراً للإيمان لا داعياً للكبر السمج.",
+"question_fr": "Que dit Salomon lorsqu’il vit le trône installé devant lui en un instant ?",
+"options_fr": [
+"Il se vanta de son intelligence et devint orgueilleux devant ses soldats.",
+"Il dit : « Ceci est une grâce de mon Seigneur afin qu’Il m’éprouve : serai-je reconnaissant ou ingrat ? » Il attribua immédiatement ce bienfait à Allah.",
+"Il récompensa celui qui l’avait apporté avec d’énormes quantités d’or.",
+"Il ordonna de détruire le trône par mépris pour les croyances de son peuple."
+],
+"explanation_fr": "Salomon attribua immédiatement cette capacité extraordinaire à la grâce d’Allah et la considéra comme une épreuve de gratitude, et non comme une raison de s’enorgueillir."
+},
+{
+"id": "sulaiman_21",
+"question_ar": "لماذا أمر سليمان بتغيير ملامح العرش قليلاً (نَكِّرُوا لَهَا عَرْشَهَا) قبل وصول بلقيس؟",
+"options_ar": [
+"ليشوه جماله انتقاماً لسجودها للشمس.",
+"نَنظُرْ أَتَهْتَدِي أَمْ تَكُونُ مِنَ الَّذِينَ لَا يَهْتَدُونَ (اختبار لذكائها ومعرفتها، وليريها أن الذي أتى به لا يعجز عن تغييره واستنساخه)، كتهيئة نفسية لانتزاع وثنيتها.",
+"لأنه كان مكسوراً في الطريق واحتاج لترميم سريع.",
+"ليخفيه عن جنون الشياطين وعبثهم به."
+],
+"correct": 1,
+"explanation_ar": "أراد صدمتها بهدوء لخلع يقينها الكاذب (بالشمس)؛ إنها عاجزة عن حماية عرشها المحصن الذي سُلب وتغيّر وهي لا تدري!",
+"question_fr": "Pourquoi Salomon demanda-t-il de modifier légèrement l’apparence du trône avant l’arrivée de Bilqis ?",
+"options_fr": [
+"Pour en détruire la beauté en représailles de son adoration du soleil.",
+"Pour voir si elle saurait le reconnaître et si elle serait guidée vers la vérité, tout en lui montrant que celui qui avait apporté le trône pouvait également le modifier.",
+"Parce qu’il avait été endommagé pendant le voyage et devait être réparé rapidement.",
+"Pour le cacher aux djinns et empêcher qu’ils ne le touchent."
+],
+"explanation_fr": "Salomon voulait tester sa capacité à reconnaître son propre trône malgré les modifications et l’amener à réfléchir aux signes extraordinaires qu’elle voyait."
+},
+{
+"id": "sulaiman_22",
+"question_ar": "كيف أجابت بلقيس الذكية والمندهشة عندما سُئلت: (أَهَٰكَذَا عَرْشُكِ) وهي تراه في فلسطين مستغربةً؟",
+"options_ar": [
+"قالت: لا، ليس هو، فعرشي محفوظ في القلعة العظمى باليمن السعيدة.",
+"قالت جواباً دبلوماسياً عبقرياً: (كَأَنَّهُ هُوَ)، لم تنفِ ولم تُثبت تماماً لشدة الذهول؛ التغيير الطفيف فيه ووجوده في غير مكانه جعل المحال ممكناً بعقلها الراجح الواعي.",
+"قالت: هذا سحر مبين أنتم سرقتموه بالليل البهيم.",
+"صرخت غضباً وطالبت بإرجاعه فوراً لمكانه وإلا قتلتهم."
+],
+"correct": 1,
+"explanation_ar": "(كأنه هو) إجابة تبرز رجاحة عقلها الذي قاد قومها. أدركت حينها أن سليمان مؤيد بقوة علوية قاهرة لا يمكن لملوك الأرض مجابهتها مطلقاُ.",
+"question_fr": "Comment Bilqis répondit-elle lorsqu’on lui demanda : « Est-ce ainsi ton trône ? » alors qu’elle le voyait dans un autre pays ?",
+"options_fr": [
+"Elle répondit : « Non, ce n’est pas lui, car mon trône est gardé dans la grande forteresse du Yémen. »",
+"Elle répondit avec prudence : « On dirait que c’est lui. » Elle ne confirma ni ne nia complètement, compte tenu de son étonnement.",
+"Elle répondit : « C’est une magie évidente ; vous l’avez volé pendant la nuit. »",
+"Elle se mit en colère et exigea qu’on le rende immédiatement."
+],
+"explanation_fr": "Sa réponse « On dirait que c’est lui » montre sa prudence et son intelligence face à une situation extraordinaire."
+},
+{
+"id": "sulaiman_23",
+"question_ar": "ما الذي كان يصد بلقيس وقومها عن الإسلام للتوحيد في السابق (وَصَدَّهَا مَا كَانَت تَّعْبُدُ مِن دُونِ اللَّهِ)؟",
+"options_ar": [
+"جنون الكبرياء والعزة الكاذبة.",
+"إِنَّهَا كَانَتْ مِن قَوْمٍ كَافِرِينَ (نشأت في بيئة وثنية تتوارث عبادة الشمس ولم تُعرض عليها الحجة الدامغة من قبل)، فكانت ضحية التلقين البيئي حتى رأت الآيات الواضحات الباهرة بعينيها.",
+"أن سليمان كان رجلا قاسيا وظالما للدول المجاورة.",
+"رفضها التخلي عن ثرواتها وأموالها لحسابه."
+],
+"correct": 1,
+"explanation_ar": "البيئة والموروثات الفاسدة هي الحجاب الحقيقي عن الحق (وجدنا آباءنا كذلك يفعلون). وسليمان حطم هذا الموروث بصدمة (العرش) الاستثنائية لترجع لفطرتها.",
+"question_fr": "Qu’est-ce qui empêchait auparavant Bilqis et son peuple d’accepter le monothéisme ?",
+"options_fr": [
+"Un orgueil extrême et une fausse fierté.",
+"Ils appartenaient à un peuple non croyant et avaient grandi dans un environnement où l’adoration du soleil était transmise de génération en génération.",
+"Le fait que Salomon était un homme cruel et injuste envers les royaumes voisins.",
+"Le refus de donner leurs richesses et leurs biens à Salomon."
+],
+"explanation_fr": "L’environnement et les traditions religieuses héritées peuvent éloigner de la vérité. Les signes extraordinaires auxquels Bilqis fut confrontée l’amenèrent à remettre en question ce qu’elle avait toujours connu."
+},
+{
+"id": "sulaiman_24",
+"question_ar": "ما المعجزة الثانية المعمارية التي واجهتها بلقيس بعد العرش (قِيلَ لَهَا ادْخُلِي الصَّرْحَ)؟",
+"options_ar": [
+"أدخلها في سجن مظلم كتهديد لقوتها.",
+"أدخلها قصراً (صرحاً مُمرّداً من قَوارِير) أي مصنوعاً من زجاج شفاف فوق ماء جارٍ (به أسماك)، فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً (بركة ماء) وكَشَفَتْ عَن سَاقَيْهَا لتدخل، فبهتت من إتقان وعظمة البناء الخرافي.",
+"قصر من الذهب الخالص والألماس السخي.",
+"حديقة كبيرة مليئة بالثعابين المروضة المرعبة."
+],
+"correct": 1,
+"explanation_ar": "صدمة الجمال والفن الراقي؛ أراد أن يُريها أن مملكة الله التي يُديرها أعظم بكثير وأرقى مادياً من (الشمس) والممالك المحدودة (العرش والقوارير دمرت كبرياءها تماماً).",
+"question_fr": "Quelle autre merveille architecturale Bilqis découvrit-elle après le trône lorsqu’on lui dit : « Entre dans le palais » ?",
+"options_fr": [
+"On la fit entrer dans une prison sombre pour menacer son pouvoir.",
+"Elle entra dans un palais dont le sol était fait de verre transparent au-dessus de l’eau. En le voyant, elle le prit pour une étendue d’eau et releva ses vêtements pour y entrer.",
+"Un palais entièrement construit en or et en diamants.",
+"Un grand jardin rempli de serpents apprivoisés."
+],
+"explanation_fr": "Le palais de verre fut une autre manifestation extraordinaire. Bilqis crut d’abord voir de l’eau avant de comprendre la véritable nature de la construction."
+},
+{
+"id": "sulaiman_25",
+"question_ar": "أمام هذه الآيات المبهرة (الرسالة، العرش المُنكر، الصرح الزجاجي)، ماذا أعلنت ملكة سبأ بيقين العظماء؟",
+"options_ar": [
+"هربت لليمن وعزلت نفسها في القلعة العاتية.",
+"قَالَتْ رَبِّ: إِنِّي ظَلَمْتُ نَفْسِي (بتأخرها وشركها القديم) وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ (إسلام الملوك الواعين المنقادين للحق دون قتال أو كبر).",
+"تحدت سليمان بحيلة سحرية من بلادها رداً لاختباره.",
+"ناشدته إبقاءها ملكة وستدفع له الذهب الجزيل."
+],
+"correct": 1,
+"explanation_ar": "أسلمت (مع سليمان) لا (لسليمان)! انتقلت من عبادة الشمس لمشاركة سليمان في عبادة الله، ودخل اليمن بأكمله في التوحيد بلا قطرة دم واحدة، بحكمة الرسالة وقوة الإبهار الحسي.",
+"question_fr": "Que déclara la reine de Saba après avoir vu ces signes extraordinaires : la lettre, le trône et le palais de verre ?",
+"options_fr": [
+"Elle retourna au Yémen et s’isola dans sa forteresse.",
+"Elle dit : « Seigneur, je me suis fait du tort à moi-même et je me soumets avec Salomon à Allah, Seigneur des mondes. »",
+"Elle défia Salomon avec une ruse magique de son pays.",
+"Elle lui demanda de la laisser reine en échange d’une grande quantité d’or."
+],
+"explanation_fr": "Bilqis se soumit à Allah avec Salomon. Elle abandonna l’adoration du soleil et reconnut Allah comme le Seigneur des mondes."
+},
+{
+"id": "sulaiman_26",
+"question_ar": "لماذا كان سليمان يستعرض الخيل الجياد (الصَّافِنَاتُ الْجِيَادُ) في وقت العصر؟",
+"options_ar": [
+"لمجرد اللهو واللعب وتضييع فراغ الوقت.",
+"لأنها عُدة الجهاد في سبيل الله، والخيل من أعظم أسلحة الملوك الرادعة، فكان يستعرضها إعداداً لجنوده (إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَن ذِكْرِ رَبِّي) حتى غابت الشمس وصار وقت الصلاة.",
+"لأنه كان يتاجر بها ويبيعها للروم البيزنطيين.",
+"كان يبحث عن ضالته المفقودة فيها فقط للسباق."
+],
+"correct": 1,
+"explanation_ar": "حب الخيل والجهاد أصيل في الملوك العظام والأنبياء؛ عرضت عليه عصراً فانشغل بجمالها وعديدها (صافنات واقفة على ثلاث وقوية لسرعتها) حتى توارى وقت الذكر المعتاد (الصلاة).",
+"question_fr": "Pourquoi Salomon inspectait-il les chevaux de race dans l’après-midi ?",
+"options_fr": [
+"Simplement pour se divertir et passer le temps.",
+"Parce qu’ils constituaient une préparation importante pour la défense et le combat. Il les inspectait pour préparer ses troupes, jusqu’à ce que le temps de la prière arrive.",
+"Parce qu’il les vendait aux Byzantins.",
+"Parce qu’il cherchait simplement à faire des courses avec eux."
+],
+"explanation_fr": "Les chevaux étaient importants pour la préparation militaire. Salomon les inspectait et admirait leur qualité, mais cette activité l’occupa jusqu’à la disparition du soleil."
+},
+{
+"id": "sulaiman_27",
+"question_ar": "ما هو الابتلاء (الفتنة) العظيم الذي ألقاه الله على كرسي سليمان ليرده للصواب والتواضع؟",
+"options_ar": [
+"كسر كرسيه من قبل ساحر خبيث شرير متمرس.",
+"وَلَقَدْ فَتَنَّا سُلَيْمَانَ (ابتلاء بمرض شديد أضعفه حتى ألقي على كرسيه كأنه جثة بلا روح (جَسَدًا)، ثم تاب وأناب فعاد مشافى معافى أقوى من ذي قبل).",
+"تم سرقة الكرسي من ملائكته واستردوه سراً.",
+"أرسل شياطين للجلوس مكانه ومحاربة جنوده الشرسين."
+],
+"correct": 1,
+"explanation_ar": "الأنبياء يُبتلون بالابتلاءات الشديدة (المرض المُقعد) رغم سعة ملكهم، لئلا يغتروا أو ينسوا ضعفهم البشري كإلقاء الجسد الهامد، ثم (أناب).",
+"question_fr": "Quelle grande épreuve Allah fit-il subir à Salomon afin de le ramener à la justesse et à l’humilité ?",
+"options_fr": [
+"Un sorcier lui brisa son trône.",
+"Allah éprouva Salomon par une grave maladie qui l’affaiblit fortement. Il fut ensuite éprouvé, se repentit et revint vers Allah.",
+"Des anges lui volèrent son trône puis le récupérèrent secrètement.",
+"Des démons prirent sa place et combattirent son armée."
+],
+"explanation_fr": "Les prophètes peuvent être éprouvés malgré leur pouvoir et leurs richesses. Cette épreuve rappelle la faiblesse humaine et conduit au retour vers Allah."
+},
+{
+"id": "sulaiman_28",
+"question_ar": "ما الغاية من ذكر سليمان في القرآن مقترناً بصفة (الأواب) و (نعم العبد) مراراً كما أبيه؟",
+"options_ar": [
+"بسبب طول عمره فقط.",
+"لتأكيد أن المُلك العظيم والجاه الواسع والجند الكثيف لم تُلهِه عن حقيقة العبودية الصافية لله؛ فكلما أذنب أو شغله شيء (أناب) فرجع سريعاً تائباً منكسراً مخبتاً.",
+"لوصف ثرائه المادي الفاحش للناس الدنيويين.",
+"لأنه كان دائم الزواج وبناء القصور الكثيرة الفارهة."
+],
+"correct": 1,
+"explanation_ar": "(نعم العبد إنه أواب): أعظم وسام قرآني لمن يملك الدنيا بيمينه ولا يدخل كبر الملك لقلبه، وهذه مدرسة سليمان وداود المُثلى للتمكين المادي المتزاوج بالروح.",
+"question_fr": "Pourquoi le Coran décrit-il Salomon comme « un excellent serviteur » et « celui qui revient constamment vers Allah », comme son père David ?",
+"options_fr": [
+"Uniquement en raison de sa longue vie.",
+"Pour montrer que son immense royaume, son pouvoir et ses armées ne l’ont pas détourné de sa véritable servitude envers Allah. Lorsqu’une chose l’occupait, il revenait vers Allah.",
+"Pour décrire uniquement sa grande richesse matérielle.",
+"Parce qu’il se mariait souvent et construisait de nombreux palais."
+],
+"explanation_fr": "Malgré l’immensité de son royaume, Salomon resta attaché à l’adoration d’Allah et revenait constamment vers Lui. C’est pourquoi le Coran le décrit comme un excellent serviteur."
+},
+{
+"id": "sulaiman_29",
+"question_ar": "كيف مات سليمان عليه السلام (الوفاة العجيبة الموصوفة بالتفصيل في سورة سبأ)؟",
+"options_ar": [
+"مات في فراشه الوثير محاطاً بالأطباء والمحاريب.",
+"قُبضت روحه وهو واقف يصلي أو يراقب العمال من الجن والإنس متكئاً على عصاه (مِنْسَأَتِهِ)، فبقي قائماً ميتاً لشهور (أو سنة) وهم لا يعلمون بموته.",
+"قُتل في معركة ضارية بسهم غادر طائش.",
+"مات ودفن في مكان سري لم يعلمه أحد قط وُجد مؤخراً."
+],
+"correct": 1,
+"explanation_ar": "نهاية تليق بأعظم ملوك الأرض: مات وهو على رأس عمله مراقباً لجهود إعمار الأرض، ومُتكئاً على عصاه بشموخ ومثابرة هائلة.",
+"question_fr": "Comment Salomon mourut-il, selon le récit détaillé de la sourate Saba ?",
+"options_fr": [
+"Il mourut dans son lit, entouré de médecins.",
+"Son âme fut reprise alors qu’il était debout, appuyé sur son bâton. Il resta ainsi debout pendant un certain temps sans que les djinns ne sachent qu’il était mort.",
+"Il fut tué lors d’une grande bataille par une flèche.",
+"Il mourut et fut enterré dans un lieu secret qui ne fut découvert que récemment."
+],
+"explanation_fr": "Salomon mourut alors qu’il était appuyé sur son bâton. Les djinns continuèrent leur travail sans savoir qu’il était déjà mort, jusqu’à ce qu’un signe leur révèle son décès."
+},
+{
+"id": "sulaiman_30",
+"question_ar": "كيف اكتشف الجن والناس لاحقاً وفاة سليمان العظيم وهو مستند لعصاه؟",
+"options_ar": [
+"نزل ملك من السماء وأخبرهم بانتهاء الأجل المحتوم.",
+"مَا دَلَّهُمْ عَلَىٰ مَوْتِهِ إِلَّا (دَابَّةُ الْأَرْضِ) (حشرة الأرضة/السوس) تأكل عَصَاه التي كان يتكئ عليها، فلما أكلتها تهاوت العصا (خَرَّ) فسقط جسد سليمان الطاهر وعلموا بموته المتأخر.",
+"انهار السقف عليه من الريح المزمجرة الشديدة.",
+"أخبرهم هدهد سليمان بحزنه العميق."
+],
+"correct": 1,
+"explanation_ar": "إخراج درامي إلهي بديع: أضعف المخلوقات (حشرة صغيرة تأكل الخشب) تُسقط أعظم ملوك الأرض، وتنهي حالة الخوف واستعباد الجن بمشيئة الله وحدها.",
+"question_fr": "Comment les djinns et les humains découvrirent-ils finalement la mort de Salomon alors qu’il était appuyé sur son bâton ?",
+"options_fr": [
+"Un ange descendit du ciel et leur annonça que son terme était arrivé.",
+"Seul un insecte de la terre rongea le bâton sur lequel il s’appuyait. Lorsque le bâton céda, Salomon tomba et ils découvrirent alors sa mort.",
+"Le toit s’effondra sur lui à cause d’un vent violent.",
+"La huppe de Salomon leur annonça sa mort."
+],
+"explanation_fr": "Un petit insecte rongea le bâton de Salomon jusqu’à ce qu’il cède. C’est ainsi que les djinns comprirent qu’il était mort."
+},
+{
+"id": "sulaiman_31",
+"question_ar": "ما الرسالة العقدية العظيمة التي أثبتتها حكاية (وفاة سليمان وسقوطه بعصاه) أمام ادعاءات السحرة والمشعوذين؟",
+"options_ar": [
+"أن الجن أقوى من البشر في السحر المزدوج.",
+"فَلَمَّا خَرَّ تَبَيَّنَتِ الْجِنُّ أَن (لَّوْ كَانُوا يَعْلَمُونَ الْغَيْبَ مَا لَبِثُوا فِي الْعَذَابِ الْمُهِينِ)؛ أظهرت كذب ادعاء الجن معرفة الغيب المحجوب، فقد بقوا يعملون بشقاء لشهور وهم يظنونه حياً يراقبهم!",
+"أن الغيب متاح للجميع بالتساوي في كل الأزمنة.",
+"أن العصا سحرية ويجب تقديسها دائماً وأبداً."
+],
+"correct": 1,
+"explanation_ar": "ضربة قاصمة لخرافات الكهانة والعرافة وادعاء الجن علم الغيب. لو علموا الغيب لما استمروا في العمل الشاق الذليل طوال فترة موته وهم ينظرون لجثته! (الحادثة رسالة للتوحيد).",
+"question_fr": "Quel grand enseignement religieux l’histoire de la mort de Salomon et de sa chute avec son bâton apporte-t-elle face aux prétentions des sorciers et des devins ?",
+"options_fr": [
+"Que les djinns sont plus puissants que les humains en matière de magie.",
+"Lorsque Salomon tomba, les djinns comprirent que s’ils connaissaient réellement l’invisible, ils n’auraient pas continué à travailler dans l’épreuve alors qu’il était déjà mort.",
+"Que l’invisible est accessible à tout le monde de manière égale.",
+"Que le bâton était magique et devait être vénéré."
+],
+"explanation_fr": "Cet événement montre que les djinns ne connaissent pas l’invisible par eux-mêmes. S’ils l’avaient connu, ils auraient su que Salomon était mort et n’auraient pas continué leur travail."
+},
+{
+"id": "sulaiman_32",
+"question_ar": "ما الذي كان يُكتب على خاتم الملك سليمان حسب الروايات التاريخية المتوارثة (وإن لم تثبت قرآنياً) وصار رمزاً لسلطانه؟",
+"options_ar": [
+"كان مكتوباً عليه أسماء الملائكة والجن الطغاة.",
+"روايات (إسرائيليات) تذكر أن سره وقوته في خاتم نقش عليه الاسم الأعظم أو (لا إله إلا الله)، وأنه لما فُقد الخاتم سُلب ملكه لفترة كفتنة (والأصل أنه أواب فابتلي).",
+"نقشه كان صورة للشمس والقمر والنجوم البراقة.",
+"كان خاتماً عادياً من الحديد الرخيص لا نقش فيه."
+],
+"correct": 1,
+"explanation_ar": "أسطورة (خاتم سليمان) شاعت في المرويات كمصدر لقوته وسيطرته العجيبة، رغم أن القرآن نسب الملك كـ (فضل من ربي) (مُلكاً لا ينبغي لأحد)، وليس مجرد أداة مادية سحرية.",
+"question_fr": "Que racontent certaines traditions historiques au sujet de l’anneau du roi Salomon, bien que cela ne soit pas établi par le Coran ?",
+"options_fr": [
+"Qu’il portait les noms des anges et des djinns puissants.",
+"Certaines traditions rapportent que son secret et son pouvoir étaient liés à un anneau portant le Nom suprême ou la formule « Il n’y a de divinité qu’Allah ». Ces récits ne sont pas établis par le Coran.",
+"Il portait une représentation du soleil, de la lune et des étoiles.",
+"C’était simplement un anneau ordinaire en fer sans inscription."
+],
+"explanation_fr": "L’histoire de « l’anneau de Salomon » s’est répandue dans certaines traditions comme explication de son pouvoir. Cependant, le Coran attribue son royaume à la grâce d’Allah et non à un objet magique."
+},
+{
+"id": "sulaiman_33",
+"question_ar": "كيف استخدمت اليهود السحر ونسبوه زوراً لسليمان في زمن التفلت، وكيف برأه القرآن من ذلك القبح؟",
+"options_ar": [
+"القرآن أقر بأنه كان ساحراً عظيماً ومحترفاً.",
+"زعم اليهود أن ملكه قام بالسحر المخفي تحت كرسيه، فرد القرآن بقوة: (وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ)، فالسحر كفر وسليمان نبي بريء مطهر من أدناس الشياطين.",
+"زعموا أنه سرق السحر من بلقيس اليمنية.",
+"لم يتحدث القرآن عن السحر وترك الأمر غامضاً مبطناً."
+],
+"correct": 1,
+"explanation_ar": "تبرئة ربانية لساحة نبي عظيم من تُهم الكهنة اليهود الذين استمدوا السحر من الشياطين (ببابل هاروت وماروت) وأرادوا تبرير كفرهم بنسبته للكبير سليمان (ولكن الشياطين كفروا).",
+"question_fr": "Comment le Coran a-t-il innocenté Salomon des accusations de magie qui lui furent attribuées ?",
+"options_fr": [
+"Le Coran confirme qu’il était un grand sorcier professionnel.",
+"Certains Juifs prétendirent que son royaume reposait sur une magie cachée sous son trône, mais le Coran affirme : « Salomon n’a pas mécru ; ce sont les démons qui ont mécru en enseignant la magie aux gens. »",
+"Ils prétendirent qu’il avait volé la magie à Bilqis du Yémen.",
+"Le Coran ne parle pas de magie et laisse cette question sans réponse."
+],
+"explanation_fr": "Le Coran rejette clairement l’attribution de la magie à Salomon et affirme son innocence, en attribuant l’enseignement de la magie aux démons."
+},
+{
+"id": "sulaiman_34",
+"question_ar": "في أي سورة من القرآن وردت القصة التفصيلية لسليمان مع الهدهد وبلقيس ملكة سبأ ووادي النمل؟",
+"options_ar": [
+"سورة البقرة.",
+"سورة النمل.",
+"سورة يوسف.",
+"سورة الكهف."
+],
+"correct": 1,
+"explanation_ar": "سورة النمل (الآيات 15-44) هي التي تحتوي على القصة المفصلة لسليمان مع النملة والهدهد وبلقيس ملكة سبأ، وسُميت السورة بالنمل نسبة لحادثة وادي النمل المذكورة فيها.",
+"question_fr": "Dans quelle sourate du Coran trouve-t-on le récit détaillé de Salomon, de la huppe, de Bilqis et de la vallée des fourmis ?",
+"options_fr": [
+"La sourate Al-Baqara.",
+"La sourate An-Naml.",
+"La sourate Yusuf.",
+"La sourate Al-Kahf."
+],
+"explanation_fr": "La sourate An-Naml contient le récit détaillé de Salomon avec la fourmi, la huppe et la reine de Saba, notamment dans les versets 15 à 44."
+},
+{
+"id": "sulaiman_35",
+"question_ar": "ما معنى قول سليمان: (يَا أَيُّهَا النَّاسُ عُلِّمْنَا مَنطِقَ الطَّيْرِ وَأُوتِينَا مِن كُلِّ شَيْءٍ)؟",
+"options_ar": [
+"أنه تعلم تقليد أصوات الطيور للصيد والترفيه.",
+"أنه أعلن للناس نعمة الله عليه بفهم كلام الطيور فهماً حقيقياً لمعانيها ومرادها، وأنه أُعطي من كل أسباب الملك والقوة.",
+"أنه كان يُدرّس الناس علم الحيوان في مدارسه.",
+"أنه ادّعى الألوهية بسبب هذه القدرات الخارقة."
+],
+"correct": 1,
+"explanation_ar": "هذا إعلان نبوي للناس بنعم الله الخاصة عليه، ومنطق الطير ليس مجرد سماع أصوات بل فهم كلام ومعانٍ ومقاصد، وقوله (أوتينا من كل شيء) أي من أسباب الملك والتمكين ما لم يُؤتَ أحد.",
+"question_fr": "Que signifie la parole de Salomon : « Ô gens, nous avons appris le langage des oiseaux et nous avons reçu de toute chose » ?",
+"options_fr": [
+"Qu’il avait appris à imiter les sons des oiseaux pour la chasse et le divertissement.",
+"Qu’il annonçait aux gens le bienfait d’Allah de lui avoir donné la compréhension du langage des oiseaux et de leurs intentions, ainsi que de nombreux moyens de pouvoir et de royaume.",
+"Qu’il enseignait la zoologie dans ses écoles.",
+"Qu’il prétendait être divin à cause de ces capacités extraordinaires."
+],
+"explanation_fr": "Salomon annonçait un bienfait particulier qu’Allah lui avait accordé : comprendre réellement le langage des oiseaux, leurs significations et leurs intentions."
+},
+{
+"id": "sulaiman_36",
+"question_ar": "ما هي (عين القطر) التي أسالها الله لسليمان كما ذُكر في سورة سبأ؟",
+"options_ar": [
+"عين ماء عذبة تتدفق في قصره للزينة.",
+"عين (نبع) من النحاس المُذاب (القِطر) أجراها الله له كمعدن سائل يُصنع منه الأدوات والأسلحة والمنشآت.",
+"عين من الذهب السائل لصنع الحلي والتيجان.",
+"بركة من الزئبق الفضي لصناعة المرايا العاكسة."
+],
+"correct": 1,
+"explanation_ar": "قال تعالى: (وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ) [سبأ: 12]، والقِطر هو النحاس المُذاب، فأجرى الله له نبعاً من النحاس السائل تسخيراً خاصاً لتيسير صناعة المعدات والمنشآت الضخمة.",
+"question_fr": "Qu’est-ce que la « source de cuivre » qu’Allah fit couler pour Salomon, mentionnée dans la sourate Saba ?",
+"options_fr": [
+"Une source d’eau douce qui coulait dans son palais pour la décoration.",
+"Une source de cuivre fondu qu’Allah fit couler pour lui, permettant son utilisation dans la fabrication d’outils et de constructions.",
+"Une source d’or liquide destinée à fabriquer des bijoux et des couronnes.",
+"Un bassin de mercure destiné à fabriquer des miroirs."
+],
+"explanation_fr": "Allah dit dans la sourate Saba qu’Il fit couler pour Salomon une source de cuivre. Ce métal fondu lui servait notamment pour ses travaux et ses constructions."
+},
+{
+"id": "sulaiman_37",
+"question_ar": "ما المعنى العميق لقوله تعالى: (اعْمَلُوا آلَ دَاوُودَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِيَ الشَّكُورُ)؟",
+"options_ar": [
+"أمر لآل داود بالعمل التجاري لجمع المال والشكر عليه.",
+"أمر إلهي لآل داود بأن يجعلوا أعمالهم كلها شكراً لله على نعمه، مع تنبيه أن القليل من العباد هم الذين يؤدون حق الشكر الكامل بالعمل لا بالقول فقط.",
+"طلب من آل داود أن يشكروا الناس على مساعدتهم لهم.",
+"أمر بالصمت والتأمل دون عمل كنوع من الشكر الخالص."
+],
+"correct": 1,
+"explanation_ar": "الشكر الحقيقي ليس مجرد كلمات بل عمل دؤوب بالجوارح والقلب واللسان، وآل داود أُمروا بتحويل حياتهم كلها لشكر عملي، ثم نبّه الله أن هذا المقام العالي قليل من يبلغه.",
+"question_fr": "Quel est le sens profond du verset : « Œuvrez, famille de David, en signe de gratitude, et peu de Mes serviteurs sont vraiment reconnaissants » ?",
+"options_fr": [
+"Il ordonne à la famille de David de faire du commerce pour gagner de l’argent et remercier Allah.",
+"Il ordonne à la famille de David de faire de ses œuvres une expression de gratitude envers Allah, en rappelant que peu de serviteurs accomplissent réellement une gratitude complète par leurs actes.",
+"Il demande à la famille de David de remercier les gens pour leur aide.",
+"Il ordonne de rester silencieux et de méditer sans agir."
+],
+"explanation_fr": "La véritable gratitude ne se limite pas aux paroles. Elle se manifeste également par les actes, le cœur et les comportements. La famille de David fut appelée à exprimer sa reconnaissance par toute sa vie."
+},
+{
+"id": "sulaiman_38",
+"question_ar": "ما القضية التي حكم فيها داود وسليمان معاً، وكيف تميّز حكم سليمان الشاب فيها؟",
+"options_ar": [
+"قضية سرقة بين تاجرين، وحكم سليمان بتقسيم المسروق بينهما بالتساوي.",
+"قضية غنم رعت في حرث قوم ليلاً فأفسدته، فحكم داود بإعطاء الغنم لصاحب الحرث، لكن سليمان اقترح حلاً أعدل: يأخذ صاحب الحرث الغنم ينتفع بها حتى يُصلَح حرثه ثم يُرد كلٌّ لصاحبه. قال تعالى: (فَفَهَّمْنَاهَا سُلَيْمَانَ).",
+"قضية حدود بين قبيلتين، وحكم سليمان بتقسيم الأرض بينهما.",
+"قضية طلاق بين زوجين، وحكم سليمان بالصلح الإجباري بينهما."
+],
+"correct": 1,
+"explanation_ar": "في سورة الأنبياء (78-79) ذُكر أن الله فهّم سليمان الحكم الأصوب، وكلاهما أوتي حكماً وعلماً. حكم سليمان حفظ حق الطرفين دون ظلم أحدهما، مما يدل على نبوغه المبكر في القضاء.",
+"question_fr": "Quelle affaire David et Salomon eurent-ils à juger ensemble, et en quoi le jugement de Salomon se distingua-t-il ?",
+"options_fr": [
+"Une affaire de vol entre deux commerçants, et Salomon partagea le butin entre eux.",
+"Des moutons avaient pénétré de nuit dans le champ d’un peuple et l’avaient endommagé. David proposa de donner les moutons au propriétaire du champ, tandis que Salomon proposa que le propriétaire bénéficie des moutons jusqu’à la réparation du champ, puis que chacun récupère son bien.",
+"Un conflit de frontières entre deux tribus, que Salomon résolut en partageant les terres.",
+"Une affaire de divorce entre deux époux, que Salomon résolut par une réconciliation obligatoire."
+],
+"explanation_fr": "Dans la sourate Al-Anbiya, Allah indique qu’Il avait donné à Salomon une compréhension particulière de cette affaire. Son jugement cherchait à préserver les droits des deux parties sans léser l’une d’elles."
+},
+{
+"id": "sulaiman_39",
+"question_ar": "ما معنى (جِفَانٍ كَالْجَوَابِ) التي صنعها الجن لسليمان؟",
+"options_ar": [
+"أكواب صغيرة للشرب مزخرفة بالذهب والفضة.",
+"صحون وأوعية ضخمة للطعام بحجم الأحواض الكبيرة (الجوابي جمع جابية وهي الحوض الكبير)، تُطعم أعداداً هائلة من الجند والرعية.",
+"قوارب صغيرة للإبحار في الأنهار الداخلية.",
+"خزائن للمال والذهب مدفونة تحت الأرض."
+],
+"correct": 1,
+"explanation_ar": "الجِفان جمع جَفنة وهي القصعة الكبيرة، والجَوابي جمع جابية وهي الحوض العظيم الذي يجتمع فيه الماء. فكانت أوعية الطعام بحجم البرك والأحواض الضخمة لإطعام الجيوش الكبيرة.",
+"question_fr": "Que signifie « des plats semblables à des bassins » fabriqués par les djinns pour Salomon ?",
+"options_fr": [
+"De petites tasses décorées d’or et d’argent.",
+"De grands plats et récipients pour la nourriture, comparables à de vastes bassins, capables de servir de grandes quantités de nourriture aux soldats et aux habitants.",
+"De petites embarcations pour naviguer sur les rivières.",
+"Des coffres enterrés contenant de l’argent et de l’or."
+],
+"explanation_fr": "Les plats étaient de très grands récipients, comparables à des bassins, permettant de préparer et de servir de grandes quantités de nourriture."
+},
+{
+"id": "sulaiman_40",
+"question_ar": "ما معنى (فَهُمْ يُوزَعُونَ) في وصف جنود سليمان من الجن والإنس والطير؟",
+"options_ar": [
+"أنهم كانوا يتقاتلون فيما بينهم ويتوزعون الغنائم.",
+"أنهم كانوا يُنظَّمون في صفوف منضبطة، يُحبس أولهم على آخرهم حتى يتساووا في المسير بنظام عسكري محكم.",
+"أنهم كانوا يتفرقون في كل اتجاه بلا ضابط ولا رقيب.",
+"أنهم كانوا يُوزعون الطعام على الفقراء في طريقهم."
+],
+"correct": 1,
+"explanation_ar": "(يوزعون) من الوزع وهو الكف والمنع، أي يُكفّ أولهم حتى يلحق آخرهم فيسيرون منتظمين. وهذا يدل على النظام العسكري الدقيق في جيش سليمان رغم تنوع أجناس جنوده.",
+"question_fr": "Que signifie « ils étaient organisés en rangs » dans la description de l’armée de Salomon composée de djinns, d’humains et d’oiseaux ?",
+"options_fr": [
+"Ils se battaient entre eux et se partageaient les butins.",
+"Ils étaient organisés en rangs disciplinés : les premiers étaient retenus jusqu’à ce que les derniers les rejoignent afin que toute l’armée avance de manière ordonnée.",
+"Ils se dispersaient dans toutes les directions sans aucune organisation.",
+"Ils distribuaient de la nourriture aux pauvres pendant leur marche."
+],
+"explanation_fr": "Le terme indique que l’armée était organisée et disciplinée. Les premiers attendaient les derniers afin que toute la troupe avance de manière ordonnée."
+},
+{
+"id": "sulaiman_41",
+"question_ar": "بعد انشغال سليمان باستعراض الخيل حتى غابت الشمس (تَوَارَتْ بِالْحِجَابِ)، ماذا فعل؟",
+"options_ar": [
+"أمر بتكاثر الخيل وزيادة أعدادها في الإسطبلات الملكية.",
+"قال (رُدُّوهَا عَلَيَّ) فطفق مسحاً بالسوق والأعناق، وذلك في أرجح التفاسير أنه مسح عليها تكريماً وتفقداً (وقيل ذبحها تقرباً لله لأنها شغلته عن ذكره).",
+"أمر ببيعها كلها في السوق والتخلص منها نهائياً.",
+"تركها وذهب للنوم دون أن يفعل شيئاً حيالها."
+],
+"correct": 1,
+"explanation_ar": "اختلف المفسرون: هل مسح على ساقيها وأعناقها تكريماً وتفقداً لها، أم ذبحها لله لأنها ألهته عن الصلاة. والأول أرجح عند كثير من العلماء لأن الخيل مال لا ذنب لها في انشغاله.",
+"question_fr": "Après avoir été occupé par l’inspection des chevaux jusqu’au coucher du soleil, que fit Salomon ?",
+"options_fr": [
+"Il ordonna d’augmenter le nombre de chevaux dans les écuries royales.",
+"Il dit : « Ramenez-les-moi », puis les caressa et les inspecta. Certains exégètes ont aussi proposé une autre interprétation concernant ce passage.",
+"Il ordonna de tous les vendre et de s’en débarrasser.",
+"Il les abandonna et alla dormir."
+],
+"explanation_fr": "Les exégètes ont proposé différentes interprétations de ce passage. L’une des plus connues est que Salomon caressa et inspecta les chevaux avec attention, tandis qu’une autre interprétation évoque leur sacrifice."
+},
+{
+"id": "sulaiman_42",
+"question_ar": "كيف أوصل الهدهد رسالة سليمان إلى بلقيس ملكة سبأ بحسب الأمر القرآني؟",
+"options_ar": [
+"طار بها سراً ووضعها تحت عرشها دون أن يراه أحد من الحرس.",
+"أمره سليمان: (اذْهَب بِّكِتَابِي هَٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَانظُرْ مَاذَا يَرْجِعُونَ) فألقاها إليهم وتنحى جانباً ليراقب ردة فعلهم.",
+"أعطاها لطائر آخر أسرع منه ليوصلها بدلاً عنه.",
+"حملها إلى حارس القصر وسلّمها له عند البوابة."
+],
+"correct": 1,
+"explanation_ar": "أمر سليمان الهدهد بثلاث مهام دقيقة: حمل الكتاب، وإلقائه إليهم، ثم الابتعاد والمراقبة عن بُعد لمعرفة ردة فعلهم ونقلها لسليمان. وهذا يدل على ذكاء التخطيط الاستخباراتي النبوي.",
+"question_fr": "Comment la huppe transmit-elle la lettre de Salomon à la reine de Saba selon le récit coranique ?",
+"options_fr": [
+"Elle la transporta secrètement et la plaça sous son trône sans être vue par les gardes.",
+"Salomon lui ordonna de prendre la lettre, de la leur remettre, puis de se retirer afin d’observer leur réaction. Elle fit exactement cela.",
+"Elle la donna à un autre oiseau plus rapide.",
+"Elle la remit à un garde du palais à l’entrée."
+],
+"explanation_fr": "Salomon donna à la huppe des instructions précises : apporter la lettre, la déposer auprès d’eux, puis se retirer et observer leur réaction."
+},
+{
+"id": "sulaiman_43",
+"question_ar": "ما المقصود بـ (الْأَرْض الَّتِي بَارَكْنَا فِيهَا) التي كانت الريح تجري بأمر سليمان إليها؟",
+"options_ar": [
+"أرض مصر وضفاف نهر النيل.",
+"أرض الشام وبيت المقدس (فلسطين)، وهي الأرض المباركة التي كان فيها مقر ملك سليمان وحكمه.",
+"أرض الحجاز ومكة المكرمة.",
+"أرض العراق وبلاد ما بين الرافدين."
+],
+"correct": 1,
+"explanation_ar": "قال تعالى: (وَلِسُلَيْمَانَ الرِّيحَ عَاصِفَةً تَجْرِي بِأَمْرِهِ إِلَى الْأَرْضِ الَّتِي بَارَكْنَا فِيهَا) [الأنبياء: 81]، وهي أرض الشام وبيت المقدس التي وصفها الله بالبركة في مواضع عدة من القرآن.",
+"question_fr": "Que désigne « la terre que Nous avons bénie » vers laquelle le vent se dirigeait sur l’ordre de Salomon ?",
+"options_fr": [
+"L’Égypte et les rives du Nil.",
+"La région du Sham et Jérusalem, une terre bénie où se trouvait le centre du royaume et du pouvoir de Salomon.",
+"Le Hedjaz et La Mecque.",
+"L’Irak et la Mésopotamie."
+],
+"explanation_fr": "Le verset de la sourate Al-Anbiya mentionne la terre bénie vers laquelle le vent se dirigeait par ordre de Salomon. Elle est traditionnellement identifiée à la région du Sham et à la Terre sainte."
+},
+{
+"id": "sulaiman_44",
+"question_ar": "ما الذي كان يستخرجه الجن الغواصون من البحار لسليمان عليه السلام؟",
+"options_ar": [
+"الأسماك النادرة والمرجان فقط لتزيين القصور.",
+"اللؤلؤ والجواهر والكنوز الثمينة من أعماق البحار، قال تعالى: (وَمِنَ الشَّيَاطِينِ مَن يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذَٰلِكَ).",
+"الملح والطحالب فقط لصناعة الأدوية.",
+"حطام السفن الغارقة وأخشابها القديمة."
+],
+"correct": 1,
+"explanation_ar": "الغوص في البحار كان من أعمال الشياطين المسخرين لسليمان، وكانوا يستخرجون اللآلئ والجواهر النفيسة من الأعماق، بالإضافة لأعمال البناء والصناعة الأخرى التي أوكلها إليهم.",
+"question_fr": "Que les djinns plongeurs extrayaient-ils des mers pour Salomon ?",
+"options_fr": [
+"Uniquement des poissons rares et du corail pour décorer les palais.",
+"Des perles, des joyaux et des richesses précieuses des profondeurs de la mer, ainsi que d’autres éléments nécessaires à leurs travaux.",
+"Uniquement du sel et des algues pour fabriquer des médicaments.",
+"Les épaves et les vieux bois des navires coulés."
+],
+"explanation_fr": "Les djinns soumis à Salomon accomplissaient notamment des travaux de plongée. Le Coran mentionne les djinns qui plongeaient pour lui et accomplissaient également d’autres travaux."
+},
+{
+"id": "sulaiman_45",
+"question_ar": "ما الدلالة الأخلاقية العميقة لقول النملة عن سليمان وجنوده (وَهُمْ لَا يَشْعُرُونَ)؟",
+"options_ar": [
+"أنها تتهمهم بالغفلة والجهل وقلة الانتباه.",
+"أنها أنصفتهم وشهدت بأن أي أذى منهم سيكون غير مقصود، فهم ليسوا ظالمين بل قد لا ينتبهون لصغر حجم النمل أثناء مسيرهم.",
+"أنها تسخر من ضعف بصرهم وعجزهم عن رؤية النمل.",
+"أنها تدعو قومها لمهاجمتهم لأنهم في حالة غفلة."
+],
+"correct": 1,
+"explanation_ar": "هذه شهادة من النملة بعدالة سليمان وجنوده، فهي لم تقل إنهم سيحطمونكم عمداً بل (وهم لا يشعرون) أي بغير قصد. وهذا يدل على سمعة سليمان الطيبة في العدل حتى عند أضعف المخلوقات.",
+"question_fr": "Quelle leçon morale profonde se trouve dans les paroles de la fourmi : « alors qu’ils ne s’en rendent pas compte » ?",
+"options_fr": [
+"Elle les accuse d’être négligents et inattentifs.",
+"Elle les considère avec équité et reconnaît que tout dommage éventuel serait involontaire : ils pourraient simplement ne pas remarquer les fourmis en avançant.",
+"Elle se moque de leur mauvaise vue et de leur incapacité à voir les fourmis.",
+"Elle appelle son peuple à les attaquer parce qu’ils sont inattentifs."
+],
+"explanation_fr": "La fourmi ne les accuse pas de vouloir nuire volontairement. Elle précise qu’ils pourraient causer un dommage sans s’en rendre compte, ce qui montre l’importance de l’équité dans son avertissement."
+},
+{
+"id": "sulaiman_46",
+"question_ar": "لماذا وصفت بلقيس رسالة سليمان بأنها (كِتَابٌ كَرِيمٌ) رغم أنها كانت من خصم محتمل؟",
+"options_ar": [
+"لأنها كانت مكتوبة بماء الذهب على ورق حريري فاخر.",
+"لأنها بدأت بالبسملة (بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ) وجاءت بأسلوب عزيز موجز وبليغ، ووصلت بطريقة غير مألوفة عبر الهدهد.",
+"لأن الهدهد أخبرها أن سليمان ملك ثري قبل إلقاء الرسالة.",
+"لأنها كانت مختومة بخاتم من الألماس النادر."
+],
+"correct": 1,
+"explanation_ar": "وصفتها بالكريم لعدة أسباب: بدايتها بالبسملة التي تعكس هيبة وجلالاً، وإيجازها مع قوة مضمونها، وطريقة وصولها العجيبة عبر طائر ألقاها إليها، مما أشعرها بعظمة مُرسِلها.",
+"question_fr": "Pourquoi Bilqis décrivit-elle la lettre de Salomon comme « une lettre noble », alors qu’elle venait d’un possible adversaire ?",
+"options_fr": [
+"Parce qu’elle était écrite avec de l’or sur un papier de soie luxueux.",
+"Parce qu’elle commençait par la basmala, était courte et éloquente, et lui était parvenue d’une manière inhabituelle par l’intermédiaire de la huppe.",
+"Parce que la huppe lui avait dit que Salomon était un roi très riche.",
+"Parce qu’elle était scellée avec un anneau en diamant."
+],
+"explanation_fr": "Bilqis la qualifia de noble en raison notamment de son début par la basmala, de son style bref et puissant et de la manière extraordinaire dont elle lui était parvenue."
+},
+{
+"id": "sulaiman_47",
+"question_ar": "ما معنى كلمة (مِنسَأَتَهُ) التي ورد ذكرها في قصة وفاة سليمان عليه السلام؟",
+"options_ar": [
+"سيفه الحاد الذي كان يحمله في المعارك.",
+"عصاه التي كان يتكئ عليها، وهي مشتقة من (نسأ) أي دفع وساق.",
+"عمامته الملكية التي كان يضعها على رأسه.",
+"درعه الحديدي الذي كان يرتديه في الحروب."
+],
+"correct": 1,
+"explanation_ar": "المنسأة هي العصا الغليظة، سُميت بذلك لأنها تُنسأ بها الدواب أي تُساق وتُدفع. وقد اتكأ عليها سليمان فمات واقفاً، ولم يعلم الجن بموته حتى أكلت الأرضة عصاه فسقط.",
+"question_fr": "Que signifie le mot « minsâ'atahu » mentionné dans le récit de la mort de Salomon ?",
+"options_fr": [
+"Son épée qu’il portait au combat.",
+"Son bâton sur lequel il s’appuyait. Le mot est lié à une racine signifiant pousser ou conduire.",
+"Son turban royal.",
+"Son armure de fer."
+],
+"explanation_fr": "La « minsâ'a » désigne un bâton solide sur lequel Salomon s’appuyait. Il resta appuyé dessus après sa mort jusqu’à ce que les termites le rongent et que le bâton cède."
+},
+{
+"id": "sulaiman_48",
+"question_ar": "ما معنى (أَوْزِعْنِي) في دعاء سليمان: (رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ)؟",
+"options_ar": [
+"ارزقني المال الكافي لأتصدق به شكراً لك.",
+"ألهمني ووفقني واجعلني أحرص على شكر نعمتك وأثبتني عليه.",
+"أبعدني عن الناس لأتفرغ للعبادة والشكر وحدي.",
+"وزّع نعمك عليّ بالتساوي مع غيري من العباد."
+],
+"correct": 1,
+"explanation_ar": "(أوزعني) أي ألهمني ووفقني واجعل قلبي مملوءاً بالحرص على الشكر. وهو دعاء بالتوفيق للشكر لا بمجرد النية، لأن الشكر الحقيقي يحتاج إلى عون إلهي وتسديد وتوفيق.",
+"question_fr": "Que signifie « inspire-moi » dans l’invocation de Salomon : « Seigneur, inspire-moi à être reconnaissant pour Ton bienfait » ?",
+"options_fr": [
+"Accorde-moi suffisamment d’argent pour en faire l’aumône en signe de gratitude.",
+"Inspire-moi, aide-moi et donne-moi la volonté de Te remercier pour Ton bienfait et de rester constant dans cette gratitude.",
+"Éloigne-moi des gens afin que je puisse me consacrer seul à l’adoration et à la gratitude.",
+"Répartis Tes bienfaits entre moi et les autres serviteurs de manière égale."
+],
+"explanation_fr": "Cette expression signifie demander à Allah d’inspirer et d’aider Son serviteur à être réellement reconnaissant et à persévérer dans cette gratitude."
+},
+{
+"id": "sulaiman_49",
+"question_ar": "ما العلاقة بين ما أوتيه داود عليه السلام وما أوتيه ابنه سليمان من تسخير إلهي؟",
+"options_ar": [
+"لا علاقة بينهما فكل منهما كان مستقلاً تماماً عن الآخر.",
+"داود أُلين له الحديد وعُلّم صنعة الدروع، وسليمان أُسيل له عين القطر (النحاس المذاب) وسُخر له الريح والجن، فتكاملت النعم بين الأب والابن في التصنيع والتسخير.",
+"داود أوتي الملك فقط وسليمان أوتي النبوة فقط دون ملك.",
+"كلاهما أوتي نفس النعم بالضبط دون أي اختلاف بينهما."
+],
+"correct": 1,
+"explanation_ar": "قال تعالى عن داود: (وَأَلَنَّا لَهُ الْحَدِيدَ) وعلّمه صنعة اللبوس (الدروع)، وقال عن سليمان: (وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ) وسخر له الريح والجن. فتكامل ملك الأب بالتصنيع مع ملك الابن بالتسخير الكوني الشامل.",
+"question_fr": "Quelle relation existe-t-il entre les bienfaits accordés à David et ceux accordés à son fils Salomon ?",
+"options_fr": [
+"Il n’y avait aucune relation entre eux et chacun était totalement indépendant de l’autre.",
+"Le fer fut rendu malléable pour David et il apprit à fabriquer des armures. Pour Salomon, Allah fit couler une source de cuivre et lui soumit le vent et les djinns. Les bienfaits accordés au père et au fils se complétaient.",
+"David reçut uniquement le royaume tandis que Salomon reçut uniquement la prophétie.",
+"Ils reçurent exactement les mêmes bienfaits sans aucune différence."
+],
+"explanation_fr": "David reçut le bienfait du fer rendu malléable et apprit à fabriquer des armures. Salomon reçut notamment la source de cuivre, le vent et les djinns soumis à ses ordres. Les deux dons étaient différents mais complémentaires."
+},
+{
+"id": "sulaiman_50",
+"question_ar": "ما الحكمة من ذكر القرآن أن سليمان قال (إِنِّي أَحْبَبْتُ حُبَّ الْخَيْرِ عَن ذِكْرِ رَبِّي) بعد استعراض الخيل؟",
+"options_ar": [
+"ليبين أن سليمان كان يفضل الدنيا على الآخرة دائماً.",
+"ليُظهر صدقه مع نفسه ومحاسبته لها، فقد اعترف أن حبه للخيل (الخير) شغله عن ذكر الله، وهذا نموذج نبوي في الرقابة الذاتية ومحاسبة النفس حتى في المباحات.",
+"ليبين أن حب الخيل حرام شرعاً ويجب التخلص منها.",
+"ليثبت أنه ليس نبياً حقيقياً لأنه انشغل عن ذكر ربه."
+],
+"correct": 1,
+"explanation_ar": "هذا من أرفع مقامات العبودية: أن يراقب النبي نفسه فيعترف بأن مباحاً (حب الخيل للجهاد) شغله عن الأفضل (ذكر الله)، فيحاسب نفسه فوراً. وهذا درس للمؤمنين في مراجعة النفس حتى في الأمور المشروعة.",
+"question_fr": "Quelle est la sagesse derrière la parole de Salomon : « J’ai aimé le bien au point d’être préoccupé du rappel de mon Seigneur » après l’inspection des chevaux ?",
+"options_fr": [
+"Pour montrer que Salomon préférait toujours la vie d’ici-bas à l’au-delà.",
+"Pour montrer son honnêteté envers lui-même et sa capacité à se remettre en question : il reconnut que son amour des chevaux l’avait occupé au détriment du rappel d’Allah. Cela constitue un exemple de vigilance et d’introspection.",
+"Pour montrer que l’amour des chevaux est interdit et qu’il faut s’en débarrasser.",
+"Pour prouver qu’il n’était pas réellement prophète parce qu’il avait été occupé loin du rappel de son Seigneur."
+],
+"explanation_fr": "Ce passage montre l’importance de l’introspection : Salomon reconnut que même une activité permise et utile pouvait l’avoir occupé au détriment du rappel d’Allah. Il s’agit d’un enseignement sur la vigilance envers soi-même."
+}
+]

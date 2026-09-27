@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "alyasa_01",
+    "question_ar": "ما معنى اسم 'اليسع' في اللغة العبرانية؟",
+    "options_ar": [
+      "الله المنتقم — لأنه بُعث في زمن كثرت فيه الجبابرة والظالمون",
+      "الله خلاص أو الله منقذ — وهو اسم يعبّر عن مهمته قبل أن يُبعث",
+      "الله الحافظ — لأنه حفظ بني إسرائيل بعد رحيل إلياس",
+      "الله الهادي — لأن دعوته كانت قائمة على الهداية والإرشاد"
+    ],
+    "correct": 1,
+    "explanation_ar": "معنى اسم اليسع في العبرانية 'الله خلاص' أو 'الله منقذ' — اسم يعبّر عن مهمته الدعوية قبل أن يُبعث بالنبوة.",
+    "question_fr": "Que signifie le nom « al-Yasa' » (Élisée) en hébreu ?",
+    "options_fr": [
+      "Allah le Vengeur — car il fut envoyé à une époque où abondaient les tyrans et les injustes",
+      "« Allah sauve » ou « Allah délivre » — un nom qui exprime sa mission avant même sa prophétie",
+      "Allah le Préservateur — car il préserva les Fils d'Israël après le départ d'Ilyas",
+      "Allah le Guide — car son appel reposait sur la guidance et l'orientation"
+    ],
+    "explanation_fr": "La signification du nom al-Yasa' en hébreu est « Allah sauve » ou « Allah délivre » — un nom qui exprime sa mission de prédication avant même qu'il ne soit envoyé en tant que prophète."
+  },
+  {
+    "id": "alyasa_02",
+    "question_ar": "ما أبرز قول في نسب اليسع عليه السلام يصله بيوسف الصديق؟",
+    "options_ar": [
+      "قال ابن إسحاق: هو اليسع بن أخطوب من ذرية لاوي بن يعقوب",
+      "قال ابن عساكر: هو الأسباط بن عدي بن شوتلم بن أفراثيم بن يوسف بن يعقوب",
+      "قال ابن كثير: هو من ذرية يهوذا بن يعقوب من الجهة الأمومية",
+      "قال المؤرخون: هو من ذرية بنيامين أخو يوسف المباشر من نفس الأم"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال الحافظ ابن عساكر: هو الأسباط بن عدي بن شوتلم بن أفراثيم بن يوسف بن يعقوب بن إسحاق بن إبراهيم الخليل — فيكون من ذرية يوسف الصديق.",
+    "question_fr": "Quelle est l'opinion la plus notable sur la généalogie d'al-Yasa' (paix sur lui), le reliant à Youssouf (Joseph) le Véridique ?",
+    "options_fr": [
+      "Ibn Ishaq a dit : il est al-Yasa' fils d'Akhtoub, descendant de Lévi fils de Ya'qub",
+      "Ibn 'Asakir a dit : il est al-Asbat fils de 'Adi fils de Choutalim fils d'Éphraïm fils de Youssouf fils de Ya'qub",
+      "Ibn Kathir a dit : il descend de Juda fils de Ya'qub, du côté maternel",
+      "Les historiens ont dit : il descend de Benjamin, frère direct de Youssouf de la même mère"
+    ],
+    "explanation_fr": "Le hafiz Ibn 'Asakir a dit : il est al-Asbat fils de 'Adi fils de Choutalim fils d'Éphraïm fils de Youssouf fils de Ya'qub fils d'Ishaq fils d'Ibrahim l'Ami intime d'Allah — il descend donc de Youssouf le Véridique."
+  },
+  {
+    "id": "alyasa_03",
+    "question_ar": "ما القول الذي يربط اليسع بإلياس من جهة القرابة المباشرة؟",
+    "options_ar": [
+      "أنه ابن إلياس من زوجته الأولى وورث نبوته وراثةً طبيعية",
+      "أنه تلميذ إلياس الأكبر سناً وخليفته الرسمي بنص وحي صريح",
+      "أنه ابن عم النبي إلياس — وهذا القول يجعل قرابته منه من جهة الأسرة",
+      "أنه أخو إلياس الأصغر الذي بقي في بني إسرائيل بينما ذهب إلياس للجبل"
+    ],
+    "correct": 2,
+    "explanation_ar": "قيل إن اليسع كان ابن عم النبي إلياس — وهذا يفسّر قربه منه واصطحابه له وتسليمه الأمانة بعده.",
+    "question_fr": "Quelle opinion relie al-Yasa' à Ilyas par un lien de parenté direct ?",
+    "options_fr": [
+      "Qu'il était le fils d'Ilyas de sa première épouse et hérita de sa prophétie naturellement",
+      "Qu'il était le disciple aîné d'Ilyas et son successeur officiel par une révélation explicite",
+      "Qu'il était le cousin du prophète Ilyas — cette opinion établit leur parenté du côté familial",
+      "Qu'il était le frère cadet d'Ilyas resté chez les Fils d'Israël tandis qu'Ilyas partait vers la montagne"
+    ],
+    "explanation_fr": "On dit qu'al-Yasa' était le cousin du prophète Ilyas — ce qui explique sa proximité avec lui, le fait qu'il l'accompagnait, et la transmission de la charge après lui."
+  },
+  {
+    "id": "alyasa_04",
+    "question_ar": "ما الذي يدل على أن اليسع كان من أسرة ميسورة قبل النبوة؟",
+    "options_ar": [
+      "كان يملك قصراً في القدس وحديقة كبيرة يُطعم منها الفقراء يومياً",
+      "تشير الروايات إلى أن حقل أبيه كان يستلزم اثني عشر زوجاً من الثيران",
+      "كان يُجهّز جيشاً خاصاً من أمواله لحماية بني إسرائيل من الجبابرة",
+      "كان أبوه من كبار التجار الذين يتعاملون مع ملوك المنطقة المجاورة"
+    ],
+    "correct": 1,
+    "explanation_ar": "تشير الروايات إلى أن حقل أبيه كان يستلزم اثني عشر زوجاً من الثيران — وهذا يدل على ثروة ووسع واسعين في ذلك الزمان.",
+    "question_fr": "Qu'est-ce qui indique qu'al-Yasa' était issu d'une famille aisée avant la prophétie ?",
+    "options_fr": [
+      "Il possédait un palais à Jérusalem et un grand jardin dont il nourrissait quotidiennement les pauvres",
+      "Les récits indiquent que le champ de son père nécessitait douze paires de bœufs",
+      "Il équipait une armée privée avec sa fortune pour protéger les Fils d'Israël des tyrans",
+      "Son père était l'un des grands marchands traitant avec les rois des régions voisines"
+    ],
+    "explanation_fr": "Les récits indiquent que le champ de son père nécessitait douze paires de bœufs — ce qui témoigne d'une grande richesse et aisance pour cette époque."
+  },
+  {
+    "id": "alyasa_05",
+    "question_ar": "أين كان اليسع متخفياً مع إلياس قبل أن يتسلّم الدعوة مستقلاً؟",
+    "options_ar": [
+      "في مغارة بجبل سيناء بعيداً عن أعين جنود الملك المصري",
+      "في جبل قاسيون بسوريا هرباً من بطش ملك بعلبك المتجبر",
+      "في وادي الأردن وسط الغابات الكثيفة المخفية عن الأعين",
+      "في المدينة ذاتها متنكراً في زي التجار بعيداً عن المعابد والكهنة"
+    ],
+    "correct": 1,
+    "explanation_ar": "يُقال إن اليسع كان متخفياً مع إلياس في جبل قاسيون بسوريا فراراً من بطش ملك بعلبك الذي كان يُطارد الأنبياء.",
+    "question_fr": "Où al-Yasa' se cachait-il avec Ilyas avant de prendre en charge la prédication de façon indépendante ?",
+    "options_fr": [
+      "Dans une grotte du mont Sinaï, loin des regards des soldats du roi égyptien",
+      "Sur le mont Qassioun en Syrie, fuyant la tyrannie du roi despote de Baalbek",
+      "Dans la vallée du Jourdain, au milieu de forêts denses cachées des regards",
+      "Dans la ville même, déguisé en marchand, loin des temples et des prêtres"
+    ],
+    "explanation_fr": "On dit qu'al-Yasa' se cachait avec Ilyas sur le mont Qassioun en Syrie, fuyant la tyrannie du roi de Baalbek qui pourchassait les prophètes."
+  },
+  {
+    "id": "alyasa_06",
+    "question_ar": "في أي سورتين من القرآن الكريم ذُكر اليسع عليه السلام؟",
+    "options_ar": [
+      "سورة النمل وسورة يونس — لأنهما تجمعان أنبياء بني إسرائيل الأقل شهرة",
+      "سورة الأنعام وسورة ص — ذُكر في كلتيهما ضمن سلاسل الأنبياء المكرّمين",
+      "سورة الأنبياء وسورة هود — لأنهما خُصصتا للحديث عن أنبياء متعددين",
+      "سورة مريم وسورة الشعراء — لأنهما تذكران الأنبياء في سياق قصصي طويل"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذُكر اليسع في سورة الأنعام: 86 ضمن سلسلة الأنبياء من ذرية إبراهيم، وفي سورة ص: 48 مع إسماعيل وذي الكفل.",
+    "question_fr": "Dans quelles deux sourates du Coran al-Yasa' (paix sur lui) est-il mentionné ?",
+    "options_fr": [
+      "Sourate an-Naml et sourate Yunus — car elles regroupent les prophètes des Fils d'Israël les moins connus",
+      "Sourate al-An'am et sourate Sad — il y est mentionné dans les deux, au sein des chaînes de prophètes honorés",
+      "Sourate al-Anbiya' et sourate Hud — car elles sont consacrées à plusieurs prophètes",
+      "Sourate Maryam et sourate ach-Chu'ara' — car elles évoquent les prophètes dans un long récit"
+    ],
+    "explanation_fr": "Al-Yasa' est mentionné dans la sourate al-An'am (verset 86) au sein de la chaîne des prophètes descendants d'Ibrahim, et dans la sourate Sad (verset 48) avec Isma'il et Dhoul-Kifl."
+  },
+  {
+    "id": "alyasa_07",
+    "question_ar": "ما نص الآية التي ذكر فيها الله اليسع في سورة الأنعام؟",
+    "options_ar": [
+      "﴿وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِّنَ الْأَخْيَارِ﴾",
+      "﴿وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾",
+      "﴿وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَالْيَسَعَ وَكُلًّا جَعَلْنَا نَبِيِّينَ﴾",
+      "﴿وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ رُسُلًا مِّنْهُم مَّن قَصَصْنَا عَلَيْكَ وَمِنْهُم الْيَسَعُ﴾"
+    ],
+    "correct": 1,
+    "explanation_ar": "﴿وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾ الأنعام: 86.",
+    "question_fr": "Quel est le sens du verset où Allah mentionne al-Yasa' dans la sourate al-An'am ?",
+    "options_fr": [
+      "« Et rappelle-toi Isma'il, al-Yasa' et Dhoul-Kifl : tous étaient parmi les meilleurs. »",
+      "« Et Isma'il, al-Yasa', Younous et Lout : chacun d'eux, Nous l'avons favorisé sur les mondes. »",
+      "« Et Nous lui avons fait don d'Ishaq, de Ya'qub et d'al-Yasa', et de chacun Nous avons fait un prophète. »",
+      "« Nous avons envoyé avant toi des messagers ; certains, Nous te les avons racontés, et parmi eux al-Yasa'. »"
+    ],
+    "explanation_fr": "« Et Isma'il, al-Yasa', Younous et Lout : chacun d'eux, Nous l'avons favorisé sur les mondes » — sourate al-An'am, verset 86."
+  },
+  {
+    "id": "alyasa_08",
+    "question_ar": "ما نص الآية التي ذكر فيها الله اليسع في سورة ص؟",
+    "options_ar": [
+      "﴿وَإِسْمَاعِيلَ وَالْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾",
+      "﴿وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِّنَ الْأَخْيَارِ﴾",
+      "﴿وَالْيَسَعَ مِنَ الصَّابِرِينَ حِينَ ابْتُلِيَ بِقَوْمِهِ الْجَاحِدِينَ﴾",
+      "﴿وَوَهَبْنَا لِلْيَسَعِ قُوَّةً وَهُدًى وَجَعَلْنَاهُ مِنَ الْمُرْسَلِينَ﴾"
+    ],
+    "correct": 1,
+    "explanation_ar": "﴿وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ وَكُلٌّ مِّنَ الْأَخْيَارِ﴾ ص: 48.",
+    "question_fr": "Quel est le sens du verset où Allah mentionne al-Yasa' dans la sourate Sad ?",
+    "options_fr": [
+      "« Et Isma'il, al-Yasa', Younous et Lout : chacun d'eux, Nous l'avons favorisé sur les mondes. »",
+      "« Et rappelle-toi Isma'il, al-Yasa' et Dhoul-Kifl : tous étaient parmi les meilleurs. »",
+      "« Et al-Yasa' fut parmi les endurants lorsqu'il fut éprouvé par son peuple incrédule. »",
+      "« Et Nous avons accordé à al-Yasa' force et guidance, et fîmes de lui l'un des envoyés. »"
+    ],
+    "explanation_fr": "« Et rappelle-toi Isma'il, al-Yasa' et Dhoul-Kifl : tous étaient parmi les meilleurs » — sourate Sad, verset 48."
+  },
+  {
+    "id": "alyasa_09",
+    "question_ar": "ما معنى وصف 'الأخيار' الذي أطلقه الله على اليسع وإسماعيل وذي الكفل في سورة ص؟",
+    "options_ar": [
+      "الأتقياء — أي الذين أكثروا من العبادة والصوم والقيام في حياتهم",
+      "المفرطون في الخيرية — أي من بلغوا في الخير ذروته وأعلى درجاته",
+      "الصابرون — أي الذين احتملوا أذى أقوامهم دون أن يشتكوا لأحد",
+      "المستقيمون — أي الثابتون على الحق الذين لا يحيدون عنه أبداً"
+    ],
+    "correct": 1,
+    "explanation_ar": "'الأخيار' جمع 'خيّر' وهو المفرط في الخيرية — أي من بلغ في الخير ذروته وأعلى مراتبه.",
+    "question_fr": "Que signifie la qualification « al-Akhyar » (les meilleurs) qu'Allah attribue à al-Yasa', Isma'il et Dhoul-Kifl dans la sourate Sad ?",
+    "options_fr": [
+      "Les pieux — c'est-à-dire ceux qui multiplièrent l'adoration, le jeûne et les veillées nocturnes",
+      "Ceux qui excellent en bonté — c'est-à-dire ceux qui atteignirent le sommet et le degré le plus élevé du bien",
+      "Les endurants — c'est-à-dire ceux qui supportèrent le tort de leurs peuples sans se plaindre à personne",
+      "Les droits — c'est-à-dire ceux qui restent fermes sur la vérité sans jamais en dévier"
+    ],
+    "explanation_fr": "« al-Akhyar » est le pluriel de « khayyir », celui qui excelle en bonté — c'est-à-dire celui qui a atteint le sommet et le plus haut degré du bien."
+  },
+  {
+    "id": "alyasa_10",
+    "question_ar": "ضمن كم نبياً ذُكر اليسع في سورة الأنعام وما السياق الذي جمعهم؟",
+    "options_ar": [
+      "ضمن عشرة أنبياء في سياق التحدث عن أنبياء أولي العزم وحدهم",
+      "ضمن ثمانية عشر نبياً في سلسلة تبدأ بإبراهيم وتختم بوصف التفضيل على العالمين",
+      "ضمن خمسة أنبياء في سياق الرد على مشركي قريش الذين أنكروا النبوة",
+      "ضمن اثني عشر نبياً في سياق تعداد الأنبياء الذين كذّبتهم أممهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذُكر اليسع في سلسلة ثمانية عشر نبياً تبدأ من إبراهيم في سورة الأنعام (83-86) وتختم بـ﴿وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾.",
+    "question_fr": "Parmi combien de prophètes al-Yasa' est-il mentionné dans la sourate al-An'am, et quel est le contexte qui les réunit ?",
+    "options_fr": [
+      "Parmi dix prophètes, dans le contexte des seuls messagers doués de fermeté (ulul-azm)",
+      "Parmi dix-huit prophètes, dans une chaîne commençant par Ibrahim et se terminant par la mention de la faveur sur les mondes",
+      "Parmi cinq prophètes, dans le contexte d'une réponse aux polythéistes de Quraych qui niaient la prophétie",
+      "Parmi douze prophètes, dans le contexte de l'énumération des prophètes reniés par leurs peuples"
+    ],
+    "explanation_fr": "Al-Yasa' est mentionné dans une chaîne de dix-huit prophètes commençant par Ibrahim dans la sourate al-An'am (versets 83-86) et se terminant par « Chacun d'eux, Nous l'avons favorisé sur les mondes »."
+  },
+  {
+    "id": "alyasa_11",
+    "question_ar": "من النبي الذي خلّفه اليسع في قومه واستمر في نهجه وشريعته؟",
+    "options_ar": [
+      "النبي يوشع بن نون الذي سبق إلياس في نبوة بني إسرائيل",
+      "النبي إلياس عليه السلام الذي رُفع أو توفاه الله فخلفه اليسع",
+      "النبي داود عليه السلام الذي انتهت نبوته وانتقلت لليسع",
+      "النبي يونس عليه السلام الذي ذهب لقومه في نينوى وعاد"
+    ],
+    "correct": 1,
+    "explanation_ar": "اليسع خلف النبي إلياس — فلما رُفع إلياس أو توفّاه الله، أوحى الله إلى اليسع وجعله نبياً من بعده على بني إسرائيل.",
+    "question_fr": "Quel prophète al-Yasa' a-t-il succédé auprès de son peuple, en poursuivant sa voie et sa loi ?",
+    "options_fr": [
+      "Le prophète Youcha' fils de Noun, qui précéda Ilyas dans la prophétie des Fils d'Israël",
+      "Le prophète Ilyas (paix sur lui), qui fut élevé ou rappelé par Allah, et à qui al-Yasa' succéda",
+      "Le prophète Dawud (paix sur lui), dont la prophétie s'acheva et passa à al-Yasa'",
+      "Le prophète Younous (paix sur lui), qui se rendit chez son peuple à Ninive puis revint"
+    ],
+    "explanation_fr": "Al-Yasa' succéda au prophète Ilyas — lorsque celui-ci fut élevé ou rappelé par Allah, Allah révéla à al-Yasa' et fit de lui un prophète après lui pour les Fils d'Israël."
+  },
+  {
+    "id": "alyasa_12",
+    "question_ar": "ما الذي استمسك به اليسع في دعوته لبني إسرائيل بعد إلياس؟",
+    "options_ar": [
+      "شريعة جديدة أوحى الله بها إليه خصيصاً لمعالجة فساد زمانه المتجدد",
+      "نهج إلياس وشريعته — مكث يدعوهم إلى التوحيد متمسكاً بمنهاج سلفه",
+      "شريعة موسى فقط لأنها الأصل والأساس وكل ما بعدها مكمّل لها فحسب",
+      "منهجاً توفيقياً بين شريعة موسى وإلياس يُناسب واقع زمانه الجديد"
+    ],
+    "correct": 1,
+    "explanation_ar": "مكث اليسع في بني إسرائيل يدعوهم إلى توحيد الله متمسكاً بنهج إلياس وشريعته — الدعوة مسيرة متواصلة لا تتغير جوهراً.",
+    "question_fr": "À quoi al-Yasa' s'est-il tenu fermement dans sa prédication aux Fils d'Israël après Ilyas ?",
+    "options_fr": [
+      "Une loi nouvelle qu'Allah lui révéla spécialement pour remédier à la corruption renouvelée de son époque",
+      "La voie et la loi d'Ilyas — il persévéra à les appeler à l'unicité divine, fidèle à la méthode de son prédécesseur",
+      "Uniquement la loi de Moussa, car elle est l'origine et le fondement, tout le reste n'étant que complémentaire",
+      "Une méthode conciliant la loi de Moussa et celle d'Ilyas, adaptée à la réalité nouvelle de son époque"
+    ],
+    "explanation_fr": "Al-Yasa' demeura parmi les Fils d'Israël, les appelant à l'unicité d'Allah, fidèle à la voie et à la loi d'Ilyas — la prédication est un parcours continu dont l'essence ne change pas."
+  },
+  {
+    "id": "alyasa_13",
+    "question_ar": "ما التحديات التي واجهها اليسع في دعوته لبني إسرائيل؟",
+    "options_ar": [
+      "واجه غزواً أجنبياً استعمارياً سيطر على بني إسرائيل وحاصرهم عسكرياً",
+      "واجه الجبابرة الكثيرين وانتشار الفساد وقتل بعض الأنبياء في تلك الحقبة",
+      "واجه فرقة دينية داخلية ادّعت النبوة وأضلّت كثيراً من بني إسرائيل",
+      "واجه مجاعة شديدة جعلت بني إسرائيل يتركون الدعوة لانشغالهم بالطعام"
+    ],
+    "correct": 1,
+    "explanation_ar": "عاش اليسع في بيئة كثر فيها الجبابرة وانتشر الفساد وقُتل فيها بعض الأنبياء — بيئة قاسية تستلزم صبراً وثباتاً نادرين.",
+    "question_fr": "Quels défis al-Yasa' a-t-il affrontés dans sa prédication aux Fils d'Israël ?",
+    "options_fr": [
+      "Il affronta une invasion étrangère colonisatrice qui domina les Fils d'Israël et les assiégea militairement",
+      "Il affronta les nombreux tyrans, la propagation de la corruption et le meurtre de certains prophètes à cette époque",
+      "Il affronta une secte religieuse interne qui prétendait à la prophétie et égara nombre des Fils d'Israël",
+      "Il affronta une grave famine qui détourna les Fils d'Israël de la prédication, absorbés qu'ils étaient par la recherche de nourriture"
+    ],
+    "explanation_fr": "Al-Yasa' vécut dans un environnement où les tyrans abondaient, où la corruption se répandait et où certains prophètes furent tués — un environnement rude exigeant une patience et une fermeté rares."
+  },
+  {
+    "id": "alyasa_14",
+    "question_ar": "ما التابوت الذي كان موجوداً في زمن اليسع وما أثره في معارك بني إسرائيل؟",
+    "options_ar": [
+      "تابوت فيه عصا موسى ونعلاه وبعض من التوراة كانوا يحملونه في الصلوات",
+      "تابوت فيه بقية مما ترك آل موسى وآل هارون — كانوا لا يلقون عدواً فيقدّمونه إلا هزمه الله",
+      "تابوت فيه كنوز قارون المصادرة كانوا يحملونه تبركاً قبل كل معركة كبرى",
+      "تابوت فيه خاتم سليمان وبعض من صحفه كانوا يضعونه في صدر الجيش"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان التابوت فيه بقية مما ترك آل موسى وآل هارون، وكانوا لا يلقون عدواً فيقدّمون التابوت معهم إلا هزم الله ذلك العدو.",
+    "question_fr": "Quelle était l'Arche présente à l'époque d'al-Yasa' et quel était son effet dans les batailles des Fils d'Israël ?",
+    "options_fr": [
+      "Une arche contenant le bâton de Moussa, ses sandales et une partie de la Torah, qu'ils portaient lors des prières",
+      "Une arche contenant des reliques laissées par la famille de Moussa et la famille de Haroun — chaque fois qu'ils affrontaient un ennemi en la portant en tête, Allah leur accordait la victoire",
+      "Une arche contenant les trésors confisqués de Qaroun, qu'ils portaient par bénédiction avant chaque grande bataille",
+      "Une arche contenant le sceau de Souleyman et certains de ses feuillets, placée à l'avant de l'armée"
+    ],
+    "explanation_fr": "L'Arche contenait des reliques laissées par la famille de Moussa et la famille de Haroun ; chaque fois qu'ils affrontaient un ennemi en portant l'Arche avec eux, Allah faisait vaincre cet ennemi."
+  },
+  {
+    "id": "alyasa_15",
+    "question_ar": "ما الشرط الثلاثي الذي طلبه اليسع فيمن يستخلفه على قومه؟",
+    "options_ar": [
+      "أن يكون عالماً بالشريعة، وقوياً في الحرب، ومقبولاً من الناس برأيهم",
+      "أن يصوم النهار، ويقوم الليل، ولا يغضب — ثلاثة شروط جامعة للتقوى والحلم",
+      "أن يكون من نسل الأنبياء، ومعروفاً بالصدق، وقادراً على التعامل مع الملوك",
+      "أن يتبرع بنصف ماله، ويُطعم الفقراء، ويُصلح بين المتخاصمين يومياً"
+    ],
+    "correct": 1,
+    "explanation_ar": "طلب اليسع ثلاثة شروط: يصوم النهار، ويقوم الليل، ولا يغضب — وهي تجمع العبادة والضبط والحلم الذي هو أصعب الثلاثة.",
+    "question_fr": "Quelle triple condition al-Yasa' a-t-il exigée de celui qu'il désignerait comme son successeur auprès de son peuple ?",
+    "options_fr": [
+      "Qu'il soit savant en matière de loi, fort à la guerre, et accepté par le peuple selon son avis",
+      "Qu'il jeûne le jour, prie la nuit, et ne se mette jamais en colère — trois conditions réunissant piété et mansuétude",
+      "Qu'il soit de la descendance des prophètes, connu pour sa véracité, et capable de traiter avec les rois",
+      "Qu'il fasse don de la moitié de ses biens, nourrisse les pauvres, et réconcilie quotidiennement les personnes en conflit"
+    ],
+    "explanation_fr": "Al-Yasa' posa trois conditions : jeûner le jour, prier la nuit, et ne jamais se mettre en colère — réunissant l'adoration, la maîtrise de soi, et la mansuétude, cette dernière étant la plus difficile des trois."
+  },
+  {
+    "id": "alyasa_16",
+    "question_ar": "كيف كان مظهر الرجل الذي قبل شروط الاستخلاف حين قام أمام اليسع؟",
+    "options_ar": [
+      "كان فارع الطول قوي البنية مما جعل الحاضرين يرونه أجدر الناس بالمسؤولية",
+      "كان تزدريه العين — أي مظهره الخارجي لا يُوحي بأنه يستحق هذا المقام الكبير",
+      "كان شيخاً كبيراً مسناً وقوراً فاستغرب الناس كيف سيتحمّل هذه المسؤولية",
+      "كان شاباً صغير السن فظن الناس أنه لم يفهم ثقل الشروط التي التزم بها"
+    ],
+    "correct": 1,
+    "explanation_ar": "وصفت الرواية الرجل بأنه 'تزدريه العين' — أي يبدو في مظهره بسيطاً غير جدير، لكن صدقه وثباته كانا أقوى من أي مظهر.",
+    "question_fr": "Quelle était l'apparence de l'homme qui accepta les conditions de la succession lorsqu'il se leva devant al-Yasa' ?",
+    "options_fr": [
+      "Il était grand et robuste, ce qui fit que les présents le jugèrent le plus digne de cette responsabilité",
+      "Son apparence était méprisée par le regard — c'est-à-dire que son aspect extérieur ne suggérait nullement qu'il méritait cette haute position",
+      "C'était un vieillard âgé et vénérable, si bien que les gens s'étonnèrent qu'il puisse assumer cette responsabilité",
+      "C'était un jeune homme, si bien que les gens pensèrent qu'il n'avait pas compris le poids des conditions qu'il acceptait"
+    ],
+    "explanation_fr": "Le récit décrit cet homme comme ayant une apparence « méprisée par le regard » — c'est-à-dire qu'il semblait extérieurement simple et peu digne, mais sa sincérité et sa fermeté furent plus fortes que toute apparence."
+  },
+  {
+    "id": "alyasa_17",
+    "question_ar": "لماذا لم يستخلف اليسع الرجل في اليوم الأول رغم قبوله الشروط؟",
+    "options_ar": [
+      "لأن اليسع أراد إعطاءه وقتاً ليدرس الشروط جيداً ويتأكد من إطاقته لها",
+      "ردّه ذلك اليوم دون استخلاف — يُرجَّح أنه أراد اختبار ثباته وجديته في اليوم الثاني",
+      "لأن بقية الناس اعترضوا على اختياره وطلبوا من اليسع إعادة التفكير في الأمر",
+      "لأن اليسع تلقّى وحياً في تلك الليلة يأمره بالانتظار قبل البت في الاستخلاف"
+    ],
+    "correct": 1,
+    "explanation_ar": "ردّه اليسع ذلك اليوم — وفي اليوم الثاني كرّر الطلب فلم يقم أحد إلا نفس الرجل فاستخلفه. وهذا اختبار للثبات والجدية.",
+    "question_fr": "Pourquoi al-Yasa' n'a-t-il pas désigné l'homme dès le premier jour, malgré son acceptation des conditions ?",
+    "options_fr": [
+      "Parce qu'al-Yasa' voulait lui donner du temps pour bien étudier les conditions et s'assurer de pouvoir les tenir",
+      "Il le renvoya ce jour-là sans le désigner — il est probable qu'il voulait tester sa constance et son sérieux le lendemain",
+      "Parce que le reste des gens s'opposèrent à ce choix et demandèrent à al-Yasa' de reconsidérer",
+      "Parce qu'al-Yasa' reçut cette nuit-là une révélation lui ordonnant d'attendre avant de trancher sur la succession"
+    ],
+    "explanation_fr": "Al-Yasa' le renvoya ce jour-là — et le lendemain, il répéta sa demande ; seul le même homme se leva de nouveau, alors il le désigna. Ceci constitue une épreuve de constance et de sérieux."
+  },
+  {
+    "id": "alyasa_18",
+    "question_ar": "من هو الرجل الذي استخلفه اليسع بعد اجتياز الاختبار ثم صار نبياً من بعده؟",
+    "options_ar": [
+      "يوشع بن نون الذي قاد بني إسرائيل لفتح أرض كنعان من بعده",
+      "ذو الكفل عليه السلام الذي جُمع مع اليسع وإسماعيل في وصف الأخيار",
+      "حزقيال النبي الذي جاء بعد اليسع بفترة قصيرة في نفس المنطقة",
+      "شمويل النبي الذي نصّب طالوت ملكاً على بني إسرائيل في عهده"
+    ],
+    "correct": 1,
+    "explanation_ar": "الرجل الذي استخلفه اليسع كان ذو الكفل عليه السلام، وقد ذكره الله في القرآن في سورة ص مع اليسع وإسماعيل بوصف الأخيار.",
+    "question_fr": "Qui est l'homme qu'al-Yasa' désigna après qu'il eut réussi l'épreuve, et qui devint prophète après lui ?",
+    "options_fr": [
+      "Youcha' fils de Noun, qui conduisit les Fils d'Israël à la conquête de la terre de Canaan après lui",
+      "Dhoul-Kifl (paix sur lui), qui fut réuni avec al-Yasa' et Isma'il dans la qualification des meilleurs",
+      "Le prophète Ézéchiel, venu peu après al-Yasa' dans la même région",
+      "Le prophète Samuel, qui institua Talout roi sur les Fils d'Israël en son temps"
+    ],
+    "explanation_fr": "L'homme qu'al-Yasa' désigna était Dhoul-Kifl (paix sur lui), qu'Allah mentionne dans le Coran, dans la sourate Sad, avec al-Yasa' et Isma'il, sous la qualification des meilleurs."
+  },
+  {
+    "id": "alyasa_19",
+    "question_ar": "ما الذي فعله إبليس حين علم باستخلاف اليسع لذلك الرجل؟",
+    "options_ar": [
+      "أمر جنوده بإفساد العلاقة بين اليسع والرجل المستخلَف بالوشايات والأكاذيب",
+      "قال للشياطين عليكم بفلان — فأعياهم ذلك — أي حاولوا إغواءه فعجزوا",
+      "أغرى بني إسرائيل بالتمرد على الرجل المستخلَف وعدم طاعته في الأمور",
+      "أوحى لأعداء بني إسرائيل بمهاجمتهم في فترة الاستخلاف لاستغلال الضعف"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال إبليس للشياطين: 'عليكم بفلان' — فحاولوا إغواءه بكل وسيلة فأعياهم ذلك، يدل على رسوخه وصدق التزامه.",
+    "question_fr": "Qu'a fait Iblis lorsqu'il apprit qu'al-Yasa' avait désigné cet homme ?",
+    "options_fr": [
+      "Il ordonna à ses troupes de corrompre la relation entre al-Yasa' et l'homme désigné par des calomnies et des mensonges",
+      "Il dit aux démons : « Occupez-vous d'un tel » — mais cela les épuisa, c'est-à-dire qu'ils tentèrent de le séduire et échouèrent",
+      "Il incita les Fils d'Israël à se révolter contre l'homme désigné et à lui désobéir",
+      "Il inspira aux ennemis des Fils d'Israël de les attaquer pendant la période de succession pour exploiter leur faiblesse"
+    ],
+    "explanation_fr": "Iblis dit aux démons : « Occupez-vous d'un tel » — ils tentèrent alors de le séduire par tous les moyens, mais cela les épuisa, ce qui témoigne de son ancrage et de la sincérité de son engagement."
+  },
+  {
+    "id": "alyasa_20",
+    "question_ar": "ما الحيلة التي استخدمها إبليس بنفسه لإغضاب ذي الكفل خليفة اليسع؟",
+    "options_ar": [
+      "جاءه في صورة فقير في وقت الصلاة مرات عديدة ليشغله عن العبادة بالشفاعة",
+      "تسوّر الحائط ودخل البيت ليوقظه من نومه المستحق بحيلة متكررة محكمة",
+      "أشاع بين الناس أكاذيب عن ذي الكفل لإثارة فتنة تضطره للغضب دفاعاً عن نفسه",
+      "ظهر له في صورة عالم ديني ليناقشه في مسائل دينية تشككه في صواب قراراته"
+    ],
+    "correct": 1,
+    "explanation_ar": "تسوّر إبليس الحائط ودخل البيت حتى أيقظ ذا الكفل من نومه — فقال له: 'أعييتني في كل شيء، ففعلت كل ما ترى لأغضبك'.",
+    "question_fr": "Quelle ruse Iblis a-t-il employée lui-même pour irriter Dhoul-Kifl, le successeur d'al-Yasa' ?",
+    "options_fr": [
+      "Il vint à lui sous l'apparence d'un pauvre à l'heure de la prière, à plusieurs reprises, pour le détourner de l'adoration par des demandes d'intercession",
+      "Il escalada le mur et pénétra dans la maison pour le réveiller de son sommeil mérité, par une ruse répétée et minutieuse",
+      "Il répandit des mensonges parmi les gens au sujet de Dhoul-Kifl pour provoquer une discorde le contraignant à se mettre en colère pour se défendre",
+      "Il lui apparut sous l'apparence d'un érudit religieux pour discuter avec lui de questions religieuses semant le doute sur la justesse de ses décisions"
+    ],
+    "explanation_fr": "Iblis escalada le mur et pénétra dans la maison jusqu'à réveiller Dhoul-Kifl de son sommeil — il lui dit alors : « Tu m'as épuisé en tout, alors j'ai fait tout ce que tu vois pour te mettre en colère. »"
+  },
+  {
+    "id": "alyasa_21",
+    "question_ar": "ما الدرس الذي تُعلّمه قصة اختيار اليسع لخليفته عن معيار القيادة الحقيقية؟",
+    "options_ar": [
+      "أن القائد يجب أن يتمتع بمظهر مهيب وصوت قوي يجعل الناس تطيعه تلقائياً",
+      "أن الاستحقاق الحقيقي لا يُقاس بالمظهر بل بالالتزام والثبات والصدق في الوعد",
+      "أن الانتخاب الشعبي هو الأسلوب الأمثل لاختيار القائد لأن الناس أدرى بمصالحهم",
+      "أن القائد يُختار من الأسرة الحاكمة لأن الخبرة والحكمة تنتقل بالوراثة والتربية"
+    ],
+    "correct": 1,
+    "explanation_ar": "الرجل 'تزدريه العين' لكنه الوحيد الذي ثبت على وعده يومين متتاليين — فاستحق الاستخلاف. المظهر يُخدع والثبات لا يكذب.",
+    "question_fr": "Quelle leçon l'histoire du choix par al-Yasa' de son successeur nous enseigne-t-elle sur le véritable critère du leadership ?",
+    "options_fr": [
+      "Que le chef doit avoir une apparence imposante et une voix forte qui poussent les gens à lui obéir spontanément",
+      "Que le mérite véritable ne se mesure pas à l'apparence mais à l'engagement, la constance et la sincérité dans la promesse tenue",
+      "Que l'élection populaire est la méthode idéale pour choisir un chef, le peuple connaissant mieux ses propres intérêts",
+      "Que le chef est choisi au sein de la famille régnante, l'expérience et la sagesse se transmettant par l'hérédité et l'éducation"
+    ],
+    "explanation_fr": "L'homme avait une apparence « méprisée par le regard », mais il fut le seul à tenir sa promesse deux jours de suite — il mérita ainsi la succession. L'apparence trompe, la constance ne ment pas."
+  },
+  {
+    "id": "alyasa_22",
+    "question_ar": "ما المعجزة المنسوبة لليسع في مصادر ابن تيمية تتعلق بنهر الأردن؟",
+    "options_ar": [
+      "أمر نهر الأردن فانعطف مساره لإنقاذ بني إسرائيل من جيش يطاردهم",
+      "استيبَس له نهر الأردن — أي جفّ ماؤه — فمشى عليه اليسع معجزةً من الله",
+      "ضرب نهر الأردن بعصاه فانفلق فلقتين كما انفلق البحر لموسى من قبل",
+      "تحوّل ماء نهر الأردن على يديه من ماء مالح إلى ماء عذب صالح للشرب"
+    ],
+    "correct": 1,
+    "explanation_ar": "يذكر ابن تيمية في 'الجواب الصحيح' أن من معجزاته: استيبَس له نهر الأردن فمشى عليه — معجزة تدل على تسخير الله الطبيعة لنبيه.",
+    "question_fr": "Quel miracle attribué à al-Yasa' dans les sources d'Ibn Taymiyya est lié au fleuve du Jourdain ?",
+    "options_fr": [
+      "Il ordonna au fleuve du Jourdain de dévier son cours pour sauver les Fils d'Israël d'une armée les poursuivant",
+      "Le fleuve du Jourdain s'assécha pour lui — c'est-à-dire que son eau se tarit — et al-Yasa' marcha dessus, par un miracle d'Allah",
+      "Il frappa le fleuve du Jourdain de son bâton, qui se fendit en deux, comme la mer se fendit auparavant pour Moussa",
+      "L'eau du fleuve du Jourdain se transforma sous sa main, d'une eau salée en une eau douce et potable"
+    ],
+    "explanation_fr": "Ibn Taymiyya rapporte dans « al-Jawab as-Sahih » que, parmi ses miracles, le fleuve du Jourdain s'assécha pour lui et il marcha dessus — un miracle témoignant qu'Allah soumet la nature à Son prophète."
+  },
+  {
+    "id": "alyasa_23",
+    "question_ar": "ما معجزتا إحياء الموتى وشفاء المرضى المنسوبتان لليسع في المصادر؟",
+    "options_ar": [
+      "أحيا أسداً ميتاً وشفى أعمى اصطحبه أمام فرعون مصر دليلاً على نبوته",
+      "أحيا الموتى وأبرأ الأكمه (المولود أعمى) والأبرص — معجزات شبيهة بمعجزات عيسى لاحقاً",
+      "أحيا طيراً ميتاً أمام بني إسرائيل وشفى مريضاً مشلولاً لم يمشِ عشرين سنة",
+      "أحيا امرأة ماتت في المخاض وشفى رجلاً أصمَّ أبكم منذ ولادته"
+    ],
+    "correct": 1,
+    "explanation_ar": "يذكر ابن تيمية: من معجزاته أنه أحيا الموتى وأبرأ الأكمه والأبرص — وهي نفس المعجزات المنسوبة لعيسى لاحقاً، مما يؤكد أنها آيات إلهية.",
+    "question_fr": "Quels sont les deux miracles de résurrection des morts et de guérison des malades attribués à al-Yasa' dans les sources ?",
+    "options_fr": [
+      "Il ressuscita un lion mort et guérit un aveugle qu'il amena devant Pharaon d'Égypte comme preuve de sa prophétie",
+      "Il ressuscita les morts et guérit l'aveugle de naissance et le lépreux — des miracles semblables à ceux d'Issa (Jésus) plus tard",
+      "Il ressuscita un oiseau mort devant les Fils d'Israël et guérit un paralytique qui n'avait pas marché depuis vingt ans",
+      "Il ressuscita une femme morte en couches et guérit un homme sourd-muet de naissance"
+    ],
+    "explanation_fr": "Ibn Taymiyya rapporte que, parmi ses miracles, il ressuscita les morts et guérit l'aveugle de naissance et le lépreux — les mêmes miracles attribués plus tard à Issa, ce qui confirme qu'il s'agit de signes divins."
+  },
+  {
+    "id": "alyasa_24",
+    "question_ar": "ما الحقيقة الجوهرية التي تكشفها معجزات اليسع المشابهة لمعجزات عيسى؟",
+    "options_ar": [
+      "أن عيسى استلهم طريقة اليسع وتعلّم منه أساليب المعجزات عبر الكتب المنقولة",
+      "أن المعجزات آيات من الله يؤيّد بها من يشاء — فهي لا تدل على ألوهية صاحبها",
+      "أن اليسع وعيسى كانا نبياً واحداً ظهر مرتين في عصرين مختلفين متباعدين",
+      "أن معجزات الأنبياء كلها متشابهة لأنها مستقاة من نفس المصدر البشري"
+    ],
+    "correct": 1,
+    "explanation_ar": "أشار ابن تيمية: هذه المعجزات نُسبت لعيسى لاحقاً مما أكد أنها آيات إلهية لا تدل على ألوهية صاحبها — فاليسع فعلها قبل عيسى بزمن طويل.",
+    "question_fr": "Quelle vérité fondamentale révèlent les miracles d'al-Yasa' semblables à ceux d'Issa ?",
+    "options_fr": [
+      "Qu'Issa s'inspira de la méthode d'al-Yasa' et apprit de lui les procédés des miracles à travers des livres transmis",
+      "Que les miracles sont des signes d'Allah par lesquels Il soutient qui Il veut — ils ne prouvent en rien la divinité de celui qui les accomplit",
+      "Qu'al-Yasa' et Issa étaient en réalité un seul et même prophète apparu à deux époques différentes et éloignées",
+      "Que les miracles de tous les prophètes se ressemblent car ils proviennent de la même source humaine"
+    ],
+    "explanation_fr": "Ibn Taymiyya souligne : ces miracles furent attribués à Issa plus tard, ce qui confirme qu'ils sont des signes divins ne prouvant pas la divinité de celui qui les accomplit — al-Yasa' les accomplit bien avant Issa."
+  },
+  {
+    "id": "alyasa_25",
+    "question_ar": "ما الدرس العميق الذي يُستخلص من قلة تفاصيل قصة اليسع في القرآن مع عظيم ذكره فيه؟",
+    "options_ar": [
+      "أن القرآن الكريم اهتم بالأحداث الكبرى فقط ولم يجد في حياة اليسع حدثاً بارزاً كافياً",
+      "أن الله يُقدّر أولياءه ويذكرهم بالخير حتى لو لم يعرف الناس تفاصيل حياتهم — القيمة بصدق العبودية لا بشهرة القصة",
+      "أن المعلومات عن اليسع ضاعت تاريخياً ولم يتمكن القرآن من ذكرها لعدم وجودها",
+      "أن الأنبياء الأقل شهرة هم أقل درجةً عند الله ممن كُتبت قصصهم بالتفصيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "الدرس الجوهري: الله ذكر اليسع بالثناء العالي رغم قلة التفاصيل — القيمة عند الله بصدق العبودية والثبات على الحق، لا بكثرة من يعرف قصتك.",
+    "question_fr": "Quelle leçon profonde tirer du peu de détails sur l'histoire d'al-Yasa' dans le Coran, malgré la grandeur avec laquelle il y est mentionné ?",
+    "options_fr": [
+      "Que le Coran ne s'est intéressé qu'aux grands événements et n'a pas trouvé dans la vie d'al-Yasa' d'événement suffisamment marquant",
+      "Qu'Allah estime Ses proches serviteurs et les mentionne en bien même si les gens n'en connaissent pas les détails — la valeur réside dans la sincérité de l'adoration, non dans la notoriété du récit",
+      "Que les informations sur al-Yasa' se sont historiquement perdues et que le Coran n'a pu les mentionner faute d'existence",
+      "Que les prophètes moins connus ont un rang inférieur auprès d'Allah par rapport à ceux dont les histoires furent détaillées"
+    ],
+    "explanation_fr": "La leçon fondamentale : Allah a mentionné al-Yasa' avec un éloge élevé malgré le peu de détails — la valeur auprès d'Allah tient à la sincérité de l'adoration et à la constance dans la vérité, non à la notoriété du récit."
+  },
+  {
+    "id": "alyasa_26",
+    "question_ar": "ما الذي يجمع اليسع وإسماعيل وذا الكفل في آية واحدة في سورة ص؟",
+    "options_ar": [
+      "كلهم عاشوا في نفس الحقبة الزمنية وتشابهت أقوامهم في نفس نوع الانحراف",
+      "جمعهم الله في وصف واحد هو 'الأخيار' — تكريم مزدوج بالاسم والوصف الجامع",
+      "كلهم هاجروا من أوطانهم وعاشوا في المنفى دفاعاً عن رسالة التوحيد الخالص",
+      "كلهم ابتُلوا بأبناء عاقّين وزوجات لم تؤمن برسالتهم حتى النهاية الأخيرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "﴿وَكُلٌّ مِّنَ الْأَخْيَارِ﴾ — الوصف الجامع 'الأخيار' يدل على قمة الخيرية التي بلغها كل منهم.",
+    "question_fr": "Qu'est-ce qui réunit al-Yasa', Isma'il et Dhoul-Kifl dans un même verset de la sourate Sad ?",
+    "options_fr": [
+      "Ils vécurent tous à la même époque et leurs peuples connurent le même type de déviance",
+      "Allah les réunit sous une seule qualification, « al-Akhyar » (les meilleurs) — un double honneur, par le nom et par cette qualification commune",
+      "Ils émigrèrent tous de leur patrie et vécurent en exil pour défendre le message du monothéisme pur",
+      "Ils furent tous éprouvés par des enfants ingrats et des épouses qui ne crurent pas en leur message jusqu'à la fin"
+    ],
+    "explanation_fr": "« Tous étaient parmi les meilleurs » — cette qualification commune, « al-Akhyar », indique le sommet de la bonté qu'atteignit chacun d'eux."
+  },
+  {
+    "id": "alyasa_27",
+    "question_ar": "ما الفرق بين وصف اليسع في سورة الأنعام ووصفه في سورة ص؟",
+    "options_ar": [
+      "في الأنعام وُصف بالصبر وفي ص وُصف بالشكر — وهذان أعلى مقامات العبودية",
+      "في الأنعام وُصف بالتفضيل على العالمين ضمن الأنبياء، وفي ص وُصف بأنه من الأخيار",
+      "في الأنعام ذُكر نبياً مرسلاً وفي ص ذُكر عبداً صالحاً — وبين المقامين فرق دقيق",
+      "في الأنعام ذُكر قبل يونس ولوط وفي ص ذُكر قبل ذي الكفل — والترتيب دلالة"
+    ],
+    "correct": 1,
+    "explanation_ar": "في الأنعام: ﴿وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾ — تفضيل جماعي على العالمين. وفي ص: ﴿وَكُلٌّ مِّنَ الْأَخْيَارِ﴾ — تفوق في الخيرية.",
+    "question_fr": "Quelle est la différence entre la description d'al-Yasa' dans la sourate al-An'am et celle de la sourate Sad ?",
+    "options_fr": [
+      "Dans al-An'am, il est décrit par la patience, et dans Sad par la gratitude — deux des plus hauts degrés de l'adoration",
+      "Dans al-An'am, il est décrit comme favorisé sur les mondes parmi les prophètes, et dans Sad comme faisant partie des meilleurs",
+      "Dans al-An'am, il est mentionné comme prophète envoyé, et dans Sad comme serviteur vertueux — une subtile différence entre ces deux rangs",
+      "Dans al-An'am, il est cité avant Younous et Lout, et dans Sad avant Dhoul-Kifl — l'ordre a une signification"
+    ],
+    "explanation_fr": "Dans al-An'am : « Chacun d'eux, Nous l'avons favorisé sur les mondes » — une faveur collective sur les mondes. Et dans Sad : « Tous étaient parmi les meilleurs » — une excellence en matière de bonté."
+  },
+  {
+    "id": "alyasa_28",
+    "question_ar": "ما نسب اليسع وفق قول ابن إسحاق إمام السيرة والمغازي؟",
+    "options_ar": [
+      "قال ابن إسحاق: هو اليسع بن أخطوب — وهذا القول يختلف عن قول ابن عساكر",
+      "قال ابن إسحاق: هو اليسع بن شافاط من ذرية داود بن يسّى الملك النبي",
+      "قال ابن إسحاق: هو اليسع بن مَتّى من نسل لاوي بن يعقوب ابن المختار",
+      "قال ابن إسحاق: هو اليسع بن يوشع من نسل أفراثيم بن يوسف الصديق"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال محمد بن إسحاق: هو اليسع بن أخطوب — وهذا يختلف عن قول ابن عساكر الذي قال هو الأسباط بن عدي من ذرية يوسف.",
+    "question_fr": "Quelle est la généalogie d'al-Yasa' selon l'opinion d'Ibn Ishaq, l'imam de la Sira et des expéditions ?",
+    "options_fr": [
+      "Ibn Ishaq a dit : il est al-Yasa' fils d'Akhtoub — cette opinion diffère de celle d'Ibn 'Asakir",
+      "Ibn Ishaq a dit : il est al-Yasa' fils de Chafat, descendant de Dawud fils de Yassa, le roi-prophète",
+      "Ibn Ishaq a dit : il est al-Yasa' fils de Matta, de la lignée de Lévi fils de Ya'qub l'Élu",
+      "Ibn Ishaq a dit : il est al-Yasa' fils de Youcha', de la lignée d'Éphraïm fils de Youssouf le Véridique"
+    ],
+    "explanation_fr": "Muhammad ibn Ishaq a dit : il est al-Yasa' fils d'Akhtoub — ce qui diffère de l'opinion d'Ibn 'Asakir, selon qui il est al-Asbat fils de 'Adi, descendant de Youssouf."
+  },
+  {
+    "id": "alyasa_29",
+    "question_ar": "ما الدرس الإيماني من كون اليسع جاء من أسرة ثرية ثم حمل رسالة الدعوة بلا تردد؟",
+    "options_ar": [
+      "أن الثروة تُعين على الدعوة لأنها تفتح الأبواب وتجذب الناس للسماع والقبول",
+      "أن الثروة والجاه لم يمنعاه من قبول رسالة الله — الدنيا في يده لا في قلبه",
+      "أن الله يختار الأثرياء للنبوة لأنهم أكثر قدرة على مواجهة الطغاة والظالمين",
+      "أن الرسالة الإلهية تحتاج دائماً لمن يملك قدرة مادية لتمويل الدعوة وحمايتها"
+    ],
+    "correct": 1,
+    "explanation_ar": "الثروة والجاه لم يمنعا اليسع من قبول رسالة الله — الدنيا في يده لا في قلبه، وهذا هو نموذج الداعية الحقيقي.",
+    "question_fr": "Quelle leçon de foi tirer du fait qu'al-Yasa', issu d'une famille riche, ait porté le message de la prédication sans hésitation ?",
+    "options_fr": [
+      "Que la richesse aide à la prédication car elle ouvre des portes et attire les gens à écouter et accepter",
+      "Que la richesse et le prestige ne l'ont pas empêché d'accepter le message d'Allah — le monde était dans sa main, non dans son cœur",
+      "Qu'Allah choisit les riches pour la prophétie car ils sont plus capables d'affronter les tyrans et les injustes",
+      "Que le message divin a toujours besoin de quelqu'un possédant des moyens matériels pour financer et protéger la prédication"
+    ],
+    "explanation_fr": "La richesse et le prestige n'ont pas empêché al-Yasa' d'accepter le message d'Allah — le monde était dans sa main, non dans son cœur ; c'est là le modèle du véritable prédicateur."
+  },
+  {
+    "id": "alyasa_30",
+    "question_ar": "ما الدلالة من كون اليسع استمر في دعوته حتى قبضه الله إليه دون أن يُغيّر خطابه؟",
+    "options_ar": [
+      "أن الثبات على الدعوة حتى الممات هو الدليل الأكبر على صدق النبوة وصحتها",
+      "أن النبي الحق لا يُغيّر خطابه بتغير الأحوال ولا يُخفّف رسالته استرضاءً لأهل القوة",
+      "أن الله يُمدّ في عمر الداعية الثابت تقديراً لصبره وتكريماً لمسيرته الطويلة",
+      "أن التغيير في أسلوب الدعوة مذموم دائماً ولا يجوز للنبي مهما تغيّرت الظروف"
+    ],
+    "correct": 1,
+    "explanation_ar": "مكث اليسع يدعو إلى الله حتى قبضه الله إليه ثابتاً على نهج إلياس — النبي الحق لا يُخفّف رسالته استرضاءً لأهل القوة والجبروت.",
+    "question_fr": "Que signifie le fait qu'al-Yasa' ait poursuivi sa prédication jusqu'à ce qu'Allah le rappelle à Lui, sans jamais modifier son discours ?",
+    "options_fr": [
+      "Que la constance dans la prédication jusqu'à la mort est la plus grande preuve de la véracité et de l'authenticité de la prophétie",
+      "Que le prophète véritable ne modifie pas son discours selon les circonstances et n'atténue pas son message pour plaire aux puissants",
+      "Qu'Allah prolonge la vie du prédicateur constant en reconnaissance de sa patience et en hommage à son long parcours",
+      "Que le changement de méthode de prédication est toujours blâmable et n'est permis au prophète en aucune circonstance"
+    ],
+    "explanation_fr": "Al-Yasa' persévéra à appeler vers Allah jusqu'à ce qu'Allah le rappelle à Lui, demeurant fidèle à la voie d'Ilyas — le prophète véritable n'atténue pas son message pour complaire aux puissants et aux tyrans."
+  },
+  {
+    "id": "alyasa_31",
+    "question_ar": "ما الذي حدث لبني إسرائيل بعد وفاة اليسع عليه السلام؟",
+    "options_ar": [
+      "آمن بنو إسرائيل جميعاً بعد وفاته إذ أدركوا قيمته وأثره حين فقدوه",
+      "خلف فيهم الخلوف وعظُمت فيهم الأحداث والخطايا وكثرت الجبابرة وقتلوا الأنبياء",
+      "ظهر فيهم نبي جديد مباشرة بعد وفاته وأكمل مسيرة الدعوة دون انقطاع يُذكر",
+      "دخلوا في فترة سلام طويلة خلّت من الأنبياء لكنهم حافظوا على شريعة اليسع"
+    ],
+    "correct": 1,
+    "explanation_ar": "بعد وفاة اليسع خلف فيهم الخلوف وعظُمت الأحداث والخطايا وكثرت الجبابرة وقتلوا الأنبياء — نمط متكرر في تاريخ بني إسرائيل.",
+    "question_fr": "Qu'est-il arrivé aux Fils d'Israël après la mort d'al-Yasa' (paix sur lui) ?",
+    "options_fr": [
+      "Tous les Fils d'Israël crurent après sa mort, réalisant sa valeur et son influence en le perdant",
+      "De mauvaises générations leur succédèrent, les événements et les péchés s'aggravèrent, les tyrans se multiplièrent et ils tuèrent des prophètes",
+      "Un nouveau prophète apparut immédiatement après sa mort et poursuivit la prédication sans interruption notable",
+      "Ils entrèrent dans une longue période de paix dépourvue de prophètes, mais préservèrent la loi d'al-Yasa'"
+    ],
+    "explanation_fr": "Après la mort d'al-Yasa', de mauvaises générations leur succédèrent, les événements et les péchés s'aggravèrent, les tyrans se multiplièrent et ils tuèrent des prophètes — un schéma récurrent dans l'histoire des Fils d'Israël."
+  },
+  {
+    "id": "alyasa_32",
+    "question_ar": "ما الذي يُثبت أن اليسع كان نبياً ورسولاً لا مجرد رجل صالح؟",
+    "options_ar": [
+      "كثرة أتباعه وانتشار دعوته في ربوع بني إسرائيل والأمم المجاورة لهم",
+      "ذكر الله له في القرآن ضمن سلسلة الأنبياء بوصف التفضيل على العالمين والأخيار",
+      "اعتراف الكتب المقدسة الأخرى به نبياً ورسولاً وتفصيلها لقصته بشكل واسع",
+      "صدور معجزات على يديه لأن المعجزة الدليل الأوحد المقبول على صحة النبوة"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذكر الله اليسع في القرآن ضمن سلاسل الأنبياء بوصف التفضيل على العالمين والأخيار — وهذا أعلى شهادة يمكن أن ينالها عبد.",
+    "question_fr": "Qu'est-ce qui prouve qu'al-Yasa' était un prophète et un messager, et non simplement un homme vertueux ?",
+    "options_fr": [
+      "Le grand nombre de ses adeptes et la diffusion de sa prédication à travers les Fils d'Israël et les nations voisines",
+      "La mention qu'Allah en fait dans le Coran, au sein de la chaîne des prophètes, avec les qualifications de favorisé sur les mondes et de faisant partie des meilleurs",
+      "La reconnaissance par les autres écritures saintes de son statut de prophète et de messager, et le détail approfondi de son histoire",
+      "L'accomplissement de miracles par ses mains, le miracle étant la seule preuve acceptée de l'authenticité de la prophétie"
+    ],
+    "explanation_fr": "Allah mentionne al-Yasa' dans le Coran au sein des chaînes de prophètes, avec les qualifications de favorisé sur les mondes et de faisant partie des meilleurs — c'est le plus haut témoignage qu'un serviteur puisse recevoir."
+  },
+  {
+    "id": "alyasa_33",
+    "question_ar": "ما مصدر المعلومات عن معجزات اليسع كإحياء الموتى وشفاء المرضى؟",
+    "options_ar": [
+      "أحاديث نبوية صحيحة صريحة وردت في الصحيحين تُفصّل معجزاته بدقة كاملة",
+      "ذكرها ابن تيمية في 'الجواب الصحيح' نقلاً عن الكتب الإسرائيلية مع التحفظ",
+      "وردت في التفسيرات القرآنية المتواترة للصحابة الكرام رضوان الله عليهم أجمعين",
+      "مصدرها الكتب التاريخية الإسلامية المبكرة كالطبري وابن إسحاق بإسناد صحيح"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذكرها ابن تيمية في 'الجواب الصحيح' نقلاً عن الكتب الإسرائيلية — وأضاف 'والله أعلم بصحة ذلك' تحفظاً وأمانة علمية.",
+    "question_fr": "Quelle est la source des informations sur les miracles d'al-Yasa', tels que la résurrection des morts et la guérison des malades ?",
+    "options_fr": [
+      "Des hadiths prophétiques authentiques et explicites, rapportés dans les deux Sahih, détaillant ses miracles avec une précision complète",
+      "Ibn Taymiyya les mentionne dans « al-Jawab as-Sahih », en les rapportant des écrits israélites, avec réserve",
+      "Elles figurent dans les exégèses coraniques transmises de manière concordante par les nobles Compagnons",
+      "Leur source réside dans les premiers ouvrages historiques islamiques, comme at-Tabari et Ibn Ishaq, avec une chaîne de transmission authentique"
+    ],
+    "explanation_fr": "Ibn Taymiyya les mentionne dans « al-Jawab as-Sahih », en les rapportant des écrits israélites — et il ajoute « Allah sait mieux si cela est exact », par réserve et honnêteté scientifique."
+  },
+  {
+    "id": "alyasa_34",
+    "question_ar": "ما الموقف الصحيح من الروايات الإسرائيلية عن معجزات اليسع؟",
+    "options_ar": [
+      "تُقبل كلها لأن أهل الكتاب أكثر علماً بأنبيائهم منا وروايتهم حجة في ذلك",
+      "تُردّ كلها لأن الكتب الإسرائيلية محرّفة ولا يُستند إليها في أي شأن ديني",
+      "تُروى مع التوقف وعدم الجزم بصحتها كما فعل ابن تيمية حين قال: والله أعلم",
+      "تُقبل ما وافق العقل منها وتُردّ ما خالفه دون الحاجة لأدلة نصية أخرى"
+    ],
+    "correct": 2,
+    "explanation_ar": "ابن تيمية نقل المعجزات ثم قال: 'والله أعلم بصحة ذلك' — وهذا هو الموقف الصحيح: الرواية مع التوقف وعدم الجزم.",
+    "question_fr": "Quelle est la position correcte à adopter face aux récits israélites sur les miracles d'al-Yasa' ?",
+    "options_fr": [
+      "Les accepter toutes, car les gens du Livre connaissent mieux leurs prophètes que nous et leur récit fait autorité",
+      "Les rejeter toutes, car les écrits israélites sont altérés et ne peuvent servir de référence en aucune matière religieuse",
+      "Les rapporter avec réserve, sans affirmer catégoriquement leur véracité, comme le fit Ibn Taymiyya en disant : « Allah sait mieux »",
+      "Accepter ce qui est conforme à la raison et rejeter ce qui s'y oppose, sans besoin d'autres preuves textuelles"
+    ],
+    "explanation_fr": "Ibn Taymiyya a rapporté ces miracles puis a dit : « Allah sait mieux si cela est exact » — c'est là la position correcte : rapporter avec réserve, sans affirmation catégorique."
+  },
+  {
+    "id": "alyasa_35",
+    "question_ar": "ما الصلة المنهجية بين دعوة اليسع ودعوة إلياس التي سبقته؟",
+    "options_ar": [
+      "أضاف اليسع شريعة جديدة لشريعة إلياس لتُناسب زمانه المختلف كلياً",
+      "كان اليسع امتداداً لإلياس في المنهج والشريعة — استمرارية الدعوة لا انقطاعها",
+      "انتقد اليسع بعض أساليب إلياس وطوّر الدعوة لصورة أكثر ملاءمة لجيله",
+      "كان اليسع وإلياس متوازيين — كل منهما في منطقة مختلفة في نفس الوقت"
+    ],
+    "correct": 1,
+    "explanation_ar": "مكث اليسع يدعو متمسكاً بنهج إلياس وشريعته — نموذج الاستمرارية في الدعوة حيث كل نبي يُكمل ما بدأه من قبله.",
+    "question_fr": "Quel est le lien méthodologique entre la prédication d'al-Yasa' et celle d'Ilyas qui l'a précédé ?",
+    "options_fr": [
+      "Al-Yasa' ajouta une nouvelle loi à celle d'Ilyas pour l'adapter à son époque entièrement différente",
+      "Al-Yasa' fut le prolongement d'Ilyas dans la méthode et la loi — la continuité de la prédication, non sa rupture",
+      "Al-Yasa' critiqua certaines méthodes d'Ilyas et fit évoluer la prédication vers une forme plus adaptée à sa génération",
+      "Al-Yasa' et Ilyas étaient contemporains parallèles — chacun dans une région différente, au même moment"
+    ],
+    "explanation_fr": "Al-Yasa' persévéra dans sa prédication en restant fidèle à la voie et à la loi d'Ilyas — un modèle de continuité dans la prédication, où chaque prophète poursuit ce qu'a commencé celui qui l'a précédé."
+  },
+  {
+    "id": "alyasa_36",
+    "question_ar": "ما الاسم الآخر الذي يُذكر لليسع في التراث ويُقابله في التوراة؟",
+    "options_ar": [
+      "يوشع — وهو اسم مشابه اختلط على بعض المؤرخين باليسع فجعلوهما شخصاً واحداً",
+      "أليشع — وهو الاسم الذي يُقال إن اليسع في القرآن يقابله في التوراة",
+      "حزقيال — وهو اسمه في الترجمات العبرية القديمة قبل التحريف",
+      "ميخا — وهو اسمه الحقيقي واليسع لقب أُطلق عليه لاحقاً في بني إسرائيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "يُقال إن اليسع في القرآن يقابله أليشع في التوراة — أليشع ابن شافاط كما ورد في سفر الملوك الأول (19: 19).",
+    "question_fr": "Quel autre nom est attribué à al-Yasa' dans la tradition, correspondant à celui de la Torah ?",
+    "options_fr": [
+      "Youcha' — un nom similaire que certains historiens ont confondu avec al-Yasa', en faisant une seule et même personne",
+      "Élisée — le nom dont on dit qu'il correspond, dans la Torah, à al-Yasa' mentionné dans le Coran",
+      "Ézéchiel — son nom dans les anciennes traductions hébraïques avant l'altération",
+      "Michée — son vrai nom, al-Yasa' étant un surnom qui lui fut donné plus tard chez les Fils d'Israël"
+    ],
+    "explanation_fr": "On dit qu'al-Yasa' mentionné dans le Coran correspond à Élisée dans la Torah — Élisée fils de Chafat, comme mentionné dans le Premier Livre des Rois (19:19)."
+  },
+  {
+    "id": "alyasa_37",
+    "question_ar": "أين يُقال إن قبر اليسع عليه السلام موجود؟",
+    "options_ar": [
+      "في مدينة القدس في المقبرة الشرقية التي تضم عدداً من قبور الأنبياء",
+      "في بلدة الأوجام بمحافظة القطيف في المملكة العربية السعودية",
+      "في الأردن قرب نهر الأردن الذي شهد بعض معجزاته العظيمة",
+      "في دمشق بالقرب من جبل قاسيون الذي اختبأ فيه مع إلياس"
+    ],
+    "correct": 1,
+    "explanation_ar": "يوجد قبر يُقال إنه لنبي الله اليسع في مقبرة ببلدة الأوجام إحدى قرى محافظة القطيف بالمملكة العربية السعودية.",
+    "question_fr": "Où dit-on que se trouve la tombe d'al-Yasa' (paix sur lui) ?",
+    "options_fr": [
+      "Dans la ville de Jérusalem, dans le cimetière oriental qui abrite plusieurs tombes de prophètes",
+      "Dans la localité d'al-Awjam, dans la province de Qatif, en Arabie saoudite",
+      "En Jordanie, près du fleuve du Jourdain qui fut le témoin de certains de ses grands miracles",
+      "À Damas, près du mont Qassioun où il se cacha avec Ilyas"
+    ],
+    "explanation_fr": "Il existe une tombe que l'on dit être celle du prophète d'Allah al-Yasa', dans un cimetière de la localité d'al-Awjam, l'un des villages de la province de Qatif, en Arabie saoudite."
+  },
+  {
+    "id": "alyasa_38",
+    "question_ar": "ما أبرز الأنبياء الذين سبقوا اليسع في سلسلة أنبياء بني إسرائيل بالترتيب الزمني؟",
+    "options_ar": [
+      "إبراهيم ثم إسماعيل ثم يوسف ثم اليسع مباشرةً دون أنبياء بينهم",
+      "موسى وهارون ثم يوشع بن نون ثم أنبياء متعددون ثم إلياس ثم اليسع",
+      "داود ثم سليمان ثم إلياس ثم اليسع في تسلسل مباشر دون انقطاع",
+      "يونس ثم زكريا ثم يحيى ثم إلياس ثم اليسع في الترتيب الأخير"
+    ],
+    "correct": 1,
+    "explanation_ar": "جاء اليسع بعد إلياس، ومن قبل إلياس يوشع بن نون وهارون وموسى عليهم السلام — وكلهم أنبياء بني إسرائيل المتتابعون.",
+    "question_fr": "Quels sont les principaux prophètes ayant précédé al-Yasa' dans la chaîne des prophètes des Fils d'Israël, par ordre chronologique ?",
+    "options_fr": [
+      "Ibrahim, puis Isma'il, puis Youssouf, puis directement al-Yasa', sans prophètes entre eux",
+      "Moussa et Haroun, puis Youcha' fils de Noun, puis plusieurs prophètes, puis Ilyas, puis al-Yasa'",
+      "Dawud, puis Souleyman, puis Ilyas, puis al-Yasa', en séquence directe sans interruption",
+      "Younous, puis Zakariya, puis Yahya, puis Ilyas, puis al-Yasa', en dernier ordre"
+    ],
+    "explanation_fr": "Al-Yasa' vint après Ilyas, et avant Ilyas vinrent Youcha' fils de Noun, Haroun et Moussa (paix sur eux) — tous étant les prophètes successifs des Fils d'Israël."
+  },
+  {
+    "id": "alyasa_39",
+    "question_ar": "ما الذي يجعل قصة اليسع نموذجاً للدعوة المتواصلة عبر الأجيال؟",
+    "options_ar": [
+      "أنه أسّس مدرسة دينية بقيت بعده قروناً تُخرّج الدعاة وتحفظ الشريعة",
+      "أنه تسلّم الأمانة من إلياس وأدّاها كاملة ثم سلّمها لذي الكفل — حلقة في سلسلة لا تنقطع",
+      "أنه كتب كتاباً جمع فيه تعاليم إلياس وتعاليمه ليبقى مرجعاً للأجيال القادمة",
+      "أنه أرسل تلاميذه لكل قرى بني إسرائيل ليستمر أثره بعد رحيله دون انقطاع"
+    ],
+    "correct": 1,
+    "explanation_ar": "اليسع تسلّم من إلياس وأدّى وسلّم لذي الكفل — نموذج الحلقة في سلسلة الخير. الدعوة لا تنتهي بغياب فرد مهما كان عظيماً.",
+    "question_fr": "Qu'est-ce qui fait de l'histoire d'al-Yasa' un modèle de prédication continue à travers les générations ?",
+    "options_fr": [
+      "Qu'il fonda une école religieuse qui perdura des siècles après lui, formant des prédicateurs et préservant la loi",
+      "Qu'il reçut la charge d'Ilyas, l'accomplit pleinement, puis la transmit à Dhoul-Kifl — un maillon dans une chaîne ininterrompue",
+      "Qu'il écrivit un livre rassemblant les enseignements d'Ilyas et les siens pour qu'il reste une référence pour les générations futures",
+      "Qu'il envoya ses disciples dans tous les villages des Fils d'Israël pour que son influence perdure après son départ"
+    ],
+    "explanation_fr": "Al-Yasa' reçut la charge d'Ilyas, l'accomplit, puis la transmit à Dhoul-Kifl — le modèle du maillon dans la chaîne du bien. La prédication ne s'arrête pas avec la disparition d'un individu, aussi grand soit-il."
+  },
+  {
+    "id": "alyasa_40",
+    "question_ar": "ما الجذر اللغوي الذي يعني الخلاص والإنقاذ في العبرانية ومنه أُخذ اسم اليسع؟",
+    "options_ar": [
+      "يهوه — وهو اسم الله في العبرانية ومعناه الموجود الأزلي الأبدي",
+      "يشع — وهو الجذر العبري الذي يعني الخلاص أو الإنقاذ ومنه أُخذ الاسم",
+      "ألوهيم — وهو اسم الله في صيغة الجمع التعظيمي في اللغة العبرانية القديمة",
+      "يهودا — وهو أصل اسم اليسع قبل تحريفه في النقل بين اللغات المختلفة"
+    ],
+    "correct": 1,
+    "explanation_ar": "جذر 'يشع' في العبرانية يعني الخلاص والإنقاذ — ومنه جاء اسم اليسع (الله خلاص / الله منقذ).",
+    "question_fr": "Quelle est la racine linguistique signifiant le salut et la délivrance en hébreu, dont est tiré le nom d'al-Yasa' ?",
+    "options_fr": [
+      "YHWH — le nom de Dieu en hébreu, signifiant l'Être éternel et sans commencement",
+      "Yasha' — la racine hébraïque signifiant le salut ou la délivrance, dont le nom est tiré",
+      "Elohim — le nom de Dieu au pluriel de majesté en hébreu ancien",
+      "Yehouda — l'origine du nom d'al-Yasa' avant son altération dans la transmission entre différentes langues"
+    ],
+    "explanation_fr": "La racine « yasha' » en hébreu signifie le salut et la délivrance — d'où provient le nom d'al-Yasa' (« Allah sauve » / « Allah délivre »)."
+  },
+  {
+    "id": "alyasa_41",
+    "question_ar": "ما القاسم المشترك في التفضيل بين اليسع ويونس ولوط في آية سورة الأنعام؟",
+    "options_ar": [
+      "كلهم عاشوا في نفس المنطقة الجغرافية وتشابهت أقوامهم في العناد والرفض",
+      "كلهم وُصفوا بالتفضيل على العالمين — أي أن الله فضّلهم بالنبوة والاصطفاء",
+      "كلهم ابتُلوا ببلاء واحد هو ترك القوم ثم العودة إليهم في نهاية المطاف",
+      "كلهم طُردوا من أوطانهم وهاجروا وصبروا على الغربة دفاعاً عن التوحيد"
+    ],
+    "correct": 1,
+    "explanation_ar": "﴿وَكُلًّا فَضَّلْنَا عَلَى الْعَالَمِينَ﴾ — الله يُقرّ بتفضيل كل هؤلاء الأنبياء على العالمين وهو أعلى تكريم يمنحه الله لعبد.",
+    "question_fr": "Quel est le point commun dans la faveur accordée à al-Yasa', Younous et Lout dans le verset de la sourate al-An'am ?",
+    "options_fr": [
+      "Ils vécurent tous dans la même région géographique et leurs peuples se ressemblaient dans l'entêtement et le refus",
+      "Ils furent tous décrits comme favorisés sur les mondes — c'est-à-dire qu'Allah les favorisa par la prophétie et l'élection",
+      "Ils furent tous éprouvés par la même épreuve : quitter leur peuple puis y revenir finalement",
+      "Ils furent tous chassés de leur patrie, émigrèrent et endurèrent l'exil en défense du monothéisme"
+    ],
+    "explanation_fr": "« Chacun d'eux, Nous l'avons favorisé sur les mondes » — Allah affirme avoir favorisé chacun de ces prophètes sur les mondes, ce qui constitue le plus grand honneur qu'Allah accorde à un serviteur."
+  },
+  {
+    "id": "alyasa_42",
+    "question_ar": "ما الذي يُميّز ذكر اليسع في سورة ص عن بقية الأنبياء الذين لم يُذكروا في نفس السياق؟",
+    "options_ar": [
+      "أنه ذُكر في سياق الثناء على أصحاب الشدة والصبر بينما الآخرون ذُكروا في سياق العقوبة",
+      "أنه جُمع مع إسماعيل وذي الكفل تحديداً في وصف 'الأخيار' — تكريم مزدوج بالاسم والوصف",
+      "أنه ذُكر في سورة ص دون سورة الأنبياء مما يدل على تميّزه عن باقي الأنبياء",
+      "أنه الوحيد الذي ذُكر في القرآن باسمه ووصفه معاً بينما الآخرون ذُكروا بالوصف فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "جُمع اليسع مع إسماعيل وذي الكفل في وصف 'الأخيار' — تكريم خاص بهؤلاء الثلاثة في هذا الموضع من سورة ص.",
+    "question_fr": "Qu'est-ce qui distingue la mention d'al-Yasa' dans la sourate Sad par rapport aux autres prophètes non cités dans le même contexte ?",
+    "options_fr": [
+      "Qu'il est mentionné dans un contexte d'éloge des gens d'endurance et de patience, tandis que d'autres sont mentionnés dans un contexte de châtiment",
+      "Qu'il est réuni spécifiquement avec Isma'il et Dhoul-Kifl sous la qualification « al-Akhyar » — un double honneur, par le nom et par cette qualification",
+      "Qu'il est mentionné dans la sourate Sad et non dans la sourate al-Anbiya', ce qui indique sa distinction par rapport aux autres prophètes",
+      "Qu'il est le seul mentionné dans le Coran à la fois par son nom et sa qualification, tandis que les autres ne le sont que par leur qualification"
+    ],
+    "explanation_fr": "Al-Yasa' est réuni avec Isma'il et Dhoul-Kifl sous la qualification « al-Akhyar » — un honneur particulier à ces trois-là à cet endroit de la sourate Sad."
+  },
+  {
+    "id": "alyasa_43",
+    "question_ar": "ما أهمية وجود التابوت في زمن اليسع في فهم طبيعة إيمان بني إسرائيل آنذاك؟",
+    "options_ar": [
+      "يدل على أن بني إسرائيل كانوا في قمة إيمانهم وأحوج ما يكونون للنصر الإلهي",
+      "يدل على اعتمادهم على الرمز المادي للانتصار — مما يكشف ضعفاً في التوكل الحقيقي على الله",
+      "يدل على أن الله كان يُكرمهم بمعجزات مستمرة لأنهم كانوا أطوع الأمم في ذلك العصر",
+      "يدل على أن زمن اليسع كان عصراً ذهبياً للمعجزات لم يتكرر في تاريخ بني إسرائيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "اعتماد بني إسرائيل على التابوت في المعارك يكشف ميلاً للأثر المادي — والتوكل الحق يكون على الله لا على الرمز.",
+    "question_fr": "Quelle est l'importance de la présence de l'Arche à l'époque d'al-Yasa' pour comprendre la nature de la foi des Fils d'Israël à cette période ?",
+    "options_fr": [
+      "Cela indique que les Fils d'Israël étaient au sommet de leur foi et avaient le plus besoin de la victoire divine",
+      "Cela indique leur dépendance à l'égard d'un symbole matériel de victoire — ce qui révèle une faiblesse dans la confiance véritable en Allah",
+      "Cela indique qu'Allah les honorait de miracles continus car ils étaient le peuple le plus obéissant de cette époque",
+      "Cela indique que l'époque d'al-Yasa' fut un âge d'or des miracles qui ne se répéta jamais dans l'histoire des Fils d'Israël"
+    ],
+    "explanation_fr": "La dépendance des Fils d'Israël à l'égard de l'Arche dans les batailles révèle une inclination vers le symbole matériel — alors que la véritable confiance doit reposer sur Allah, et non sur le symbole."
+  },
+  {
+    "id": "alyasa_44",
+    "question_ar": "ما الدلالة على أن اليسع كان معاصراً لإلياس قبل تولّيه الدعوة مستقلاً؟",
+    "options_ar": [
+      "ذكر القرآن اسميهما في نفس الآية مما يدل قطعاً على معاصرتهما في نفس الزمان",
+      "الرواية أنه كان متخفياً معه في جبل قاسيون فراراً من الملك — وهذا دليل مصاحبة",
+      "ذكر التوراة أن إلياس عيّنه خليفة قبل رحيله بسنوات في احتفال رسمي كبير",
+      "إجماع المؤرخين المسلمين على أنهما كانا يتناوبان في الدعوة كل منهما في منطقته"
+    ],
+    "correct": 1,
+    "explanation_ar": "الرواية التاريخية تذكر أنه كان متخفياً مع إلياس في جبل قاسيون بسوريا — وهذا دليل المصاحبة والمعاصرة قبل أن يتولى الدعوة مستقلاً.",
+    "question_fr": "Quelle indication prouve qu'al-Yasa' était contemporain d'Ilyas avant de prendre en charge la prédication de façon indépendante ?",
+    "options_fr": [
+      "Le Coran mentionne leurs deux noms dans le même verset, ce qui prouve catégoriquement leur contemporanéité",
+      "Le récit selon lequel il se cachait avec lui sur le mont Qassioun, fuyant le roi — c'est une preuve de compagnonnage",
+      "La Torah mentionne qu'Ilyas le désigna successeur des années avant son départ, lors d'une grande cérémonie officielle",
+      "Le consensus des historiens musulmans selon lequel ils alternaient la prédication, chacun dans sa région"
+    ],
+    "explanation_fr": "Le récit historique rapporte qu'il se cachait avec Ilyas sur le mont Qassioun en Syrie — c'est là une preuve du compagnonnage et de la contemporanéité, avant qu'il ne prenne en charge la prédication de façon indépendante."
+  },
+  {
+    "id": "alyasa_45",
+    "question_ar": "ما الملك الذي كان بنو إسرائيل يخشون بطشه في زمن إلياس واليسع؟",
+    "options_ar": [
+      "فرعون مصر الذي كان لا يزال يملك نفوذاً على منطقة الشام وبلاد الرافدين",
+      "ملك بعلبك المتجبر الذي دفع إلياس واليسع للاختباء في جبل قاسيون",
+      "بختنصر ملك بابل الذي خرّب الهيكل وسبى بني إسرائيل إلى بابل",
+      "ملك الفلسطينيين الذي كان يُسيطر على الساحل وأشد أعداء بني إسرائيل"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان ملك بعلبك المتجبر هو من دفع إلياس واليسع للاختباء في جبل قاسيون — نموذج الطغيان الذي يُضطهد الأنبياء في عهده.",
+    "question_fr": "Quel roi les Fils d'Israël craignaient-ils à l'époque d'Ilyas et d'al-Yasa' ?",
+    "options_fr": [
+      "Pharaon d'Égypte, qui exerçait encore une influence sur la région du Levant et la Mésopotamie",
+      "Le roi despote de Baalbek, qui poussa Ilyas et al-Yasa' à se cacher sur le mont Qassioun",
+      "Nabuchodonosor, roi de Babylone, qui détruisit le Temple et déporta les Fils d'Israël à Babylone",
+      "Le roi des Philistins, qui dominait la côte et était le plus féroce ennemi des Fils d'Israël"
+    ],
+    "explanation_fr": "C'est le roi despote de Baalbek qui poussa Ilyas et al-Yasa' à se cacher sur le mont Qassioun — un modèle de tyrannie persécutant les prophètes de son époque."
+  },
+  {
+    "id": "alyasa_46",
+    "question_ar": "ما الفائدة التربوية الكبرى التي يجنيها المسلم من التأمل في قصة اليسع القصيرة؟",
+    "options_ar": [
+      "أن يعرف كيف يتعامل مع الملوك الطغاة باستخدام أسلوب التخفي والعمل السري",
+      "أن يُدرك أن الله يعرفه ويُقدّر عمله حتى لو لم يشتهر الناس بقصته؛ فالقيمة بصدق العبودية لا بشهرة القصة",
+      "أن الله يُقدّم الأنبياء الأغنياء دائماً في الذكر قبل الأنبياء الفقراء لتشجيع الناس على العمل",
+      "أن تفاصيل المعجزات هي الأهم في قصص الأنبياء وبدونها لا تكتمل العظة والعبرة"
+    ],
+    "correct": 1,
+    "explanation_ar": "الدرس الجوهري: الله ذكر اليسع بالثناء العالي رغم قلة التفاصيل؛ ليعلمنا أن القيمة عند الله بالإخلاص والثبات، لا بمقدار ما يعرفه الناس عنك.",
+    "question_fr": "Quel grand bénéfice éducatif le musulman tire-t-il de la méditation sur le court récit d'al-Yasa' ?",
+    "options_fr": [
+      "Savoir comment traiter avec les rois tyranniques en usant de la dissimulation et de l'action secrète",
+      "Réaliser qu'Allah le connaît et estime son œuvre même si les gens ne connaissent pas son histoire ; la valeur réside dans la sincérité de l'adoration, non dans la notoriété du récit",
+      "Qu'Allah cite toujours les prophètes riches avant les prophètes pauvres pour encourager les gens à travailler",
+      "Que les détails des miracles sont l'essentiel des récits prophétiques, sans lesquels la leçon et l'enseignement seraient incomplets"
+    ],
+    "explanation_fr": "La leçon essentielle : Allah a mentionné al-Yasa' avec un éloge élevé malgré le peu de détails, pour nous enseigner que la valeur auprès d'Allah tient à la sincérité et à la constance, non à ce que les gens savent de toi."
+  },
+  {
+    "id": "alyasa_47",
+    "question_ar": "ما الذي استنتجه العلماء من ذكر اليسع بجانب إسماعيل تحديداً في سورة ص؟",
+    "options_ar": [
+      "أن كلاً منهما كان ذبيحاً في وقت ما من حياته لولا تدخل العناية الإلهية",
+      "أنهما يشتركان في صفة الصبر العظيم والخيرية المطلقة رغم تباعد أزمانهما وأنسابهما",
+      "أن اليسع هو الابن الروحي لإسماعيل عليه السلام في سلسلة الأنبياء",
+      "أن كلاً منهما بُعث إلى قوم كانوا يعبدون الأصنام والأوثان في الصحراء"
+    ],
+    "correct": 1,
+    "explanation_ar": "الجمع بينهما في ﴿وَكُلٌّ مِّنَ الْأَخْيَارِ﴾ يدل على وحدة المنهج والفضل رغم اختلاف النسب (إسماعيل عربي واليسع من بني إسرائيل).",
+    "question_fr": "Qu'ont conclu les savants de la mention d'al-Yasa' aux côtés d'Isma'il, précisément, dans la sourate Sad ?",
+    "options_fr": [
+      "Que chacun d'eux faillit être sacrifié à un moment de sa vie, sans l'intervention de la providence divine",
+      "Qu'ils partagent la qualité d'une grande patience et d'une bonté absolue, malgré l'éloignement de leurs époques et de leurs lignées",
+      "Qu'al-Yasa' est le fils spirituel d'Isma'il (paix sur lui) dans la chaîne des prophètes",
+      "Que chacun d'eux fut envoyé à un peuple adorant des idoles dans le désert"
+    ],
+    "explanation_fr": "Leur réunion dans « Tous étaient parmi les meilleurs » indique une unité de méthode et de mérite malgré la différence de lignée (Isma'il étant arabe et al-Yasa' issu des Fils d'Israël)."
+  },
+  {
+    "id": "alyasa_48",
+    "question_ar": "بماذا استدل ابن تيمية على بطلان ألوهية المسيح من خلال قصة اليسع؟",
+    "options_ar": [
+      "بأن اليسع كان يعبد الله وحده ولم يَدّعِ الألوهية رغم قوته",
+      "بأن المعجزات (كإحياء الموتى) جرت على يد اليسع قبله، ولم يقل أحد بألوهية اليسع، فالمعجزة فعل الله لا فعل النبي",
+      "بأن اليسع كان أعظم معجزات من عيسى ومع ذلك مات ودفن كالبشر",
+      "بأن الإنجيل ذكر اليسع ووصفه بالعبد الصالح المملوك لربه"
+    ],
+    "correct": 1,
+    "explanation_ar": "استدل بأن وقوع المعجزات المتشابهة على يد أنبياء مختلفين (كاليسع وعيسى) يثبت أنها آيات من الله وليست دليلاً على طبيعة إلهية في البشر.",
+    "question_fr": "Sur quoi Ibn Taymiyya s'est-il appuyé pour réfuter la divinité du Messie à travers l'histoire d'al-Yasa' ?",
+    "options_fr": [
+      "Sur le fait qu'al-Yasa' adorait Allah seul et ne prétendit jamais à la divinité malgré sa puissance",
+      "Sur le fait que les miracles (comme la résurrection des morts) se produisirent par la main d'al-Yasa' avant lui, et que personne n'affirma la divinité d'al-Yasa' ; le miracle est l'acte d'Allah, non celui du prophète",
+      "Sur le fait qu'al-Yasa' accomplit des miracles plus grands qu'Issa et pourtant mourut et fut enterré comme les humains",
+      "Sur le fait que l'Évangile mentionne al-Yasa' et le décrit comme le serviteur vertueux appartenant à son Seigneur"
+    ],
+    "explanation_fr": "Il s'est appuyé sur le fait que la survenue de miracles semblables par la main de prophètes différents (comme al-Yasa' et Issa) prouve qu'il s'agit de signes d'Allah, et non d'une preuve de nature divine chez un humain."
+  },
+  {
+    "id": "alyasa_49",
+    "question_ar": "ما هي العبرة من قصة 'الرجل الذي تزدريه العين' في خلافة اليسع؟",
+    "options_ar": [
+      "أن القوة البدنية هي المعيار الوحيد للقيادة في زمن الحروب والجبابرة",
+      "أن المظهر الخارجي خادع، والعبرة بصدق الباطن والقدرة على ضبط النفس (عدم الغضب)",
+      "أن اليسع كان يحب الفقراء ويكره الأغنياء لذلك اختار أبسط الناس مظهراً",
+      "أن بني إسرائيل كانوا يرفضون دائماً الانصياع للجمال والمظاهر المادية"
+    ],
+    "correct": 1,
+    "explanation_ar": "الاختبار ركز على 'عدم الغضب' وهو ضبط باطني، مما يثبت أن القيادة الربانية تعتمد على كمال الأخلاق لا وسامة المظهر.",
+    "question_fr": "Quel est l'enseignement de l'histoire de « l'homme méprisé par le regard » dans la succession d'al-Yasa' ?",
+    "options_fr": [
+      "Que la force physique est le seul critère du leadership en temps de guerre et de tyrans",
+      "Que l'apparence extérieure est trompeuse, et que l'enseignement réside dans la sincérité intérieure et la capacité à maîtriser ses émotions (ne pas se mettre en colère)",
+      "Qu'al-Yasa' aimait les pauvres et détestait les riches, c'est pourquoi il choisit la personne la plus simple d'apparence",
+      "Que les Fils d'Israël refusaient toujours de se soumettre à la beauté et aux apparences matérielles"
+    ],
+    "explanation_fr": "L'épreuve portait sur « ne pas se mettre en colère », une maîtrise intérieure, ce qui prouve que le leadership divin repose sur la perfection du caractère, non sur la beauté de l'apparence."
+  },
+  {
+    "id": "alyasa_50",
+    "question_ar": "كيف انتهت فترة استخلاف ذي الكفل في عهد اليسع عليهما السلام؟",
+    "options_ar": [
+      "بفشل الرجل في الاختبار وغضب اليسع عليه وعزله أمام قومه",
+      "بنجاح الرجل وثباته على شروط اليسع، مما جعله أهلاً للنبوة والذكر في القرآن مع الأخيار",
+      "بموت الرجل قبل أن يتسلم المهام رسمياً فحزن عليه اليسع حزناً شديداً",
+      "بثورة بني إسرائيل على الاختيار واضطرار اليسع لإعادة القرعة مرة أخرى"
+    ],
+    "correct": 1,
+    "explanation_ar": "أثبت الرجل (ذو الكفل) صدقه وثباته أمام إغواء إبليس وشروط اليسع، فاستحق أن يرفعه الله مقاماً علياً ويذكره في كتابه الخالد.",
+    "question_fr": "Comment s'est achevée la période de succession de Dhoul-Kifl sous l'autorité d'al-Yasa' (paix sur eux deux) ?",
+    "options_fr": [
+      "Par l'échec de l'homme à l'épreuve, la colère d'al-Yasa' contre lui et sa destitution devant son peuple",
+      "Par le succès de l'homme et sa constance dans le respect des conditions d'al-Yasa', ce qui le rendit digne de la prophétie et d'être mentionné dans le Coran parmi les meilleurs",
+      "Par la mort de l'homme avant qu'il ne prenne officiellement ses fonctions, ce qui affligea profondément al-Yasa'",
+      "Par la révolte des Fils d'Israël contre ce choix, contraignant al-Yasa' à recommencer le tirage au sort"
+    ],
+    "explanation_fr": "L'homme (Dhoul-Kifl) prouva sa sincérité et sa constance face à la tentation d'Iblis et aux conditions d'al-Yasa', méritant ainsi qu'Allah l'élève à un rang élevé et le mentionne dans Son Livre éternel."
+  }
+]

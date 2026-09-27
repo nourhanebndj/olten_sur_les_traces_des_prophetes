@@ -1,0 +1,1004 @@
+
+[
+  {
+    "id": "yunus_01",
+    "question_ar": "ما اسم المدينة التي أُرسل إليها يونس عليه السلام وأين تقع؟",
+    "options_ar": [
+      "مدينة بابل في جنوب العراق الحالي",
+      "مدينة نينوى في العراق الحالي",
+      "مدينة صور على ساحل لبنان",
+      "مدينة الإسكندرية في شمال مصر"
+    ],
+    "correct": 1,
+    "explanation_ar": "أُرسل يونس عليه السلام إلى أهل نينوى في العراق الحالي، وهي من أعظم مدن الحضارة الآشورية القديمة، وكان عدد سكانها يتجاوز مئة ألف نسمة.",
+    "question_fr": "Quel est le nom de la ville vers laquelle Yunus fut envoyé, et où se trouve-t-elle ?",
+    "options_fr": [
+      "La ville de Babylone, dans le sud de l’Irak actuel",
+      "La ville de Ninive, dans l’Irak actuel",
+      "La ville de Tyr, sur la côte du Liban",
+      "La ville d’Alexandrie, dans le nord de l’Égypte"
+    ],
+    "explanation_fr": "Yunus fut envoyé aux habitants de Ninive, dans l’Irak actuel. C’était l’une des grandes villes de l’ancienne civilisation assyrienne, et sa population aurait dépassé cent mille habitants."
+  },
+  {
+    "id": "yunus_02",
+    "question_ar": "بماذا وصف القرآن الكريم عدد أهل نينوى الذين أُرسل إليهم يونس عليه السلام؟",
+    "options_ar": [
+      "سبعون ألفاً أو يزيدون",
+      "مئة ألف أو يزيدون",
+      "ألف ألف أو يزيدون",
+      "خمسون ألفاً أو يزيدون"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَأَرْسَلْنَاهُ إِلَىٰ مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ). وهذا العدد الضخم يجعل إيمانهم جميعاً معجزةً توبة جماعية لا نظير لها في القرآن.",
+    "question_fr": "Comment le Coran décrit-il le nombre d’habitants de Ninive auxquels Yunus fut envoyé ?",
+    "options_fr": [
+      "Soixante-dix mille ou davantage",
+      "Cent mille ou davantage",
+      "Un million ou davantage",
+      "Cinquante mille ou davantage"
+    ],
+    "explanation_fr": "Allah dit : « Nous l’envoyâmes à cent mille personnes ou davantage. » Ce nombre important met en évidence, dans le récit coranique, l’ampleur de leur retour collectif à la foi."
+  },
+  {
+    "id": "yunus_03",
+    "question_ar": "بماذا كُنّي يونس عليه السلام في القرآن الكريم وما معنى هذا اللقب؟",
+    "options_ar": [
+      "ذو الكفل — أي صاحب العهد والكفالة",
+      "ذو النون — والنون تعني الحوت",
+      "ذو القرنين — أي صاحب القوة والتمكين",
+      "صاحب الأيكة — أي صاحب الغابة الكثيفة"
+    ],
+    "correct": 1,
+    "explanation_ar": "لُقّب يونس بـ(ذي النون) أي صاحب الحوت، لأن أبرز ما في قصته هو ابتلاؤه ببطن الحوت. وأيضاً يُسمى (صاحب الحوت) في القرآن الكريم.",
+    "question_fr": "Par quel surnom Yunus est-il désigné dans le Coran et que signifie-t-il ?",
+    "options_fr": [
+      "Dhul-Kifl — c’est-à-dire celui qui possède l’engagement et la responsabilité",
+      "Dhun-Nun — « Nun » désigne ici le poisson, c’est-à-dire la baleine",
+      "Dhul-Qarnayn — c’est-à-dire celui qui possède force et pouvoir",
+      "Le compagnon d’Al-Aykah — c’est-à-dire celui de la forêt dense"
+    ],
+    "explanation_fr": "Yunus est appelé « Dhun-Nun », c’est-à-dire « celui du poisson », en référence à l’épisode de la baleine dans son récit. Le Coran le désigne également comme « le compagnon du poisson »."
+  },
+  {
+    "id": "yunus_04",
+    "question_ar": "ما القوم الوحيد في القرآن الكريم الذي آمن بأكمله فكشف الله عنه العذاب؟",
+    "options_ar": [
+      "قوم موسى حين عبروا البحر",
+      "قوم إبراهيم حين رأوا النار لم تحرقه",
+      "قوم يونس حين رأوا علامات العذاب",
+      "قوم سليمان حين شهدوا ملكه العظيم"
+    ],
+    "correct": 2,
+    "explanation_ar": "قال تعالى: (فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ لَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ). قوم يونس استثناء فريد في تاريخ الأمم.",
+    "question_fr": "Quel peuple est présenté dans le Coran comme ayant cru collectivement, après quoi Allah a écarté de lui le châtiment ?",
+    "options_fr": [
+      "Le peuple de Musa lorsqu’il traversa la mer",
+      "Le peuple d’Ibrahim lorsqu’il vit que le feu ne le brûlait pas",
+      "Le peuple de Yunus lorsqu’il vit les signes du châtiment",
+      "Le peuple de Sulayman lorsqu’il vit son grand royaume"
+    ],
+    "explanation_fr": "Allah dit en substance que seul le peuple de Yunus, lorsqu’il crut, bénéficia du retrait du châtiment humiliant. Le récit coranique le présente comme un cas particulier parmi les peuples."
+  },
+  {
+    "id": "yunus_05",
+    "question_ar": "ما معنى قوله تعالى (وَذَا النُّونِ إِذ ذَّهَبَ مُغَاضِبًا) فيما يتعلق بطبيعة غضب يونس؟",
+    "options_ar": [
+      "غضب من الله لأنه أرسله إلى قوم كافرين",
+      "غضب على قومه لعدم استجابتهم وتكذيبهم",
+      "غضب من الملائكة لأنهم أخّروا إنزال العذاب",
+      "غضب من الأنبياء السابقين لعدم مساعدتهم له"
+    ],
+    "correct": 1,
+    "explanation_ar": "كان غضب يونس على قومه بسبب إصرارهم على الكفر وتكذيبه، لا غضباً على الله. وقد ظن أن الله لن يضيّق عليه لخروجه دون إذن لهذا السبب.",
+    "question_fr": "Que signifie « lorsqu’il partit en colère » à propos de la colère de Yunus ?",
+    "options_fr": [
+      "Il était en colère contre Allah parce qu’Il l’avait envoyé vers un peuple mécréant",
+      "Il était en colère contre son peuple parce qu’il ne répondait pas à son appel et le traitait de menteur",
+      "Il était en colère contre les anges parce qu’ils avaient retardé le châtiment",
+      "Il était en colère contre les prophètes précédents parce qu’ils ne l’avaient pas aidé"
+    ],
+    "explanation_fr": "La colère de Yunus était dirigée contre son peuple en raison de son refus et de son rejet de son message, et non contre Allah. Il pensa que son départ sans permission ne lui causerait pas de conséquence."
+  },
+  {
+    "id": "yunus_06",
+    "question_ar": "ما الخطأ الذي وقع فيه يونس عليه السلام حين غادر قومه؟",
+    "options_ar": [
+      "أنه غادر ليلاً دون أن يودّع أحداً من قومه",
+      "أنه غادر قبل إذن الله دون أمر إلهي بالخروج",
+      "أنه غادر وأخذ معه بعض أتباعه دون الباقين",
+      "أنه غادر وأعلن أن العذاب لن ينزل بهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "النبي لا يترك قومه إلا بأمر إلهي، وقد غادر يونس من تلقاء نفسه غاضباً ظاناً أن الله لن يحاسبه على ذلك. هذا هو الذنب الذي استوجب ابتلاءه.",
+    "question_fr": "Quelle erreur Yunus commit-il lorsqu’il quitta son peuple ?",
+    "options_fr": [
+      "Il partit de nuit sans dire au revoir à son peuple",
+      "Il partit avant d’avoir reçu la permission d’Allah et sans ordre divin de partir",
+      "Il partit en emmenant certains de ses disciples avec lui",
+      "Il partit en annonçant que le châtiment ne tomberait pas sur eux"
+    ],
+    "explanation_fr": "Le récit présente Yunus comme étant parti de lui-même, en colère, sans avoir reçu l’ordre de quitter son peuple. C’est cette décision qui fut suivie de son épreuve."
+  },
+  {
+    "id": "yunus_07",
+    "question_ar": "ما معنى قوله تعالى (فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ) في الآية الكريمة؟",
+    "options_ar": [
+      "ظن أن الله لن يقدر على إنجازه ما طلبه",
+      "ظن أن الله لن يضيّق عليه أو يحاسبه لخروجه",
+      "ظن أن الله لن يقدر على إنقاذه من البحر",
+      "ظن أن الله لن يُقدّر له العودة إلى قومه"
+    ],
+    "correct": 1,
+    "explanation_ar": "(لَّن نَّقْدِرَ عَلَيْهِ) أي لن نُضيّق عليه — من القَدْر بمعنى التضييق. ظن يونس أن خروجه الغاضب لن يترتب عليه عواقب أو ضيق، وهذا ظن أخطأ فيه.",
+    "question_fr": "Que signifie « il pensa que Nous ne le soumettrions pas à la difficulté » dans ce verset ?",
+    "options_fr": [
+      "Il pensa qu’Allah ne pourrait pas accomplir ce qu’Il avait demandé",
+      "Il pensa qu’Allah ne le mettrait pas à l’épreuve ou ne lui demanderait pas de rendre compte de son départ",
+      "Il pensa qu’Allah ne pourrait pas le sauver de la mer",
+      "Il pensa qu’Allah ne lui permettrait pas de retourner auprès de son peuple"
+    ],
+    "explanation_fr": "L’expression est comprise ici à partir du sens de « قدر » comme « restreindre ou mettre en difficulté ». Yunus pensa que son départ précipité n’aurait pas de conséquences."
+  },
+  {
+    "id": "yunus_08",
+    "question_ar": "كيف تحددت هوية من يُلقى في البحر من ركاب السفينة حين هاج البحر؟",
+    "options_ar": [
+      "اختار ربان السفينة من يرى أنه أثقل على السفينة",
+      "أقرع الركاب ثلاث مرات فخرج سهم يونس في كل مرة",
+      "رأى الركاب في المنام أن يونس هو المقصود",
+      "تطوّع يونس من نفسه دون أي قرعة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى في سياق الآيات: أجروا القرعة وخرج سهم يونس. وقد كُررت القرعة ثلاث مرات وفي كل مرة كان سهمه يخرج، فرمى نفسه في البحر.",
+    "question_fr": "Comment fut déterminée l’identité de la personne qui devait être jetée à la mer lorsque celle-ci se déchaîna ?",
+    "options_fr": [
+      "Le capitaine choisit celui qu’il considérait comme le plus lourd pour le navire",
+      "Les passagers tirèrent au sort trois fois, et le nom de Yunus sortit à chaque fois",
+      "Les passagers rêvèrent que Yunus était la personne concernée",
+      "Yunus se porta volontaire sans aucun tirage au sort"
+    ],
+    "explanation_fr": "Selon le récit, ils procédèrent à un tirage au sort et le sort désigna Yunus. Le tirage fut répété trois fois et son nom sortit à chaque fois."
+  },
+  {
+    "id": "yunus_07",
+    "question_ar": "كيف وصف القرآن حال يونس حين التقمه الحوت في قوله (فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُلِيمٌ)؟",
+    "options_ar": [
+      "وهو نائم لا يشعر بشيء",
+      "وهو يلوم نفسه على ما فعل",
+      "وهو يدعو الله بصوت عالٍ",
+      "وهو مستسلم للموت يائس"
+    ],
+    "correct": 1,
+    "explanation_ar": "(مُلِيمٌ) أي يلوم نفسه على قرار الخروج دون إذن. وهذا دليل على وعيه بخطئه منذ اللحظة الأولى، وهو ما مهّد لتوبته الصادقة في الظلمات.",
+    "question_fr": "Comment le Coran décrit-il l’état de Yunus lorsque la baleine l’avala, dans « le poisson l’avala alors qu’il était blâmable » ?",
+    "options_fr": [
+      "Il dormait et ne se rendait compte de rien",
+      "Il se reprochait ce qu’il avait fait",
+      "Il invoquait Allah à voix haute",
+      "Il était désespéré et résigné à mourir"
+    ],
+    "explanation_fr": "« Mulîm » renvoie à celui qui se blâme lui-même. Le récit présente ainsi Yunus comme conscient de son erreur dès le début, ce qui ouvre la voie à son repentir."
+  },
+  {
+    "id": "yunus_09",
+    "question_ar": "ما الظلمات الثلاث التي وجد فيها يونس نفسه داخل الحوت؟",
+    "options_ar": [
+      "ظلمة السجن وظلمة الحزن وظلمة البُعد عن الأهل",
+      "ظلمة بطن الحوت وظلمة قاع البحر وظلمة الليل",
+      "ظلمة اليأس وظلمة الخطيئة وظلمة النسيان",
+      "ظلمة السماء وظلمة الأرض وظلمة الماء"
+    ],
+    "correct": 1,
+    "explanation_ar": "اجتمعت على يونس ثلاث ظلمات: ظلمة بطن الحوت، وظلمة أعماق البحر، وظلمة الليل فوقه — ظلام مركّب مطبق لا ضوء فيه من أي جهة.",
+    "question_fr": "Quelles sont les trois ténèbres dans lesquelles Yunus se retrouva à l’intérieur de la baleine ?",
+    "options_fr": [
+      "Les ténèbres de la prison, de la tristesse et de l’éloignement de sa famille",
+      "Les ténèbres du ventre de la baleine, des profondeurs de la mer et de la nuit",
+      "Les ténèbres du désespoir, du péché et de l’oubli",
+      "Les ténèbres du ciel, de la terre et de l’eau"
+    ],
+    "explanation_fr": "Trois ténèbres sont réunies dans le récit : celle du ventre de la baleine, celle des profondeurs de la mer et celle de la nuit."
+  },
+  {
+    "id": "yunus_10",
+    "question_ar": "ما الدعاء العظيم الذي نادى به يونس في الظلمات الثلاث؟",
+    "options_ar": [
+      "رَبِّ إِنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+      "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+      "رَبِّ اغْفِرْ لِي وَهَبْ لِي مُلْكًا لَّا يَنبَغِي لِأَحَدٍ مِّن بَعْدِي",
+      "رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ وَاجْعَلْنِي مِنَ الصَّالِحِينَ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ). دعاء يجمع التوحيد والتنزيه والاعتراف بالذنب.",
+    "question_fr": "Quelle invocation célèbre Yunus prononça-t-il dans les trois ténèbres ?",
+    "options_fr": [
+      "Seigneur, le mal m’a touché, et Tu es le plus miséricordieux des miséricordieux",
+      "Il n’y a de divinité que Toi. Gloire à Toi ! J’ai été du nombre des injustes",
+      "Seigneur, pardonne-moi et accorde-moi un royaume que personne après moi ne possédera",
+      "Seigneur, sauve-moi du peuple injuste et compte-moi parmi les vertueux"
+    ],
+    "explanation_fr": "Allah rapporte : « Il appela dans les ténèbres : Il n’y a de divinité que Toi. Gloire à Toi ! J’ai été du nombre des injustes. » Cette invocation réunit l’unicité d’Allah, Sa transcendance et la reconnaissance de la faute."
+  },
+  {
+    "id": "yunus_11",
+    "question_ar": "ما البنية الثلاثية لدعاء يونس (لا إله إلا أنت سبحانك إني كنت من الظالمين) من حيث المعنى؟",
+    "options_ar": [
+      "الطلب ثم الشكر ثم التوسل بالأنبياء",
+      "التوحيد ثم التنزيه ثم الاعتراف بالخطأ",
+      "الاستغفار ثم الإنابة ثم طلب النجاة",
+      "الخضوع ثم التوبة ثم الوعد بالإصلاح"
+    ],
+    "correct": 1,
+    "explanation_ar": "بدأ بالتوحيد (لا إله إلا أنت)، ثم التنزيه (سبحانك)، ثم الاعتراف بالظلم (إني كنت من الظالمين). هذا الترتيب المثالي جعله من أعظم الأدعية في القرآن.",
+    "question_fr": "Quelle est la structure en trois parties de l’invocation de Yunus, selon son sens ?",
+    "options_fr": [
+      "La demande, puis le remerciement, puis l’intercession par les prophètes",
+      "L’unicité d’Allah, puis Sa transcendance, puis la reconnaissance de la faute",
+      "La demande de pardon, puis le repentir, puis la demande de délivrance",
+      "La soumission, puis le repentir, puis la promesse de se réformer"
+    ],
+    "explanation_fr": "L’invocation commence par l’unicité d’Allah (« Il n’y a de divinité que Toi »), puis Sa transcendance (« Gloire à Toi »), puis la reconnaissance de la faute (« J’ai été du nombre des injustes »)."
+  },
+  {
+    "id": "yunus_12",
+    "question_ar": "بماذا سمّى النبي ﷺ دعاء يونس وما وعده لمن يدعو به؟",
+    "options_ar": [
+      "سمّاه دعاء المضطرين وقال من دعا به فُرّج عنه كربه",
+      "سمّاه دعوة ذي النون وقال ما دعا به مسلم في شيء إلا استجاب الله له",
+      "سمّاه أفضل الأذكار وقال من حفظه دخل الجنة",
+      "سمّاه دعاء الأبواب المغلقة وقال ما توسل به أحد إلا فُتحت له"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال النبي ﷺ: (دعوة ذي النون: ما دعا بها مسلم في شيء قط إلا استجاب الله له). وعد مطلق بالاستجابة لكل من يدعو بهذه الكلمات بصدق.",
+    "question_fr": "Comment le Prophète ﷺ a-t-il appelé l’invocation de Yunus et que promit-il à celui qui l’invoque ?",
+    "options_fr": [
+      "Il l’appela l’invocation des personnes en détresse et dit que celui qui la prononce verra sa difficulté soulagée",
+      "Il l’appela l’invocation de Dhun-Nun et dit qu’aucun musulman ne l’invoque pour une chose sans qu’Allah ne lui réponde",
+      "Il l’appela la meilleure des évocations et dit que celui qui la mémorise entrera au Paradis",
+      "Il l’appela l’invocation des portes fermées et dit que celui qui l’utilise verra ses portes s’ouvrir"
+    ],
+    "explanation_fr": "Le Prophète ﷺ a dit, selon le hadith cité : « L’invocation de Dhun-Nun : aucun musulman ne l’a invoquée pour une chose sans qu’Allah ne lui réponde. »"
+  },
+  {
+    "id": "yunus_13",
+    "question_ar": "كيف استجاب الله لدعاء يونس في بطن الحوت وفق قوله تعالى (فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ)؟",
+    "options_ar": [
+      "أرسل الله ملاكاً فتح بطن الحوت من الداخل",
+      "سمع الله تسبيحه وأمر الحوت بلفظه على الشاطئ",
+      "أنقذه بريح عاتية أخرجته من الماء",
+      "أمر البحر أن يصبح ضحلاً فخرج الحوت للشاطئ تلقائياً"
+    ],
+    "correct": 1,
+    "explanation_ar": "سمع الله تسبيح يونس وسط تسبيح البحر والحوت، فأمر الحوت أن يلفظه على الشاطئ. التسبيح كان هو مفتاح النجاة: (لَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ).",
+    "question_fr": "Comment Allah répondit-Il à l’invocation de Yunus dans le ventre de la baleine, selon « Nous lui répondîmes et le sauvâmes de l’angoisse » ?",
+    "options_fr": [
+      "Allah envoya un ange qui ouvrit le ventre de la baleine de l’intérieur",
+      "Allah entendit son rappel et ordonna à la baleine de le rejeter sur le rivage",
+      "Il le sauva par un vent violent qui le fit sortir de l’eau",
+      "Il ordonna à la mer de devenir peu profonde et la baleine rejoignit naturellement le rivage"
+    ],
+    "explanation_fr": "Selon le récit, Allah ordonna à la baleine de rejeter Yunus sur le rivage. Le rappel d’Allah est présenté comme l’une des causes de sa délivrance."
+  },
+  {
+    "id": "yunus_14",
+    "question_ar": "بما وصف القرآن حال يونس حين لفظه الحوت على الشاطئ؟",
+    "options_ar": [
+      "وهو يضحك ويفرح لنجاته من الموت",
+      "وهو سقيم — ضعيف الجسد من أحماض المعدة",
+      "وهو يبكي ويستغفر على ما بدر منه",
+      "وهو نائم لم يدرك ما حدث"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَنَبَذْنَاهُ بِالْعَرَاءِ وَهُوَ سَقِيمٌ). كان جسده ضعيفاً رقيقاً من أحماض معدة الحوت، لذا احتاج لفترة تعافٍ وهو ما أعدّ الله له شجرة اليقطين.",
+    "question_fr": "Comment le Coran décrit-il l’état de Yunus lorsque la baleine le rejeta sur le rivage ?",
+    "options_fr": [
+      "Il riait et se réjouissait d’avoir échappé à la mort",
+      "Il était malade et affaibli",
+      "Il pleurait et demandait pardon pour ce qu’il avait fait",
+      "Il dormait et ne se rendait pas compte de ce qui s’était passé"
+    ],
+    "explanation_fr": "Allah dit : « Nous le rejetâmes sur la terre nue alors qu’il était malade. » Le récit le présente comme physiquement affaibli après son épreuve, puis Allah lui accorda une période de récupération."
+  },
+  {
+    "id": "yunus_15",
+    "question_ar": "ما النبات الذي أنبته الله على يونس في الشاطئ للتعافي وما دلالته؟",
+    "options_ar": [
+      "شجرة تمر كثيفة الظل كثيرة الثمر",
+      "شجرة يقطين (القرع) ذات الأوراق العريضة والثمر المغذي",
+      "شجرة زيتون مباركة لتعافيه من المرض",
+      "عشب أخضر رطب يسهل النوم عليه"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ). اليقطين أوراقه العريضة تظلّل من الشمس، ولا يقربه الذباب، وثمره مغذٍّ سهل الهضم — مثالي للتعافي.",
+    "question_fr": "Quelle plante Allah fit-Il pousser pour Yunus sur le rivage afin de l’aider à se rétablir, et que symbolise-t-elle ?",
+    "options_fr": [
+      "Un palmier dense donnant beaucoup d’ombre et de fruits",
+      "Un plant de courge aux larges feuilles et au fruit nourrissant",
+      "Un olivier béni pour l’aider à se remettre de sa maladie",
+      "Une herbe verte et humide sur laquelle il pouvait facilement dormir"
+    ],
+    "explanation_fr": "Allah dit : « Nous fîmes pousser au-dessus de lui une plante de courge. » Ses larges feuilles lui donnaient de l’ombre et son fruit était nourrissant et facile à consommer, selon le récit."
+  },
+  {
+    "id": "yunus_16",
+    "question_ar": "ما وجه الدلالة في اختيار الله اليقطين تحديداً لتعافي يونس؟",
+    "options_ar": [
+      "لأن اليقطين كان غذاء الأنبياء في العصر القديم",
+      "لأنه مناسب جداً للتعافي: ظل واسع ولا ذباب وثمر مغذٍّ سهل الهضم",
+      "لأن اليقطين يرمز إلى الطهارة والتوبة في الموروث القديم",
+      "لأن ثمر اليقطين يشبه شكل البيض رمزاً للميلاد من جديد"
+    ],
+    "correct": 1,
+    "explanation_ar": "اليقطين الخيار الأمثل طبياً وعملياً: أوراقه العريضة تظلله من شمس الصحراء الحارقة، والذباب لا يقربه فلا تلوث للجرح، وثمره خفيف مغذٍّ لجسد يحتاج للتعافي التدريجي.",
+    "question_fr": "Pourquoi la courge a-t-elle été choisie pour aider Yunus à se rétablir ?",
+    "options_fr": [
+      "Parce que la courge était la nourriture des prophètes dans l’Antiquité",
+      "Parce qu’elle convenait particulièrement à son rétablissement : beaucoup d’ombre, peu d’exposition aux mouches et un fruit nourrissant et facile à digérer",
+      "Parce qu’elle symbolisait la pureté et le repentir dans les anciennes traditions",
+      "Parce que sa forme ressemblait à celle d’un œuf, symbole d’une nouvelle naissance"
+    ],
+    "explanation_fr": "Le récit met en avant les qualités pratiques de la courge : ses larges feuilles donnent de l’ombre et son fruit est nourrissant et facile à consommer pour une personne affaiblie."
+  },
+  {
+    "id": "yunus_17",
+    "question_ar": "ما الآية الكريمة التي تُعدّ المحور الأساسي لفهم درس قصة يونس عليه السلام؟",
+    "options_ar": [
+      "وَأَرْسَلْنَاهُ إِلَىٰ مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ",
+      "فَلَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال تعالى: (فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ). هذه الآية تكشف أن رصيد العبادة في الرخاء هو ما أنجاه في الشدة.",
+    "question_fr": "Quel verset est considéré comme central pour comprendre la leçon de l’histoire de Yunus ?",
+    "options_fr": [
+      "Nous l’envoyâmes à cent mille personnes ou davantage",
+      "S’il n’avait pas été parmi ceux qui glorifient Allah, il serait resté dans son ventre jusqu’au jour où ils seront ressuscités",
+      "Il appela dans les ténèbres : Il n’y a de divinité que Toi",
+      "Lorsqu’ils crurent, Nous écartâmes d’eux le châtiment humiliant"
+    ],
+    "explanation_fr": "Le verset souligne, dans le récit, que les actes d’adoration accomplis avant l’épreuve ont joué un rôle dans la délivrance de Yunus."
+  },
+  {
+    "id": "yunus_18",
+    "question_ar": "ما الحديث النبوي المرتبط بقصة يونس في موضوع التعرف على الله في الرخاء؟",
+    "options_ar": [
+      "من صلى الفجر في جماعة فهو في ذمة الله يومه كله",
+      "تعرّف على الله في الرخاء يعرفك في الشدة",
+      "من قال لا إله إلا الله دخل الجنة وإن زنى وإن سرق",
+      "ما من عبد يقول لا إله إلا الله ثم يموت إلا دخل الجنة"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال النبي ﷺ: (تعرّف على الله في الرخاء يعرفك في الشدة). وقصة يونس أبلغ مثال: عبادته المستمرة قبل الأزمة هي ما جعلت الله ينجيه من بطن الحوت.",
+    "question_fr": "Quel hadith est associé à l’histoire de Yunus concernant le fait de se rapprocher d’Allah dans les périodes de facilité ?",
+    "options_fr": [
+      "Celui qui accomplit la prière du matin en groupe est sous la protection d’Allah toute la journée",
+      "Connais Allah dans les moments de facilité, Il te connaîtra dans les moments de difficulté",
+      "Celui qui dit « Il n’y a de divinité qu’Allah » entrera au Paradis même s’il commet certains grands péchés",
+      "Tout serviteur qui dit « Il n’y a de divinité qu’Allah » puis meurt entrera au Paradis"
+    ],
+    "explanation_fr": "Le hadith cité dit : « Connais Allah dans les moments de facilité, Il te connaîtra dans les moments de difficulté. » L’histoire de Yunus est présentée comme une illustration de cette idée."
+  },
+  {
+    "id": "yunus_19",
+    "question_ar": "في أي سورة ورد تفصيل رحلة يونس من ركوب السفينة حتى لفظه على الشاطئ؟",
+    "options_ar": [
+      "سورة يونس",
+      "سورة الصافات",
+      "سورة الأنبياء",
+      "سورة القلم"
+    ],
+    "correct": 1,
+    "explanation_ar": "ذُكرت تفاصيل قصة يونس من السفينة والقرعة والحوت والشاطئ واليقطين في سورة الصافات الآيات 139-148، وهي أطول وأكثر تفصيلاً من بقية المواضع.",
+    "question_fr": "Dans quelle sourate trouve-t-on le récit détaillé de Yunus, depuis son embarquement sur le navire jusqu’à son rejet sur le rivage ?",
+    "options_fr": [
+      "Sourate Yunus",
+      "Sourate As-Saffat",
+      "Sourate Al-Anbiya",
+      "Sourate Al-Qalam"
+    ],
+    "explanation_fr": "Les détails du navire, du tirage au sort, de la baleine, du rivage et de la courge sont rapportés dans As-Saffat, versets 139 à 148, de manière plus détaillée que dans les autres passages."
+  },
+  {
+    "id": "yunus_20",
+    "question_ar": "في أي سورة ورد دعاء يونس (لا إله إلا أنت سبحانك إني كنت من الظالمين) واستجابة الله له؟",
+    "options_ar": [
+      "سورة الصافات",
+      "سورة يونس",
+      "سورة الأنبياء",
+      "سورة ص"
+    ],
+    "correct": 2,
+    "explanation_ar": "ورد الدعاء واستجابته في سورة الأنبياء الآيتان 87-88: (فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ ... فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ).",
+    "question_fr": "Dans quelle sourate trouve-t-on l’invocation de Yunus et la réponse d’Allah à celle-ci ?",
+    "options_fr": [
+      "Sourate As-Saffat",
+      "Sourate Yunus",
+      "Sourate Al-Anbiya",
+      "Sourate Sad"
+    ],
+    "explanation_fr": "L’invocation et la délivrance sont mentionnées dans Al-Anbiya, versets 87-88 : « Il appela dans les ténèbres… Nous lui répondîmes, le sauvâmes de l’angoisse, et c’est ainsi que Nous sauvons les croyants. »"
+  },
+  {
+    "id": "yunus_21",
+    "question_ar": "ما دلالة ختام آية الاستجابة بقوله تعالى (وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ)؟",
+    "options_ar": [
+      "أن النجاة خاصة بالأنبياء والصالحين دون عامة المؤمنين",
+      "أن هذا الدعاء ووسيلة النجاة ليست حكراً على يونس بل لكل مؤمن",
+      "أن الله ينجي المؤمنين فقط في الدنيا ولا علاقة للأمر بالآخرة",
+      "أن الاستجابة مضمونة لمن يدعو في الظلمات الثلاث تحديداً"
+    ],
+    "correct": 1,
+    "explanation_ar": "(وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ) تفتح باب هذا الدعاء لكل مؤمن في أي زمان ومكان. ليست قصة يونس حكراً عليه بل قانون إلهي ثابت للمؤمنين.",
+    "question_fr": "Que signifie la fin du verset de la réponse : « C’est ainsi que Nous sauvons les croyants » ?",
+    "options_fr": [
+      "Que le salut est réservé aux prophètes et aux personnes pieuses",
+      "Que cette invocation et ce moyen de délivrance ne sont pas réservés à Yunus, mais peuvent concerner tout croyant",
+      "Qu’Allah ne sauve les croyants que dans cette vie",
+      "Que la réponse est garantie uniquement à celui qui invoque Allah dans les trois ténèbres"
+    ],
+    "explanation_fr": "La formulation ouvre, dans le récit, cette invocation et cette espérance de délivrance à tous les croyants, et pas seulement à Yunus."
+  },
+  {
+    "id": "yunus_22",
+    "question_ar": "ما الآية في سورة القلم التي نهى فيها الله نبيه محمداً ﷺ عن التشبه بيونس في العجلة؟",
+    "options_ar": [
+      "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ",
+      "وَلَا تَكُونَنَّ مِنَ الَّذِينَ يُغَاضِبُونَ رَبَّهُمْ فَيَخْسَرُونَ",
+      "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ وَلَا تَحْزَنْ",
+      "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا وَإِنَّ مَعَ الْعُسْرِ يُسْرًا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى في سورة القلم: (فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ). نهي صريح للنبي ﷺ عن العجلة التي وقع فيها يونس.",
+    "question_fr": "Quel verset de la sourate Al-Qalam demande au Prophète Muhammad ﷺ de ne pas agir comme Yunus dans la précipitation ?",
+    "options_fr": [
+      "Patiente pour le jugement de ton Seigneur et ne sois pas comme le compagnon du poisson",
+      "Ne sois pas parmi ceux qui se mettent en colère contre leur Seigneur et perdent",
+      "Patiente, et ta patience ne vient que d’Allah, et ne t’attriste pas",
+      "Certes, avec la difficulté vient la facilité, certes avec la difficulté vient la facilité"
+    ],
+    "explanation_fr": "Allah dit dans la sourate Al-Qalam : « Patiente pour le jugement de ton Seigneur et ne sois pas comme le compagnon du poisson lorsqu’il appela alors qu’il était accablé. » Le verset appelle à la patience."
+  },
+  {
+    "id": "yunus_23",
+    "question_ar": "كيف آمن أهل نينوى وما العلامة التي رأوها فدفعتهم للتوبة؟",
+    "options_ar": [
+      "رأوا الملائكة تنزل عليهم فآمنوا خوفاً",
+      "رأوا علامات العذاب كتلوّن السماء فخرجوا يتضرعون",
+      "سمعوا صوتاً من السماء يأمرهم بالإيمان",
+      "رأوا يونس يعود من الموت فآمنوا بمعجزته"
+    ],
+    "correct": 1,
+    "explanation_ar": "تذكر الروايات أنهم لما رأوا علامات العذاب من تلوّن السماء وأمارات الهلاك، خرجوا بأطفالهم وأنعامهم يبكون ويتضرعون، ففرّقوا بين الأمهات وأولادها إظهاراً للخضوع والذل.",
+    "question_fr": "Comment les habitants de Ninive crurent-ils, et quel signe virent-ils qui les poussa au repentir ?",
+    "options_fr": [
+      "Ils virent les anges descendre vers eux et crurent par peur",
+      "Ils virent les signes du châtiment, comme le changement de couleur du ciel, et sortirent en implorant Allah",
+      "Ils entendirent une voix du ciel leur ordonnant de croire",
+      "Ils virent Yunus revenir d’entre les morts et crurent en son miracle"
+    ],
+    "explanation_fr": "Certaines traditions rapportent qu’ils virent les signes du châtiment et sortirent avec leurs enfants et leurs troupeaux en pleurant et en implorant Allah."
+  },
+  {
+    "id": "yunus_24",
+    "question_ar": "ما سبب تميّز توبة أهل نينوى عن غيرهم من الأقوام التي رأت العذاب فلم ينفعها إيمانها؟",
+    "options_ar": [
+      "لأنهم آمنوا قبل رؤية العذاب الفعلي وكانت توبتهم صادقة",
+      "لأنهم كانوا أكثر الناس عدداً فرحمهم الله من الإبادة",
+      "لأن يونس شفع فيهم عند الله من بطن الحوت",
+      "لأن الله أراد أن يُكرم يونس فقبل توبة قومه"
+    ],
+    "correct": 0,
+    "explanation_ar": "الفارق أنهم آمنوا قبل نزول العذاب الفعلي — رأوا المقدمات فتابوا. أما الأقوام الأخرى كقوم فرعون فآمنوا لما وقع بهم العذاب الحقيقي فلم ينفعهم.",
+    "question_fr": "Pourquoi le repentir des habitants de Ninive est-il présenté comme particulier par rapport à d’autres peuples qui virent le châtiment sans que leur foi leur profite ?",
+    "options_fr": [
+      "Parce qu’ils crurent avant que le châtiment ne tombe réellement et que leur repentir fut sincère",
+      "Parce qu’ils étaient les plus nombreux et qu’Allah les épargna de l’extermination",
+      "Parce que Yunus intercéda pour eux depuis le ventre de la baleine",
+      "Parce qu’Allah voulut honorer Yunus et accepta le repentir de son peuple"
+    ],
+    "explanation_fr": "La différence mise en avant est qu’ils crurent avant l’arrivée effective du châtiment. Le récit compare cela à d’autres peuples, comme celui de Pharaon, qui crurent après que le châtiment fut déjà survenu."
+  },
+  {
+    "id": "yunus_25",
+    "question_ar": "ما الآية التي تُبيّن أن إيمان قوم يونس نفعهم ورُفع عنهم به العذاب وممُتّعوا إلى حين؟",
+    "options_ar": [
+      "وَأَرْسَلْنَاهُ إِلَىٰ مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ",
+      "فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ فَنَفَعَهَا إِيمَانُهَا إِلَّا قَوْمَ يُونُسَ لَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ",
+      "فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ فَلَمْ يَنفَعْهُمْ",
+      "وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ الَّذِينَ آمَنُوا"
+    ],
+    "correct": 0,
+    "explanation_ar": "قال تعالى: (وَأَرْسَلْنَاهُ إِلَىٰ مِئَةِ أَلْفٍ أَوْ يَزِيدُونَ * فَآمَنُوا فَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ) في سورة الصافات. آمنوا فمُتّعوا ببقاء حياتهم وأُجّل موعد هلاكهم.",
+    "question_fr": "Quel verset montre que la foi du peuple de Yunus leur fut bénéfique, que le châtiment fut écarté d’eux et qu’ils furent laissés en vie pendant un certain temps ?",
+    "options_fr": [
+      "Nous l’envoyâmes à cent mille personnes ou davantage ; ils crurent, et Nous leur accordâmes une jouissance pour un temps",
+      "Si seulement une cité avait cru, sa foi lui aurait été utile, sauf le peuple de Yunus : lorsqu’ils crurent, Nous écartâmes d’eux le châtiment humiliant",
+      "Lorsqu’ils virent Notre châtiment, ils dirent : « Nous croyons en Allah seul », mais leur foi ne leur fut pas utile",
+      "Il Nous incombait de secourir les croyants qui avaient cru"
+    ],
+    "explanation_fr": "Allah dit dans la sourate As-Saffat : « Nous l’envoyâmes à cent mille personnes ou davantage. Ils crurent, et Nous leur accordâmes une jouissance pour un temps. »"
+  },
+  {
+    "id": "yunus_26",
+    "question_ar": "ما العبرة من قول تعالى (لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ) لو لم يكن من المسبحين؟",
+    "options_ar": [
+      "أن كل من يبتلع الحوت يبقى فيه حياً حتى يوم القيامة",
+      "أن العبادة في الرخاء هي الرصيد الذي ينجو به العبد في الشدة",
+      "أن التسبيح أفضل من الدعاء في أوقات الشدة",
+      "أن من لم يسبح لا تُقبل توبته في وقت الأزمات"
+    ],
+    "correct": 1,
+    "explanation_ar": "الآية تقول صراحةً: لولا رصيده من التسبيح السابق لبقي في بطن الحوت إلى يوم القيامة. العبادة في اليسر تصنع رصيداً يُنجي في أحلك اللحظات.",
+    "question_fr": "Quelle leçon tirer de la parole : « il serait resté dans son ventre jusqu’au jour où ils seront ressuscités » s’il n’avait pas été parmi ceux qui glorifient Allah ?",
+    "options_fr": [
+      "Toute personne avalée par une baleine resterait en vie jusqu’au Jour de la Résurrection",
+      "L’adoration dans les périodes de facilité constitue une réserve qui aide le serviteur dans les périodes de difficulté",
+      "La glorification d’Allah est meilleure que l’invocation dans les moments difficiles",
+      "Celui qui ne glorifie pas Allah ne verra pas son repentir accepté dans les crises"
+    ],
+    "explanation_fr": "Le verset est présenté comme montrant que le rappel et l’adoration accomplis avant l’épreuve ont constitué une réserve spirituelle pour Yunus."
+  },
+  {
+    "id": "yunus_27",
+    "question_ar": "ما الدرس المستفاد من أن يونس كان (مِنَ الْمُسَبِّحِينَ) قبل أزمته؟",
+    "options_ar": [
+      "أن التسبيح لا يُقبل إلا من الأنبياء دون سواهم",
+      "أن العبادة المستمرة في وقت الرخاء هي ما يُنجي في وقت الشدة",
+      "أن التسبيح يكفي عن بقية العبادات إذا كان كثيراً",
+      "أن الله لا ينظر للعبد إلا في أوقات الأزمات"
+    ],
+    "correct": 1,
+    "explanation_ar": "الدرس الجوهري: اعبد الله في الرخاء يعرفك في الشدة. من أهمل ذكر الله وقت اليسر لا يجد رصيداً ينجيه وقت الضيق. العبادة استثمار روحي مستمر.",
+    "question_fr": "Quelle leçon tirer du fait que Yunus était « parmi ceux qui glorifient Allah » avant son épreuve ?",
+    "options_fr": [
+      "La glorification d’Allah n’est acceptée que des prophètes",
+      "L’adoration régulière dans les périodes de facilité peut être une source de secours dans les périodes de difficulté",
+      "La glorification d’Allah suffit à remplacer toutes les autres adorations lorsqu’elle est fréquente",
+      "Allah ne regarde le serviteur que pendant les périodes de difficulté"
+    ],
+    "explanation_fr": "La leçon centrale présentée ici est de rester proche d’Allah dans les périodes de facilité afin de trouver Son secours dans les périodes difficiles."
+  },
+  {
+    "id": "yunus_28",
+    "question_ar": "كيف تجلّت رحمة الله في معاملته لنبيه يونس رغم خطئه بالخروج دون إذن؟",
+    "options_ar": [
+      "تركه في بطن الحوت سنة كاملة ليتعلم الصبر ثم أنجاه",
+      "عاتبه بالابتلاء ثم أنجاه ورعاه بالتعافي وأعاده لرسالته",
+      "أخذ منه النبوة فترة ثم أعادها إليه بعد التوبة",
+      "أرسله لقوم آخرين عقوبةً على تركه قوم نينوى"
+    ],
+    "correct": 1,
+    "explanation_ar": "رحمة الله تجلّت في: الابتلاء بالحوت (عتاب)، ثم الإنجاء (رحمة)، ثم اليقطين للتعافي (رعاية)، ثم العودة للرسالة (تكريم). لم يتخلَّ الله عنه رغم خطئه.",
+    "question_fr": "Comment la miséricorde d’Allah s’est-elle manifestée envers Son prophète Yunus malgré son départ sans permission ?",
+    "options_fr": [
+      "Il le laissa une année entière dans le ventre de la baleine pour lui apprendre la patience avant de le sauver",
+      "Il l’éprouva, puis le sauva, prit soin de son rétablissement et le ramena à sa mission",
+      "Il lui retira la prophétie pendant un certain temps puis la lui rendit après son repentir",
+      "Il l’envoya vers un autre peuple en punition de son départ de Ninive"
+    ],
+    "explanation_fr": "Le récit présente plusieurs étapes : l’épreuve, puis la délivrance, les soins lors de sa récupération et enfin son retour à sa mission."
+  },
+  {
+    "id": "yunus_29",
+    "question_ar": "ما معنى كلمة (الْعَرَاء) في قوله تعالى (فَنَبَذْنَاهُ بِالْعَرَاءِ)؟",
+    "options_ar": [
+      "الماء الضحل قرب الشاطئ",
+      "الأرض المكشوفة الخالية من الظل والنبات",
+      "المكان المرتفع فوق مستوى البحر",
+      "الرمال الناعمة على الشاطئ"
+    ],
+    "correct": 1,
+    "explanation_ar": "(الْعَرَاء) هي الأرض الواسعة المكشوفة الخالية من الظل والنبات — ولهذا كان اليقطين نعمة مضاعفة لأنه أعطاه الظل والغذاء في مكان لا يتوفران فيه.",
+    "question_fr": "Que signifie le mot « al-‘ara’ » dans « Nous le rejetâmes sur la terre nue » ?",
+    "options_fr": [
+      "L’eau peu profonde près du rivage",
+      "Une terre découverte, sans ombre ni végétation",
+      "Un endroit élevé au-dessus du niveau de la mer",
+      "Le sable fin du rivage"
+    ],
+    "explanation_fr": "« Al-‘ara’ » désigne une terre vaste et découverte, sans ombre ni végétation. La plante de courge fut ainsi une aide supplémentaire en lui donnant ombre et nourriture."
+  },
+  {
+    "id": "yunus_30",
+    "question_ar": "ما الذي يُميّز قصة يونس عن بقية قصص الأنبياء من حيث الابتلاء؟",
+    "options_ar": [
+      "أنه الوحيد الذي ابتُلي بالسجن من بين الأنبياء",
+      "أنه الوحيد الذي كان ابتلاؤه بسبب قرار بشري خاطئ اتخذه هو نفسه",
+      "أنه الوحيد الذي ابتُلي بأذى قومه داخل وطنه",
+      "أنه الوحيد الذي فقد أسرته بسبب مهمة الدعوة"
+    ],
+    "correct": 1,
+    "explanation_ar": "معظم ابتلاءات الأنبياء جاءت من الأعداء والظالمين، أما يونس فكان ابتلاؤه نتيجة قراره الخاص بالخروج دون إذن. هذا يجعل قصته درساً في المسؤولية الشخصية.",
+    "question_fr": "Qu’est-ce qui distingue l’histoire de Yunus des autres récits prophétiques en matière d’épreuve, selon ce récit ?",
+    "options_fr": [
+      "Il est le seul prophète à avoir été éprouvé par l’emprisonnement",
+      "Son épreuve est présentée comme liée à une décision personnelle de partir sans permission",
+      "Il est le seul prophète à avoir subi les torts de son peuple dans son propre pays",
+      "Il est le seul à avoir perdu sa famille à cause de sa mission"
+    ],
+    "explanation_fr": "Le récit met l’accent sur le fait que l’épreuve de Yunus fut liée à sa décision de partir sans permission, ce qui en fait ici une leçon sur la responsabilité personnelle."
+  },
+  {
+    "id": "yunus_31",
+    "question_ar": "في أي سورة تُسمّى يونس بالاسم وما وجه تسمية السورة به؟",
+    "options_ar": [
+      "لأن يونس هو موضوع السورة بالكامل ولا تتحدث عن سواه",
+      "لأن السورة تتضمن قصته كنموذج مقتضب على التوبة ورحمة الله",
+      "لأن يونس أول من أُنزلت عليه آيات هذه السورة",
+      "لأن اسم يونس مذكور في السورة أكثر من أي سورة أخرى"
+    ],
+    "correct": 1,
+    "explanation_ar": "سورة يونس تذكر قصته بإيجاز ضمن سياق أشمل، وتُبرز معجزة إيمان قومه في الآية 98. تسمية السورة به إبراز لأهمية قصته كدرس في الإيمان والتوبة والرحمة.",
+    "question_fr": "Dans quelle sourate Yunus est-il mentionné par son nom, et pourquoi cette sourate porte-t-elle son nom ?",
+    "options_fr": [
+      "Parce que Yunus est le sujet de toute la sourate",
+      "Parce que la sourate mentionne son histoire comme un exemple de repentir et de miséricorde d’Allah",
+      "Parce que Yunus fut le premier à recevoir les versets de cette sourate",
+      "Parce que le nom de Yunus y apparaît plus souvent que dans toute autre sourate"
+    ],
+    "explanation_fr": "La sourate Yunus évoque son histoire dans un contexte plus large et met notamment en avant la foi de son peuple au verset 98. Son nom est ainsi associé à un récit important sur la foi, le repentir et la miséricorde."
+  },
+  {
+    "id": "yunus_32",
+    "question_ar": "ما الفائدة اللاهوتية من وصف الظلمات بالجمع (الظُّلُمَاتِ) لا المفرد في دعاء يونس؟",
+    "options_ar": [
+      "للإشارة إلى أن الظلام كان شديداً أكثر من الظلام العادي",
+      "للدلالة على تعدد مصادر الظلام: الحوت والبحر والليل",
+      "لأن اللغة العربية تستخدم الجمع للتعظيم دون قصد التعدد",
+      "للإشارة إلى الظلام المادي والمعنوي والروحي في آنٍ"
+    ],
+    "correct": 1,
+    "explanation_ar": "الجمع (الظُّلُمَاتِ) يشير إلى ثلاث ظلمات حقيقية متراكمة: ظلمة بطن الحوت، وظلمة أعماق البحر، وظلمة الليل — كل منها تضاعف الأخرى في شدة الإظلام.",
+    "question_fr": "Quelle est la portée du pluriel « les ténèbres » dans l’invocation de Yunus, plutôt que du singulier ?",
+    "options_fr": [
+      "Indiquer que l’obscurité était plus intense qu’une obscurité ordinaire",
+      "Indiquer les différentes sources des ténèbres : la baleine, la mer et la nuit",
+      "Parce que l’arabe utilise parfois le pluriel pour donner de l’importance sans indiquer une pluralité",
+      "Indiquer à la fois les ténèbres matérielles, morales et spirituelles"
+    ],
+    "explanation_fr": "Le pluriel est ici expliqué par la présence de plusieurs ténèbres : celle du ventre de la baleine, celle des profondeurs de la mer et celle de la nuit."
+  },
+  {
+    "id": "yunus_33",
+    "question_ar": "لماذا تُعدّ توبة أهل نينوى استثناءً نادراً في سنن الله مع الأمم؟",
+    "options_ar": [
+      "لأن الله لا يقبل التوبة الجماعية عادةً بل يقبل الفردية فقط",
+      "لأن الأمم عادةً لا تؤمن عند رؤية العذاب، وهم آمنوا قبل وقوعه",
+      "لأن الله اشترط شروطاً خاصة لتوبتهم لم تتوفر في غيرهم",
+      "لأن يونس كان أقوى الأنبياء شفاعةً فتُقبل توبة قومه دون غيرهم"
+    ],
+    "correct": 1,
+    "explanation_ar": "الاستثناء أنهم آمنوا بعلامات العذاب قبل وقوعه — وهو الإيمان المقبول. القاعدة أن من آمن بعد رؤية العذاب الحقيقي كفرعون لا ينفعه إيمانه.",
+    "question_fr": "Pourquoi le repentir des habitants de Ninive est-il présenté comme une exception rare dans le récit coranique ?",
+    "options_fr": [
+      "Parce qu’Allah n’accepte généralement que le repentir individuel",
+      "Parce que les peuples ne croient généralement pas lorsqu’ils voient le châtiment, alors qu’eux crurent avant qu’il ne survienne",
+      "Parce qu’Allah leur imposa des conditions particulières de repentir",
+      "Parce que Yunus était le prophète ayant la plus grande intercession"
+    ],
+    "explanation_fr": "L’exception mise en avant est qu’ils crurent en voyant les signes du châtiment avant son accomplissement. Le récit compare cela à ceux qui crurent seulement après l’arrivée du châtiment."
+  },
+  {
+    "id": "yunus_34",
+    "question_ar": "ما اسم والد يونس عليه السلام كما ورد في المصادر الإسلامية؟",
+    "options_ar": [
+      "يونس بن إلياس",
+      "يونس بن متّى",
+      "يونس بن نون",
+      "يونس بن يوشع"
+    ],
+    "correct": 1,
+    "explanation_ar": "اسمه الكامل يونس بن متّى كما ورد في المصادر الإسلامية والروايات، وقد نسبه القرآن لأمه أحياناً بذكر اسمه مجرداً دون نسب.",
+    "question_fr": "Quel est le nom du père de Yunus selon les sources et récits islamiques ?",
+    "options_fr": [
+      "Yunus ibn Ilyas",
+      "Yunus ibn Matta",
+      "Yunus ibn Nun",
+      "Yunus ibn Yusha"
+    ],
+    "explanation_fr": "Son nom est rapporté comme Yunus ibn Matta dans les sources et récits islamiques cités. Le Coran le mentionne généralement par son nom, sans détailler sa généalogie."
+  },
+  {
+    "id": "yunus_35",
+    "question_ar": "ما مقتضى قوله تعالى (فَلَمَّا آمَنُوا كَشَفْنَا عَنْهُمْ عَذَابَ الْخِزْيِ فِي الْحَيَاةِ الدُّنْيَا وَمَتَّعْنَاهُمْ إِلَىٰ حِينٍ)؟",
+    "options_ar": [
+      "أن الإيمان يضمن لصاحبه الخلود في الدنيا حتى يوم القيامة",
+      "أن إيمانهم كشف عذاب الدنيا وأُجّل موعد موتهم إلى أجل مسمى",
+      "أن الإيمان الجماعي أقوى أثراً من الإيمان الفردي في رفع العذاب",
+      "أن الله أعطاهم حياة خالدة جزاءً على توبتهم العظيمة"
+    ],
+    "correct": 1,
+    "explanation_ar": "كُشف عنهم عذاب الإبادة المعجّل، ومُتّعوا ببقاء الحياة إلى أجلهم الطبيعي. ليس خلوداً بل تأجيلاً للموت الجماعي المبكر الذي كان ينتظرهم.",
+    "question_fr": "Que signifie la parole : « Lorsqu’ils crurent, Nous écartâmes d’eux le châtiment humiliant dans la vie présente et leur accordâmes une jouissance pour un temps » ?",
+    "options_fr": [
+      "Que la foi garantit à son auteur de vivre éternellement ici-bas",
+      "Que leur foi écarta le châtiment terrestre et que leur mort fut reportée jusqu’au terme qui leur était fixé",
+      "Que la foi collective a toujours plus d’effet que la foi individuelle",
+      "Qu’Allah leur accorda une vie éternelle en récompense de leur grand repentir"
+    ],
+    "explanation_fr": "Le châtiment qui les menaçait fut écarté et ils purent continuer à vivre jusqu’au terme qui leur était destiné. Il ne s’agit pas d’une immortalité, mais du report du châtiment collectif."
+  },
+  {
+    "id": "yunus_36",
+    "question_ar": "ما العلاقة بين قصة يونس وقصة يوسف من حيث الابتلاء في الظلام والخروج منه؟",
+    "options_ar": [
+      "كلاهما ابتُلي بالسجن ثم خرج ملكاً",
+      "كلاهما ابتُلي في ظلام مغلق (الجب والحوت) ثم خرج إلى النور بتدبير إلهي",
+      "كلاهما دعا نفس الدعاء في وقت الشدة",
+      "كلاهما كان ابتلاؤه بسبب خيانة الأقارب"
+    ],
+    "correct": 1,
+    "explanation_ar": "كلاهما عاش في ظلام مغلق: يوسف في الجب ثم السجن، ويونس في الحوت. وكلاهما خرج من الظلام بتدبير إلهي وعناية ربانية ليكمل مهمته.",
+    "question_fr": "Quel lien peut-on faire entre les histoires de Yunus et de Yusuf concernant l’épreuve dans l’obscurité et la délivrance ?",
+    "options_fr": [
+      "Tous deux furent emprisonnés puis devinrent rois",
+      "Tous deux furent éprouvés dans un lieu fermé et obscur — le puits pour Yusuf et la baleine pour Yunus — puis en sortirent par la volonté d’Allah",
+      "Tous deux prononcèrent exactement la même invocation dans l’épreuve",
+      "Tous deux furent éprouvés à cause d’une trahison de leurs proches"
+    ],
+    "explanation_fr": "Tous deux connurent une situation d’obscurité et d’enfermement, puis furent délivrés par la volonté d’Allah afin de poursuivre leur mission."
+  },
+  {
+    "id": "yunus_37",
+    "question_ar": "ما الفائدة من أن الله لم يُعجّل العقوبة على يونس بل جعل ابتلاءه تأديبياً وليس تدميرياً؟",
+    "options_ar": [
+      "لأن الأنبياء معصومون من العقوبة النهائية مهما أخطأوا",
+      "لأن الله يؤدّب من يحب ليرجع لا ليهلك، والابتلاء للأنبياء أكثر ثقلاً لأن مسؤوليتهم أعظم",
+      "لأن يونس كان الأقوى إيماناً من بين الأنبياء فاستحق رحمة خاصة",
+      "لأن خطأ يونس كان صغيراً لا يستحق عقوبة حقيقية"
+    ],
+    "correct": 1,
+    "explanation_ar": "الله يؤدّب من يحب تأديب التربية لا التدمير. والأنبياء أكثر تأدباً لأن مسؤوليتهم أعظم — فالبلاء الأشد للأقرب من الله ليكون تكاملاً للرسالة.",
+    "question_fr": "Quelle leçon est tirée du fait qu’Allah ne hâta pas la fin de l’épreuve de Yunus et que celle-ci fut éducative plutôt que destructrice ?",
+    "options_fr": [
+      "Parce que les prophètes sont toujours à l’abri de toute conséquence, quelle que soit leur erreur",
+      "Parce que l’épreuve peut servir à corriger et à ramener le serviteur, et que la responsabilité des prophètes rend leurs épreuves particulièrement significatives",
+      "Parce que Yunus était le plus croyant de tous les prophètes",
+      "Parce que son erreur était trop petite pour mériter une véritable épreuve"
+    ],
+    "explanation_fr": "Le récit présente l’épreuve comme une forme de correction et de retour, et non comme une destruction. Elle rappelle aussi la grande responsabilité associée à la mission prophétique."
+  },
+  {
+    "id": "yunus_38",
+    "question_ar": "ما دلالة بدء يونس دعاءه بالتوحيد (لا إله إلا أنت) قبل طلب النجاة؟",
+    "options_ar": [
+      "لأن القواعد الإسلامية تُلزم ببدء الدعاء بالتوحيد دائماً",
+      "لأن التوحيد هو الأساس، ومن أقرّ بالله أولاً فُتحت له أبواب الاستجابة",
+      "لأنه خشي ألا يُقبل دعاؤه إن بدأ بالطلب مباشرة",
+      "لأن التوحيد وحده يكفي عن الدعاء في حالات الشدة القصوى"
+    ],
+    "correct": 1,
+    "explanation_ar": "البدء بالتوحيد قبل الطلب هو أدب الدعاء ومفتاح الاستجابة: تُقرّ بأنه الوحيد القادر، ثم تنزّهه، ثم تعترف بخطئك، ثم تنتظر رحمته — هذا هو الطريق الأمثل للاستجابة.",
+    "question_fr": "Que signifie le fait que Yunus ait commencé son invocation par l’unicité d’Allah avant de demander la délivrance ?",
+    "options_fr": [
+      "Parce que les règles islamiques imposent toujours de commencer toute invocation par l’unicité",
+      "Parce que l’unicité d’Allah est la base : il reconnaît d’abord qu’Allah seul a le pouvoir, puis demande Sa miséricorde",
+      "Parce qu’il craignait que son invocation ne soit pas acceptée s’il commençait directement par une demande",
+      "Parce que l’unicité seule suffit et remplace l’invocation dans les situations extrêmes"
+    ],
+    "explanation_fr": "Commencer par reconnaître l’unicité d’Allah est présenté ici comme une manière de montrer sa confiance en Lui, puis de reconnaître Sa perfection et sa propre faute avant d’espérer Sa miséricorde."
+  },
+  {
+    "id": "yunus_39",
+    "question_ar": "في كم موضع ذُكر يونس عليه السلام في القرآن الكريم وبأسماء ماذا؟",
+    "options_ar": [
+      "ذُكر في خمسة مواضع باسمه ولقب واحد",
+      "ذُكر في مواضع متعددة باسمه يونس وبلقب ذي النون وبوصف صاحب الحوت",
+      "ذُكر مرة واحدة فقط في سورة يونس التي سُمّيت باسمه",
+      "ذُكر في عشرة مواضع جميعها في السور المكية دون المدنية"
+    ],
+    "correct": 1,
+    "explanation_ar": "يونس ذُكر في القرآن بأسماء وأوصاف متعددة: يونس (سورة يونس والصافات)، وذو النون (الأنبياء)، وصاحب الحوت (القلم) — مما يُبيّن أن قصته موزّعة في عدة سور.",
+    "question_fr": "Dans combien de passages Yunus est-il mentionné dans le Coran et sous quels noms ou descriptions ?",
+    "options_fr": [
+      "Dans cinq passages, sous son nom et un seul surnom",
+      "Dans plusieurs passages sous le nom de Yunus, le surnom Dhun-Nun et la description de compagnon du poisson",
+      "Une seule fois dans la sourate Yunus",
+      "Dix fois, uniquement dans des sourates mecquoises"
+    ],
+    "explanation_fr": "Yunus est mentionné dans plusieurs passages sous différents noms et descriptions : « Yunus », « Dhun-Nun » dans Al-Anbiya, et « le compagnon du poisson » dans Al-Qalam."
+  },
+  {
+    "id": "yunus_40",
+    "question_ar": "ما الحكمة من تكرار ذكر قصة يونس في أكثر من سورة قرآنية؟",
+    "options_ar": [
+      "لأن الله أراد أن يُكمل التفاصيل الناقصة في كل مرة",
+      "لأن كل سورة تسلّط الضوء على جانب مختلف: الابتلاء والدعاء والنجاة والتوبة الجماعية",
+      "لأن قصة يونس كانت معروفة عند العرب فكرّرها الله تصحيحاً لمفاهيمهم",
+      "لأن التكرار وسيلة تعليمية لضعفاء الذاكرة من المسلمين الأوائل"
+    ],
+    "correct": 1,
+    "explanation_ar": "كل موضع يُركّز على جانب: الصافات على التسلسل القصصي، الأنبياء على الدعاء والاستجابة، يونس على إيمان القوم، القلم على تحذير النبي ﷺ. التكامل القرآني لا التكرار.",
+    "question_fr": "Quelle est la sagesse présentée derrière la répétition de l’histoire de Yunus dans plusieurs sourates du Coran ?",
+    "options_fr": [
+      "Parce qu’Allah voulait compléter les détails manquants à chaque fois",
+      "Parce que chaque sourate met l’accent sur un aspect différent : l’épreuve, l’invocation, la délivrance et le repentir collectif",
+      "Parce que l’histoire de Yunus était connue des Arabes et qu’Allah la répétait pour corriger leurs conceptions",
+      "Parce que la répétition servait uniquement à aider la mémoire des premiers musulmans"
+    ],
+    "explanation_fr": "Chaque passage met l’accent sur un aspect différent : As-Saffat sur la suite des événements, Al-Anbiya sur l’invocation et la réponse, Yunus sur la foi du peuple, et Al-Qalam sur l’appel à la patience."
+  },
+  {
+    "id": "yunus_41",
+    "question_ar": "ما المعنى الكامل الذي يحمله وصف يونس بأنه (مُلِيمٌ) لحظة ابتلاعه؟",
+    "options_ar": [
+      "أنه كان في حالة من اليأس الشديد لا يُلام عليها",
+      "أنه كان يلوم نفسه معترفاً بأن قراره كان خطأً",
+      "أنه كان يلوم قومه لأنهم السبب في مأساته",
+      "أنه كان يلوم الركاب على إلقائه في البحر"
+    ],
+    "correct": 1,
+    "explanation_ar": "(مُلِيمٌ) من اللوم أي يلوم نفسه. وهذا الاعتراف الذاتي الفوري بالخطأ هو بداية التوبة الحقيقية. من لا يلوم نفسه لا يتوب، ومن يلومها فهو على طريق الإنابة.",
+    "question_fr": "Quel sens complet porte la description de Yunus comme « mulîm » au moment où la baleine l’avala ?",
+    "options_fr": [
+      "Il était dans un profond désespoir dont on ne pouvait pas le blâmer",
+      "Il se reprochait sa décision et reconnaissait qu’elle était une erreur",
+      "Il reprochait à son peuple d’être responsable de son malheur",
+      "Il reprochait aux passagers de l’avoir jeté à la mer"
+    ],
+    "explanation_fr": "« Mulîm » vient de la notion de blâme : il se reprochait ce qu’il avait fait. Le récit présente cette reconnaissance de la faute comme un début du repentir."
+  },
+  {
+    "id": "yunus_42",
+    "question_ar": "ما أثر قصة يونس في الفقه الإسلامي فيما يتعلق بمغادرة الداعية لميدان دعوته؟",
+    "options_ar": [
+      "أجاز الفقهاء للداعية ترك قومه متى أيس من إيمانهم",
+      "استدل الفقهاء بقصة يونس على أن الداعية لا يغادر ميدان دعوته إلا بإذن",
+      "جعل الفقهاء قصة يونس دليلاً على جواز الغضب في مواجهة الكفر",
+      "استُدل بها على أن الدعوة فرض عين لا يجوز التخلي عنها بأي حال"
+    ],
+    "correct": 1,
+    "explanation_ar": "قصة يونس دليل على أن الداعية والعالم لا يترك موقعه الذي أُرسل إليه إلا بإذن، لأن يونس عُوتب على الخروج دون أمر رغم أن غضبه كان من الكفر لا من الحق.",
+    "question_fr": "Quelle leçon juridique est tirée de l’histoire de Yunus concernant le fait qu’un prédicateur quitte son lieu de mission ?",
+    "options_fr": [
+      "Les juristes ont permis au prédicateur de quitter son peuple lorsqu’il désespère de sa foi",
+      "Certains juristes se sont appuyés sur l’histoire de Yunus pour souligner que le prédicateur ne quitte pas son lieu de mission sans permission",
+      "Les juristes ont utilisé l’histoire de Yunus pour justifier la colère face à la mécréance",
+      "Elle prouve que l’appel à la foi est une obligation individuelle dont on ne peut jamais se retirer"
+    ],
+    "explanation_fr": "Le récit est utilisé pour souligner que Yunus fut repris pour avoir quitté son peuple sans ordre. Il met donc en avant la patience et le respect de la mission confiée."
+  },
+  {
+    "id": "yunus_43",
+    "question_ar": "ما العلاقة بين شجرة اليقطين وآية (وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ) من حيث الرعاية الإلهية؟",
+    "options_ar": [
+      "اليقطين معجزة خارقة لا تنبت عادةً في المناطق الساحلية",
+      "اليقطين نعمة مُهيّأة إلهياً لتلبية احتياج التعافي الجسدي والظل",
+      "اليقطين رمز للمغفرة لأن ثمره أبيض اللون دليل على النقاء",
+      "اليقطين نبت خاص لا يُؤكل بل يُستخدم دواءً للسموم فقط"
+    ],
+    "correct": 1,
+    "explanation_ar": "الله الذي أعطاه الابتلاء هو نفسه الذي رعى تعافيه بدقة — ظل يقيه الحر، وثمر يغذيه برفق لجسد متعب. هذا هو الجمع بين العدل (العتاب) والرحمة (الرعاية).",
+    "question_fr": "Quel lien est présenté entre la plante de courge et le verset « Nous fîmes pousser au-dessus de lui une plante de courge », du point de vue de la sollicitude divine ?",
+    "options_fr": [
+      "La courge est un miracle extraordinaire qui ne pousse normalement pas dans les régions côtières",
+      "La courge est présentée comme un bienfait préparé par Allah pour répondre à son besoin d’ombre et de récupération physique",
+      "La courge symbolise le pardon parce que son fruit est blanc",
+      "La courge est une plante spéciale qui ne se mange pas et sert uniquement de remède contre les poisons"
+    ],
+    "explanation_fr": "Selon le récit, Celui qui lui imposa l’épreuve prit aussi soin de son rétablissement : l’ombre le protégeait de la chaleur et le fruit lui apportait une nourriture adaptée."
+  },
+  {
+    "id": "yunus_44",
+    "question_ar": "ما أهمية الجانب النفسي في دعاء يونس (إِنِّي كُنتُ مِنَ الظَّالِمِينَ)؟",
+    "options_ar": [
+      "الاعتراف بالظلم شرط لازم لقبول الدعاء في الظروف العادية",
+      "الاعتراف الصادق بالخطأ دون تبرير هو جوهر التوبة ومفتاح الرحمة الإلهية",
+      "كان يقصد ظلم قومه له لا ظلمه لنفسه",
+      "الاعتراف بالظلم إشارة إلى أن يونس فقد ثقته بنفسه"
+    ],
+    "correct": 1,
+    "explanation_ar": "قال (مِنَ الظَّالِمِينَ) لا (ظلمت) فقط — اعتراف مطلق بلا تبرير ولا استثناء. هذا الصدق الكامل في الاعتراف هو جوهر التوبة التي تفتح أبواب الرحمة.",
+    "question_fr": "Quelle importance l’aspect psychologique de « J’ai été du nombre des injustes » a-t-il dans l’invocation de Yunus ?",
+    "options_fr": [
+      "Reconnaître son injustice est toujours une condition obligatoire pour que toute invocation soit acceptée",
+      "Reconnaître sincèrement son erreur sans chercher d’excuse est présenté comme un élément essentiel du repentir et une voie vers la miséricorde d’Allah",
+      "Il parlait de l’injustice de son peuple envers lui et non de sa propre faute",
+      "Cette reconnaissance signifie que Yunus avait perdu confiance en lui-même"
+    ],
+    "explanation_fr": "Yunus reconnaît sa faute sans chercher à la justifier. Le récit présente cette sincérité comme un élément essentiel de son repentir et de son retour vers Allah."
+  },
+  {
+    "id": "yunus_45",
+    "question_ar": "ما الفرق بين إيمان قوم يونس وإيمان فرعون حين رأى الغرق من حيث القبول والرد؟",
+    "options_ar": [
+      "آمن كلاهما فقُبل إيمان فرعون ورُدّ إيمان قوم يونس",
+      "آمن قوم يونس قبل وقوع العذاب فقُبل، وآمن فرعون بعد وقوعه فلم يُقبل",
+      "آمن فرعون بموسى وآمن قوم يونس بالله مباشرة لهذا قُبل",
+      "إيمان قوم يونس كان جماعياً وإيمان فرعون كان فردياً لذا رُدّ"
+    ],
+    "correct": 1,
+    "explanation_ar": "قوم يونس آمنوا عند الأمارات قبل نزول العذاب فقُبل إيمانهم. فرعون قال (آمَنتُ أَنَّهُ لَا إِلَٰهَ إِلَّا الَّذِي آمَنَتْ بِهِ بَنُو إِسْرَائِيلَ) بعد رؤية الغرق فلم ينفعه.",
+    "question_fr": "Quelle différence est présentée entre la foi du peuple de Yunus et celle de Pharaon au moment de la noyade, concernant leur acceptation ?",
+    "options_fr": [
+      "Ils crurent tous les deux, mais la foi de Pharaon fut acceptée et celle du peuple de Yunus rejetée",
+      "Le peuple de Yunus crut avant l’arrivée du châtiment et sa foi fut acceptée, tandis que Pharaon crut après son arrivée et sa foi ne lui fut pas utile",
+      "Pharaon crut en Musa tandis que le peuple de Yunus crut directement en Allah, et c’est pourquoi sa foi fut acceptée",
+      "La foi du peuple de Yunus était collective tandis que celle de Pharaon était individuelle, et c’est pourquoi elle fut rejetée"
+    ],
+    "explanation_fr": "Le récit coranique oppose le peuple de Yunus, qui crut avant l’accomplissement du châtiment, à Pharaon, qui déclara croire après avoir vu la noyade."
+  },
+  {
+    "id": "yunus_46",
+    "question_ar": "ما الحكمة من أن الله أمر الحوت بلفظ يونس وليس بقتله أو هضمه؟",
+    "options_ar": [
+      "لأن لحم الأنبياء محرم على الأرض وعلى ما يسكنها",
+      "لأن الحوت كان وعاء تأديبياً مؤقتاً لا أداة إهلاك، والهدف التأديب والإصلاح",
+      "لأن يونس كان على الحوت أن يُعيده لمكان إرساله الأصلي",
+      "لأن يونس دعا الله أن يخرجه سالماً فاستجاب الله فوراً"
+    ],
+    "correct": 1,
+    "explanation_ar": "الحوت كان أداة تأديب إلهي لا إهلاك — وعاء مؤقت لبلوغ غاية التوبة والعودة. الله لم يرسله ليهلك بل ليتأدب ويعود، وهذا هو فهم الابتلاء في الإسلام.",
+    "question_fr": "Quelle sagesse est donnée au fait qu’Allah ordonna à la baleine de rejeter Yunus plutôt que de le tuer ou de le digérer ?",
+    "options_fr": [
+      "Parce que la chair des prophètes serait interdite à la terre et à ses habitants",
+      "Parce que la baleine était un moyen temporaire d’épreuve et non un instrument de destruction, l’objectif étant le repentir et la réforme",
+      "Parce que la baleine devait le ramener à son lieu de mission d’origine",
+      "Parce que Yunus demanda à Allah de le sortir sain et sauf et qu’Allah lui répondit immédiatement"
+    ],
+    "explanation_fr": "La baleine est présentée comme un moyen temporaire d’épreuve permettant à Yunus de revenir vers Allah et vers sa mission, et non comme un moyen de le détruire."
+  },
+  {
+    "id": "yunus_47",
+    "question_ar": "ما الذي يُستفاد من تسمية الله سورة كاملة باسم يونس رغم قِصَر ذكر قصته فيها نسبياً؟",
+    "options_ar": [
+      "أن يونس كان أعظم الأنبياء مكانةً عند الله فخُلّد باسم سورة",
+      "أن إيمان قوم يونس درس محوري في موضوع السورة عن قبول التوبة والإيمان",
+      "أن السورة تتحدث كلها عن معجزات الأنبياء ويونس أعظمها",
+      "أن العرب كانوا يعرفون قصة يونس جيداً فاختارها الله عنواناً للسورة"
+    ],
+    "correct": 1,
+    "explanation_ar": "سورة يونس تدور حول الإيمان والتوبة وموعد قبولها، وقصة قوم يونس كأعجب نموذج لقوم آمن جميعهم هي المثال الأقوى لموضوع السورة.",
+    "question_fr": "Que peut-on comprendre du fait qu’Allah ait donné le nom de Yunus à une sourate entière, alors que son histoire y est relativement brève ?",
+    "options_fr": [
+      "Que Yunus était le plus grand des prophètes auprès d’Allah",
+      "Que la foi du peuple de Yunus constitue une leçon centrale de la sourate sur l’acceptation du repentir et de la foi",
+      "Que la sourate parle uniquement des miracles des prophètes et que celui de Yunus est le plus grand",
+      "Que les Arabes connaissaient très bien son histoire et qu’elle fut donc choisie comme titre"
+    ],
+    "explanation_fr": "La sourate Yunus traite notamment de la foi et du repentir, et l’histoire de son peuple, qui crut collectivement selon le récit, en constitue un exemple important."
+  },
+  {
+    "id": "yunus_48",
+    "question_ar": "ما الدرس القيادي في قصة يونس المتعلق بالتسرع في اتخاذ القرار؟",
+    "options_ar": [
+      "أن القائد لا يجوز له الغضب أبداً مهما اشتد الموقف",
+      "أن القائد الحكيم لا يترك مهمته بقرار فردي انفعالي دون إذن أو مشورة",
+      "أن الغضب من الظلم مذموم دائماً حتى لو كان في مواجهة الكفر",
+      "أن الصبر يعني قبول الظلم والتعايش معه دون محاولة التغيير"
+    ],
+    "correct": 1,
+    "explanation_ar": "يونس عليه السلام علّمنا أن القرارات الكبرى — كترك موقع المسؤولية — لا تُتخذ في لحظات الانفعال، وأن الأمانة تقتضي الاستئذان والصبر لا الانسحاب الفردي.",
+    "question_fr": "Quelle leçon de leadership l’histoire de Yunus donne-t-elle concernant la précipitation dans la prise de décision ?",
+    "options_fr": [
+      "Un dirigeant ne doit jamais se mettre en colère, quelle que soit la situation",
+      "Un dirigeant prudent ne quitte pas sa mission sur une décision individuelle et impulsive, sans permission ni consultation",
+      "La colère contre l’injustice est toujours blâmable, même lorsqu’elle s’oppose à la mécréance",
+      "La patience signifie accepter l’injustice sans essayer de la changer"
+    ],
+    "explanation_fr": "Le récit enseigne que les grandes décisions, comme abandonner une responsabilité, ne devraient pas être prises sous l’effet de l’émotion. Il met en avant la patience et le respect de la mission."
+  },
+  {
+    "id": "yunus_49",
+    "question_ar": "ما الصلة بين دعاء يونس في الظلمات وحديث النبي ﷺ عن التعرف على الله في الرخاء؟",
+    "options_ar": [
+      "الدعاء أثبت أن الله لا يُجيب إلا من تعلّم الدعاء في وقت الراحة",
+      "دعاؤه في الظلمات نُجح لأن له رصيداً من العبادة والتسبيح في وقت الرخاء",
+      "الدعاء لا علاقة له بالتسبيح السابق بل هو مستقل في قبوله",
+      "يونس دعا لأول مرة في حياته داخل الحوت فاستجاب الله له"
+    ],
+    "correct": 1,
+    "explanation_ar": "الدعاء استُجيب لأن صاحبه كان (مِنَ الْمُسَبِّحِينَ) قبلها. رصيده من العبادة في الرخاء هو الذي فتح له باب الاستجابة في الشدة، وهو عين معنى (تعرّف على الله في الرخاء يعرفك في الشدة).",
+    "question_fr": "Quel lien existe entre l’invocation de Yunus dans les ténèbres et le hadith du Prophète ﷺ sur le fait de connaître Allah dans les périodes de facilité ?",
+    "options_fr": [
+      "L’invocation prouve qu’Allah ne répond qu’à ceux qui ont appris à invoquer dans les moments de confort",
+      "Son invocation dans les ténèbres fut liée, selon le récit, à son engagement dans l’adoration et la glorification d’Allah avant l’épreuve",
+      "L’invocation n’a aucun lien avec les adorations précédentes et son acceptation est totalement indépendante",
+      "Yunus n’avait jamais invoqué Allah avant d’être dans la baleine, et Allah lui répondit alors"
+    ],
+    "explanation_fr": "L’invocation est présentée dans le récit en lien avec le fait que Yunus était déjà « parmi ceux qui glorifient Allah ». Cela rejoint le sens du hadith cité sur le fait de rester proche d’Allah dans les périodes de facilité."
+  }
+]
+

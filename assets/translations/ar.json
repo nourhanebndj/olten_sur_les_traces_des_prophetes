@@ -1,0 +1,373 @@
+{
+  "app": {
+    "name": "Olten",
+    "subtitle": "على خطى الأنبياء"
+  },
+
+  "splash": {
+    "learn_discover_grow": "تعلّم، اكتشف، وانمُ",
+    "with_their_stories": "من خلال قصصهم"
+  },
+
+  "common": {
+    "start": "ابدأ"
+  },
+
+  "onboarding": {
+    "slides": {
+      "stories": {
+        "title": "قصص الأنبياء",
+        "subtitle": "مصدر للحكمة والنور",
+        "description": "اكتشف قصص الأنبياء من خلال مكتبة غنية وتفاعلية. تعلّم من تعاليمهم، اختبر معلوماتك، وخض تحديات ممتعة!"
+      },
+      "quiz": {
+        "title": "اختبارات وتحديات",
+        "subtitle": "تعلّم واستمتع",
+        "description": "اختبر معلوماتك بشكل فردي أو تحدَّ أصدقاءك مباشرةً من خلال وضع المواجهة واحد ضد واحد، وتابع تقدمك خطوة بخطوة."
+      },
+      "offline": {
+        "title": "متاح دون اتصال بالإنترنت",
+        "subtitle": "تعلّم أينما كنت",
+        "description": "حمّل القصص والملفات الصوتية والصور لتواصل التعلم حتى بدون اتصال بالإنترنت."
+      }
+    },
+    "start": "ابدأ المغامرة",
+    "next": "التالي",
+    "skip": "تخطي"
+  },
+
+  "home": {
+    "tabs": {
+      "stories": "القصص",
+      "quran": "القرآن",
+      "online": "لعب جماعي",
+      "settings": "الإعدادات"
+    },
+    "quiz": "اختبارات",
+    "challenges": "تحديات",
+    "discover_learn": "اكتشف وتعلّم",
+    "see_all": "عرض الكل",
+    "greeting": "مرحباً! 👋",
+    "hero_description": "هل أنت مستعد لاكتشاف قصص الأنبياء وخوض تحديات جديدة؟",
+    "stories": "القصص",
+    "stories_description": "تعمّق في القصص الرائعة للأنبياء.",
+    "progress": "تقدّمي",
+    "continue_learning": "واصل رحلة تعلّمك",
+    "play_online": "اللعب عبر الإنترنت",
+    "online": "متصل",
+    "online_description": "تحدَّ لاعبين آخرين في الوقت الفعلي!",
+    "quote": "« وذكّر فإن الذكرى تنفع المؤمنين »",
+    "quote_reference": "سورة الذاريات (51:55)",
+    "coming_soon": "هذه الصفحة ستكون متاحة قريباً."
+  },
+
+  "register": {
+    "title": "إنشاء حساب",
+    "subtitle": "انضم إلى أولتن لمواصلة تعلّمك",
+    "fields": {
+      "fullName": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور"
+    },
+    "buttons": {
+      "register": "إنشاء حساب"
+    },
+    "socialDivider": "أو التسجيل باستخدام",
+    "loginPrompt": "لديك حساب بالفعل؟ ",
+    "login": "تسجيل الدخول",
+    "validation": {
+      "nameRequired": "يرجى إدخال اسمك",
+      "nameShort": "الاسم قصير جدًا",
+      "emailRequired": "يرجى إدخال بريدك الإلكتروني",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "passwordRequired": "يرجى إدخال كلمة المرور",
+      "passwordShort": "6 أحرف كحد أدنى",
+      "confirmPasswordRequired": "يرجى تأكيد كلمة المرور",
+      "passwordMismatch": "كلمتا المرور غير متطابقتين"
+    },
+    "snackbar": {
+      "emailConfirmation": "تم إنشاء الحساب. تحقّق من بريدك الإلكتروني قبل تسجيل الدخول.",
+      "googleStarted": "جارٍ بدء تسجيل الدخول باستخدام Google...",
+      "appleStarted": "جارٍ بدء تسجيل الدخول باستخدام Apple..."
+    },
+    "errors": {
+      "accountCreationFailed": "تعذّر إنشاء الحساب.",
+      "registrationFailed": "فشل التسجيل:",
+      "googleFailed": "تعذّر المتابعة باستخدام Google.",
+      "appleFailed": "تعذّر المتابعة باستخدام Apple.",
+      "emailAlreadyUsed": "عنوان البريد الإلكتروني هذا مستخدم بالفعل.",
+      "passwordInvalid": "كلمة المرور غير صالحة.",
+      "emailInvalid": "عنوان البريد الإلكتروني غير صالح."
+    }
+  },
+
+  "login": {
+    "title": "مرحبًا بعودتك!",
+    "subtitle": "سجّل الدخول لمواصلة تعلّمك",
+    "fields": {
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور"
+    },
+    "rememberMe": "تذكّرني",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "buttons": {
+      "login": "تسجيل الدخول"
+    },
+    "socialDivider": "أو تسجيل الدخول باستخدام",
+    "registerPrompt": "ليس لديك حساب؟ ",
+    "register": "إنشاء حساب",
+    "validation": {
+      "emailRequired": "يرجى إدخال بريدك الإلكتروني",
+      "emailInvalid": "البريد الإلكتروني غير صالح",
+      "passwordRequired": "يرجى إدخال كلمة المرور",
+      "passwordShort": "6 أحرف كحد أدنى"
+    },
+    "snackbar": {
+      "googleStarted": "جارٍ بدء تسجيل الدخول باستخدام Google...",
+      "appleStarted": "جارٍ بدء تسجيل الدخول باستخدام Apple..."
+    },
+    "errors": {
+      "userNotFound": "المستخدم غير موجود.",
+      "loginFailed": "فشل تسجيل الدخول:",
+      "googleFailed": "تعذّر المتابعة باستخدام Google.",
+      "appleFailed": "تعذّر المتابعة باستخدام Apple.",
+      "invalidCredentials": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+      "emailNotConfirmed": "يرجى تأكيد بريدك الإلكتروني قبل تسجيل الدخول.",
+      "tooManyAttempts": "محاولات كثيرة جدًا. حاول مرة أخرى لاحقًا."
+    }
+  },
+
+  "forgotPassword": {
+    "title": "هل نسيت كلمة المرور؟",
+    "subtitle": "أدخل عنوان بريدك الإلكتروني وسنرسل إليك رابطًا لإعادة تعيين كلمة المرور.",
+    "fields": {
+      "email": "البريد الإلكتروني"
+    },
+    "buttons": {
+      "reset": "إعادة تعيين كلمة المرور"
+    },
+    "backToLogin": "العودة إلى تسجيل الدخول",
+    "validation": {
+      "emailRequired": "يرجى إدخال بريدك الإلكتروني",
+      "emailInvalid": "البريد الإلكتروني غير صالح"
+    },
+    "success": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.",
+    "errors": {
+      "general": "حدث خطأ ما:"
+    }
+  },
+
+  "profile": {
+    "title": "الإعدادات",
+    "sections": {
+      "preferences": "التفضيلات",
+      "about": "حول التطبيق"
+    },
+    "language": {
+      "title": "اللغة",
+      "french": "Français",
+      "arabic": "العربية",
+      "choose": "اختر اللغة"
+    },
+    "notifications": "الإشعارات",
+    "appearance": "المظهر",
+    "aboutOlten": "حول Olten",
+    "privacy": "الخصوصية",
+    "guest": "زائر",
+    "defaultUser": "مستخدم أولتن",
+    "guestProgress": "التقدم المحلي غير متزامن",
+    "connectedAccount": "حساب أولتن متصل",
+    "createAccount": "إنشاء حساب",
+    "login": "تسجيل الدخول",
+    "continueAsGuest": "المتابعة كزائر",
+    "logout": "تسجيل الخروج",
+    "loggingOut": "جارٍ تسجيل الخروج...",
+    "chooseAvatar": "اختر صورة رمزية",
+    "customizeProfile": "خصّص ملفك الشخصي في أولتن",
+    "loggedOut": "تم تسجيل خروجك.",
+    "logoutError": "تعذّر تسجيل الخروج.",
+    "themeSaveError": "تعذّر حفظ وضع المظهر.",
+    "avatarSavedLocally": "تم حفظ الصورة الرمزية محليًا.",
+    "version": "على خطى الأنبياء · الإصدار 1.0.0"
+  },
+
+  "tabs": {
+    "home": "الرئيسية",
+    "stories": "القصص",
+    "quran": "القرآن",
+    "online": "متصل",
+    "settings": "الإعدادات"
+  },
+
+  "prophet_details": {
+    "prophet_number": "النبي {}",
+    "stories": "القصص",
+    "references": "المراجع",
+    "lessons": "الدروس",
+    "about": "نبذة عنه",
+    "story": "القصة {}",
+    "quran_references": "المراجع القرآنية",
+    "lessons_to_remember": "دروس مستفادة",
+
+    "quiz": {
+      "title": "اختبار",
+      "subtitle": "اختبر معلوماتك",
+      "level": "المستوى {}",
+      "completed_count": "{} / {}",
+      "completed_badge": "10/10",
+      "questions_completed": "{} أسئلة • اكتمل المستوى",
+      "questions_best": "{} أسئلة • أفضل نتيجة: {}/{}",
+      "questions_unlock_next": "{} أسئلة • احصل على 10/10 لفتح المستوى التالي",
+      "locked": "أكمل المستوى السابق بنتيجة 10/10"
+    },
+
+    "pdf": {
+      "success": "تم إنشاء ملف PDF بنجاح.",
+      "error": "تعذر إنشاء ملف PDF.",
+      "generating": "جارٍ إنشاء ملف PDF...",
+      "download": "تحميل بصيغة PDF"
+    },
+
+    "empty_stories": "لا توجد قصة متاحة.",
+
+    "errors": {
+      "data": "تعذر تحميل البيانات.",
+      "not_found": "النبي غير موجود."
+    }
+  },
+
+  "prophets": {
+    "title": "الأنبياء",
+    "count": "{} نبيًا",
+    "discover_story": "اكتشف قصته",
+    "level": "المستوى {}",
+    "progress": "التقدم",
+
+    "errors": {
+      "load": "تعذر تحميل الأنبياء.",
+      "title": "حدث خطأ.",
+      "not_found": "النبي غير موجود."
+    },
+
+    "empty": "لا يوجد أنبياء متاحون."
+  },
+
+  "quiz": {
+    "title": "اختبارات الأنبياء",
+    "prophets_count": "{} نبيًا لاكتشاف قصصهم",
+    "locked_message": "أكمل المستوى السابق بنتيجة 10/10 لفتح هذا المستوى.",
+    "empty_prophets": "لا يوجد أنبياء متاحون.",
+    "no_quiz_for_prophet": "لا يوجد اختبار متاح لهذا النبي.",
+    "levels_count": "{} مستويات",
+    "unlocked_count": "{} مستويات مفتوحة",
+    "progress": "التقدم",
+    "completed_percent": "{}% مكتمل",
+    "choose_level": "اختر مستواك",
+
+    "level": "المستوى {}",
+    "questions": "{} أسئلة",
+    "completed": "مكتمل",
+    "question": "السؤال",
+
+    "result_title": "نتيجة الاختبار",
+    "bravo": "أحسنت!",
+    "well_played": "أحسنت اللعب!",
+    "you_got": "لقد حصلت على",
+    "your_result": "إليك نتيجتك",
+    "level_completed": "لقد أكملت هذا المستوى.",
+    "keep_going": "واصل جهودك للتقدم.",
+
+    "level_2_unlocked": "تم الآن فتح المستوى الثاني.",
+    "next_level_unlocked": "تم الآن فتح المستوى التالي.",
+    "score_to_unlock": "احصل على 10/10 لفتح المستوى التالي.",
+
+    "replay": "إعادة الاختبار",
+    "try_again": "حاول مرة أخرى",
+    "view_correction": "عرض التصحيح",
+    "back_to_levels": "العودة إلى المستويات"
+  },
+
+  "quiz_play": {
+    "title": "اختبار",
+    "solo": "اختبار فردي",
+    "level": "المستوى {}",
+    "empty_questions": "لا توجد أسئلة متاحة لهذا المستوى.",
+    "validate": "تحقق من الإجابة",
+    "see_result": "عرض النتيجة",
+    "next_question": "السؤال التالي",
+    "correct": "إجابة صحيحة!",
+    "correct_answer": "إليك الإجابة الصحيحة."
+  },
+  "multiplayer": {
+    "title": "المسابقة عبر الإنترنت",
+    "subtitle": "نافس لاعبًا آخر",
+    "searching": "البحث عن منافس...",
+    "find_opponent": "ابحث عن منافس",
+    "searching_description": "نبحث عن لاعب متاح.",
+    "find_opponent_description": "نافس لاعبًا عشوائيًا لمدة 3 دقائق.",
+    "search": "العب عبر الإنترنت",
+    "cancel": "إلغاء",
+    "mode": "نمط اللعب",
+    "random_match": "مباراة عشوائية",
+    "random_match_description": "سيتم اختيار لاعب متاح تلقائيًا.",
+    "friend": "اللعب مع صديق",
+    "create_private": "إنشاء مباراة خاصة",
+    "join_private": "الانضمام برمز",
+    "private_created": "تم إنشاء المباراة الخاصة",
+    "share_code": "شارك هذا الرمز مع صديقك",
+    "waiting_friend": "في انتظار صديقك...",
+    "close": "إغلاق",
+    "code_hint": "رمز المباراة",
+    "join": "انضمام",
+    "joining": "جارٍ الاتصال بالمباراة",
+    "you": "أنت",
+    "opponent": "المنافس",
+    "quiz": "المسابقة عبر الإنترنت",
+    "draw": "تعادل",
+    "you_win": "لقد فزت!",
+    "you_lose": "لقد خسرت",
+    "final_score": "النتيجة النهائية",
+    "back": "رجوع",
+    "no_questions": "لا توجد أسئلة متاحة.",
+    "info": "يتم اختيار الأسئلة عشوائيًا من جميع الأنبياء. مدة المباراة 3 دقائق.",
+    "wins": "انتصارات",
+    "wins_to_next": "انتصارات للوصول إلى المستوى التالي"
+  },
+  "online_quiz": "المسابقة عبر الإنترنت",
+  "online_challenge": "تحدي عبر الإنترنت",
+  "online_challenge_description": "نافس لاعبين آخرين وتقدم عبر المستويات.",
+  "your_level": "مستواك",
+  "level_beginner": "مبتدئ",
+  "level_intermediate": "متوسط",
+  "level_advanced": "متقدم",
+  "level_expert": "خبير",
+  "level_master": "ماستر",
+  "maximum_level": "لقد وصلت إلى أعلى مستوى",
+  "wins_to_next_level": "باقي {} فوز للانتقال إلى المستوى التالي",
+  "random_match": "مباراة عشوائية",
+  "random_match_description": "واجه لاعبًا عشوائيًا من مستوى {}.",
+  "questions": "أسئلة",
+  "cancel_search": "إلغاء البحث",
+  "find_opponent": "البحث عن منافس",
+  "searching_opponent": "جارٍ البحث عن منافس...",
+  "play_with_friend": "اللعب مع صديق",
+  "same_level_friend": "يمكن اللعب فقط مع الأصدقاء المتصلين الذين لديهم نفس المستوى.",
+  "no_friends_available": "لا يوجد أصدقاء متاحون حاليًا.",
+  "offline": "غير متصل",
+  "play": "لعب",
+  "question": "السؤال",
+  "question_counter": "السؤال {} / {}",
+  "you": "أنت",
+  "opponent": "المنافس",
+  "level_short": "المستوى {}",
+  "online": "متصل",
+  "no_questions": "لا توجد أسئلة متاحة.",
+  "draw": "تعادل",
+  "victory": "فوز!",
+  "defeat": "خسارة",
+  "your_score": "نتيجتك",
+  "finish": "إنهاء"
+
+
+}
